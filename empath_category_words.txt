@@ -1,0 +1,51 @@
+achievement:
+academic, acclaim, accomplish, accomplished, accomplishment, achieve, achievement, ambition, applaud, applause, approval, attain, award, brag, bravery, celebrate, celebration, celebratory, challenge, champ, champion, championship, cheer, cheering, compete, competition, competitive, competitor, congratulate, congratulation, conquer, conquest, contender, contest, coveted, defeat, deserving, determination, determined, domination, earn, epic, excellence, excellent, exceptional, gloat, goal, great, greatness, honor, honorable, honorary, honored, invincibility, leading, lifetime, medal, milestone, nominate, nomination, nominee, opportunity, outdo, outstanding, pageant, performance, perseverance, playoff, praise, pride, prize, proclaim, promising, promotion, proud, proudly, raise, ranking, renown, reward, scholarship, score, scoreboard, scoring, strive, succeed, success, successful, supremacy, surpass, talent, touchdown, tournament, triumph, triumphant, trophy, ultimate, ultimately, unbeatable, valiant, victorious, victory, win, winner, winning, won, worthy
+
+work:
+accountant, accounting, administration, administrative, administrator, agency, agenda, applicant, application, appointment, assign, assigned, assignment, assist, assistant, attendance, blueprint, boardroom, boss, briefcase, briefing, busy, cleaning, clerk, colleague, computer, conference, construction, consult, consultant, dental, department, desk, desktop, document, editor, electrician, employee, employer, employment, engineer, engineering, equipment, executive, fax, file, finance, folder, freelancer, funding, hire, industry, insurance, intern, internship, interview, job, lab, laboratory, laptop, lawyer, librarian, manager, marketing, mechanic, office, online, overtime, paper, paperwork, paycheck, photography, planner, presentation, principle, program, programmer, programming, project, promotion, psychologist, reception, receptionist, record, report, salary, schedule, scheduling, school, schoolwork, secretary, spreadsheet, supervise, supervisor, teacher, technician, therapist, transcript, tutor, typewriter, work, worker, working, workplace, workstation
+
+positive_emotion:
+accomplishment, admiration, adoration, affection, 
+alive, assurance, better, bond, bravery, care, 
+certainty, cherish, closure, comfort, compassion, 
+concern, confidence, convince, curiosity, dearly, 
+determination, eagerness, elation, emotion, empathy, 
+enlighten, enthusiasm, excitement, faith, family, 
+feeling, forgiveness, forgiving, freedom, friend, 
+genuine, glad, gratitude, great, happiness, happy, 
+honest, honestly, honesty, hope, joy, joyful, keep, 
+kindness, love, loved, loyalty, optimism, overjoyed, 
+pride, proud, reason, reassurance, rejoice, respect, 
+reunite, sincere, sincerity, surprise, sympathize, 
+thrill, thrilled, triumph, trust, trusting, trustworthy, 
+unconditionally, understanding, willingness, wish
+
+negative_emotion:
+accident, afraid, alone, angered, angry, ashamed, 
+bad, badly, beat, beaten, blame, break, care, confused, 
+crazy, crushed, cry, crying, dead, death, depressed, 
+die, dieing, disappointed, drunk, dying, either, 
+fault, fight, fighting, freaked, frightened, fucking, 
+furious, guilty, hard, hate, hated, heartbroken, hell, 
+hit, horrible, hurt, hurting, hurts, insane, kill, 
+killed, killing, last_straw, lie, loose, lose, losing, 
+lost, mad, mean, monster, pain, pissed, poor_girl, 
+poor_guy, punch, raped, react, reason, sad, scare, 
+scared, scary, seeing, shocked, sick, so_much_pain, 
+stop, stupid, surprised, swear, terrible, terrified, 
+thinking, threatened, tortured, trouble, unthinkable, 
+upset, violent, wanted, weak, worried, worse, worst, 
+worst_part, wrong
+
+affection:
+admiration, admire, adoration, adore, adored, adoring, affection, affectionate, allure, amiable, amicable, amorous, appreciation, attracted, attraction, brotherly, camaraderie, caring, cherish, cherished, closeness, commitment, companionship, compassion, compassionate, courtship, crave, dearly, delighted, delightful, desirable, devoted, devotion, doting, elation, empathetic, empathy, endearing, expressive, exuberant, familial, fascinated, fascination, feeling, flirtation, fond, fondly, fondness, friendliness, gentleness, genuine, grateful, happiness, heartfelt, indulge, infatuated, infatuation, innocence, intimacy, intimate, kindness, kinship, longing, love, loving, lovingly, meaningful, mutual, openly, openness, passion, passionate, reciprocate, reverence, sentiment, sentimental, sincere, smitten, sweet, sweetness, sympathize, tenderness, touching, trusting, unconditional, unconditionally, unrequited, wholeheartedly, wonderful, yearn, yearning
+
+trust:
+advice, agree, assure, capable, care, commitment, compromise, confess, confide, connection, convince, convinced, deal, defend, deserve, entrust, faithful, friends, friendship, guarantee, honest, honestly, honesty, intention, loyal, loyalty, matter, obligated, promise, prove, reassure, relationship, rely, reputation, respect, responsibility, responsible, safe, save, secret, true, trust, trusting, trustworthy, truth, truthful, truthfully, understanding, upset, wrong
+
+independence:
+academically, activist, adventurous, ambitious, aspiration, aspire, competent, constitution, cultural, democracy, dependable, diplomatic, discipline, disposition, empower, entrepreneur, feminist, financial, hardworking, headstrong, ideal, idealistic, independence, independent, independently, individual, individuality, intellectual, lifestyle, livelihood, mentality, mindset, monetary, optimistic, perseverance, politically, pragmatic, progressive, rebellious, resource, resourceful, societal, society, spirited, strive, successful, thinker, thrive, upbringing, virtue, visionary
+
+help:
+advise, advisor, aid, aide, assist, assistance, benefit, carry, chore, cooperate, counsel, crutch, duty, encourage, encouragement, entrust, escort, favor, financial, friend, generously, grateful, guide, help, helper, helpful, honor, hospitality, housekeeping, housework, kindly, maid, nurse, nursing, obligation, offer, oversee, patient, prepare, promote, protect, protection, provide, rely, request, rescue, responsible, servant, serve, stabilize, support, supportive, temporary, tend, treat, trust, volunteer, wheelchair
+

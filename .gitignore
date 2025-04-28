@@ -1,0 +1,39 @@
+# 忽略mac系统的隐藏文件
+.DS_Store
+
+# 忽略Python缓存
+__pycache__/
+*.pyc
+
+# 忽略nodejs模块
+node_modules/
+
+# 忽略日志文件
+*.log
+
+# 忽略虚拟环境文件夹
+venv/
+.env
+
+/ch_ppocr_mobile_v2.0_cls/
+
+/en_PP-OCRv3_det/
+
+/en_PP-OCRv3_rec/
+
+/NRC-Emotion-Lexicon/
+
+/refined_yearbook/ch_ppocr_mobile_v2.0_cls/
+
+/refined_yearbook/en_PP-OCRv3_det/
+
+/refined_yearbook/en_PP-OCRv3_rec/
+
+/refined_yearbook/pics/
+
+# 忽略大文件
+*.zip
+*.tar.gz
+*.mp4
+*.pdf
+

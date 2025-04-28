@@ -1,0 +1,6838 @@
+[
+  {
+    "name": "Adams, Vernon G.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Winnebago, Minn.",
+    "clubs": ["Theta Chi", "Iowa State Student Staff '20, '21"],
+    "comment": ""
+  },
+  {
+    "name": "Aita, Fabian",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "hometown": "Council Bluffs",
+    "clubs": ["Bachelors '20", "C.S.A. '20, '21"],
+    "comment": ""
+  },
+  {
+    "name": "Allen, B. Wilmot",
+    "gender": "Male",
+    "major": "Agricultural Economics",
+    "nicknames": [],
+    "hometown": "Laurens",
+    "clubs": [
+      "Phi Delta Delta",
+      "T.L.B.",
+      "President Intramural Athletic Association",
+      "Track '22"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Allen, Byron G.",
+    "gender": "Male",
+    "major": "Farm Management",
+    "nicknames": [],
+    "hometown": "Des Moines",
+    "clubs": [
+      "Phi Delta Theta",
+      "T.L.B.",
+      "Inter-Fraternity Council",
+      "Y.M.C.A.",
+      "Home Oratorical Contest '22, '23",
+      "Missouri Valley Oratorical Contest '23",
+      "Iowa State Student '20, '21",
+      "Editor 1924 Bomb"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Ames, Isabelle",
+    "gender": "Female",
+    "major": "Industrial Science",
+    "nicknames": [],
+    "hometown": "Traer",
+    "clubs": ["Omega Pi", "Glee Club", "Grinnell College"],
+    "comment": ""
+  },
+  {
+    "name": "Anderson, T. A.",
+    "gender": "Male",
+    "major": "Vocational Education",
+    "nicknames": [],
+    "hometown": "Belton, Missouri",
+    "clubs": [
+      "Lambda Chi Alpha",
+      "Freshman Inter-Fraternity Council '22",
+      "Dixie Club",
+      "Block and Bridle"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Anderson, Vincent M.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Stanton",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Angus, George L.",
+    "gender": "Male",
+    "major": "Dairy Husbandry",
+    "nicknames": [],
+    "hometown": "Chicago Heights, Ill.",
+    "clubs": ["Block and Bridle", "Band '21, '22, '23"],
+    "comment": ""
+  },
+  {
+    "name": "Arenson, Roy D.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "hometown": "Fort Dodge",
+    "clubs": [
+      "Tau Gamma Nu",
+      "Inter-Local Fraternity Council",
+      "A.S.C.E.",
+      "Iowa Engineer Staff"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Armstrong, Clarence C.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Grinnell",
+    "clubs": [
+      "Sigma Pi",
+      "Ag Club",
+      "Block and Bridle",
+      "Inter-Fraternity Council",
+      "Class Wrestling"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Ashby, R. Willson",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Wellman",
+    "clubs": ["Hau Ki"],
+    "comment": ""
+  },
+  {
+    "name": "Baird, Frank E.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "hometown": "Clinton",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Ball, W. Kendrick",
+    "gender": "Male",
+    "major": "Architectural Engineering",
+    "nicknames": [],
+    "hometown": "Stuart",
+    "clubs": [
+      "Tau Kappa Epsilon",
+      "Treasurer Junior Class",
+      "Crocket Society",
+      "Publication Board Iowa State Student",
+      "Band '21, '22"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Barker, Will E.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "hometown": "Sanborn",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Bartlett, Stella",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Des Moines",
+    "clubs": ["Gamma Phi Beta", "Home Economics Club", "Y.W.C.A."],
+    "comment": ""
+  },
+  {
+    "name": "Barton, Ruth",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Des Moines",
+    "clubs": ["Pi Beta Phi"],
+    "comment": ""
+  },
+  {
+    "name": "Bartrug, C. M.",
+    "gender": "Male",
+    "major": "Agricultural Education",
+    "nicknames": [],
+    "hometown": "Le Grand",
+    "clubs": ["President Vocational Education Club", "Agricultural Council"],
+    "comment": ""
+  },
+  {
+    "name": "Bates, Harvey S.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "hometown": "Mitchell, South Dakota",
+    "clubs": [
+      "Tau Gamma Nu",
+      "Phi Mu Alpha",
+      "Concert Band '21, '22, '23",
+      "Men's Glee Club",
+      "A.I.E.E.",
+      "Iowa Engineer Staff",
+      "\"Pirates of Penzance\" Cast"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Beck, George L.",
+    "gender": "Male",
+    "major": "Chemical Engineering",
+    "nicknames": [],
+    "hometown": "Spencer",
+    "clubs": ["Chemical Engineering Society", "A.A.E.", "Iowa Engineer Staff"],
+    "comment": ""
+  },
+  {
+    "name": "Beckman, Richard W.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "hometown": "Ames",
+    "clubs": [
+      "Theta Delta Chi",
+      "Sigma Delta Chi",
+      "Iowa State Student Staff Engineering Council",
+      "A.C.E.",
+      "A.S.C.E.",
+      "Grinnell College"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Beese, George",
+    "gender": "Male",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "hometown": "Des Moines",
+    "clubs": [
+      "Delta Tau Delta",
+      "Manager Junior Class Play",
+      "Manager \"Roll's Wild Oat\"",
+      "Manager \"The Book of Job\"",
+      "A.S.M.E."
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Brin, Myrtle M.",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Beaman",
+    "clubs": [
+      "Jack O'Lantern",
+      "Women's Guild",
+      "Home Economics Club",
+      "Y.W.C.A.",
+      "W.A.A.",
+      "Hiking '20",
+      "Basketball '21, '22",
+      "Baseball '22"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Belding, Arlene",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Waucoma",
+    "clubs": [
+      "Home Economics Club",
+      "State University of Iowa",
+      "Oklahoma College for Women"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Bertoli, Virginia B.",
+    "gender": "Female",
+    "major": "Industrial Science",
+    "nicknames": [],
+    "hometown": "Chicago, Illinois",
+    "clubs": ["Sigma Kappa", "Y.W.C.A.", "Science Club"],
+    "comment": ""
+  },
+  {
+    "name": "Best, Lindley M.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "hometown": "Villisca",
+    "clubs": ["Alpha Sigma Phi"],
+    "comment": ""
+  },
+  {
+    "name": "Beyer, Jeanette",
+    "gender": "Female",
+    "major": "Industrial Science",
+    "nicknames": [],
+    "hometown": "Ames",
+    "clubs": [
+      "Alpha Delta Pi",
+      "Theta Sigma Phi",
+      "Secretary Mortar Board",
+      "Women's Guild",
+      "President Geneva Club",
+      "Vice President Y.W.C.A.",
+      "Sophomore Council",
+      "Orchestra",
+      "Iowa Homemaker Staff",
+      "Women's Athletic Council",
+      "W.A.A. Swimming",
+      "Women's Life Saving Corps"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Bickett, Harold R.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "hometown": "Traer",
+    "clubs": ["Chi Phi", "Iowa Engineer Staff"],
+    "comment": ""
+  },
+  {
+    "name": "Bierbaum, Elmer O.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Grisswold",
+    "clubs": [
+      "Hau Ki",
+      "\"AA\" Fraternity",
+      "Block and Bridle",
+      "Varsity Track '21",
+      "Cross Country '22",
+      "Cross Country Captain Elect"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Bisplinghoff, Lelah M.",
+    "gender": "Female",
+    "major": "Industrial Science",
+    "nicknames": [],
+    "hometown": "Bismarck, Mo.",
+    "clubs": [
+      "Kappa Phi",
+      "Cosmopolitan Club",
+      "Rural Economics Club",
+      "Girls' Glee Club",
+      "Chapel Choir",
+      "Student Volunteers",
+      "W.A.A."
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Blaisdell, Everett W.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Manila, P.I.",
+    "clubs": [
+      "Ag Club",
+      "I.S.C. Life Saving Corps",
+      "Bachelors",
+      "Swimming Club '20, '22",
+      "Porpoise Club"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Blake, John R.",
+    "gender": "Male",
+    "major": "Agricultural Economics",
+    "nicknames": [],
+    "hometown": "Vienna, Virginia",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Blinks, Albion A.",
+    "gender": "Male",
+    "major": "Landscape Architecture",
+    "nicknames": [],
+    "hometown": "Marion",
+    "clubs": ["Alpha Tau Omega", "Junior Class Play"],
+    "comment": ""
+  },
+  {
+    "name": "Blohm, George A.",
+    "gender": "Male",
+    "major": "Veterinary Medicine",
+    "nicknames": [],
+    "hometown": "Dexter",
+    "clubs": ["Veterinary Medical Society"],
+    "comment": ""
+  },
+  {
+    "name": "Blundell, Lyle L.",
+    "gender": "Male",
+    "major": "Landscape Architecture",
+    "nicknames": [],
+    "hometown": "Ottumwa",
+    "clubs": ["Junior Class Play"],
+    "comment": ""
+  },
+  {
+    "name": "Boevers, M. L.",
+    "gender": "Male",
+    "major": "Veterinary Medicine",
+    "nicknames": [],
+    "hometown": "Mason City",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Boirrex, Adolph F.",
+    "gender": "Male",
+    "major": "Dairy",
+    "nicknames": [],
+    "hometown": "North Plainfield, New Jersey",
+    "clubs": [
+      "Phi Gamma Delta",
+      "Dairy Club",
+      "Isaca State Student Staff",
+      "Treasurer Cadet Officers Club",
+      "Lieutenant R.O.T.C.",
+      "1924 Boxis Staff"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Bollinger, Paul R.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Delta",
+    "clubs": ["Block and Bridle"],
+    "comment": ""
+  },
+  {
+    "name": "Bonnstetter, Frank A.",
+    "gender": "Male",
+    "major": "Veterinary Medicine",
+    "nicknames": [],
+    "hometown": "Algona",
+    "clubs": ["Veterinary Medical Society"],
+    "comment": ""
+  },
+  {
+    "name": "Boothe, Eugene F.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "hometown": "Indianaia",
+    "clubs": ["Eta Kappa Nu"],
+    "comment": ""
+  },
+  {
+    "name": "Bourland, Jessie L.",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Ames",
+    "clubs": [
+      "Kappa Phi",
+      "Quill Literary Society",
+      "W.A.A.",
+      "Home Economics Club",
+      "Y.W.C.A."
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Bowen, Ralph R.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "hometown": "Hudson",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Bowie, Alice M.",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Des Moines",
+    "clubs": [
+      "Gamma Phi Beta",
+      "Women's Guild",
+      "Home Economics Vaudeville",
+      "Veishea Vaudeville Dancing Team",
+      "Iowa State Student Staff '23"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Boyd, Robert C.",
+    "gender": "Male",
+    "major": "Ceramic Engineering",
+    "nicknames": [],
+    "hometown": "Eldora",
+    "clubs": [
+      "Sigma Nu",
+      "Engineering Council",
+      "Student Branch American Ceramic Society"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Brock, George V.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "hometown": "Prairie City",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Brookhart, C. E.",
+    "gender": "Male",
+    "major": "Horticulture",
+    "nicknames": [],
+    "hometown": "Washington",
+    "clubs": ["Sigma Chi"],
+    "comment": ""
+  },
+  {
+    "name": "Brown, Horace D.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Grundy Center",
+    "clubs": ["Block and Bridle"],
+    "comment": ""
+  },
+  {
+    "name": "Brown, Henry F.",
+    "gender": "Male",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "hometown": "Des Moines",
+    "clubs": [
+      "\"AA\" Fraternity",
+      "Theta Delta Chi",
+      "Varsity Track '21, '22, '23"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Brown, Irvin B.",
+    "gender": "Male",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "hometown": "Cedar Rapids",
+    "clubs": ["Sigma Sigma", "A.S.M.E.", "Concert Band"],
+    "comment": ""
+  },
+  {
+    "name": "Brown, Sarah Ann",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Dayton",
+    "clubs": [
+      "Alpha Delta Pi",
+      "Y.W.C.A. Cabinet '21, '22",
+      "Home Economics Club",
+      "Frances Shimer Junior College"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Brown, Paul",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "hometown": "Salix",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Bruchert, Horace",
+    "gender": "Male",
+    "major": "Ceramic Engineering",
+    "nicknames": [],
+    "hometown": "Dubuque",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Bublitz, Laura E.",
+    "gender": "Female",
+    "major": "Home Economics and Agriculture",
+    "nicknames": [],
+    "hometown": "St. Ansgar",
+    "clubs": [
+      "Alpha Chi Beta",
+      "Women's A Fraternity",
+      "Home Economics Club",
+      "Y.W.C.A.",
+      "Geneva Club",
+      "Agronomics Club",
+      "Vice-President Crescent Literary Society",
+      "Varsity Captain Baseball '22",
+      "Women's Athletic Council",
+      "Iowa Homemaker Staff",
+      "1924 BOMB Staff"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Buchanan, Walter R.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Newton",
+    "clubs": ["Adelante"],
+    "comment": ""
+  },
+  {
+    "name": "Buettell, Marc A.",
+    "gender": "Male",
+    "major": "Mechanical Engineering and Electrical Engineering",
+    "nicknames": [],
+    "hometown": "Dubuque",
+    "clubs": [
+      "Adelante",
+      "Sigma Delta Chi",
+      "Engineering Council",
+      "Editor Iowa Engineer"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Bulkley, Ruth F.",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Perry",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Bundy, Bernadine",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Cedar Rapids",
+    "clubs": ["Delta Delta Delta", "Home Economics Club", "Coe College"],
+    "comment": ""
+  },
+  {
+    "name": "Bunger, J. Arthur",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "hometown": "Sibley",
+    "clubs": ["A.S.C.E."],
+    "comment": ""
+  },
+  {
+    "name": "Bunting, Alma Irene",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Lacey",
+    "clubs": ["Kappa Phi", "Home Economics Club", "May Fete '22"],
+    "comment": ""
+  },
+  {
+    "name": "Burger, August F.",
+    "gender": "Male",
+    "major": "Veterinary Medicine",
+    "nicknames": [],
+    "hometown": "Winterset",
+    "clubs": ["Veterinary Medical Society"],
+    "comment": ""
+  },
+  {
+    "name": "Butcher, Ethel",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Ames",
+    "clubs": [
+      "Pi Beta Phi",
+      "Y.W.C.A.",
+      "Home Economics Club",
+      "W.A.A. Hockey",
+      "Women's Life Saving Corps",
+      "Northwestern University"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Butcher, H. C.",
+    "gender": "Male",
+    "major": "Agricultural Journalism",
+    "nicknames": [],
+    "hometown": "Ames",
+    "clubs": [
+      "Sigma Phi Epsilon",
+      "Sigma Delta Chi",
+      "AA Fraternity",
+      "T. L. B.",
+      "Order of Goslings",
+      "Press Club",
+      "Inter-Fraternity Council",
+      "Freshman Basketball",
+      "Baseball",
+      "Varsity Basketball",
+      "Green Gander Staff",
+      "Iowa Agriculturist",
+      "Iowa State Student Staff",
+      "1924 Bomb Staff"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Butler, Marguerite",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Sioux City",
+    "clubs": ["Morningside College"],
+    "comment": ""
+  },
+  {
+    "name": "Buxton, H. S.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Vinton",
+    "clubs": ["Block and Bridle", "Cadet Officers Association", "R. O. T. C."],
+    "comment": ""
+  },
+  {
+    "name": "Byram, Harold M.",
+    "gender": "Male",
+    "major": "Agricultural Education",
+    "nicknames": [],
+    "hometown": "Waverly",
+    "clubs": [
+      "Phi Mu Alpha",
+      "Ag Club",
+      "Vocational Education Club",
+      "Band '19, '20, '22",
+      "Orchestra '20, '22"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Calhoun, Lois",
+    "gender": "Female",
+    "major": "Industrial Science",
+    "nicknames": [],
+    "hometown": "Auburn",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Camp, Lee W.",
+    "gender": "Male",
+    "major": "Vocational Education",
+    "nicknames": [],
+    "hometown": "Little Meadows, Pennsylvania",
+    "clubs": ["Philomathian"],
+    "comment": ""
+  },
+  {
+    "name": "Campbell, Bowen",
+    "gender": "Male",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "hometown": "Des Moines",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Carberry, Emmett",
+    "gender": "Male",
+    "major": "Industrial Science",
+    "nicknames": [],
+    "hometown": "Ames",
+    "clubs": ["C. S. A.", "Science Club"],
+    "comment": ""
+  },
+  {
+    "name": "Carl, Dorothy",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Lone Tree",
+    "clubs": ["Alpha Gamma Delta", "W. A. A."],
+    "comment": ""
+  },
+  {
+    "name": "Carley, Mercie",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Los Angeles, California",
+    "clubs": [
+      "Alpha Chi Beta",
+      "Home Economics Club",
+      "W. A. A.",
+      "Y. W. C. A.",
+      "The Naiads"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Carlson, Ralph E.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "hometown": "Storm Lake",
+    "clubs": ["Sigma Delta Chi", "Wrestling", "A.A.E.", "A.C.E."],
+    "comment": ""
+  },
+  {
+    "name": "CarSpecken, Charles I.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "hometown": "Oakland",
+    "clubs": ["Alpha Sigma Phi"],
+    "comment": ""
+  },
+  {
+    "name": "Carter, C. Warren",
+    "gender": "Male",
+    "major": "Architectural Engineering",
+    "nicknames": [],
+    "hometown": "Fullerton, Nebraska",
+    "clubs": ["Crocket Society", "A.A.C.E.", "Hastings College, Nebraska"],
+    "comment": ""
+  },
+  {
+    "name": "Carter, Sam T.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Ames",
+    "clubs": ["Alpha Tau Omega", "Football"],
+    "comment": ""
+  },
+  {
+    "name": "Cass, Dorothy",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Le Mars",
+    "clubs": [
+      "Gamma Phi Beta",
+      "National Collegiate Players",
+      "President Freshman Commission",
+      "Sophomore Council",
+      "Junior Advisory Board",
+      "Sophomore Class Secretary",
+      "Secretary Masqued Players",
+      "\"Clarence\" Cast",
+      "\"Hyacinth Halvey\" Cast",
+      "Junior Class Play",
+      "May Fete",
+      "Geneva Club",
+      "W.A.A.",
+      "Y.W.C.A.",
+      "Home Economics Club"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Cass, Mostague A.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Le Mars",
+    "clubs": [
+      "Theta Delta Chi",
+      "Junior Class Play",
+      "Business Manager Iowa Agriculturist"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Cation, Donald",
+    "gender": "Male",
+    "major": "Horticulture",
+    "nicknames": [],
+    "hometown": "Ames",
+    "clubs": [
+      "Tau Gamma Nu",
+      "Alpha Zeta",
+      "Phi Mu Alpha",
+      "Cardinal Guild",
+      "Ag Council",
+      "Ag Club",
+      "Horticulture Club",
+      "Iowa Agriculturist Staff",
+      "Manager Men's Glee Club",
+      "A-M-E-S Quartet",
+      "Junior Class President '23"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Catlin, Earle C.",
+    "gender": "Male",
+    "major": "Animal Industry",
+    "nicknames": [],
+    "hometown": "Elgin, Illinois",
+    "clubs": ["Chi Phi", "Ag Club"],
+    "comment": ""
+  },
+  {
+    "name": "Cecil, Rodney",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Calhoun, Missouri",
+    "clubs": [
+      "Alpha Kappa Delta",
+      "Dixie Club",
+      "Ag Club",
+      "Block and Bridle",
+      "Iowa State Rifle Club",
+      "Washington University"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Chase, Kresse C.",
+    "gender": "Male",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Chicago, Illinois",
+    "clubs": [
+      "Sigma Kappa",
+      "Y.W.C.A.",
+      "Home Economics Club",
+      "\"Fingerbowls and Araminta\" Cast",
+      "Beloit College"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Church, B. L.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Little Rock, Arkansas",
+    "clubs": ["Theta Delta Chi", "Alpha Zeta", "Block and Bridle"],
+    "comment": ""
+  },
+  {
+    "name": "Church, Lloyd V.",
+    "gender": "Male",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Oak Grove, Missouri",
+    "clubs": ["Sigma Kappa", "Glee Club", "Home Economics Club", "Y.W.C.A."],
+    "comment": ""
+  },
+  {
+    "name": "Clifton, John M.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "hometown": "Albia",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Cook, C. S.",
+    "gender": "Male",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "hometown": "Sioux City",
+    "clubs": [
+      "Phi Gamma Delta",
+      "AA Fraternity",
+      "Junior Representative to Public Speaking Council",
+      "Football '22, '23",
+      "A.S.M.E."
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Conn, Ethel M.",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Marengo",
+    "clubs": [
+      "Omega Pi",
+      "Secretary Quill Literary Society",
+      "Y.W.C.A.",
+      "Home Economics Club",
+      "Vocational Education Club"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Conner, Marguerite",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Ames",
+    "clubs": [
+      "Alpha Chi Beta",
+      "Omicron Nu",
+      "Jack O'Lantern",
+      "Home Economics Club",
+      "W.A.A.",
+      "Y.W.C.A."
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Conrad, Emery J.",
+    "gender": "Male",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "hometown": "Eldon",
+    "clubs": [
+      "Phi Delta Theta",
+      "\"AA\" Fraternity",
+      "Engineering Council",
+      "Chairman A.S.M.E.",
+      "Wrestling"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Conrow, A. B.",
+    "gender": "Male",
+    "major": "Agricultural Journalism",
+    "nicknames": [],
+    "hometown": "Ames",
+    "clubs": ["Acacia"],
+    "comment": ""
+  },
+  {
+    "name": "Corey, Flournoy",
+    "gender": "Male",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "hometown": "Des Moines",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Corwin, Robert G.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Rock Valley",
+    "clubs": [
+      "Theta Delta Chi",
+      "Block and Bridle",
+      "Iowa Agriculturist Staff",
+      "Wrestling"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Craig, Velma J.",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Clarinda",
+    "clubs": ["W.A.A.", "Occidental College"],
+    "comment": ""
+  },
+  {
+    "name": "Cram, Mary",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Davenport",
+    "clubs": [
+      "Freshman Commission '20",
+      "Jack O'Lantern",
+      "Y.W.C.A.",
+      "Home Economics Club"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Culver, Ralph",
+    "gender": "Male",
+    "major": "Agricultural Economics",
+    "nicknames": [],
+    "hometown": "Laceyville, Pennsylvania",
+    "clubs": ["Acacia"],
+    "comment": ""
+  },
+  {
+    "name": "Cunningham, Thomas F.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "hometown": "Jesup",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Deal, Leonard C.",
+    "gender": "Male",
+    "major": "Poultry Husbandry",
+    "nicknames": [],
+    "hometown": "Ames",
+    "clubs": [
+      "Dairy Club",
+      "1923 Bosin Staff",
+      "Green Gander Staff",
+      "Order of Goslings",
+      "Poultry Judging Team '22"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "DeBruin, Edward A.",
+    "gender": "Male",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "hometown": "Hospers",
+    "clubs": ["Hau Ki", "Band '22, '23", "Glee Club"],
+    "comment": ""
+  },
+  {
+    "name": "Decker, George C.",
+    "gender": "Male",
+    "major": "Pomology",
+    "nicknames": [],
+    "hometown": "Peck, Michigan",
+    "clubs": ["Amician", "Catholic Students Association", "Horticulture Club"],
+    "comment": ""
+  },
+  {
+    "name": "Derry, Ruth",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Lamoni",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Denner, S. G.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "New Hampton",
+    "clubs": [
+      "Tau Gamma Nu",
+      "Ag Club",
+      "Bachelor",
+      "President of Block and Bridle"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Dewell, Marcella R.",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Missouri Valley",
+    "clubs": [
+      "Pi Beta Phi",
+      "Theta Sigma Phi",
+      "Freshman Commission",
+      "Sophomore Council",
+      "Junior Advisory Board",
+      "*Iowaa Homemaker* Staff",
+      "*Iowaa Agriculturist* Staff",
+      "*Iowaa State Student* Staff",
+      "1924 Bomn Staff",
+      "May Fete '22",
+      "Home Economics Vaudeville '21, '22",
+      "Women's Pan-Hellenic Council",
+      "*The Locksmith* cast",
+      "*The Bracelet* cast",
+      "*Fingerbowls and Araminta* cast",
+      "Military Sponsor"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Dewey, Irene",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Ames",
+    "clubs": [
+      "Alpha Chi Beta",
+      "President Jack O'Lantern",
+      "Home Economics Club",
+      "Y.W.C.A.",
+      "W.A.A.",
+      "Freshman Commission",
+      "Hockey '21",
+      "Gym Team '22",
+      "Swimming '22"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Diehl, John F. Ames",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "hometown": "",
+    "clubs": [
+      "Crescent Literary Society",
+      "A.A.E.",
+      "A.C.E.",
+      "Lincoln Way Club"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Dolan, Sarah",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Colo",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Duty, Glenn H.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "hometown": "Newell",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Dow, H. G. Fort Madison",
+    "gender": "Male",
+    "major": "Veterinary Medicine",
+    "nicknames": [],
+    "hometown": "Fort Madison",
+    "clubs": ["Sigma Phi Epsilon"],
+    "comment": ""
+  },
+  {
+    "name": "Dugger, Edith What Cheer",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "What Cheer",
+    "clubs": ["Alpha Delta Pi"],
+    "comment": ""
+  },
+  {
+    "name": "Duke, Marian Monmouth, Illinois",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Monmouth, Illinois",
+    "clubs": ["Pi Beta Phi"],
+    "comment": ""
+  },
+  {
+    "name": "Dunbar, Robert J. Osceola",
+    "gender": "Male",
+    "major": "Architectural Engineering",
+    "nicknames": [],
+    "hometown": "Osceola",
+    "clubs": ["Crocket Society", "Inter-Class Boxing '21, '22, '23"],
+    "comment": ""
+  },
+  {
+    "name": "Dunn, Leonard L. Le Mars",
+    "gender": "Male",
+    "major": "Veterinary Medicine",
+    "nicknames": [],
+    "hometown": "Le Mars",
+    "clubs": ["Veterinary Medical Society"],
+    "comment": ""
+  },
+  {
+    "name": "Dupuis, Oscar G. Fort Madison",
+    "gender": "Male",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "hometown": "Fort Madison",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Devale, Philip Kirk",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "hometown": "Logan",
+    "clubs": [
+      "Alpha Tau Omega",
+      "T. L. B.",
+      "Freshmen Inter-Fraternity Council",
+      "Sophomore Class Treasurer"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Edwards, F. A.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "hometown": "Scranton",
+    "clubs": ["Lambda Delta Chi", "Rifle Team '20, '21"],
+    "comment": ""
+  },
+  {
+    "name": "Ehlers, Carl F.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "hometown": "Ogden",
+    "clubs": [
+      "Chi Phi",
+      "Phi Mu Alpha",
+      "A. A. E.",
+      "Band '21, '22, '23",
+      "Orchestra '22, '23"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Elder, Edith",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "DeWitt",
+    "clubs": [
+      "Gamma Phi Beta",
+      "Home Economics Club",
+      "Treasurer Y. W. C. A.",
+      "Geneva Club",
+      "Vocational Education Club",
+      "Macalester College"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Ellis, Gladwyn E.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Newell",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Entorf, Carl",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Cleveland, Montana",
+    "clubs": ["Theta Delta Chi", "Block and Bridle"],
+    "comment": ""
+  },
+  {
+    "name": "Epperley, Donald A.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Letts",
+    "clubs": ["Hau Ki", "Varsity Wrestling '22, '23", "Block and Bridle"],
+    "comment": ""
+  },
+  {
+    "name": "Erickson, Theron H.",
+    "gender": "Male",
+    "major": "Farm Management",
+    "nicknames": [],
+    "hometown": "Reinbeck",
+    "clubs": ["Assistant Scout Master"],
+    "comment": ""
+  },
+  {
+    "name": "Esmay, Ralph M.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "hometown": "Sabula",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Everett, Charles H.",
+    "gender": "Male",
+    "major": "Agricultural Engineering",
+    "nicknames": [],
+    "hometown": "Colfax",
+    "clubs": [
+      "Adelante",
+      "Delta Sigma Rho",
+      "Alpha Zeta",
+      "Engineering Council",
+      "Cardinal Guild",
+      "Kansas Debate '22",
+      "Michigan-Purdue Debate '22",
+      "Public Speaking Council"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Everett, Elizabeth J.",
+    "gender": "Female",
+    "major": "Industrial Science",
+    "nicknames": [],
+    "hometown": "Lacey",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Fahnle, Chester E.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "hometown": "Norway",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Farmer, Robert E.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "hometown": "Welton",
+    "clubs": [
+      "Alpha Kappa Delta",
+      "President Ames Chapter A.S.C.E.",
+      "Civil Engineering Society",
+      "Iowa Engineer Staff '21, '22, '23"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Farrar, Milton D.",
+    "gender": "Male",
+    "major": "Industrial Science",
+    "nicknames": [],
+    "hometown": "Abilene, Kansas",
+    "clubs": ["Theta Chi", "Class Track '20, '21"],
+    "comment": ""
+  },
+  {
+    "name": "Farris, Earl",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "hometown": "Valley Junction",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Fichter, Corby",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Randolph",
+    "clubs": ["R.O.T.C."],
+    "comment": ""
+  },
+  {
+    "name": "Ficke, J. H.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "hometown": "Wheatland",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Fisher, H. H.",
+    "gender": "Male",
+    "major": "Farm Crops and Soils",
+    "nicknames": [],
+    "hometown": "Fairmont, West Virginia",
+    "clubs": ["Phi Gamma Delta"],
+    "comment": ""
+  },
+  {
+    "name": "Foley, C. Ada",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Paris, Illinois",
+    "clubs": ["Purdue University"],
+    "comment": ""
+  },
+  {
+    "name": "Forsyth, M. Isabel",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Dana",
+    "clubs": ["Home Economics Club"],
+    "comment": ""
+  },
+  {
+    "name": "Fothergill, Robert E.",
+    "gender": "Male",
+    "major": "Chemical Engineering",
+    "nicknames": [],
+    "hometown": "El Paso",
+    "clubs": ["Phi Lambda Upsilon", "Chemical Engineers Society"],
+    "comment": ""
+  },
+  {
+    "name": "Fowler, Paul M.",
+    "gender": "Male",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "hometown": "Des Moines",
+    "clubs": [
+      "Secretary, Treasurer, Vice-President Bachelor",
+      "Lieutenant R.O.T.C.",
+      "Y.M.C.A.",
+      "A.S.M.E."
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Fraser, James W.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "hometown": "Charleston, South Carolina",
+    "clubs": ["Alpha Phi Alpha", "Boxing"],
+    "comment": ""
+  },
+  {
+    "name": "French, Lylaf",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Ames",
+    "clubs": ["Y.W.C.A."],
+    "comment": ""
+  },
+  {
+    "name": "French, Ila",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Ames",
+    "clubs": ["Y.W.C.A.", "May Fete '21", "Veishea '22"],
+    "comment": ""
+  },
+  {
+    "name": "Gangstad, Clara",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Goldfield",
+    "clubs": [
+      "Quill Literary Society",
+      "Vocational Education Club",
+      "W.A.A.",
+      "Hiking '20",
+      "Baseball '21, '22",
+      "May Fete '22"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Gardiner, Henry C.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "hometown": "Sheldon",
+    "clubs": ["Amician"],
+    "comment": ""
+  },
+  {
+    "name": "Garret, Charles I.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "hometown": "Cedar Rapids",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "George, William D.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "hometown": "Dubuque",
+    "clubs": [
+      "Pi Kappa Alpha",
+      "\"AA\" Fraternity",
+      "T.L.B.",
+      "Inter-Fraternity Council",
+      "Freshman Baseball",
+      "Varsity Baseball"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Gibbons, J. Donald",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "North English",
+    "clubs": ["Block and Bridle"],
+    "comment": ""
+  },
+  {
+    "name": "Gilbert, Grover D.",
+    "gender": "Male",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "hometown": "Kamrar",
+    "clubs": [
+      "Sigma Sigma",
+      "Phi Mu Alpha",
+      "Concert Band",
+      "'21, '22, '23",
+      "College Orchestra",
+      "A.S.M.E."
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Gilbert, Leslie F.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "hometown": "Kamrar",
+    "clubs": ["Concert Band", "A.I.E.E."],
+    "comment": ""
+  },
+  {
+    "name": "Gillis, Randall",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "hometown": "Osage",
+    "clubs": ["Chi Phi"],
+    "comment": ""
+  },
+  {
+    "name": "Goddard, Florence A.",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Davenport",
+    "clubs": [
+      "Kappa Delta",
+      "Y.W.C.A. Cabinet",
+      "Vice-Present Junior Class",
+      "Woman's Guild",
+      "State University of Iowa"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Goeppinger, Katherine L.",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Boone",
+    "clubs": [
+      "Pi Beta Phi",
+      "Theta Sigma Phi",
+      "Jack O'Lantern",
+      "Editorial Staff Iowa Homemaker '21, '22, '23",
+      "Editorial Staff Iowa State Student '21, '22, '23",
+      "Iowa Agriculturist",
+      "Green Gander",
+      "1924 Bomb Staff",
+      "Freshman Commission",
+      "Sophomore Council",
+      "Junior Advisory Board",
+      "Big Sister Captain",
+      "Home Economics Club",
+      "Y.W.C.A. Publicity Manager",
+      "Home Economics Vaudeville '23"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Goodman, Arthur G.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "hometown": "Cedar Rapids",
+    "clubs": [
+      "Adelante",
+      "Associate Editor Iowa Engineer",
+      "Inter-Local Fraternity Council"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Gordon, Hugh E.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Lenox",
+    "clubs": [
+      "Alpha Kappa Delta",
+      "Block and Bridle Club",
+      "Ag Club",
+      "Poultry Judging Team '22",
+      "Captain R.O.T.C."
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Goss, J. Fletcher",
+    "gender": "Male",
+    "major": "Agricultural Engineering",
+    "nicknames": [],
+    "hometown": "New Rockford, North Dakota",
+    "clubs": [
+      "Crescent Literary Society",
+      "A.S.A.E.",
+      "Public Speaking Council",
+      "Class Wrestling '22"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Grandprey, Medora B.",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Owatonna, Minnesota",
+    "clubs": [
+      "Y.W.C.A. Cabinet",
+      "Geneva Scholarship '22",
+      "Glee Club",
+      "Home Economics Club",
+      "Junior Advisory Board",
+      "Cosmopolitan Club",
+      "Jack O'Lantern",
+      "Geneva Club"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Gratke, Albert W.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "hometown": "Strawberry Point",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Gray, Helen E.",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Des Moines",
+    "clubs": ["Drake University"],
+    "comment": ""
+  },
+  {
+    "name": "Gray, Naomi M.",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Ames",
+    "clubs": ["Omega Pi", "Y.W.C.A.", "May Fete 22"],
+    "comment": ""
+  },
+  {
+    "name": "Green, Feen",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Winterset",
+    "clubs": [
+      "Chi Omega",
+      "Home Economics Club",
+      "Y.W.C.A.",
+      "Women's Panhellenic Council",
+      "Iowa State Student Staff",
+      "Iowa Homemaker Staff"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Green, George E.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Harlan",
+    "clubs": ["Theta Xi"],
+    "comment": ""
+  },
+  {
+    "name": "Green, Helen M.",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Conrad",
+    "clubs": [
+      "Kappa Phi",
+      "Y.W.C.A.",
+      "Home Economics Club",
+      "Iowa State Teachers College"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Greenlee, Charles O. Jr.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Fort Dodge",
+    "clubs": ["Ausonia", "Iowa Agriculturist"],
+    "comment": ""
+  },
+  {
+    "name": "Grewell, Glenn V.",
+    "gender": "Male",
+    "major": "Veterinary Medicine",
+    "nicknames": [],
+    "hometown": "Gilman",
+    "clubs": ["Gamma Sigma Alpha", "Veterinary Medical Society"],
+    "comment": ""
+  },
+  {
+    "name": "Grim, Claude G.",
+    "gender": "Male",
+    "major": "Mining Engineering",
+    "nicknames": [],
+    "hometown": "Cedar Rapids",
+    "clubs": ["Chi Phi", "A.I.M.E.", "A.C.E.", "Band '20, '21"],
+    "comment": ""
+  },
+  {
+    "name": "Grimes, Ruth",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Montrose",
+    "clubs": [
+      "Alpha Chi Beta",
+      "Quill Literary Society",
+      "Home Economics Club",
+      "Y.W.C.A."
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Groth, Harold W.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "hometown": "Ottumwa",
+    "clubs": ["A.S.C.E.", "A.A.C.E."],
+    "comment": ""
+  },
+  {
+    "name": "Haberly, Anne",
+    "gender": "Female",
+    "major": "Home Economics and Agriculture",
+    "nicknames": [],
+    "hometown": "Cresco",
+    "clubs": ["Agronomics Club", "Secretary, Sophomore Class '20"],
+    "comment": ""
+  },
+  {
+    "name": "Haberly, Lucille",
+    "gender": "Female",
+    "major": "Home Economics and Agriculture",
+    "nicknames": [],
+    "hometown": "Cresco",
+    "clubs": ["Agronomics Club", "Secretary, Agronomics Club"],
+    "comment": ""
+  },
+  {
+    "name": "Hammarstrom, Mary A.",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Clinton",
+    "clubs": ["Home Economics Club", "W.A.A.", "State University of Iowa"],
+    "comment": ""
+  },
+  {
+    "name": "Hammer, Harold A.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Altoona",
+    "clubs": ["Block and Bridle Club", "Ag Club"],
+    "comment": ""
+  },
+  {
+    "name": "Hammerly, Carroll A.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Newton",
+    "clubs": [
+      "Theta Delta Chi",
+      "\"AA\" Fraternity",
+      "Athletic Council",
+      "Inter-Fraternity Council",
+      "Varsity Track '22, '23",
+      "Class Track '21"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Hanson, Ray F.",
+    "gender": "Male",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "hometown": "Casper, Wyoming",
+    "clubs": ["A.S.M.E."],
+    "comment": ""
+  },
+  {
+    "name": "Harmison, H. A.",
+    "gender": "Male",
+    "major": "Dairy",
+    "nicknames": [],
+    "hometown": "Marcus",
+    "clubs": ["Tau Gamma Nu", "Debate Squad '23"],
+    "comment": ""
+  },
+  {
+    "name": "Harmon, Glenn R.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "hometown": "New Hartford",
+    "clubs": ["Ausonia"],
+    "comment": ""
+  },
+  {
+    "name": "Harper, George A.",
+    "gender": "Male",
+    "major": "Industrial Science",
+    "nicknames": [],
+    "hometown": "Ames",
+    "clubs": [
+      "Science Club",
+      "Scabbard and Blade",
+      "Cadet Officers Association"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Harper, Alice M.",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Ames",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Harvey, Ralph M.",
+    "gender": "Male",
+    "major": "Architectural Engineering",
+    "nicknames": [],
+    "hometown": "Ames",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Harvey, Walter C.",
+    "gender": "Male",
+    "major": "Dairy",
+    "nicknames": [],
+    "hometown": "Lohrville",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Hastings, Mary E.",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Hamilton, Illinois",
+    "clubs": ["Alpha Gamma Delta", "Glee Club", "Chapel Choir", "Y.W.C.A."],
+    "comment": ""
+  },
+  {
+    "name": "Hathaway, Carl",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "hometown": "Cedar Rapids",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Hathaway, R. H.",
+    "gender": "Male",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "hometown": "Ames",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Hatlestad, S. Lucille",
+    "gender": "Female",
+    "major": "Architectural Engineering",
+    "nicknames": [],
+    "hometown": "Radcliffe",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Havig, Ray W.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "hometown": "St. Ansgar",
+    "clubs": ["A.S.C.E.", "Band"],
+    "comment": ""
+  },
+  {
+    "name": "Heald, Mary",
+    "gender": "Female",
+    "major": "Industrial Science",
+    "nicknames": [],
+    "hometown": "Des Moines",
+    "clubs": [
+      "Chi Omega",
+      "Women's Guild",
+      "Big Sister Chief",
+      "Junior Advisory Board",
+      "Geneva Club",
+      "Chairman Citizenship Council",
+      "Undergraduate Representative Y.W.C.A. Cabinet",
+      "Extemporaneous Speaking Contest '22",
+      "Home Oratorical Contest '23",
+      "Faculty Women's Club",
+      "Geneva Scholarship '21",
+      "National Student Council",
+      "Y.W.C.A.",
+      "Delegate to National Y.W.C.A. Convention",
+      "Delegate to Canadian Student Conference",
+      "Drake University"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Herren, Ralph H.",
+    "gender": "Male",
+    "major": "Industrial Science",
+    "nicknames": [],
+    "hometown": "Creston",
+    "clubs": ["Philomathean Literary Society", "Science Club"],
+    "comment": ""
+  },
+  {
+    "name": "Heidman, Nettie",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Granger",
+    "clubs": ["Y.W.C.A.", "Home Economics Club", "Des Moines University"],
+    "comment": ""
+  },
+  {
+    "name": "Henderson, Florence",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Madrid",
+    "clubs": [
+      "Kappa Phi",
+      "Y.W.C.A.",
+      "Delphian Literary Society",
+      "May Fete '19"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Henderson, F. Murray",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "hometown": "Arnolds Park",
+    "clubs": ["Bachelors"],
+    "comment": ""
+  },
+  {
+    "name": "Henderson, Herbert",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "hometown": "Jewell",
+    "clubs": ["Sigma Nu", "T.L.B."],
+    "comment": ""
+  },
+  {
+    "name": "Henderson, Iva",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Scranton",
+    "clubs": [
+      "Omega Pi",
+      "Home Economics Club",
+      "Y.W.C.A.",
+      "W.A.A.",
+      "Vocational Education Club",
+      "May Fete '20"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Henderson, Ray M.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Scranton",
+    "clubs": ["Alpha Sigma Phi", "Phi Mu Alpha", "Band"],
+    "comment": ""
+  },
+  {
+    "name": "Hendry, Myrne",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Primghar",
+    "clubs": ["W.A.A.", "Hiking '20"],
+    "comment": ""
+  },
+  {
+    "name": "Hensing, Emmett H.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "hometown": "Alton",
+    "clubs": ["Amician", "Civil Engineering Society"],
+    "comment": ""
+  },
+  {
+    "name": "Herr, Helen",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Calmar",
+    "clubs": [
+      "Chi Omega",
+      "Omicron Nu",
+      "Women's \"A\" Fraternity",
+      "Home Economics Council",
+      "Junior Class Secretary",
+      "Women's Life Saving Corps",
+      "Women's Athletic Council",
+      "Naiad",
+      "Sophomore Class Play",
+      "Junior Class Play",
+      "\"Tryesting Place\"",
+      "\"Love the Locksmith\"",
+      "Home Economics Vaudeville '23",
+      "Glee Club",
+      "May Fete '21"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Highly, F. Merrel",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "hometown": "Tipton",
+    "clubs": ["Delta Tau Delta", "Tau Beta Pi"],
+    "comment": ""
+  },
+  {
+    "name": "Higley, Lenore",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Salt Lake City, Utah",
+    "clubs": [
+      "Jack O'Lantern",
+      "Red Cross Life Saving Club",
+      "W.A.A.",
+      "Y.W.C.A.",
+      "Swimming '21, '22",
+      "May Fete '22",
+      "Aesthetic Dancing Cup '21",
+      "Secretary and Treasurer Naiad",
+      "Secretary and Treasurer of Jack O'Lantern",
+      "Aesthetic Dancing Team '22"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Hill, N. Alfred",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Williams",
+    "clubs": ["Welch Literary Society", "Ag Club", "Block and Bridle"],
+    "comment": ""
+  },
+  {
+    "name": "Hinnadl, H. H.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Keota",
+    "clubs": ["Cadet Officers Association", "Lieutenant R.O.T.C."],
+    "comment": ""
+  },
+  {
+    "name": "Hitchcock, Frances E.",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Little Sioux",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Hoffman, John E.",
+    "gender": "Male",
+    "major": "Agricultural Engineering",
+    "nicknames": [],
+    "hometown": "Wilmette, Ill.",
+    "clubs": ["A.S.A.E."],
+    "comment": ""
+  },
+  {
+    "name": "Hoisington, Cecil",
+    "gender": "Male",
+    "major": "Architectural Engineering",
+    "nicknames": [],
+    "hometown": "Harlan",
+    "clubs": ["Crocket Society"],
+    "comment": ""
+  },
+  {
+    "name": "Holbert, Mildred E.",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Plainview, Neb.",
+    "clubs": [
+      "Delta Delta Delta",
+      "Y.W.C.A.",
+      "Home Economics Club",
+      "Grinnell College"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Hollowell, Eugene A.",
+    "gender": "Male",
+    "major": "Industrial Science",
+    "nicknames": [],
+    "hometown": "Farmer City, Ill.",
+    "clubs": [
+      "Tau Gamma Nu",
+      "Freshman Track '21",
+      "Varsity Cross Country '21, '22",
+      "Varsity Track '22",
+      "Vice-President Intramural Association '23"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Holmes, Clayton E.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": ["Uncle Jimmy"],
+    "hometown": "Northwood",
+    "clubs": ["A.S.C.E.", "Uncle Jimmy Cast", "Junior Class Play"],
+    "comment": ""
+  },
+  {
+    "name": "Holroyd, Howard B.",
+    "gender": "Male",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "hometown": "Plymouth",
+    "clubs": ["A.S.M.E.", "Philomathian Society"],
+    "comment": ""
+  },
+  {
+    "name": "Holsinger, Lawrence",
+    "gender": "Male",
+    "major": "Agricultural Engineering",
+    "nicknames": [],
+    "hometown": "Ames",
+    "clubs": [
+      "A.S.A.E.",
+      "Scabbard and Blade",
+      "Cadet Officers Association",
+      "Captain Pistol Team '22"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Hoopes, Leslie W.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Muscatine",
+    "clubs": ["El Paso", "Ag Club", "Block and Bridle"],
+    "comment": ""
+  },
+  {
+    "name": "Hopkins, Anne",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Des Moines",
+    "clubs": [
+      "Delta Delta Delta",
+      "Omicron Nu",
+      "Freshman Commission",
+      "Sophomore Council",
+      "Junior Advisory Board",
+      "Women's Guild",
+      "Home Economics Club",
+      "Y.W.C.A.",
+      "Vice-President Big Sisters",
+      "Women's Pan-Hellenic Council",
+      "Associate Editor 1924 BOMR Board",
+      "Veishea Plays",
+      "Junior Class Play"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Horney, M. Jay",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "hometown": "Weldon",
+    "clubs": ["A.I.E.E.", "A.A.E.", "A.C.E."],
+    "comment": ""
+  },
+  {
+    "name": "Howard, Clarke M.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "LeRoy, Ill.",
+    "clubs": ["Alpha Kappa Delta", "Josaa Agriculturist Staff", "Ag Club"],
+    "comment": ""
+  },
+  {
+    "name": "Howell, Joseph",
+    "gender": "Male",
+    "major": "Forestry",
+    "nicknames": [],
+    "hometown": "Kansas City, Kansas",
+    "clubs": ["Concert Band '21, '22, '23", "Orchestra '22, '23", "I.A.F.C."],
+    "comment": ""
+  },
+  {
+    "name": "Howell, Walter W.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "hometown": "Muscatine",
+    "clubs": ["El Paso", "A.I.E.E."],
+    "comment": ""
+  },
+  {
+    "name": "Hsiu, H. D.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Changsha, China",
+    "clubs": ["Cosmopolitan Club"],
+    "comment": ""
+  },
+  {
+    "name": "Hudson, Charles E.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Montezuma",
+    "clubs": ["Theta Xi"],
+    "comment": ""
+  },
+  {
+    "name": "Hughes, Andrew B.",
+    "gender": "Male",
+    "major": "Dairy Manufacturing",
+    "nicknames": [],
+    "hometown": "Ames",
+    "clubs": ["Theta Chi", "Phi Mu Alpha", "Dairy Club", "Band"],
+    "comment": ""
+  },
+  {
+    "name": "Hughes, Amos O.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "hometown": "Ames",
+    "clubs": ["Theta Chi", "A.A.C.E.", "A.I.E.E."],
+    "comment": ""
+  },
+  {
+    "name": "Hughes, Hugh",
+    "gender": "Male",
+    "major": "Dairy Husbandry",
+    "nicknames": [],
+    "hometown": "Charles City",
+    "clubs": ["Ag Club", "Block and Bridle"],
+    "comment": ""
+  },
+  {
+    "name": "Hughes, L. W.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "hometown": "Harmony, Minn.",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Hull, B. Fraserlin",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Maquoketa",
+    "clubs": ["Block and Bridle", "Ag Club", "University of Iowa"],
+    "comment": ""
+  },
+  {
+    "name": "Hull, Raymond R.",
+    "gender": "Male",
+    "major": "Chemical Engineering",
+    "nicknames": [],
+    "hometown": "Keokuk",
+    "clubs": [
+      "C. E. Society",
+      "Iowa Engineer Staff",
+      "Iowa State Student Staff",
+      "Cadet Officers Association",
+      "Life Saving Corps"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Hunt, Galen",
+    "gender": "Male",
+    "major": "Chemical Engineering",
+    "nicknames": [],
+    "hometown": "Ames",
+    "clubs": [
+      "Chemical Engineering Society",
+      "American Chemical Society",
+      "Veterans of Foreign Wars"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Huston, Homer",
+    "gender": "Male",
+    "major": "Architectural Engineering",
+    "nicknames": [],
+    "hometown": "Des Moines",
+    "clubs": [
+      "Theta Delta Chi",
+      "Pi Mu Alpha",
+      "Glee Club '21, '22",
+      "Glee Club 'A'"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Iles, Clarice",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Dayton",
+    "clubs": [
+      "Home Economics Club",
+      "Jack O' Lantern",
+      "Glee Club '22",
+      "W.A.A.",
+      "Basketball '21, '22",
+      "Hockey '21"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Ingham, Rudi M.",
+    "gender": "Male",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Wayne, Neb.",
+    "clubs": ["Omega Pi"],
+    "comment": ""
+  },
+  {
+    "name": "Iseminger, Carleton R.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "hometown": "Sioux City",
+    "clubs": ["A.C.E.", "A.I.E.E."],
+    "comment": ""
+  },
+  {
+    "name": "Isaacson, Marion R.",
+    "gender": "Female",
+    "major": "Farm Crops and Soils",
+    "nicknames": [],
+    "hometown": "Essex",
+    "clubs": ["Alpha Sigma Phi", "Welch Literary Society", "Wrestling"],
+    "comment": ""
+  },
+  {
+    "name": "Jackson, Alice",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Bagley",
+    "clubs": ["Sigma Kappa", "Sponsor R.O.T.C."],
+    "comment": ""
+  },
+  {
+    "name": "Jager, Marie",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Eddyville",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Jacobson, David J.",
+    "gender": "Male",
+    "major": "Dairy Husbandry",
+    "nicknames": [],
+    "hometown": "Glenwood City, Wis.",
+    "clubs": ["Welch Literary Society", "Ag Club", "Block and Bridle"],
+    "comment": ""
+  },
+  {
+    "name": "Jay, Marjorie M.",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Blakesburg",
+    "clubs": [
+      "Alpha Delta Pi",
+      "Home Economics Club",
+      "Y.W.C.A.",
+      "Homemaker Staff",
+      "University of Colorado"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Jarvis, Porter",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Clarksburg, W. Va.",
+    "clubs": ["Delta Tau Delta", "Inter-Fraternity Council", "Dixie Club"],
+    "comment": ""
+  },
+  {
+    "name": "Jennings, Dorothy",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Tipton",
+    "clubs": [
+      "Kappa Phi Cabinet",
+      "Vocational Education Club",
+      "Home Economics Club",
+      "Y.W.C.A."
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Jefferson, Richard R.",
+    "gender": "Male",
+    "major": "Farm Crops and Soils",
+    "nicknames": [],
+    "hometown": "Dunkerton",
+    "clubs": ["Agronomy Club", "Ag Club"],
+    "comment": ""
+  },
+  {
+    "name": "Johns, Sanford J.",
+    "gender": "Male",
+    "major": "Landscape Architecture",
+    "nicknames": [],
+    "hometown": "Le Mars",
+    "clubs": ["Ag Club"],
+    "comment": ""
+  },
+  {
+    "name": "John, Wilbur R.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "State Center",
+    "clubs": ["Sigma Pi"],
+    "comment": ""
+  },
+  {
+    "name": "Johnson, Beth",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Storm Lake",
+    "clubs": ["Omega Pi"],
+    "comment": ""
+  },
+  {
+    "name": "Johnson, Glenn E.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "hometown": "Red Oak",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Johnson, Iose A.",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Boone",
+    "clubs": [
+      "Alpha Delta Pi",
+      "Freshman Commission",
+      "Jack O'Lantern",
+      "Publication Board of Iowa State Student",
+      "Women's Panhellenic Council",
+      "Military Sponsor"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Johnson, Jewell W.",
+    "gender": "Female",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "hometown": "Waterloo",
+    "clubs": [
+      "Adelante",
+      "Sigma Delta Chi",
+      "Delta Sigma Rho",
+      "Michigan-Purdue Debate '22",
+      "Engineering Council",
+      "Public Speaking Council",
+      "Philomathean",
+      "Kennedy Cup Debate",
+      "Goslings",
+      "Iowa State Council",
+      "Military Sponsor"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Johnson, Lee E.",
+    "gender": "Male",
+    "major": "Chemical Engineering",
+    "nicknames": [],
+    "hometown": "Hamilton",
+    "clubs": [
+      "Chi Phi",
+      "Chemical Engineering Society",
+      "Varsity Football '21, '22"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Johnson, Osee O.",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Numa",
+    "clubs": ["Drake University"],
+    "comment": ""
+  },
+  {
+    "name": "Johnston, Neil E.",
+    "gender": "Male",
+    "major": "Agricultural Education",
+    "nicknames": [],
+    "hometown": "Ames",
+    "clubs": ["Ag Club", "Vocational Education Club", "Monmouth College"],
+    "comment": ""
+  },
+  {
+    "name": "Jones, Gomer D.",
+    "gender": "Male",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "hometown": "Williamsburg",
+    "clubs": ["A.S.M.E."],
+    "comment": ""
+  },
+  {
+    "name": "Jones, Harold V.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Tabor",
+    "clubs": ["Adelante"],
+    "comment": ""
+  },
+  {
+    "name": "Jones, Kenneth F.",
+    "gender": "Male",
+    "major": "Landscape Architecture",
+    "nicknames": [],
+    "hometown": "Ames",
+    "clubs": ["Beta Theta Pi", "Vistonian Club"],
+    "comment": ""
+  },
+  {
+    "name": "Jones, Philip C.",
+    "gender": "Male",
+    "major": "Chemical Engineering",
+    "nicknames": [],
+    "hometown": "Marshalltown",
+    "clubs": ["Iowa Engineer Staff"],
+    "comment": ""
+  },
+  {
+    "name": "Joy, Kathryn B.",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Newton",
+    "clubs": ["Kappa Delta"],
+    "comment": ""
+  },
+  {
+    "name": "Kahle, Loren F.",
+    "gender": "Male",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "hometown": "Oklahoma City, Okla.",
+    "clubs": [
+      "Beta Theta Pi",
+      "President of Masqued Players",
+      "National Collegiate Players",
+      "Varsity Debate '23",
+      "\"Clarence\" Cast",
+      "\"Tailor Made Man\" Cast",
+      "Public Speaking Council '23",
+      "Cadet Officers Association"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Kaldenberg, Willard G.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "hometown": "Monroe",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Kalsem, Alma",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Huxley",
+    "clubs": [
+      "Chi Omega",
+      "Home Economics Club",
+      "Y.W.C.A.",
+      "Glee Club '22, '23",
+      "Hiking '21",
+      "Hockey '21, '22",
+      "Baseball '22",
+      "Basketball '23",
+      "W.A.A.",
+      "\"A\" Sweater"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Karsten, Myra",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Sumner",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Karunaker, P. D.",
+    "gender": "Male",
+    "major": "Farm Crops and Soils",
+    "nicknames": [],
+    "hometown": "Calcutta, India",
+    "clubs": ["Cosmopolitan Club", "Agronomy Club"],
+    "comment": ""
+  },
+  {
+    "name": "Kauffman, Dorothy",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Des Moines",
+    "clubs": ["Kappa Delta"],
+    "comment": ""
+  },
+  {
+    "name": "Kay, E. W.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "hometown": "Nora Springs",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Kellogg, Lester W.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "hometown": "Douglas, Wyoming",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Kendall, L. Verne",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "hometown": "Des Moines",
+    "clubs": ["A.C.E.", "A.S.C.E."],
+    "comment": ""
+  },
+  {
+    "name": "Kessish, Ruth",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Kewanee, Illinois",
+    "clubs": [
+      "Alpha Gamma Delta",
+      "Home Economics Club",
+      "Y.W.C.A.",
+      "Illinois Women's College"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Kent, J. Kenneth",
+    "gender": "Male",
+    "major": "Farm Crops and Soils",
+    "nicknames": [],
+    "hometown": "Dallas Center",
+    "clubs": ["Theta Chi", "Ag Club", "Agronomy Club"],
+    "comment": ""
+  },
+  {
+    "name": "Kern, H. S.",
+    "gender": "Male",
+    "major": "Industrial Science",
+    "nicknames": [],
+    "hometown": "Ames",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "King, Harold P.",
+    "gender": "Male",
+    "major": "Architectural Engineering",
+    "nicknames": [],
+    "hometown": "Sioux City",
+    "clubs": ["Crokets"],
+    "comment": ""
+  },
+  {
+    "name": "King, Herbert",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "hometown": "Bloomfield",
+    "clubs": [
+      "Kappa Sigma",
+      "T.L.B.",
+      "Engineering Council",
+      "1924 Boxing Staff",
+      "Freshman Inter-Fraternity Council",
+      "President Student Voters"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Kipping, G. C.",
+    "gender": "Male",
+    "major": "Architectural Engineering",
+    "nicknames": [],
+    "hometown": "Redfield",
+    "clubs": ["Crokets", "Bachelor", "1923 Boxing Staff"],
+    "comment": ""
+  },
+  {
+    "name": "Kirby, Adrian M.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Keokuk",
+    "clubs": ["Ag Club"],
+    "comment": ""
+  },
+  {
+    "name": "Kirk, Esther",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Oskaloosa",
+    "clubs": ["Penn College"],
+    "comment": ""
+  },
+  {
+    "name": "Kirkham, Bernice P.",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Anita",
+    "clubs": [
+      "Delta Delta Delta",
+      "Masqued Players",
+      "National Collegiate Players",
+      "Home Economics Club",
+      "Y.W.C.A.",
+      "W.A.A.",
+      "Junior Class Play",
+      "Home Economics Vaudeville"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Kirkham, Marguerite",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Ames",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Kiser, Lela",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Wilton",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Knights, Ruth H.",
+    "gender": "Female",
+    "major": "Home Economics and Agriculture",
+    "nicknames": [],
+    "hometown": "Green Mountain",
+    "clubs": [
+      "Jack O'Lantern",
+      "W.A.A.",
+      "Crescent Literary Society",
+      "Agronomics Club",
+      "Y.W.C.A."
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Knoop, Werner C.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "hometown": "Waterloo",
+    "clubs": ["Adelante", "Varsity Football '21, '22"],
+    "comment": ""
+  },
+  {
+    "name": "Knauf, Ralph J.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "hometown": "Des Moines",
+    "clubs": ["Drake University"],
+    "comment": ""
+  },
+  {
+    "name": "Knowles, Nita",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Jesup",
+    "clubs": [
+      "Delta Delta Delta",
+      "Jack O'Lantern",
+      "Sophomore Class Secretary",
+      "Vice President Masqued Players",
+      "National Collegiate Players",
+      "Veterinary Military Sponsor",
+      "Veishea Follies of 1923",
+      "Veishea Play",
+      "The Fatal Necklace Cast",
+      "Junior Class Play",
+      "Clarence Cast",
+      "Rollo's Wild Oat Cast"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Knox, J. Russell",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "hometown": "Ft. Morgan, Colorado",
+    "clubs": ["A.S.C.E."],
+    "comment": ""
+  },
+  {
+    "name": "Knutson, Myrtle M.",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Sioux City",
+    "clubs": [
+      "Chi Omega",
+      "Home Economics Club",
+      "Junior Class President",
+      "Cardinal Guild",
+      "May Fete '22",
+      "Y.W.C.A.",
+      "Girls' Glee Club",
+      "University of Iowa"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Koenitzer, Lester H.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "hometown": "Des Moines",
+    "clubs": ["A.S.C.E.", "A.C.E.", "Cadet Officers Association"],
+    "comment": ""
+  },
+  {
+    "name": "Koster, Louis W.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "hometown": "Waterloo",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Kowalke, Edgar W.",
+    "gender": "Male",
+    "major": "Chemical Engineering",
+    "nicknames": [],
+    "hometown": "Sheldon",
+    "clubs": [
+      "Lambda Chi Alpha",
+      "Inter-Fraternity Council",
+      "Engineering Council",
+      "Freshman Inter-Fraternity Council '20, '21"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Krebe, Mildred S.",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Cedar Rapids",
+    "clubs": ["Home Economics Club", "Y.W.C.A."],
+    "comment": ""
+  },
+  {
+    "name": "Kroeger, Gerald D.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Audubon",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Kruwell, Glenn F.",
+    "gender": "Male",
+    "major": "Industrial Science",
+    "nicknames": [],
+    "hometown": "Marathon",
+    "clubs": [
+      "Hau Ki",
+      "Phi Mu Alpha",
+      "A.M.E.S. Quartette",
+      "Glee Club '22, '23",
+      "Band '21",
+      "Symphony Orchestra '21",
+      "Inter-Local Council"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Kuehl, Alfred C.",
+    "gender": "Male",
+    "major": "Landscape Architecture",
+    "nicknames": [],
+    "hometown": "Davenport",
+    "clubs": [
+      "Delta Upsilon",
+      "Vistonian Club",
+      "Ag Council '22",
+      "Vice-President Ag Council '21",
+      "Vice-President '23",
+      "Junior Class Play"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Landis, Russell B.",
+    "gender": "Male",
+    "major": "Dairy",
+    "nicknames": [],
+    "hometown": "Colesburg",
+    "clubs": ["Dairy Club", "Band '22, '23"],
+    "comment": ""
+  },
+  {
+    "name": "Lane, Walter L.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": ["AA"],
+    "hometown": "Muscatine",
+    "clubs": [
+      "Chi Phi",
+      "Basketball",
+      "Treasurer Engineering Council",
+      "Stewards Club"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Lantz, Reuben S.",
+    "gender": "Male",
+    "major": "Architectural Engineering",
+    "nicknames": [],
+    "hometown": "Boone",
+    "clubs": ["Crocket Society", "University of Minnesota"],
+    "comment": ""
+  },
+  {
+    "name": "Larsen, Ella E.",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Newell",
+    "clubs": ["W.A.A."],
+    "comment": ""
+  },
+  {
+    "name": "Larson, Conrad E.",
+    "gender": "Male",
+    "major": "Agricultural Journalism",
+    "nicknames": [],
+    "hometown": "Cedar Rapids",
+    "clubs": [
+      "Alpha Gamma Rho",
+      "Sigma Delta Chi",
+      "Alpha Mu",
+      "Iowa Agriculturist Staff '21, '22, '23",
+      "President Press Club",
+      "Iowa State Student Staff"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Larson, Florence C.",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Menan, Idaho",
+    "clubs": [
+      "Y.W.C.A.",
+      "Vice-President Red Cross",
+      "Naiad",
+      "W.A.A.",
+      "May Fete '22",
+      "Swimming '21, '22",
+      "Dancing Team '22"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Larson, Harry",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "hometown": "Callender",
+    "clubs": ["Crescent Literary Society", "Scabbard and Blade"],
+    "comment": ""
+  },
+  {
+    "name": "Larson, Roscoe E.",
+    "gender": "Male",
+    "major": "Dairy Husbandry",
+    "nicknames": [],
+    "hometown": "St. Olaf",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "La Rue, Perry",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "hometown": "Jacksonville, Illinois",
+    "clubs": ["A. A. E.", "Illinois College"],
+    "comment": ""
+  },
+  {
+    "name": "Laughlin, Aleta",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Rhodes",
+    "clubs": ["Home Economics Club", "Y. W. C. A.", "Lambda Delta Sigma"],
+    "comment": ""
+  },
+  {
+    "name": "Laughlin, Louis W.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "hometown": "Osage",
+    "clubs": [
+      "Alpha Sigma Phi",
+      "AA Fraternity",
+      "Freshman Football '19",
+      "Varsity Football '20, '21, '22",
+      "A. C. E."
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Lee, Karl",
+    "gender": "Male",
+    "major": "Chemical Engineering",
+    "nicknames": [],
+    "hometown": "Spirit Lake",
+    "clubs": ["Tau Kappa Epsilon", "Chemical Engineering Society"],
+    "comment": ""
+  },
+  {
+    "name": "Lennox, Arthur G.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Council Bluffs",
+    "clubs": [
+      "Beta Theta Pi",
+      "Block and Bridle",
+      "Iowza Agriculturist Staff",
+      "Advertising Manager \"Green Gander\"",
+      "Business Manager Men's Vaudeville '23",
+      "Advertising Manager \"Book of Job\" and \"Tailor Made Man.\""
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Lepley, Kathryn H.",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Conrad",
+    "clubs": [
+      "W. A. A.",
+      "Dancing Team '22",
+      "Crescent Literary Society",
+      "Home Economics Club"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Lewis, Joy",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Ames",
+    "clubs": ["Y. W. C. A.", "Home Economics Club"],
+    "comment": ""
+  },
+  {
+    "name": "Lenzmeier, Mayme A.",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Ames",
+    "clubs": ["Y. W. C. A.", "Home Economics Club"],
+    "comment": ""
+  },
+  {
+    "name": "Li, Chun June",
+    "gender": "Male",
+    "major": "Animal Husbandry and Veterinary Medicine",
+    "nicknames": [],
+    "hometown": "Canton, China",
+    "clubs": [
+      "Chinese Students' Alliance",
+      "Agriculture Society of China",
+      "Chinese Students' Club",
+      "Cosmopolitan Club",
+      "Veterinary Medical Society",
+      "Tsing Hua Scholarship"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Lichtenberg, Rudolph E. O.",
+    "gender": "Male",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "hometown": "Whiting",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Lichty, George C.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "hometown": "Waterloo",
+    "clubs": ["Theta Xi", "Engineering Council", "Inter-Fraternity Council"],
+    "comment": ""
+  },
+  {
+    "name": "Likins, Arthur E.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Orient",
+    "clubs": [
+      "Phi Mu Alpha",
+      "Glee Club",
+      "Ag Club",
+      "Block and Bridle",
+      "Catholic Students Association"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Link, John T.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "hometown": "Ames",
+    "clubs": [
+      "Civil Engineering Society",
+      "Delphian Literary Society",
+      "Iowa Engineer Staff '22, '23"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Lins, Harry D.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Shelby",
+    "clubs": [
+      "Theta Xi",
+      "Block and Bridle",
+      "Boxing",
+      "Class Football",
+      "Track"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Linnan, Joseph C.",
+    "gender": "Male",
+    "major": "Agricultural Economics",
+    "nicknames": [],
+    "hometown": "Maurice",
+    "clubs": ["Amician"],
+    "comment": ""
+  },
+  {
+    "name": "Long, Edith G.",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Wagner, South Dakota",
+    "clubs": ["University of South Dakota"],
+    "comment": ""
+  },
+  {
+    "name": "Little, John F.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "hometown": "Springville",
+    "clubs": ["Delta Upsilon", "Junior Class Play"],
+    "comment": ""
+  },
+  {
+    "name": "Long, Sadie S.",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Wagner, South Dakota",
+    "clubs": ["University of South Dakota"],
+    "comment": ""
+  },
+  {
+    "name": "Longworth, Wallace H.",
+    "gender": "Male",
+    "major": "Industrial Science Bachelors",
+    "nicknames": [],
+    "hometown": "Ames",
+    "clubs": ["Vice-President Science Club", "Junior Class Play"],
+    "comment": ""
+  },
+  {
+    "name": "Lorens, Leonard C.",
+    "gender": "Male",
+    "major": "Industrial Science",
+    "nicknames": [],
+    "hometown": "Ogden",
+    "clubs": [
+      "Chi Phi",
+      "Phi Mu Alpha",
+      "Science Club",
+      "Band '21, '22, '23",
+      "Orchestra '21, '22, '23",
+      "Drake University"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Lougee, Paul H.",
+    "gender": "Male",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "hometown": "Plymouth, New Hampshire",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Lough, William E.",
+    "gender": "Male",
+    "major": "Forestry",
+    "nicknames": [],
+    "hometown": "Estherville",
+    "clubs": ["I. A. F. C.", "Forestry Club"],
+    "comment": ""
+  },
+  {
+    "name": "Lowry, Harry K.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "hometown": "Seymour",
+    "clubs": ["Theta Chi", "A. S. C. E.", "Class Football '21"],
+    "comment": ""
+  },
+  {
+    "name": "Loyd, Frank R.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Gretna, Kansas",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Lucas, Homer",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Greene",
+    "clubs": ["Bachelors", "Ag Club", "Vocational Education Club"],
+    "comment": ""
+  },
+  {
+    "name": "Ludy, Pearl",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Strawberry Point",
+    "clubs": ["Kappa Phi", "Quill Literary Society"],
+    "comment": ""
+  },
+  {
+    "name": "McAllister, Arnold F.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Burlington",
+    "clubs": ["Philomathean", "Block and Bridle", "Ag Club"],
+    "comment": ""
+  },
+  {
+    "name": "McBrie, Harold R.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Des Moines",
+    "clubs": ["Phi Delta Theta Pledge", "Football '23", "Green Gander Staff"],
+    "comment": ""
+  },
+  {
+    "name": "McCarty, Margaret",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Tama",
+    "clubs": [
+      "Alpha Delta Pi",
+      "Secretary, Home Economics Club",
+      "Junior Advisory Board"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "McClarnon, Howard D.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Braddyville",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "McColly, Howard F.",
+    "gender": "Male",
+    "major": "Agricultural Engineering",
+    "nicknames": [],
+    "hometown": "Ames",
+    "clubs": ["A.S.C.E.", "Collegiate Engineers"],
+    "comment": ""
+  },
+  {
+    "name": "McDowell, Walter R.",
+    "gender": "Male",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "hometown": "Clarinda",
+    "clubs": ["Lambda Chi Alpha", "A.C.E.", "Iowa Engineer Staff", "A.S.M.E."],
+    "comment": ""
+  },
+  {
+    "name": "McElvea, C. S.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "hometown": "Ames",
+    "clubs": ["Y.M.C.A. Cabinet"],
+    "comment": ""
+  },
+  {
+    "name": "McGuire, Thomas M.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "hometown": "Des Moines",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "McKiebes, Hazel B.",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Ames",
+    "clubs": [
+      "Kappa Phi",
+      "Delphian",
+      "Y.W.C.A. Public Speaking Council",
+      "Home Economics Club"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "McPheeters, Duncan S.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "hometown": "Harlan",
+    "clubs": ["Electrical Engineering Society"],
+    "comment": ""
+  },
+  {
+    "name": "McVay, Gladys",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Bussey",
+    "clubs": ["Kappa Delta", "Y.W.C.A."],
+    "comment": ""
+  },
+  {
+    "name": "McVey, Ronald L.",
+    "gender": "Male",
+    "major": "Chemical Engineering",
+    "nicknames": [],
+    "hometown": "Ottumwa",
+    "clubs": [
+      "El Paso",
+      "Phi Lambda Upsilon",
+      "A.C.E.",
+      "Iowa Engineer Staff",
+      "Chemical Engineering Society"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Mabie, Floyd L.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "hometown": "Gilbert",
+    "clubs": ["Sigma Pi", "Civil Engineering Society"],
+    "comment": ""
+  },
+  {
+    "name": "MacFarlane, Jean M.",
+    "gender": "Female",
+    "major": "Home Economics and Physical Education",
+    "nicknames": [],
+    "hometown": "Sioux City",
+    "clubs": [
+      "Gamma Phi Beta",
+      "President Freshman Commission",
+      "Sophomore Council",
+      "Junior Advisory Board",
+      "Y.W.C.A.",
+      "Women's Guild",
+      "W.A.A. Council",
+      "Home Economics Club",
+      "Manager of the Girls' Glee Club",
+      "Hockey Team",
+      "Captain Hiking Team",
+      "\"Pinafore\" Cast",
+      "Girls' Quartette",
+      "Delegate to National Y.W.C.A. Convention",
+      "Home Economics Vaudeville"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Macy, Robert W.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Moorcroft, Wyoming",
+    "clubs": [
+      "Sigma Sigma",
+      "Phi Mu Alpha",
+      "Block and Bridle",
+      "Band '21, '22",
+      "Orchestra '21"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Mackey, Gladys N.",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Boone",
+    "clubs": [
+      "Alpha Chi Beta",
+      "Home Economics Club",
+      "Women's Guild",
+      "Hiking '20",
+      "W.A.A. '20",
+      "Y.W.C.A.",
+      "Chapel Choir '21"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Mahaneke, Hazel",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Waterloo",
+    "clubs": ["Delta Delta Delta", "Home Economics Club"],
+    "comment": ""
+  },
+  {
+    "name": "Mahaneke, Marguerite",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Waterloo",
+    "clubs": ["Delta Delta Delta", "Home Economics Club"],
+    "comment": ""
+  },
+  {
+    "name": "Maine, Ralph W.",
+    "gender": "Male",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "hometown": "Des Moines",
+    "clubs": [
+      "Sigma Nu",
+      "Varsity Track '22",
+      "Class Track '21, '22, '23",
+      "Vice Chairman A.S.M.E. '23"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Makepeace, Otis",
+    "gender": "Male",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "hometown": "Osage",
+    "clubs": ["Bachelor", "A.C.E."],
+    "comment": ""
+  },
+  {
+    "name": "Malcolm, Rutie",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Pocahontas",
+    "clubs": ["Delta Delta Delta", "Occidental College"],
+    "comment": ""
+  },
+  {
+    "name": "Malone, Carl C.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Delta",
+    "clubs": ["Bachelors", "Block and Bridle"],
+    "comment": ""
+  },
+  {
+    "name": "Maltas, Kenneth J.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Delmar",
+    "clubs": [
+      "Alpha Gamma Rho",
+      "Alpha Zeta",
+      "Scabbard and Blade",
+      "Ag Council",
+      "Secretary Ag Club",
+      "Block and Bridle",
+      "Hutchinson Medal",
+      "Junior Class Play",
+      "*Rollo's Wild Oat* cast",
+      "Bachelors"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Manthart, Sarah",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Knoxville",
+    "clubs": [
+      "Gamma Phi Beta",
+      "Theta Sigma Phi",
+      "Woman's Editor *Iowa State Student*",
+      "Homemaker Staff",
+      "Women's Guild Home Economics Club",
+      "Y.W.C.A.",
+      "W.A.A.",
+      "Hiking Medal",
+      "College Orchestra",
+      "Home Economics Orchestra",
+      "May Fete",
+      "Home Economics Vaudeville",
+      "Junior Class Play"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Marsh, D. Young",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "hometown": "Webster City",
+    "clubs": ["Eta Kappa Nu"],
+    "comment": ""
+  },
+  {
+    "name": "Merihart, Earl",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "hometown": "Dubuque",
+    "clubs": ["Hau Ki"],
+    "comment": ""
+  },
+  {
+    "name": "Marshman, W. A.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Hubbard",
+    "clubs": ["Ag Club", "Block and Bridle"],
+    "comment": ""
+  },
+  {
+    "name": "Marsh, John L.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "hometown": "Ames",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Martin, Chester W.",
+    "gender": "Male",
+    "major": "Forestry",
+    "nicknames": [],
+    "hometown": "Orange, Mass.",
+    "clubs": [
+      "Delta Upsilon",
+      "Ag Council",
+      "Inter-Fraternity Council",
+      "Vice-President Forestry Club",
+      "Junior Class Play",
+      "Associate Editor *Ames Forester*",
+      "Glee Club"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Martin, Ardath",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Belle Plaine",
+    "clubs": ["Treasurer Women's Guild '22", "Grinnell College"],
+    "comment": ""
+  },
+  {
+    "name": "Maurice, Catherine",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Jefferson",
+    "clubs": [
+      "Y.W.C.A.",
+      "Home Economics Club",
+      "W.A.A.",
+      "Sophomore Council",
+      "Junior Advisory Board"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Maun, Vere P.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "hometown": "Laurel, Nebraska",
+    "clubs": ["A.A.E.", "Ex-Service Men's Rifle Club"],
+    "comment": ""
+  },
+  {
+    "name": "Maxwell, David C.",
+    "gender": "Male",
+    "major": "Farm Crops and Soils",
+    "nicknames": [],
+    "hometown": "What Cheer",
+    "clubs": ["Agronomy Club"],
+    "comment": ""
+  },
+  {
+    "name": "Meadows, Elmer J.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Woodbine El Paso",
+    "clubs": ["Block and Bridle"],
+    "comment": ""
+  },
+  {
+    "name": "Mellinger, H. F.",
+    "gender": "Male",
+    "major": "Agricultural Economics",
+    "nicknames": [],
+    "hometown": "Springfield, Ohio",
+    "clubs": [
+      "Phi Kappa Psi",
+      "Inter-Fraternity Council",
+      "1924 BOMB Staff",
+      "Wittenberg College"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Mellinger, M. J.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Houston, Texas",
+    "clubs": ["Dixie Club", "Band"],
+    "comment": ""
+  },
+  {
+    "name": "Meneough, E. M.",
+    "gender": "Male",
+    "major": "Agricultural Journalism",
+    "nicknames": [],
+    "hometown": "Grimes",
+    "clubs": [
+      "Alpha Gamma Rho",
+      "\"AA\" Fraternity",
+      "Freshman Baseball",
+      "Varsity Baseball",
+      "Football",
+      "Wrestling",
+      "Inter-Fraternity Council",
+      "Iowa State Student Staff",
+      "BOMB Staff",
+      "Press Club"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Mentzer, Phoebe E.",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Marion",
+    "clubs": ["Kappa Delta", "Theta Sigma Phi"],
+    "comment": ""
+  },
+  {
+    "name": "Middleton, Cecil B.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "What Cheer",
+    "clubs": ["Block and Bridle", "Ag Club"],
+    "comment": ""
+  },
+  {
+    "name": "Miller, Albert R.",
+    "gender": "Male",
+    "major": "Veterinary Medicine",
+    "nicknames": [],
+    "hometown": "Reading, Penn.",
+    "clubs": [
+      "Phi Kappa Sigma",
+      "Freshman Track",
+      "Varsity Track '22, '23",
+      "Secretary Veterinary Medical Society"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Miller, Allan",
+    "gender": "Male",
+    "major": "Forestry",
+    "nicknames": [],
+    "hometown": "Des Moines",
+    "clubs": [
+      "El Paso",
+      "Forestry Club",
+      "A. I. S. C.",
+      "James Forester Staff '23"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Miller, McKinley",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "hometown": "Ames",
+    "clubs": ["A. S. C. E."],
+    "comment": ""
+  },
+  {
+    "name": "Miller, Marion",
+    "gender": "Female",
+    "major": "Industrial Science",
+    "nicknames": [],
+    "hometown": "Mediapolis",
+    "clubs": [
+      "Alpha Gamma Delta",
+      "Math Club",
+      "Geneva Club",
+      "Y.W.C.A.",
+      "Women's Guild",
+      "Parsons College"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Miller, R. J.",
+    "gender": "Male",
+    "major": "Architectural Engineering",
+    "nicknames": [],
+    "hometown": "Waterloo",
+    "clubs": ["Phi Delta Theta", "AA Fraternity", "Varsity Basketball"],
+    "comment": ""
+  },
+  {
+    "name": "Milnes, James K.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Downers Grove, IL",
+    "clubs": ["Philomathean", "Kennedy Cup Debates '22, '23", "Ag Club"],
+    "comment": ""
+  },
+  {
+    "name": "Moffit, Alexander",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Mechanicsville",
+    "clubs": ["Theta Chi"],
+    "comment": ""
+  },
+  {
+    "name": "Molison, Wilbur C.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Malcolm",
+    "clubs": [
+      "Theta Delta Chi",
+      "Block and Bridle",
+      "Iowa Agriculturist Staff '21, '22, '23",
+      "Class Track '21, '22"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Mosbee, Marita",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Knoxville",
+    "clubs": ["University of Colorado"],
+    "comment": ""
+  },
+  {
+    "name": "Moore, H. Richard",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "hometown": "Moulton",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Morissey, Veronica",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Ames",
+    "clubs": [
+      "Chi Omega",
+      "C.S.A.",
+      "Sophomore Council",
+      "Junior Advisory Board",
+      "Military Sponsor '22, '23"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Moser, Reuben E.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Osterdock",
+    "clubs": [
+      "Alpha Gamma Rho",
+      "Freshman Baseball",
+      "Varsity Basketball '22, '23"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Mundt, Anne W.",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Whittier, California",
+    "clubs": [
+      "Gamma Phi Beta",
+      "Homemaker Staff",
+      "Home Economics Club",
+      "May Fete '21",
+      "Veishea '22",
+      "Home Economics Vaudeville '21, '22",
+      "University of Southern California"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Murphy, Alfred W.",
+    "gender": "Male",
+    "major": "Dairy Manufacturing",
+    "nicknames": [],
+    "hometown": "Westfield, N.J.",
+    "clubs": [
+      "Sigma Alpha Epsilon",
+      "T.L.B.",
+      "1924 Bomb Staff",
+      "Interfraternity Council"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Murphey, Lawrence A.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "hometown": "Ames",
+    "clubs": ["Beta Theta Pi", "Civil Engineering Society"],
+    "comment": ""
+  },
+  {
+    "name": "Myers, Kenneth",
+    "gender": "Male",
+    "major": "Agricultural Economics",
+    "nicknames": [],
+    "hometown": "Newton",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Myers, Roland B.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "hometown": "Des Moines",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Mygatt, R.F.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Shenandoah",
+    "clubs": ["Alpha Gamma Rho", "Scabbard and Blade"],
+    "comment": ""
+  },
+  {
+    "name": "Nair, Warren F.",
+    "gender": "Male",
+    "major": "Two-Year Agriculture",
+    "nicknames": [],
+    "hometown": "Winterset",
+    "clubs": ["Az Club", "Curtiss Club", "Class Football, '21"],
+    "comment": ""
+  },
+  {
+    "name": "Navarro, Vincent G.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Muntinlupa, Philippine Islands",
+    "clubs": ["Ames Filipino Students Association"],
+    "comment": ""
+  },
+  {
+    "name": "Nelson, Volney C.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "hometown": "Ames",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Newton, Helen J.",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Ponca, Nebraska",
+    "clubs": ["Home Economics Club", "Morningside College"],
+    "comment": ""
+  },
+  {
+    "name": "Nichols, Richard T.",
+    "gender": "Male",
+    "major": "Architectural Engineering",
+    "nicknames": [],
+    "hometown": "Osage",
+    "clubs": ["Sigma Pi", "Vice-President Engineering Council", "Crockets"],
+    "comment": ""
+  },
+  {
+    "name": "Nicholson, Hugh P.",
+    "gender": "Male",
+    "major": "Mining Engineering",
+    "nicknames": [],
+    "hometown": "Ossian",
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Norris, W. J.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Denison",
+    "clubs": [
+      "Delta Tau Delta",
+      "Inter-Fraternity Council '20",
+      "Iosca Agriculturist Staff '20"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "North, Clarence P.",
+    "gender": "Male",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "hometown": "Rock Rapids",
+    "clubs": ["Acacia"],
+    "comment": ""
+  },
+  {
+    "name": "Norton, Robert A.",
+    "gender": "Male",
+    "major": "Agricultural Engineering",
+    "nicknames": [],
+    "hometown": "Rowley",
+    "clubs": ["Welch Literary Society", "A.S.A.E."],
+    "comment": ""
+  },
+  {
+    "name": "Oldham, Elizabeth",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Eddyville",
+    "clubs": ["Omega Pi", "Penn College"],
+    "comment": ""
+  },
+  {
+    "name": "Oesan, Dorothy M.",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Rock Rapids",
+    "clubs": [
+      "Gamma Phi Beta",
+      "Basketball Team '21, '22, '23",
+      "Hockey Team",
+      "Tennis Team",
+      "W.A.A. Council"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Osborne, Dwight H.",
+    "gender": "Male",
+    "major": "Farm Management",
+    "nicknames": [],
+    "hometown": "Walker",
+    "clubs": [
+      "Rural Economics Club",
+      "Ag Club",
+      "Scabbard and Blade",
+      "Captain R.O.T.C."
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Osterlius, Lenora",
+    "gender": "Female",
+    "major": "Home Economics",
+    "nicknames": [],
+    "hometown": "Ruthven",
+    "clubs": ["Glee Club", "St. Olaf College"],
+    "comment": ""
+  },
+  {
+    "name": "Pace, James F.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Marrowbone, Kentucky",
+    "clubs": ["Tau Kappa Epsilon", "Dixie Club", "Ag Club"],
+    "comment": ""
+  },
+  {
+    "name": "Page, Glenn L.",
+    "gender": "Male",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "hometown": "Des Moines",
+    "clubs": ["A.S.M.E.", "A.A.E.", "President Liaison '22"],
+    "comment": ""
+  },
+  {
+    "name": "Paul, Paul",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Clinton",
+    "clubs": [
+      "Delta Upsilon",
+      "Junior Class Play",
+      "Ag Club",
+      "Block and Bridle",
+      "Veishea Play"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Paige, Clayton W.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "hometown": "Fort Dodge",
+    "clubs": [
+      "Delta Tau Delta",
+      "Freshman Basketball '21",
+      "Varsity Tennis '22",
+      "College Championship '21, '22"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Paine, Edwin H.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Eagle Grove",
+    "clubs": ["Delta Upsilon"],
+    "comment": ""
+  },
+  {
+    "name": "Palm, C. Henry",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": ["AA"],
+    "hometown": "Circleville, Ohio",
+    "clubs": [
+      "Theta Delta Chi",
+      "Alpha Zeta",
+      "Block and Bridle",
+      "Football '22",
+      "1924 Bomb Staff"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Paone, Anthony",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "hometown": "Des Moines",
+    "clubs": ["Iowa Engineer Staff '22, '23"],
+    "comment": ""
+  },
+  {
+    "name": "Park, Walter A.",
+    "gender": "Male",
+    "major": "Architectural Engineering",
+    "nicknames": [],
+    "hometown": "Belle Plaine",
+    "clubs": ["Sigma Sigma", "Crockett", "Inter-Local Fraternity Council"],
+    "comment": ""
+  },
+  {
+    "name": "Parker, George E.",
+    "gender": "Male",
+    "major": "Agricultural Engineering",
+    "nicknames": [],
+    "hometown": "Webb",
+    "clubs": ["College Rifle Team '21, '23"],
+    "comment": ""
+  },
+  {
+    "name": "Parkins, G. Gerald",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Derby",
+    "clubs": ["Tau Gamma Nu", "Block and Bridle", "Chapel Choir"],
+    "comment": ""
+  },
+  {
+    "name": "Paul, Francis J.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Grinnell",
+    "clubs": ["Block and Bridle", "Dinsmore Medal '22"],
+    "comment": ""
+  },
+  {
+    "name": "Paxton, Ralph E.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": ["AA"],
+    "hometown": "Boone",
+    "clubs": [
+      "Kappa Sigma",
+      "T. L. B.",
+      "Freshman Basketball '23",
+      "Varsity Basketball '21, '22",
+      "Inter-Fraternity Council"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Pearson, Thelma H.",
+    "gender": "Female",
+    "hometown": "Ottumwa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "clubs": [
+      "W.A.A.",
+      "Y.W.C.A.",
+      "Quill Literary Society",
+      "Chapel Choir",
+      "Home Economics Club"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Pedersen, Eveleth",
+    "gender": "Female",
+    "hometown": "Davenport",
+    "major": "Home Economics",
+    "nicknames": [],
+    "clubs": [
+      "Alpha Chi Beta",
+      "Jack O'Lantern",
+      "Kappa Phi",
+      "Sophomore Council",
+      "Junior Advisory Board",
+      "Home Economics Club",
+      "Y.W.C.A.",
+      "Dancing Team '22"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Pesquite, Gladys",
+    "gender": "Female",
+    "hometown": "Colfax",
+    "major": "Home Economics",
+    "nicknames": [],
+    "clubs": ["Kappa Phi", "Home Economics Club", "Y.W.C.A."],
+    "comment": ""
+  },
+  {
+    "name": "Peppers, Martha E.",
+    "gender": "Female",
+    "hometown": "Ottumwa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "clubs": [
+      "Kappa Delta",
+      "Y.W.C.A.",
+      "Home Economics Club",
+      "Sophomore Council",
+      "Junior Advisory Board"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Pereroom, Frank S.",
+    "gender": "Male",
+    "hometown": "Springfield, Illinois",
+    "major": "Agricultural Economics",
+    "nicknames": [],
+    "clubs": [
+      "Phi Kappa Psi",
+      "Inter-Fraternity Council",
+      "Iowa State Student '22, '23"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Petersen, Carl W.",
+    "gender": "Male",
+    "hometown": "Primghar",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "clubs": ["A.S.M.E."],
+    "comment": ""
+  },
+  {
+    "name": "Petersen, Lucy E.",
+    "gender": "Female",
+    "hometown": "Hancock",
+    "major": "Home Economics",
+    "nicknames": [],
+    "clubs": [
+      "Kappa Phi",
+      "Home Economics Club",
+      "Concert Band '21, '22, '23",
+      "Symphony Orchestra '22, '23",
+      "Y.W.C.A."
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Peterson, Charles D.",
+    "gender": "Male",
+    "hometown": "Ames",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "clubs": ["Alpha Mu", "A.S.M.E."],
+    "comment": ""
+  },
+  {
+    "name": "Peterson, Ina",
+    "gender": "Female",
+    "hometown": "Randall",
+    "major": "Home Economics",
+    "nicknames": [],
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Peterson, J. Merriam",
+    "gender": "Male",
+    "hometown": "Council Bluffs",
+    "major": "Chemistry Technology",
+    "nicknames": [],
+    "clubs": ["Scabbard and Blade"],
+    "comment": ""
+  },
+  {
+    "name": "Peterson, Lawrence J.",
+    "gender": "Male",
+    "hometown": "Griswold",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "clubs": ["R.O.T.C."],
+    "comment": ""
+  },
+  {
+    "name": "Pieper, Elsie",
+    "gender": "Female",
+    "hometown": "West Liberty",
+    "major": "Home Economics",
+    "nicknames": [],
+    "clubs": ["Y.W.C.A.", "Penn College"],
+    "comment": ""
+  },
+  {
+    "name": "Pettinger, Albert N.",
+    "gender": "Male",
+    "hometown": "Creston",
+    "major": "Farm Crops and Soils",
+    "nicknames": [],
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Poush, Hildred",
+    "gender": "Female",
+    "hometown": "Lamoni",
+    "major": "Industrial Science",
+    "nicknames": [],
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Pohlman, Grace",
+    "gender": "Female",
+    "hometown": "Ames",
+    "major": "Industrial Science",
+    "nicknames": [],
+    "clubs": ["Y.W.C.A.", "Science Club"],
+    "comment": ""
+  },
+  {
+    "name": "Preston, Doris",
+    "gender": "Female",
+    "hometown": "Strawberry Point",
+    "major": "Industrial Science",
+    "nicknames": [],
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Powell, Ray",
+    "gender": "Male",
+    "hometown": "Pine Grove, West Virginia",
+    "major": "Vocational Education",
+    "nicknames": [],
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Priem, Harold W.",
+    "gender": "Male",
+    "hometown": "Nora Springs",
+    "major": "Rural Sociology",
+    "nicknames": [],
+    "clubs": [
+      "Chi Phi",
+      "Glee Club '18, '19, '22",
+      "A-M-E-S Quartet '19",
+      "\"Mikado\" Cast",
+      "Ag Club"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Price, Llyra",
+    "gender": "Female",
+    "hometown": "Winterset",
+    "major": "Home Economics",
+    "nicknames": [],
+    "clubs": [
+      "Chi Omega",
+      "Business Staff Iowa Homemaker",
+      "Band",
+      "Symphony Orchestra",
+      "Leader Home Economics Orchestra",
+      "Saxophone Quartet",
+      "Manager Home Economics Vaudeville '22",
+      "Y.W.C.A.",
+      "W.A.A.",
+      "Home Economics Club",
+      "Military Sponsor",
+      "Women's Pan-Hellenic Council"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Proescholdt, Walter H.",
+    "gender": "Male",
+    "hometown": "Manila",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "clubs": ["Cadet Officers Association", "Orchestra"],
+    "comment": ""
+  },
+  {
+    "name": "Prout, Clarence",
+    "gender": "Male",
+    "hometown": "Virginia, Minnesota",
+    "major": "Forestry",
+    "nicknames": [],
+    "clubs": ["A. I. F. C.", "Associate Editor Ames Forester", "Class Track"],
+    "comment": ""
+  },
+  {
+    "name": "Rannels, Jessie M.",
+    "gender": "Female",
+    "hometown": "Dunlap",
+    "major": "Home Economics",
+    "nicknames": [],
+    "clubs": [
+      "Kappa Phi",
+      "W. A. A.",
+      "Y. W. C. A.",
+      "Home Economics Club",
+      "Crescent Literary Society"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Ratcliffe, Bertha",
+    "gender": "Female",
+    "hometown": "Decorah",
+    "major": "Home Economics",
+    "nicknames": [],
+    "clubs": ["Alpha Delta Pi", "Y. W. C. A.", "Home Economics Club"],
+    "comment": ""
+  },
+  {
+    "name": "Rater, John J.",
+    "gender": "Male",
+    "hometown": "Ottumwa",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "clubs": ["Amician", "Ag Club"],
+    "comment": ""
+  },
+  {
+    "name": "Rayness, Ethel",
+    "gender": "Female",
+    "hometown": "Ames",
+    "major": "Home Economics",
+    "nicknames": [],
+    "clubs": ["Y. W. C. A.", "Home Economics Club"],
+    "comment": ""
+  },
+  {
+    "name": "Raynolds, Richard B.",
+    "gender": "Male",
+    "hometown": "Easton, Penn.",
+    "major": "Farm Management",
+    "nicknames": ["AA"],
+    "clubs": [
+      "Phi Gamma Delta",
+      "T. L. B.",
+      "AA Fraternity",
+      "Assistant Editor 1924 Bomb",
+      "Green Gander Staff",
+      "Inter-Mural Council",
+      "Inter-Fraternity Council",
+      "Varsity Track '22, '23",
+      "Junior Class Play"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Read, Franklin E.",
+    "gender": "Male",
+    "hometown": "Grand Rapids, Illinois",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "clubs": ["Theta Chi"],
+    "comment": ""
+  },
+  {
+    "name": "Reck, Frank",
+    "gender": "Male",
+    "hometown": "Gary, Indiana",
+    "major": "Agricultural Journalism",
+    "nicknames": ["Balls Rot"],
+    "clubs": [
+      "Delta Tau Delta",
+      "Sigma Delta Chi",
+      "Cardinal Guild",
+      "Editor Iowa Agriculturist",
+      "Publicity Manager Veishea"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Reed, Russell",
+    "gender": "Male",
+    "hometown": "Cedar",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Reidy, Helen G.",
+    "gender": "Female",
+    "hometown": "Rockwell City",
+    "major": "Home Economics",
+    "nicknames": [],
+    "clubs": ["Alpha Gamma Delta", "Cornell College"],
+    "comment": ""
+  },
+  {
+    "name": "Renz, Carl F.",
+    "gender": "Male",
+    "hometown": "Webster City",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Reynolds, Viola G.",
+    "gender": "Female",
+    "hometown": "Elizabeth, Illinois",
+    "major": "Home Economics",
+    "nicknames": [],
+    "clubs": ["Chi Omega", "Iowa Homemaker Staff", "Y.W.C.A.", "W.A.A."],
+    "comment": ""
+  },
+  {
+    "name": "Richey, Alfred N.",
+    "gender": "Male",
+    "hometown": "Ames",
+    "major": "Veterinary Medicine",
+    "nicknames": [],
+    "clubs": ["Veterinary Medical Society"],
+    "comment": ""
+  },
+  {
+    "name": "Ring, L. N.",
+    "gender": "Male",
+    "hometown": "Ames",
+    "major": "Forestry",
+    "nicknames": [],
+    "clubs": ["Junior Class Play"],
+    "comment": ""
+  },
+  {
+    "name": "Ringland, Joe",
+    "gender": "Male",
+    "hometown": "Wayne, Nebraska",
+    "major": "Farm Crops and Soils",
+    "nicknames": [],
+    "clubs": [
+      "Sigma Alpha Epsilon",
+      "T.L.B.",
+      "Freshman Inter-Fraternity Council",
+      "President Sophomore Class",
+      "Cardinal Guild",
+      "Inter-Fraternity Council",
+      "Sales Manager 1924 BOMB",
+      "Feature Editor 1924 BOMB",
+      "Green Goslings",
+      "Junior Class Play",
+      "Men's Vodvil '23",
+      "Agronomy Club"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Rink, Leslie G.",
+    "gender": "Male",
+    "hometown": "Ft. Morgan, Colorado",
+    "major": "Architectural Engineering",
+    "nicknames": [],
+    "clubs": ["Crokets", "Phi Mu Alpha", "Orchestra"],
+    "comment": ""
+  },
+  {
+    "name": "Robbins, David J.",
+    "gender": "Male",
+    "hometown": "Le Sueur Center, Minn.",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "clubs": ["Hau Ki", "Block and Bridle"],
+    "comment": ""
+  },
+  {
+    "name": "Roberts, Dwight F.",
+    "gender": "Male",
+    "hometown": "Fullerton, California",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "clubs": ["Theta Chi", "A.S.C.E.", "Basketball Squad '22, '23"],
+    "comment": ""
+  },
+  {
+    "name": "Robertson, David D.",
+    "gender": "Male",
+    "hometown": "Lodi, Wisconsin",
+    "major": "Animal Husbandry and Veterinary Medicine",
+    "nicknames": [],
+    "clubs": [
+      "Theta Delta Chi",
+      "Block and Bridle",
+      "Veterinary Medical Society",
+      "Josza Agriculturist Staff '21, '22"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Robertson, Ruth",
+    "gender": "Female",
+    "hometown": "Columbus Junction",
+    "major": "Home Economics",
+    "nicknames": [],
+    "clubs": ["Y.W.C.A.", "Home Economics A Club", "Vocational Education Club"],
+    "comment": ""
+  },
+  {
+    "name": "Robison, Lula",
+    "gender": "Female",
+    "hometown": "Kellogg",
+    "major": "Home Economics",
+    "nicknames": [],
+    "clubs": ["Alpha Gamma Delta", "Junior Advisory Board", "Y.W.C.A."],
+    "comment": ""
+  },
+  {
+    "name": "Schoentag, Julius",
+    "gender": "Male",
+    "hometown": "Strawberry Point",
+    "major": "Agricultural Education",
+    "nicknames": [],
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Rocho, Helen L.",
+    "gender": "Female",
+    "hometown": "Boone",
+    "major": "Industrial Science",
+    "nicknames": [],
+    "clubs": ["Glee Club", "Simpson College"],
+    "comment": ""
+  },
+  {
+    "name": "Robertson, Ruth",
+    "gender": "Female",
+    "hometown": "Columbus Junction",
+    "major": "Home Economics",
+    "nicknames": [],
+    "clubs": ["Y.W.C.A.", "Home Economics Club", "Vocational Education Club"],
+    "comment": ""
+  },
+  {
+    "name": "Sarazine, Gesevieve",
+    "gender": "Female",
+    "hometown": "Spirit Lake",
+    "major": "Home Economics",
+    "nicknames": [],
+    "clubs": [
+      "Home Economics Club",
+      "W.A.A.",
+      "Hiking '20",
+      "Dancing Team '22",
+      "May Pete '22",
+      "Catholic Students Association"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Sanders, Addie M.",
+    "gender": "Female",
+    "hometown": "Iowa Falls",
+    "major": "Home Economics",
+    "nicknames": [],
+    "clubs": ["Kappa Phi", "Home Economics Club", "Y.W.C.A."],
+    "comment": ""
+  },
+  {
+    "name": "Saunders, Charles",
+    "gender": "Male",
+    "hometown": "Dubuque",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "clubs": ["Amician", "Catholic Students Association"],
+    "comment": ""
+  },
+  {
+    "name": "Schlosser, Verne B.",
+    "gender": "Male",
+    "hometown": "Ames",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "clubs": ["Theta Chi", "A.C.E."],
+    "comment": ""
+  },
+  {
+    "name": "Schoenleis, Henry W.",
+    "gender": "Male",
+    "hometown": "Grimes",
+    "major": "Industrial Science",
+    "nicknames": [],
+    "clubs": [
+      "Science Club",
+      "Junior Class Play",
+      "Cadet Officers Association"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Schmidt, Charlotte",
+    "gender": "Female",
+    "hometown": "Monona",
+    "major": "Home Economics",
+    "nicknames": [],
+    "clubs": ["University of Missouri"],
+    "comment": ""
+  },
+  {
+    "name": "Schomberg, Harold J.",
+    "gender": "Male",
+    "hometown": "Muscatine",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "clubs": ["El Paso"],
+    "comment": ""
+  },
+  {
+    "name": "Schoon, Henry F.",
+    "gender": "Male",
+    "hometown": "Manson",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "clubs": ["Theta Xi", "A.S.C.E."],
+    "comment": ""
+  },
+  {
+    "name": "Schweitzer, Albert C.",
+    "gender": "Male",
+    "hometown": "Cedar Rapids",
+    "major": "Architectural Engineering",
+    "nicknames": [],
+    "clubs": ["El Paso", "Crocket Society", "Baseball '24"],
+    "comment": ""
+  },
+  {
+    "name": "Scott, John R.",
+    "gender": "Male",
+    "hometown": "Ames",
+    "major": "Veterinary Medicine",
+    "nicknames": [],
+    "clubs": ["Veterinary Medical Society"],
+    "comment": ""
+  },
+  {
+    "name": "Scoville, C. Wiber",
+    "gender": "Male",
+    "hometown": "Ft. Morgan, Colorado",
+    "major": "Architectural Engineering",
+    "nicknames": [],
+    "clubs": ["Crockets", "Cadet Officers' Association", "Scabbard and Blade"],
+    "comment": ""
+  },
+  {
+    "name": "Shaw, Ruth",
+    "gender": "Female",
+    "hometown": "Des Moines",
+    "major": "Industrial Science",
+    "nicknames": ["Uncle Jimmy", "A Fan and Two Candlesticks"],
+    "clubs": [
+      "Kappa Kappa Gamma",
+      "Junior Class Play",
+      "Home Economics Vaudeville",
+      "Crescent Literary Society",
+      "Drake University"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Shellabarger, Clark A.",
+    "gender": "Male",
+    "hometown": "Letts",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "clubs": [
+      "El Paso",
+      "Poultry Judging Team '22",
+      "Rifle Team '22",
+      "Band '22, '23",
+      "Block and Bridle",
+      "Ag Club"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Sherwood, H. H.",
+    "gender": "Male",
+    "hometown": "Kingsley",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "clubs": ["A.S.M.E.", "Collegiate Boxing"],
+    "comment": ""
+  },
+  {
+    "name": "Shultz, Earl N.",
+    "gender": "Male",
+    "hometown": "Des Moines",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "clubs": ["Block and Bridle", "Philomathean Literary Society", "Ag Club"],
+    "comment": ""
+  },
+  {
+    "name": "Simons, Mary",
+    "gender": "Female",
+    "hometown": "Indianola",
+    "major": "Home Economics",
+    "nicknames": [],
+    "clubs": [
+      "Alpha Gamma Delta",
+      "Y.W.C.A.",
+      "Crescent Literary Society",
+      "Home Economics Club",
+      "Chapel A Choir",
+      "W.A.A."
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Sindt, H. P.",
+    "gender": "Male",
+    "hometown": "Lake Park",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "clubs": [
+      "Tau Kappa Epsilon",
+      "AA Fraternity",
+      "Varsity Football '21, '22",
+      "The Bracelet Cast"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Sjuein, D. L. O.",
+    "gender": "Male",
+    "hometown": "Shenandoah",
+    "major": "Horticulture",
+    "nicknames": [],
+    "clubs": ["Alpha Gamma Rho"],
+    "comment": ""
+  },
+  {
+    "name": "Slanisger, Joseph F.",
+    "gender": "Male",
+    "hometown": "Minburn",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "clubs": ["Block and Bridle", "Welch Literary Society", "C.S.A."],
+    "comment": ""
+  },
+  {
+    "name": "Small, Gilbert W.",
+    "gender": "Male",
+    "hometown": "Wheatland, Wyoming",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Smith, Clarence H.",
+    "gender": "Male",
+    "hometown": "Indiana",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "clubs": ["Simpson College"],
+    "comment": ""
+  },
+  {
+    "name": "Smith, Gilbert L.",
+    "gender": "Male",
+    "hometown": "Hawkeye",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "clubs": ["Ag Club", "Block and Bridle"],
+    "comment": ""
+  },
+  {
+    "name": "Smith, Harold S.",
+    "gender": "Male",
+    "hometown": "Newton",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "clubs": [
+      "Alpha Tau Omega",
+      "Inter-Fraternity Council",
+      "Ag Club",
+      "Junior Class Play",
+      "Pistol Team '21, '22",
+      "Football '21",
+      "Varsity Football '22"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Smith, Kenneth M.",
+    "gender": "Male",
+    "hometown": "Ames",
+    "major": "Ceramic Engineering",
+    "nicknames": [],
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Smith, M. R.",
+    "gender": "Male",
+    "hometown": "Osterdock",
+    "major": "Agricultural Journalism",
+    "nicknames": [],
+    "clubs": [
+      "Lambda Chi Alpha",
+      "Iowa State Student Staff",
+      "Iowa Agriculturist Staff"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Smith, R. H.",
+    "gender": "Male",
+    "hometown": "Newton",
+    "major": "Trades and Industries",
+    "nicknames": [],
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Snyder, J. Edward ",
+    "gender": "Male",
+    "hometown": "Boone",
+    "major": "Chemical Technology",
+    "nicknames": [],
+    "clubs": [
+      "Kappa Sigma",
+      "Scabbard and Blade",
+      "Phi Lambda Upsilon",
+      "\"AA\" Fraternity",
+      "American Chemical Society",
+      "Varsity Football",
+      "Pistol Team"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Sowers, Frank E.",
+    "gender": "Male",
+    "hometown": "Ames",
+    "major": "Industrial Science",
+    "nicknames": [],
+    "clubs": [
+      "Beta Theta Pi",
+      "Iowa State Student Staff '21, '22, '23",
+      "Cardinal Guild '22, '23"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Spencer, E. Merritt",
+    "gender": "Male",
+    "hometown": "Humeston",
+    "major": "Agricultural Education",
+    "nicknames": [],
+    "clubs": ["Ag Club", "Vocational Education Club"],
+    "comment": ""
+  },
+  {
+    "name": "Stahl, Benton M.",
+    "gender": "Male",
+    "hometown": "Chicago, Illinois",
+    "major": "Agricultural Engineering",
+    "nicknames": [],
+    "clubs": ["D.V.M.", "George Washington University"],
+    "comment": ""
+  },
+  {
+    "name": "Stanford, Clydena",
+    "gender": "Female",
+    "hometown": "Fairfield",
+    "major": "Home Economics",
+    "nicknames": [],
+    "clubs": [
+      "Chi Omega",
+      "Masqued Players",
+      "National Collegiate Players",
+      "Cast \"Overtones\"",
+      "Cast \"Rollo's Wild Oat\"",
+      "Cast \"The Clod\"",
+      "Iowa Homemaker Staff '23",
+      "May Fete '21",
+      "Los Angeles Junior College"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Stanke, Lora A.",
+    "gender": "Female",
+    "hometown": "Chicago, Illinois",
+    "major": "Domestic Science",
+    "nicknames": [],
+    "clubs": ["A.D.E.", "1922 Lewis Institute, Chicago"],
+    "comment": ""
+  },
+  {
+    "name": "Stanley, C. L.",
+    "gender": "Male",
+    "hometown": "Earlham",
+    "major": "Veterinary Medicine",
+    "nicknames": [],
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Stein, Meyer",
+    "gender": "Male",
+    "hometown": "Dubuque",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "clubs": ["Iowa State Student Staff '22, '23"],
+    "comment": ""
+  },
+  {
+    "name": "Stienbrecher, Harold F.",
+    "gender": "Male",
+    "hometown": "Burlington",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "clubs": [
+      "Theta Chi",
+      "American Society of Civil Engineers",
+      "Cadet Officer's Association",
+      "Class Wrestling",
+      "Football '21"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Stevens, Lee C.",
+    "gender": "Male",
+    "hometown": "Ames",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Stevens, Willard W.",
+    "gender": "Male",
+    "hometown": "Pecatonica, Illinois",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "clubs": ["Cadet Officers Association"],
+    "comment": ""
+  },
+  {
+    "name": "Stewart, Alice M.",
+    "gender": "Female",
+    "hometown": "Harlan",
+    "major": "Home Economics",
+    "nicknames": [],
+    "clubs": ["Alpha Chi Beta", "Y.W.C.A.", "Home Economics Club"],
+    "comment": ""
+  },
+  {
+    "name": "Stewart, R. T.",
+    "gender": "Male",
+    "hometown": "Waterloo",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "clubs": ["Kappa Sigma"],
+    "comment": ""
+  },
+  {
+    "name": "Stockdale, Guy A.",
+    "gender": "Male",
+    "hometown": "Aplington",
+    "major": "Pomology",
+    "nicknames": [],
+    "clubs": [
+      "Crescent Literary Society",
+      "Ag Club",
+      "Treasurer Horticulture Club '22, '23",
+      "Fruit Judging Team '22",
+      "Y.M.C.A. Promotion Force"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Stolley, Lenore Ione",
+    "gender": "Female",
+    "hometown": "Moorhead",
+    "major": "Home Economics",
+    "nicknames": [],
+    "clubs": ["Home Economics Club", "Y.W.C.A.", "W.A.A."],
+    "comment": ""
+  },
+  {
+    "name": "Stoutenberg, Lillian A.",
+    "gender": "Female",
+    "hometown": "Algona",
+    "major": "Home Economics",
+    "nicknames": [],
+    "clubs": [
+      "Alpha Chi Beta",
+      "W.A.A.",
+      "Home Economics Club",
+      "Hiking '19",
+      "Y.W.C.A.",
+      "Chapel Choir",
+      "May Fete '19",
+      "Junior Advisory Board",
+      "Cast \"Uncle Jimmy\"",
+      "Cast \"Fingerbowl and Araminta.\""
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Sturk, Earl E.",
+    "gender": "Male",
+    "hometown": "Mount Ayr",
+    "major": "Agricultural Engineering",
+    "nicknames": [],
+    "clubs": ["American Society of Agricultural Engineers"],
+    "comment": ""
+  },
+  {
+    "name": "Sullivan, Marie C.",
+    "gender": "Female",
+    "hometown": "Chicago, Illinois",
+    "major": "Industrial Science",
+    "nicknames": [],
+    "clubs": [
+      "Sigma Kappa",
+      "Sophomore Council",
+      "Junior Advisory Board",
+      "Industrial Science Club",
+      "Y.W.C.A."
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Sunderlin, Edith",
+    "gender": "Female",
+    "hometown": "Ames",
+    "major": "Home Economics",
+    "nicknames": [],
+    "clubs": ["Kappa Delta"],
+    "comment": ""
+  },
+  {
+    "name": "Sweetser, Esther M.",
+    "gender": "Female",
+    "hometown": "Reinbeck",
+    "major": "Home Economics",
+    "nicknames": [],
+    "clubs": ["Home Economics Club"],
+    "comment": ""
+  },
+  {
+    "name": "Tague, W. H.",
+    "gender": "Male",
+    "hometown": "Osage",
+    "major": "Agricultural Engineering",
+    "nicknames": [],
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Talsma, Margaret",
+    "gender": "Female",
+    "hometown": "Springfield, S.D.",
+    "major": "Home Economics",
+    "nicknames": [],
+    "clubs": ["Y.W.C.A.", "Home Economics Club", "State Teachers' College"],
+    "comment": ""
+  },
+  {
+    "name": "Taylor, David L.",
+    "gender": "Male",
+    "hometown": "Knapp, Wisconsin",
+    "major": "Dairy Husbandry",
+    "nicknames": [],
+    "clubs": [
+      "Welch Literary Society",
+      "Block and Bridle",
+      "Little Country Theatre",
+      "Junior Class Play"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Test, Harold Z.",
+    "gender": "Male",
+    "hometown": "Paullina",
+    "major": "Agricultural Economics",
+    "nicknames": [],
+    "clubs": [
+      "Sigma Chi",
+      "T.L.B.",
+      "Scabbard and Blade",
+      "Business Manager 1924 Bomb",
+      "President Freshman Class",
+      "Cardinal Guild",
+      "Freshman Inter-Fraternity Council",
+      "Lieutenant, R.O.T.C.",
+      "Y.M.C.A."
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Textrum, Myron D.",
+    "gender": "Male",
+    "hometown": "Ames",
+    "major": "Farm Crops and Soils",
+    "nicknames": [],
+    "clubs": [
+      "Scabbard and Blade",
+      "Ag Council",
+      "Officer Agronomy Club",
+      "Cadet Captain",
+      "Officers Club",
+      "Ag Club"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Thompson, Noel M.",
+    "gender": "Male",
+    "hometown": "Huron, South Dakota",
+    "major": "Farm Crops and Soils",
+    "nicknames": [],
+    "clubs": ["Sigma Phi Epsilon"],
+    "comment": ""
+  },
+  {
+    "name": "Thompson, Noel M.",
+    "gender": "Male",
+    "hometown": "Huron, South Dakota",
+    "major": "Chemical Engineering",
+    "nicknames": [],
+    "clubs": ["Lambda Chi Alpha", "Iowa Engineer Staff"],
+    "comment": ""
+  },
+  {
+    "name": "Thompson, Tholmer J.",
+    "gender": "Male",
+    "hometown": "Marshalltown",
+    "major": "Chemical Engineering",
+    "nicknames": [],
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Thorne, Grata",
+    "gender": "Female",
+    "hometown": "Fredericksburg",
+    "major": "Home Economics",
+    "nicknames": [],
+    "clubs": [
+      "Sigma Kappa",
+      "Jack O'Lantern",
+      "Iowa State Student Staff",
+      "Junior Advisory Board",
+      "Sophomore Council",
+      "Freshman Commission",
+      "Home Economics Publicity Committee",
+      "Y.W.C.A. Publicity Committee",
+      "Iowa Homemaker Staff"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Thorpe, Ruth",
+    "gender": "Female",
+    "hometown": "Grimes",
+    "major": "Home Economics",
+    "nicknames": [],
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Thorson, Wilbur R.",
+    "gender": "Male",
+    "hometown": "Radcliffe",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "clubs": ["A.I.E.E.", "A.S.C.E.", "Ellsworth College '20"],
+    "comment": ""
+  },
+  {
+    "name": "Tillotson, Beiton F.",
+    "gender": "Male",
+    "hometown": "Montpelier, Vermont",
+    "major": "Agricultural Education",
+    "nicknames": [],
+    "clubs": [
+      "Adelante",
+      "President Vocational Educational Club",
+      "Ag Council"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Tineleff, Howard C.",
+    "gender": "Male",
+    "hometown": "Clinton",
+    "major": "Industrial Science",
+    "nicknames": [],
+    "clubs": ["Hau Ki"],
+    "comment": ""
+  },
+  {
+    "name": "Tracey, Albert H.",
+    "gender": "Male",
+    "hometown": "Clarion",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "clubs": ["Ausonia"],
+    "comment": ""
+  },
+  {
+    "name": "Turner, John H. Jr.",
+    "gender": "Male",
+    "hometown": "DeWitt",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "clubs": [
+      "Ag Club",
+      "Block and Bridle",
+      "Bachelor Literary Society",
+      "Track",
+      "1924 Bomb Staff",
+      "Advanced R.O.T.C."
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Tuttle, Florence M.",
+    "gender": "Female",
+    "hometown": "Norway",
+    "major": "Home Economics",
+    "nicknames": [],
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Uehling, Theodore",
+    "gender": "Male",
+    "hometown": "Oakland, Nebraska",
+    "major": "Agricultural Economics",
+    "nicknames": [],
+    "clubs": [
+      "Acacia",
+      "Alpha Zeta",
+      "Inter-Fraternity Council",
+      "Ag Council",
+      "Iowa Agriculturist Staff",
+      "President Rural Economics Club"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Wilsey, F. E.",
+    "gender": "Male",
+    "hometown": "Dubuque",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Urmy, Ralph B.",
+    "gender": "Male",
+    "hometown": "Pittsburgh, Penn.",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "clubs": [
+      "Beta Theta Pi",
+      "Masqued Players",
+      "National Collegiate Players",
+      "N.C.P.",
+      "Scabbard and Blade",
+      "Glee Club",
+      "Ag Club",
+      "Veishea Committee '23",
+      "Cast \"Clarence\"",
+      "Cast \"A Tailor Made Man\"",
+      "Cast \"Rolls's Wild Oar\"",
+      "Cast \"The Mandarin\"",
+      "Men's Vodvil '23",
+      "Cast \"The Fatal Necklace\""
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Vandervelde, William",
+    "gender": "Male",
+    "hometown": "Emmetsburg",
+    "major": "Architectural Engineering",
+    "nicknames": [],
+    "clubs": ["Crocket Society", "Swimming Team '22"],
+    "comment": ""
+  },
+  {
+    "name": "Van Nice, James A.",
+    "gender": "Male",
+    "hometown": "Ame",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "clubs": ["Ag Club", "Officers Club", "Rifle Team R.O.T.C. '21, '22"],
+    "comment": ""
+  },
+  {
+    "name": "Van Slyke, Frances L.",
+    "gender": "Female",
+    "hometown": "Manilla",
+    "major": "Industrial Science",
+    "nicknames": [],
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Verral, Victor",
+    "gender": "Male",
+    "hometown": "Britt",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Victor, Elmer M.",
+    "gender": "Male",
+    "hometown": "Villisca",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Vinson, Helen",
+    "gender": "Female",
+    "hometown": "Algona",
+    "major": "Home Economics",
+    "nicknames": [],
+    "clubs": [
+      "Alpha Gamma Delta",
+      "Jack O' Lantern",
+      "Woman's Guild",
+      "President W.A.A.",
+      "Pan-Hellenic Council"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Voggenthaler, Albert L.",
+    "gender": "Male",
+    "hometown": "Dubuque",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "clubs": [
+      "Delta Upsilon",
+      "A.S.M.E.",
+      "Circulation Manager Iowa State Student '22",
+      "President Porpoise Club"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Wallace, Harriett A.",
+    "gender": "Female",
+    "hometown": "Mondamin",
+    "major": "Home Economics",
+    "nicknames": [],
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Wadson, Helen",
+    "gender": "Female",
+    "hometown": "Fort Dodge",
+    "major": "Home Economics",
+    "nicknames": [],
+    "clubs": [
+      "Sigma Kappa",
+      "Pan-Hellenic Council",
+      "Home Economics Club",
+      "Women's Citizenship Council",
+      "Y.W.C.A."
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Walsh, William L.",
+    "gender": "Male",
+    "hometown": "Scottsboro, Alabama",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Wallis, Edward E.",
+    "gender": "Male",
+    "hometown": "Fort Madison",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "clubs": ["A.S.M.E."],
+    "comment": ""
+  },
+  {
+    "name": "Walter, Vivian Alice",
+    "gender": "Female",
+    "hometown": "Beaman",
+    "major": "Home Economics",
+    "nicknames": [],
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Waterman, M. O.",
+    "gender": "Male",
+    "hometown": "Newell",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Weiss, Theodore W.",
+    "gender": "Male",
+    "hometown": "Denison",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "clubs": ["Sigma Chi", "Block and Bridle"],
+    "comment": ""
+  },
+  {
+    "name": "Watkins, Roy L.",
+    "gender": "Male",
+    "hometown": "Keosauqua",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "clubs": [
+      "Welch Literary Society",
+      "Block and Bridle",
+      "Poultry Judging Team '23",
+      "Charles Grey Medal '21"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Whirrett, Kenneth M.",
+    "gender": "Male",
+    "hometown": "Pulaski",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "clubs": ["Ag Club", "Philomathean Literary Society"],
+    "comment": ""
+  },
+  {
+    "name": "Westch, Barbara",
+    "gender": "Female",
+    "hometown": "Ames",
+    "major": "Industrial Science",
+    "nicknames": [],
+    "clubs": [
+      "Alpha Gamma Delta",
+      "Jack O' Lantern",
+      "Woman's Athletic Council",
+      "Secretary W. A. A.",
+      "Heavy Apparatus Cup '23"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "White, Warren L.",
+    "gender": "Male",
+    "hometown": "Oakland",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "clubs": ["Ausonia", "Iowa Agriculturist Staff '20, '21, '22"],
+    "comment": ""
+  },
+  {
+    "name": "White, Elmyra Adelaide",
+    "gender": "Female",
+    "hometown": "Sutherland, Nebraska",
+    "major": "Home Economics",
+    "nicknames": [],
+    "clubs": ["Gamma Phi Beta", "Home Economics Club", "Y. W. C. A."],
+    "comment": ""
+  },
+  {
+    "name": "Wiant, D. Emerson",
+    "gender": "Male",
+    "hometown": "Huntington Mills, Pennsylvania",
+    "major": "Agricultural Engineering",
+    "nicknames": [],
+    "clubs": ["A. S. A. E."],
+    "comment": ""
+  },
+  {
+    "name": "Whitefield, W. A.",
+    "gender": "Male",
+    "hometown": "Laurens",
+    "major": "Industrial Science",
+    "nicknames": [],
+    "clubs": [
+      "Kappa Sigma",
+      "Sigma Delta Chi",
+      "Green Goslings",
+      "News Editor Iowa State Student",
+      "1924 BOMB Staff",
+      "Debating '23",
+      "Bachelors A Literary Society"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Wilbur, Dee",
+    "gender": "Male",
+    "hometown": "Hawkeye",
+    "major": "Home Economics",
+    "nicknames": [],
+    "clubs": ["Alpha Delta Pi"],
+    "comment": ""
+  },
+  {
+    "name": "Wilkinson, Roger I.",
+    "gender": "Male",
+    "hometown": "Mason City",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "clubs": ["Chi Phi", "Mathematics Club", "Mason City Junior College"],
+    "comment": ""
+  },
+  {
+    "name": "Wilkinson, Florence",
+    "gender": "Female",
+    "hometown": "Mason City",
+    "major": "Home Economics",
+    "nicknames": [],
+    "clubs": ["Gamma Phi Beta"],
+    "comment": ""
+  },
+  {
+    "name": "Williams, Paul G.",
+    "gender": "Male",
+    "hometown": "Villisca",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "clubs": ["Block and Bridle", "Ag Club", "Philomathean Literary Society"],
+    "comment": ""
+  },
+  {
+    "name": "Williams, Marshall T.",
+    "gender": "Male",
+    "hometown": "Aberdeen, S.D.",
+    "major": "Dairy Husbandry",
+    "nicknames": [],
+    "clubs": ["Coyote Club"],
+    "comment": ""
+  },
+  {
+    "name": "Wilson, Amelia J.",
+    "gender": "Female",
+    "hometown": "Des Moines",
+    "major": "Home Economics",
+    "nicknames": [],
+    "clubs": ["Kappa Delta", "Y.W.C.A. Cabinet", "Home Economics Club"],
+    "comment": ""
+  },
+  {
+    "name": "Wilsey, F. Eugene",
+    "gender": "Male",
+    "hometown": "Sheldon",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Wilson, Marian",
+    "gender": "Female",
+    "hometown": "West Liberty",
+    "major": "Home Economics",
+    "nicknames": [],
+    "clubs": ["Kappa Phi", "Y.W.C.A.", "W.A.A.", "Home Economics Club"],
+    "comment": ""
+  },
+  {
+    "name": "Wilson, Ruth Elaine",
+    "gender": "Female",
+    "hometown": "Breda",
+    "major": "Industrial Science",
+    "nicknames": [],
+    "clubs": [
+      "Chi Omega",
+      "Freshman Commission",
+      "Sophomore Council",
+      "Y.W.C.A. Cabinet",
+      "Junior Advisory Board",
+      "Woman's Guild",
+      "Author of Scenario and Lyrics \"Magic Melody\"",
+      "Veishea '23",
+      "Sponsor R.O.T.C."
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Wilbern, Velda L.",
+    "gender": "Female",
+    "hometown": "Des Moines",
+    "major": "Home Economics",
+    "nicknames": [],
+    "clubs": [
+      "Delta Delta Delta",
+      "Drake University",
+      "University of Illinois"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Wind, Opal M.",
+    "gender": "Female",
+    "hometown": "Omaha, Nebraska",
+    "major": "Home Economics",
+    "nicknames": [],
+    "clubs": ["Alpha Gamma Delta"],
+    "comment": ""
+  },
+  {
+    "name": "Winter, William F.",
+    "gender": "Male",
+    "hometown": "Ames",
+    "major": "Dairy",
+    "nicknames": [],
+    "clubs": ["Dairy Club"],
+    "comment": ""
+  },
+  {
+    "name": "Wintersteens, Grace",
+    "gender": "Female",
+    "hometown": "Akron",
+    "major": "Home Economics",
+    "nicknames": [],
+    "clubs": ["Glee Club", "University of Iowa"],
+    "comment": ""
+  },
+  {
+    "name": "Wogens, Carroll A.",
+    "gender": "Male",
+    "hometown": "Clinton",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "clubs": [
+      "Delta Upsilon",
+      "Sigma Delta Chi",
+      "Iowa State Student Staff",
+      "Men's Vaudeville",
+      "Junior Class Play",
+      "Class Track '22"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Wolfe, Helen Louise",
+    "gender": "Female",
+    "hometown": "Keokuk",
+    "major": "Home Economics",
+    "nicknames": [],
+    "clubs": ["Glee Club", "Chapel Choir", "University of Iowa"],
+    "comment": ""
+  },
+  {
+    "name": "Wolff, Robert H.",
+    "gender": "Male",
+    "hometown": "Davenport",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "clubs": ["A.S.M.E.", "Baseball"],
+    "comment": ""
+  },
+  {
+    "name": "Wooddell, Lora L.",
+    "gender": "Female",
+    "hometown": "Prairie City",
+    "major": "Home Economics",
+    "nicknames": [],
+    "clubs": ["Chi Omega"],
+    "comment": ""
+  },
+  {
+    "name": "Woods, Florence H.",
+    "gender": "Female",
+    "hometown": "Ames",
+    "major": "Industrial Science",
+    "nicknames": [],
+    "clubs": ["Kappa Phi", "Delphian Literary Society", "Glee Club"],
+    "comment": ""
+  },
+  {
+    "name": "Woods, Manford H.",
+    "gender": "Male",
+    "hometown": "Ames",
+    "major": "Industrial Science",
+    "nicknames": [],
+    "clubs": ["Alpha Tau Omega", "Industrial Science Club"],
+    "comment": ""
+  },
+  {
+    "name": "Worley, L. E.",
+    "gender": "Male",
+    "hometown": "Shellsburg",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "clubs": [
+      "Sigma Nu",
+      "Freshman Inter-Fraternity Council '20",
+      "Engineering Council",
+      "Assistant Business Manager 1924 Bomb"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Wright, Florence",
+    "gender": "Female",
+    "hometown": "Ames",
+    "major": "Home Economics",
+    "nicknames": [],
+    "clubs": [
+      "Omega Pi",
+      "Jack O'Lantern",
+      "W.A.A.",
+      "Hiking",
+      "Swimming",
+      "Hockey",
+      "Kappa Phi",
+      "Junior Class Play",
+      "Home Economics Club"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Wright, Max",
+    "gender": "Male",
+    "hometown": "Maquoketa",
+    "major": "Forestry",
+    "nicknames": [],
+    "clubs": ["Alpha Kappa Delta"],
+    "comment": ""
+  },
+  {
+    "name": "Young, Ira",
+    "gender": "Male",
+    "hometown": "Jefferson",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "clubs": [
+      "Sigma Alpha Epsilon",
+      "A.A. Fraternity",
+      "Treasurer Sophomore Class",
+      "Freshman Football",
+      "Freshman Basketball",
+      "Varsity Football, '21, '22",
+      "Football Captain-elect, '23",
+      "Varsity Basketball, '21, '22, '23",
+      "Varsity Tennis, '22",
+      "Cardinal Guild",
+      "Inter-Fraternity Council"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Wyman, J. Wallace",
+    "gender": "Male",
+    "hometown": "Des Moines",
+    "major": "Commercial Dairying",
+    "nicknames": [],
+    "clubs": ["Phi Gamma Delta", "Dairy Club"],
+    "comment": ""
+  },
+  {
+    "name": "Youngclas, Claire",
+    "gender": "Female",
+    "hometown": "Webster City",
+    "major": "Home Economics",
+    "nicknames": [],
+    "clubs": [
+      "Home Economics Club",
+      "Sigma Kappa",
+      "Point Supervisor of Woman's Guild",
+      "Y.W.C.A. Cabinet",
+      "Y.W.C.A. Membership Chairman",
+      "Josva Homemaker Staff",
+      "Veishea Committee '23",
+      "Hec. Vaudeville"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Yount, Marion E.",
+    "gender": "Female",
+    "hometown": "Independence",
+    "major": "Vocational Education",
+    "nicknames": [],
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Zerbe, Mason S.",
+    "gender": "Male",
+    "hometown": "Omaha, Nebraska",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "clubs": ["Delta Tau Delta", "T.L.B."],
+    "comment": ""
+  },
+  {
+    "name": "Zeman, Edward M.",
+    "gender": "Male",
+    "hometown": "Humboldt",
+    "major": "Agricultural Education",
+    "nicknames": [],
+    "clubs": [
+      "Ag Club",
+      "Vocational Education Club",
+      "Cosmopolitan Club",
+      "Y.M.C.A.",
+      "Conference Lake Geneva",
+      "Leader Student Volunteer Band",
+      "Gospel Team '21"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Zink, Franklin J.",
+    "gender": "Male",
+    "hometown": "Green Mountain",
+    "major": "Agricultural Engineering",
+    "nicknames": [],
+    "clubs": ["Adelante", "Ag Council", "A.S.A.E. 130"],
+    "comment": ""
+  },
+  {
+    "name": "Alleugh, Mrs. F. G.",
+    "gender": "Female",
+    "hometown": "Ames",
+    "major": "Home Economics",
+    "nicknames": [],
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Andersen, Andrew C. P.",
+    "gender": "Male",
+    "hometown": "Iowa City",
+    "major": "Agriculture",
+    "nicknames": [],
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Ainsworth, Sterling",
+    "gender": "Male",
+    "hometown": "Fort Dodge",
+    "major": "Agriculture",
+    "nicknames": [],
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Baird, Lee R.",
+    "gender": "Male",
+    "hometown": "Webster City",
+    "major": "Agriculture",
+    "nicknames": [],
+    "clubs": ["Curtiss Club"],
+    "comment": ""
+  },
+  {
+    "name": "Arp, Alvin D.",
+    "gender": "Male",
+    "hometown": "Eldridge",
+    "major": "Agriculture",
+    "nicknames": [],
+    "clubs": ["Upsilon Sigma Alpha", "Ag Club", "Curtiss Club"],
+    "comment": ""
+  },
+  {
+    "name": "Bean, Mrs. Leslie H.",
+    "gender": "Female",
+    "hometown": "Ames",
+    "major": "Home Economics",
+    "nicknames": [],
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Baker, O. W.",
+    "gender": "Male",
+    "hometown": "Vinton",
+    "major": "Agriculture",
+    "nicknames": [],
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Bean, Leslie H.",
+    "gender": "Male",
+    "hometown": "Reasnor",
+    "major": "Electric Engineering",
+    "nicknames": [],
+    "clubs": [
+      "Trades and Industries",
+      "Ex-Service Men",
+      "Rifle Club",
+      "A.I.E.E."
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Belles, Cecil G.",
+    "gender": "Male",
+    "hometown": "Blakesburg",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Brown, C. N.",
+    "gender": "Male",
+    "hometown": "Deep River",
+    "major": "Agriculture",
+    "nicknames": [],
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Calvert, William H.",
+    "gender": "Male",
+    "hometown": "Benton, Wisconsin",
+    "major": "Agriculture",
+    "nicknames": [],
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Christiansen, Herman",
+    "gender": "Male",
+    "hometown": "Walnut",
+    "major": "Agriculture",
+    "nicknames": [],
+    "clubs": [
+      "Ag Council",
+      "Non-Collegiate Class Treasurer '24",
+      "Vice President Non-Collegiate Class '23"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Cole, Clifford",
+    "gender": "Male",
+    "hometown": "East Pleasant Plain",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "De Kraay, George W.",
+    "gender": "Male",
+    "hometown": "Orange City",
+    "major": "Poultry Husbandry",
+    "nicknames": [],
+    "clubs": [
+      "American Legion",
+      "Veteran of Foreign Wars",
+      "Disabled American Veterans of World Wars",
+      "Curtiss Club"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "DeWitt, R. S.",
+    "gender": "Male",
+    "hometown": "Newton",
+    "major": "Electric Engineering",
+    "nicknames": [],
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Dorman, Newel B.",
+    "gender": "Male",
+    "hometown": "Aurora",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "clubs": [
+      "American Legion",
+      "Veterans of Foreign Wars",
+      "Trades and Industries Society",
+      "Ames Engineers"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Doscher, Herman J.",
+    "gender": "Male",
+    "hometown": "Baldwin, N.Y.",
+    "major": "Agriculture",
+    "nicknames": [],
+    "clubs": [
+      "Upsilon Sigma Alpha",
+      "President Non-Collegiate Class",
+      "Curtiss Club",
+      "Basketball"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Field, Philip E.",
+    "gender": "Male",
+    "hometown": "Shenandoah",
+    "major": "Agriculture",
+    "nicknames": [],
+    "clubs": ["Bachelors"],
+    "comment": ""
+  },
+  {
+    "name": "Grothe, William F.",
+    "gender": "Male",
+    "hometown": "Milbank, S.D.",
+    "major": "Structural Engineering",
+    "nicknames": [],
+    "clubs": ["Trades and Industries Society", "A.C.E."],
+    "comment": ""
+  },
+  {
+    "name": "Hagan, Chester",
+    "gender": "Male",
+    "hometown": "Atkins",
+    "major": "Agriculture",
+    "nicknames": [],
+    "clubs": ["Ag Club"],
+    "comment": ""
+  },
+  {
+    "name": "Hawkinson, Reuben C.",
+    "gender": "Male",
+    "hometown": "Ottumwa",
+    "major": "Agriculture",
+    "nicknames": [],
+    "clubs": ["Curtiss Club", "Ag Club"],
+    "comment": ""
+  },
+  {
+    "name": "Kline, Leslie E.",
+    "gender": "Female",
+    "hometown": "Conrad",
+    "major": "Agriculture",
+    "nicknames": [],
+    "clubs": ["Upsilon Sigma Alpha", "Curtiss Club", "Ag Club"],
+    "comment": ""
+  },
+  {
+    "name": "Langmaid, Vern",
+    "gender": "Male",
+    "hometown": "Newton",
+    "major": "Agriculture",
+    "nicknames": [],
+    "clubs": ["Curtiss Club", "Class Football '21, '22"],
+    "comment": ""
+  },
+  {
+    "name": "Mann, Alvin W.",
+    "gender": "Male",
+    "hometown": "Malcom",
+    "major": "Agriculture",
+    "nicknames": [],
+    "clubs": ["Upsilon Sigma Alpha", "Ag Club", "Curtiss Club"],
+    "comment": ""
+  },
+  {
+    "name": "Mathre, Albert S.",
+    "gender": "Male",
+    "hometown": "Stanhope",
+    "major": "Agriculture",
+    "nicknames": [],
+    "clubs": ["Curtiss Club", "Ag Club"],
+    "comment": ""
+  },
+  {
+    "name": "Maupin, Harris Q.",
+    "gender": "Male",
+    "hometown": "Columbia, Mo.",
+    "major": "Structural Engineering",
+    "nicknames": [],
+    "clubs": ["Trades and Industries Society", "Ex-Service Men's Rifle Club"],
+    "comment": ""
+  },
+  {
+    "name": "Peters, James T.",
+    "gender": "Male",
+    "hometown": "York, Nebraska",
+    "major": "Structural Engineering",
+    "nicknames": [],
+    "clubs": [
+      "Gamma Sigma Alpha",
+      "President Trades and Industries Society",
+      "Treasurer Non-Collegiate Class"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Melsha, George O.",
+    "gender": "Male",
+    "hometown": "Cedar Rapids",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "clubs": ["Upsilon Sigma Alpha", "Class Basketball", "Class Baseball"],
+    "comment": ""
+  },
+  {
+    "name": "Pose, Walter A.",
+    "gender": "Male",
+    "hometown": "Marshalltown",
+    "major": "Agriculture",
+    "nicknames": [],
+    "clubs": [
+      "Upsilon Sigma Alpha",
+      "Class Basketball",
+      "Curtiss Club",
+      "Ag Club",
+      "Ag Council '22"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Peterson, Lawrence",
+    "gender": "Male",
+    "hometown": "Council Bluffs",
+    "major": "Roadmaking",
+    "nicknames": [],
+    "clubs": ["Trades and Industries Society", "A.C.E.A. 134"],
+    "comment": ""
+  },
+  {
+    "name": "Robertson, E. J.",
+    "gender": "Male",
+    "hometown": "Ottumwa",
+    "major": "Agriculture",
+    "nicknames": [],
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Shaffar, Glenn L.",
+    "gender": "Male",
+    "hometown": "Imogene",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "clubs": [
+      "Upsilon Sigma Alpha",
+      "Engineer's Council",
+      "Cardinal Guild",
+      "Class President '23",
+      "Secretary Trades and Industries Society",
+      "Class Football",
+      "Class Basketball",
+      "Class Baseball"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Spencer, Bernice",
+    "gender": "Female",
+    "hometown": "Woodward",
+    "major": "Home Economics",
+    "nicknames": [],
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Singer, Epta",
+    "gender": "Female",
+    "hometown": "Sheldon",
+    "major": "Home Economics",
+    "nicknames": [],
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Stubblefield, Malcolm J.",
+    "gender": "Male",
+    "hometown": "Sioux City",
+    "major": "Agriculture",
+    "nicknames": [],
+    "clubs": ["Curtiss Club"],
+    "comment": ""
+  },
+  {
+    "name": "Steuart, J. H.",
+    "gender": "Male",
+    "hometown": "Sidney",
+    "major": "Roadmaking",
+    "nicknames": [],
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Swires, Charles H.",
+    "gender": "Male",
+    "hometown": "St. Louis, Missouri",
+    "major": "Roadmaking",
+    "nicknames": [],
+    "clubs": ["Gamma Sigma Alpha"],
+    "comment": ""
+  },
+  {
+    "name": "Sunderman, Arnold",
+    "gender": "Male",
+    "hometown": "Clarinda",
+    "major": "Agriculture",
+    "nicknames": [],
+    "clubs": ["Curtiss Club", "Band", "Chapel Choir"],
+    "comment": ""
+  },
+  {
+    "name": "Tokle, Ole B.",
+    "gender": "Male",
+    "hometown": "Grinnell",
+    "major": "Agriculture",
+    "nicknames": [],
+    "clubs": [
+      "Upsilon Sigma Alpha",
+      "Curtiss Club",
+      "Ag Club",
+      "Class Football"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Tamm, Clarence",
+    "gender": "Male",
+    "hometown": "Schleswig",
+    "major": "Agriculture",
+    "nicknames": [],
+    "clubs": [
+      "Upsilon Sigma Alpha",
+      "Ag Club",
+      "Curtiss Club",
+      "Secretary Ag Council"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Walter, John",
+    "gender": "Male",
+    "hometown": "Ames",
+    "major": "Agriculture",
+    "nicknames": [],
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "West, George",
+    "gender": "Male",
+    "hometown": "Humboldt",
+    "major": "Agriculture",
+    "nicknames": [],
+    "clubs": [
+      "Vice-President, Non-Collegiate Class",
+      "Secretary, Curtiss Club"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Wood, George R.",
+    "gender": "Male",
+    "hometown": "Slater, Missouri",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "clubs": ["Gamma Sigma Alpha Pledge", "Trades and Industries Society"],
+    "comment": ""
+  },
+  {
+    "name": "Alanas, Marcus B.",
+    "gender": "Male",
+    "hometown": "Penarrubia, Abra, P.I.",
+    "major": "Two Year Agriculture",
+    "nicknames": [],
+    "clubs": [
+      "Filipino Students' Federation of America",
+      "Catholic Students Association",
+      "Corda Fraters of Cosmopolitan Clubs"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Nair, Warren",
+    "gender": "Male",
+    "hometown": "Winterset, Iowa",
+    "major": "Two Year Agriculture",
+    "nicknames": [],
+    "clubs": ["Curtis Club, President '22", "Ag Club", "Class Football '22"],
+    "comment": ""
+  },
+  {
+    "name": "Baldwin, James Kason",
+    "gender": "Male",
+    "hometown": "Indianola, Iowa",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "clubs": [
+      "Alpha Tau Omega",
+      "A.S.M.E.",
+      "Freshman Football and Basketball '20",
+      "Varsity Football '22",
+      "Inter-Fraternity Council '22"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Wight, Kenneth E.",
+    "gender": "Male",
+    "hometown": "Trinidad, Colorado",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "clubs": [
+      "Kappa Sigma",
+      "Block and Bridle, Secretary '22",
+      "Pebul",
+      "Cheer Leader '21, '22"
+    ],
+    "comment": ""
+  },
+  {
+    "name": "Anderson, Laurence W.",
+    "gender": "Male",
+    "hometown": "Kellogg",
+    "major": "Herdsman",
+    "nicknames": [],
+    "clubs": ["Vice-President Herdsman's Club '23."],
+    "comment": ""
+  },
+  {
+    "name": "Baersch, Paul",
+    "gender": "Male",
+    "hometown": "Ames",
+    "major": "Herdsman",
+    "nicknames": [],
+    "clubs": ["Herdsman's Club"],
+    "comment": ""
+  },
+  {
+    "name": "Cutter, T. R.",
+    "gender": "Male",
+    "hometown": "Coin",
+    "major": "Herdsman",
+    "nicknames": [],
+    "clubs": ["Herdsman's Club"],
+    "comment": ""
+  },
+  {
+    "name": "Dyar, Harry E.",
+    "gender": "Male",
+    "hometown": "St. Charles, Minnesota",
+    "major": "Herdsman",
+    "nicknames": [],
+    "clubs": ["Herdsman's Club"],
+    "comment": ""
+  },
+  {
+    "name": "Davis, Floyd G.",
+    "gender": "Male",
+    "hometown": "Toledo",
+    "major": "Herdsman",
+    "nicknames": [],
+    "clubs": ["Herdsman's Club"],
+    "comment": ""
+  },
+  {
+    "name": "Gozenia, Paul",
+    "gender": "Male",
+    "hometown": "Mecan, Wisconsin",
+    "major": "Herdsman",
+    "nicknames": [],
+    "clubs": ["Herdsman's Club"],
+    "comment": ""
+  },
+  {
+    "name": "Hotchkins, Thomas",
+    "gender": "Male",
+    "hometown": "Memphis, Missouri",
+    "major": "Herdsman",
+    "nicknames": [],
+    "clubs": ["Herdsman's Club"],
+    "comment": ""
+  },
+  {
+    "name": "Leelie, William P.",
+    "gender": "Male",
+    "hometown": "Auburn",
+    "major": "Herdsman",
+    "nicknames": [],
+    "clubs": ["Herdsman's Club", "President, Herdsman's Club"],
+    "comment": ""
+  },
+  {
+    "name": "Lloyd, Ernest E.",
+    "gender": "Male",
+    "hometown": "West Branch",
+    "major": "Herdsman",
+    "nicknames": [],
+    "clubs": ["Herdsman's Club"],
+    "comment": ""
+  },
+  {
+    "name": "Lutnstra, Martin",
+    "gender": "Male",
+    "hometown": "Hull",
+    "major": "Herdsman",
+    "nicknames": [],
+    "clubs": ["Herdsman's Club"],
+    "comment": ""
+  },
+  {
+    "name": "McCormack, J. H.",
+    "gender": "Male",
+    "hometown": "Cromwell",
+    "major": "Herdsman",
+    "nicknames": [],
+    "clubs": [],
+    "comment": ""
+  },
+  {
+    "name": "Mathew, Russell G.",
+    "gender": "Male",
+    "hometown": "Morrison, Illinois",
+    "major": "Herdsman",
+    "nicknames": [],
+    "clubs": ["Herdsman's Club"],
+    "comment": ""
+  },
+  {
+    "name": "Neville, Orville",
+    "gender": "Male",
+    "hometown": "Malcom",
+    "major": "Herdsman",
+    "nicknames": [],
+    "clubs": ["Herdsman's Club"],
+    "comment": ""
+  }
+]

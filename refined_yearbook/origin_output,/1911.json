@@ -1,0 +1,2689 @@
+[
+  {
+    "name": "Abramson, John",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": ["Abe"],
+    "hometown": "Morning Sun, Iowa",
+    "clubs": ["Colonials", "Welch", "Kennedy Cup Debate"],
+    "comment": "Practical experience has taught him the need of a sheepskin and hence the final casting of his lot with the '11's. Husky and energetic, he has a great capacity for work and isn't afraid to use it. Although he has many faraway thoughts, he is quite at home at I.S.C."
+  },
+  {
+    "name": "Ahlbrecht, Louise",
+    "gender": "Female",
+    "major": "Domestic Science",
+    "nicknames": ["Louie","Brick"],
+    "hometown": "Tama, Iowa",
+    "clubs": ["Pi Beta Phi"],
+    "comment": "\"When joy and duty clash, let duty go to smash.\" Ames found a loyal convert in Louise after sojourns at Leander Clark and Cornell. A great student——at times. Prefers Domestic Science because of its excellent home training. A girl with whom to have the best kind of a time."
+  },
+  {
+    "name": "Amondson, Owen L.",
+    "gender": "Male",
+    "major": "Mechanical Engineering",
+    "nicknames": ["Ammie","OLA"],
+    "hometown": "Dows, Iowa",
+    "clubs": ["Iowa Club", "Class Football"],
+    "comment": "\"OLA\" is a big, husky fellow with heart, feet, and brain built in just proportion. Sometimes he reads love stories in preference to textbooks, but when he starts to study, it is hard to stop him. Easily tickled, and just dotes on spearing turtles through the ice."
+  },
+  {
+    "name": "Anderson, May",
+    "gender": "Female",
+    "major": "Domestic Science",
+    "nicknames": [],
+    "hometown": "Ames, Iowa",
+    "clubs": [],
+    "comment": "\"As quiet as a nun is she.\" A faithful student who walks in from the far South every day, rain or shine. A quiet, even-tempered girl with whom it is a pleasure to be in a class. Zoo shark, Chem. shark——'Nuff said."
+  },
+  {
+    "name": "Apple Alfred B.",
+    "gender": "Male",
+    "major": "Mechanical & Electrical Engineering",
+    "nicknames": ["Willie"],
+    "hometown": "Rock Rapids, Iowa",
+    "clubs": ["Oak Club"],
+    "comment": "\"Willie\"s sure a pippin. Perseverance unlimited. A deliberate thinker of deep thunks. Abhorreth orthography. Can swap National Guard stories with the cannon under the flagpole. Didn't care to major in drill, so he unselfishly left the honors to others."
+  },
+  {
+    "name": "Arnold Maude",
+    "gender": "Female",
+    "major": "Science",
+    "nicknames": [],
+    "hometown": "Ames, Iowa",
+    "clubs": ["Delphian", "Oratorical Council"],
+    "comment": "\"I detect more good than evil in humanity.\" Maude is almost more interested in downtown productions than in math. Spends time between classes on the way to the Country Store. A bright girl who always has her lessons. Likes to hear the blue——\"Jay\" sing."
+  },
+  {
+    "name": "Baker Guy A.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": ["Bake","Guy"],
+    "hometown": "Eldora, Iowa",
+    "clubs": ["Drill Captain"],
+    "comment": "Here's a josher, tease, and composer of nicknames. Plays the piano, sings, sells aluminum, and is right handsome. Withal a fine, upright fellow. Pays the bills for a large west side family. Once, when surveying at Cedar Falls, he was caught stealing spoons on Normal's campus."
+  },
+  {
+    "name": "Baker Osmon D.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": ["Ozzie"],
+    "hometown": "Edmund, Wisconsin",
+    "clubs": [
+      "Sigma Alpha Epsilon",
+      "Sigma Sigma",
+      "A Z",
+      "Class President",
+      "Bomb Board",
+      "International Stock Judging Team '09"
+    ],
+    "comment": "Here we have a man who is thoughtful, yet jovial; confident, yet unassuming. An honest student and a good mixer. Stars as a stock judge. We expect to hear of him when college days and graduation are things of the past."
+  },
+  {
+    "name": "Baldwin W. Howard",
+    "gender": "Male",
+    "major": "Mechanical Engineering",
+    "nicknames": ["Baldy."],
+    "hometown": "Braddyville, Iowa.",
+    "clubs": [],
+    "comment": "A crack-shot duck shot. As witty as an Irishman and as jolly as a Britisher, he makes a boon companion. He frequently enlivens the moments for fairer company than men. Not the head of the procession but \"hammering over the cobblestones\" just the same."
+  },
+  {
+    "name": "Ballard Fred S.",
+    "gender": "Male",
+    "major": "Veterinary",
+    "nicknames": ["Fritz","Dad"],
+    "hometown": "Ames, Iowa.",
+    "clubs": ["Acacia", "Vet. Med. Soc.","K"],
+    "comment": "The old men call him \"Dad\", the boys know him as \"Fritz\", but his wife says Fred is right. A good-natured, big-hearted man, always smiling. Once a \"brakie\"——\"Have your tickets read, please.\""
+  },
+  {
+    "name": "Barrett Robert L.",
+    "gender": "Male",
+    "major": "Forestry",
+    "nicknames": ["Bob"],
+    "hometown": "Osage, Iowa",
+    "clubs": ["Varsity Baseball '01"],
+    "comment": "The forest is Nature's crowning glory, and the forester is her hair dresser. It is his business to apply the herbicide of forestry to her bald spots. \"Bob\" is a man of mature mind and broad view: Helps Whitham preside over the destinies of the Forestry course."
+  },
+  {
+    "name": "Barry Russell J.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": ["P.J.","Post Cards"],
+    "hometown": "Cedar Rapids, Iowa",
+    "clubs": ["Bomb Board", "A.I.E.E.","Gamma Theta"],
+    "comment": "The picture man of the Bomb. A man with a hobby——beautiful pictures and pretty girls. Studies sometimes for a change. Destined to become noted in the realms of art and society. A lover of the \"Providential Concussion\" brand."
+  },
+  {
+    "name": "Bashford, L. G.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": ["Bashful"],
+    "hometown": "Clarksville, Iowa",
+    "clubs": ["Iowa Club", "Pythian"],
+    "comment": "Never known to wander into the camp of the co-eds. A light-footed cross-country runner. Turns up in class with his knowledge on tap."
+  },
+  {
+    "name": "Baxter, R. B.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": ["Bob","Bax"],
+    "hometown": "Galva, Iowa",
+    "clubs": ["Welch"],
+    "comment": "Lean and hungry for wisdom. \"Bob\" has earned the reputation of being a good student and a good friend. Can do anything but loaf. His stock judging is up to snuff."
+  },
+  {
+    "name": "Beardshear, Charles",
+    "gender": "Male",
+    "major": "Dairy",
+    "nicknames": ["Casey"],
+    "hometown": "Ames, Iowa",
+    "clubs": [],
+    "comment": "He is a bit slow in motion but quick of wit. Helps \"Champ\" run the business of the fourth ward and goes to college besides.\"Casey\" doesn't ask for consideration because of his ancestry but is absolutely independent."
+  },
+  {
+    "name": "Beardshear, William",
+    "gender": "Male",
+    "major": "Science",
+    "nicknames": ["Bill"],
+    "hometown": "Ames, Iowa",
+    "clubs": ["French Club", "Dutch Band"],
+    "comment": "Asks all the questions for the class in Economics. Decided on Science course in order to avoid the feminine contingent. A distinguished looker. Broad in shoulder but broader in mind."
+  },
+  {
+    "name": "Beinhart, Ernest G.",
+    "gender": "Male",
+    "major": "Animal Husbandry.",
+    "nicknames": ["Beiny","Doc"],
+    "hometown": "Cincinnati, Ohio.",
+    "clubs": [
+      "Philomathean.",
+      "Class Track.",
+      "First Voters Club.",
+      "Student Staff."
+    ],
+    "comment": "This is \"Beiny\": the famous carpet bag politician. He knows everything concerning I.S.C. and \"Bill\" Taft and wouldn't think of keeping the information from anybody. He has taught \"Bill\" Rowe how to feed hogs. A manufacturer of fine cigars, which he dispenses on rare occasions."
+  },
+  {
+    "name": "Beitel, Ashley H.",
+    "gender": "Male",
+    "major": "Mechanical Engineering.",
+    "nicknames": ["Beit."],
+    "hometown": "Ames, Iowa.",
+    "clubs": [],
+    "comment": "Came to college to work. Never yet had time to find Margaret Hall and hasn't laid out any plans for making a search. When not studying he plays. Is on good terms with his instructors."
+  },
+  {
+    "name": "Beiter, Grover C.",
+    "gender": "Male",
+    "major": "Civil Engineering.",
+    "nicknames": ["Beit Tiggie."],
+    "hometown": "Carroll, Iowa.",
+    "clubs": ["Sigma Alpha Epsilon", "Varsity Baseball.", "A.A."],
+    "comment": "\"Peaches Beiter\" as dubbed by the \"Register & Leader\". The man with the big mitt who \"can catch anything in the country.\" Tall and angular, and looks good to the lady fans. Sociable and popular."
+  },
+  {
+    "name": "Benbow, Fred M.",
+    "gender": "Male",
+    "major": "Electrical Engineering.",
+    "nicknames": ["Married."],
+    "hometown": "Ames, Iowa.",
+    "clubs": [],
+    "comment": "Comes to us from the '08s. Early decided that two could live as cheaply as one. Quit school for three years to homestead in Dakota. His good sense and sound judgment prompted him to return to I.S.C. Spends much valuable time working and keeping quiet."
+  },
+  {
+    "name": "Benson, Arthur W.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "hometown": "Des Moines, Iowa",
+    "clubs": ["Oak Club"],
+    "comment": "A man whom fame has not yet called. So far, he is content to be the son of the man who built the Engineering Annex. Not particularly a grand-stand player but could win points in the standing broad grin."
+  },
+  {
+    "name": "Beresford, Rex",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": ["Rex"],
+    "hometown": "Vinton, Iowa",
+    "clubs": ["Adelante", "Beardshear", "Debating League", "Bomb Board", "Delta Theta Sigma"],
+    "comment": "A thinker of deep thoughts. Given to flights of fancy in which he dreams dreams that he expresses in orations or even in poetry. Contributor to agricultural papers and other noted publications. A part of the tried and true Beardshear Society foundation."
+  },
+  {
+    "name": "Beverly, A. LEE",
+    "gender": "Male",
+    "major": "Veterinary",
+    "nicknames": ["Spink"],
+    "hometown": "Ames, Iowa",
+    "clubs": ["Vet. Med. Soc."],
+    "comment": "Always liked Ames but thought he would give Ohio U. a trial. Says Columbus is some town, but Ames is more quiet. Lee is an old scout at hunting. Has a \"knack\" of getting his studies without burning the midnight oil."
+  },
+  {
+    "name": "Bevins, Noel O.",
+    "gender": "Male",
+    "major": "Veterinary",
+    "nicknames": ["Bev"],
+    "hometown": "Hawkeye, Iowa",
+    "clubs": ["Gamma Theta", "Vet. Med. Soc.","Kappa"],
+    "comment": "Has the endurance of a football player and the arguments of a law student. Had a discussion with the Zoo Dept. one day as to which was the more reliable authority Reese's Embryology or Dorland's Medical Dictionary. Is satisfied with everything within reasonable limits."
+  },
+  {
+    "name": "Blair, James R.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": ["Jim"],
+    "hometown": "Ames, Iowa",
+    "clubs": ["Delphian"],
+    "comment": "Has a sweet mellow voice which he uses in the church choir or anywhere that they will stand for it. We hate to contemplate it, but if he is as deep as he is still, where then would the bottom be?"
+  },
+  {
+    "name": "Blake, Fred",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": ["Fritz","Rock Island Red"],
+    "hometown": "Maquoketa, Iowa",
+    "clubs": ["Adelante", "Welch", "Glee Club"],
+    "comment": "He measures only up and down. His long reach has enabled him to master Prof. Pierce's chicken husbandry and other distant subjects. Has considerable note as a warbler. Expects to return to the farm after I.S.C. days are over. Here's to his success——may his reach never grow less."
+  },
+  {
+    "name": "Born, A. LEE",
+    "gender": "Male",
+    "major": "Veterinary",
+    "nicknames": ["Jim"],
+    "hometown": "Story City, Iowa",
+    "clubs": ["Pythian", "Vet. Med. Soc.", "Kappa"],
+    "comment": "Story City—let's see, O yes, that is where Ole Swanson lives. Jim, after thoughtful consideration, decided to be a Vet, so he would have time for outside work. Occasionally finds thirty minutes for chapel. Can talk so earnestly to the Prof. in Zoo. Lab. that one would almost believe he meant it."
+  },
+  {
+    "name": "Brennan, Regina",
+    "gender": "Female",
+    "major": "Domestic Science",
+    "nicknames": ["Peggy"],
+    "hometown": "McGregor, Iowa",
+    "clubs": [
+      "Pi Beta Phi",
+      "Clio",
+      "Bomb Board",
+      "Wom. Ath. Council",
+      "Soph. Class Play"
+    ],
+    "comment": "\"She is of so free, so apt a disposition.\" The girl who passed up Phys. with 99%. Notwithstanding this, \"Peggy\" is the right sort. An all-round girl known for her energetic good humor and whole-heartedness."
+  },
+  {
+    "name": "Bristol, Fred T.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": ["Fritz"],
+    "hometown": "Des Moines, Iowa",
+    "clubs": ["Varsity Track", "Class Track"],
+    "comment": "\"Fritz\" is reckless——he takes long leaps. He is noted for having a good vocal apparatus, which he often operates from the rooters' bench with telling effect. Belongs to the \"Am. Soc. C.E.\"——otherwise the Ames Society of College Evils. Is of a mixing disposition."
+  },
+  {
+    "name": "Brown, Evelyn H.",
+    "gender": "Female",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "hometown": "Albert Lea, Minn",
+    "clubs": ["Aztec", "Bomb Board"],
+    "comment": "Here is one from the \"Gopher State.\" Deeply interested in the fairer sex and has been trying to meet his fate at the same place Napoleon did. A sociable fellow and a good student."
+  },
+  {
+    "name": "Brown, Florence",
+    "gender": "Female",
+    "major": "Music",
+    "nicknames": ["Flo", "Brownie"],
+    "hometown": "Ames, Iowa",
+    "clubs": [],
+    "comment": "\"Her words are trusty heralds to her mind.\" \"Brownie\" plays classical music hour after hour but ragtime——never! Her talent must run to art for we have been told that she takes painting. Is ambitious in all her college work."
+  },
+  {
+    "name": "Brown, Joseph D.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": ["Joe", "Patty"],
+    "hometown": "Sioux City, Iowa",
+    "clubs": [
+      "Utopia",
+      "Varsity Basketball",
+      "Class Baseball",
+      "Bomb Board",
+      "Ath. Council",
+      "A.I.E.E."
+    ],
+    "comment": "A lover of athletics. One of the class baseball nine. An old \"Soo City Giant\" who has done much for Ames in basketball. A student athlete who plays fair always."
+  },
+  {
+    "name": "Brown, Roy E.",
+    "gender": "Male",
+    "major": "Veterinary.",
+    "nicknames": ["Buster."],
+    "hometown": "Ames, Iowa.",
+    "clubs": ["Vet. Med. Soc.", "Class Tennis."],
+    "comment": "A level-headed steady, business sort of a fellow. Spent his last summer's vacation selling aluminum ware and made good. A sociable companion and a true friend."
+  },
+  {
+    "name": "Brown, Seth A.",
+    "gender": "Male",
+    "major": "Electrical Engineering.",
+    "nicknames": ["Seth."],
+    "hometown": "Manchester, Iowa.",
+    "clubs": ["A.I.E.E."],
+    "comment": "Seth is a junior partner of the Iowa State College Knocker Co. He is a bit English in some respects. Here for business and doesn't neglect it. Sticks close to his work, and his work proves it."
+  },
+  {
+    "name": "Brush, George P.",
+    "gender": "Male",
+    "major": "Electrical Engineering.",
+    "nicknames": [],
+    "hometown": "Traer, Iowa.",
+    "clubs": ["Class Football.", "Class Track.", "Reserves."],
+    "comment": "Not a shark in any special line but a steady fellow whom everyone is bound to like. Learned to play football by throwing hash in a clubhouse. His greatest fault is an inclination to try his fortune in society."
+  },
+  {
+    "name": "Buck, Floyd L.",
+    "gender": "Male",
+    "major": "Veterinary.",
+    "nicknames": ["Lee."],
+    "hometown": "Ames, Iowa.",
+    "clubs": ["Vet. Med. Soc."],
+    "comment": "\"Without pleasure, this life would dreary be.\" Can put on more different stunts in five minutes than any other fellow in an hour. Was never affected with inertia in the least. Consistent, he works as hard as he plays."
+  },
+  {
+    "name": "Burgeson, J. Alvin",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": ["Burge"],
+    "hometown": "Ames, Iowa",
+    "clubs": ["Beardshear", "A.I.E.E.", "Captain Drill"],
+    "comment": "J. Alvin has thrived on good nature and hard work until he is now quite a large boy. He prepares for a stretching from his brother E.E.'s in a business-like manner and departs with a good-natured grin. Studying is a serious occupation."
+  },
+  {
+    "name": "Burkhalter, Carl S.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": ["Buck"],
+    "hometown": "Ames, Iowa",
+    "clubs": [],
+    "comment": "In 1904, Buck started at I.S.C. and has tried several classes since but found none so good as \"'11's.\" \"Sojering\" had no fascination for Carl. He believes in making a careful study of things as time passes along."
+  },
+  {
+    "name": "Burling, Helen Alice",
+    "gender": "Female",
+    "major": "Science",
+    "nicknames": ["Fluffy"],
+    "hometown": "Eldora, Iowa",
+    "clubs": ["C.O.B.", "Bomb Board", "Omega Delta"],
+    "comment": "\"Mark when she smiles with amiable cheer, and tell me where to can ye liken it?\" If \"A's\" were awarded in Prep Alley Gymnastics, \"Fluffy\" would surely make the team. This, it is understood, need include no fire escape tactics. A bright, winsome girl. \"Fluffy\" and trouble sure are no kin."
+  },
+  {
+    "name": "Burlingame, J. Homer",
+    "gender": "Male",
+    "major": "Mechanical Engineering",
+    "nicknames": ["Doc", "Burly"],
+    "hometown": "Cherokee, Iowa",
+    "clubs": [
+      "Colonials",
+      "Phileleutheroi",
+      "Declamatory '08",
+      "Oratorical '09",
+      "State Triangular Debate '09 & '10",
+      "Delta Sigma Rho",
+      "Student Staff",
+      "Debating League"
+    ],
+    "comment": "A mighty man for a little one. Enjoys life most when tearing his breath into shreds of sarcasm or argument. Fearless——confident——capable. Although naturally cool and deliberate he has lately taken to Rushing, and often hits the long cinder path in the wee hours of the morning."
+  },
+  {
+    "name": "Cameron, Hurst M.",
+    "gender": "Male",
+    "major": "Veterinary",
+    "nicknames": ["Hust"],
+    "hometown": "Montezuma, Iowa",
+    "clubs": ["Vet. Med. Soc."],
+    "comment": "\"For dry wit, this man has no equal.\"\"Hurst\" enjoys a class scrap even better than the best of them. He helped the \"Preps\" along last fall by putting a \"'13\" on the tower——it is said."
+  },
+  {
+    "name": "Cameron, William D.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": ["Bill","Fuzzy"],
+    "hometown": "Ames, Iowa",
+    "clubs": [
+      "Welch",
+      "Gamma Theta",
+      "Class Baseball '09",
+      "Class Football '08",
+      "Sophomore Class Play",
+      "Bomb Board"
+    ],
+    "comment": "\"Bill\" isn't here just for fun but does his work and keeps on good terms with the Profs. Knows how to \"hit the iron while it is hot\" and sometimes gives the Preps lessons. Isn't blind to the benefits of co-education but pretty conservative even in this."
+  },
+  {
+    "name": "Capper, Charles",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": ["Cap"],
+    "hometown": "Ames, Iowa",
+    "clubs": ["Welch", "Class Track"],
+    "comment": "A loyal Junior. Rides his bicycle in rain, snow, sleet, or August heat. Good at climbing flagpoles, as a large '12 pennant in his possession will prove. A guardian angel for our \"House of a Hundred.\"——partial to \"Old Black Joe."
+  },
+  {
+    "name": "Cassady, Edward M.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": ["Ed"],
+    "hometown": "Whiting, Iowa",
+    "clubs": ["Sigma Nu"],
+    "comment": "It took Ed three years to find out he couldn't learn anything at Iowa City. Nature has endowed him generously with an independent spirit and sound judgment. Always courteous, his Irish ways take with all."
+  },
+  {
+    "name": "Chalmers, David J.",
+    "gender": "Male",
+    "major": "Veterinary.",
+    "nicknames": ["Davvy"],
+    "hometown": "Corning, Iowa.",
+    "clubs": ["Vet. Med. Soc."],
+    "comment": "\"For one who works hard that he may reach the top, do we most heartily esteem.\" \"Davvy\" can tell more about the care of sheep than Joseph E. Wing himself. He is a hard worker and will undoubtedly make things move when he gets out of college."
+  },
+  {
+    "name": "Chapman, Evan A.",
+    "gender": "Male",
+    "major": "Science.",
+    "nicknames": ["Chap"],
+    "hometown": "Randolph, Neb.",
+    "clubs": ["Crescent."],
+    "comment": "\"My eyes are blue, my teeth are white.——I comb my hair morn, noon, and night.\" Has an aversion to alarm clocks and early breakfasts. A Zoo fiend and a would-be Chem. Shark. Nevertheless, a jolly fellow and a good mixer in spite of it."
+  },
+  {
+    "name": "Clapper, Lyle.",
+    "gender": "Male",
+    "major": "Civil Engineering.",
+    "nicknames": [],
+    "hometown": "Ames, Iowa.",
+    "clubs": ["Winner Cross Country Runs. '08", "Varsity Track."],
+    "comment": "The most energetic man on the campus and always seems to be in an \"awful\" rush. Knows just how a boxcar is put up. Made a name for himself by winning the first Cross Country Run."
+  },
+  {
+    "name": "Clark, Clarissa A.",
+    "gender": "Female",
+    "major": "Science.",
+    "nicknames": [],
+    "hometown": "Ames, Iowa.",
+    "clubs": [],
+    "comment": "\"Her looks a sprightly mind disclose.\" For a time, she instructed the maids of Humbolt in the pastimes of \"Zoo\" and \"Trig.\" An earnest worker, she has more \"pep\" than half a dozen men and more grit than any three women. One of the kind that bears acquaintance."
+  },
+  {
+    "name": "Clark, Giles W.",
+    "gender": "Male",
+    "major": "Mechanical Engineering",
+    "nicknames": ["Blossom"],
+    "hometown": "Cedar Rapids, Iowa",
+    "clubs": [],
+    "comment": "Takes a great interest in League Baseball. Is the whole-works at Chicago Club. \"Blossom\" always begins a recitation with ——\"Well——a.\" Likes college work, especially \"Phiz.\" Made a debut in society at Junior Trot but has allowed things to lapse since."
+  },
+  {
+    "name": "Cockerell, B. Fred",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": ["Fred"],
+    "hometown": "Harlan, Iowa",
+    "clubs": [
+      "Kappa Sigma",
+      "Class Football",
+      "Class Track",
+      "Varsity Football",
+      "Varsity Track",
+      "Business Manager of the Bomb",
+      "Athletic Council"
+    ],
+    "comment": "\"Fred\" is full of go and \"pep.\" A snappy athlete and a good student. Jolly and a good mixer. As a laundry Magnate he can show a big balance on the credit side of the ledger every time."
+  },
+  {
+    "name": "Colvin, Robert C.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": ["Doc"],
+    "hometown": "Chariton, Iowa",
+    "clubs": ["Alpha Tau Omega"],
+    "comment": "\"Doc\" has sprinted more than once for the seven-forty car, but yet he thinks that first-hour classes are O.K. Has the record of passing up two years of Campus Lab in one term. \"Doc\" is deeply interested in financial matters and has an unlimited capacity for getting hunches."
+  },
+  {
+    "name": "Cooley, Clark H.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": ["Clarky"],
+    "hometown": "Manchester, Iowa",
+    "clubs": [],
+    "comment": "Came to college to study and has never been found doing anything else. The wonder is how so small a man can absorb so much. A fine fellow when you know him."
+  },
+  {
+    "name": "Cort, E. G.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "",
+    "clubs": ["Pythian", "Acacia"],
+    "comment": "A lover of fiction and jokes. His latest publication is \"The Easiest and Most Effective Method of Rough Housing\". A coming man and will be President someday if the fates don't disturb his plans."
+  },
+  {
+    "name": "Creel Salvador",
+    "gender": "Male",
+    "major": "Agronomy",
+    "nicknames": ["Barborositty"],
+    "hometown": "Chihuahua, Mexico",
+    "clubs": ["Sigma Psi Phi", "Cosmopolitan Club"],
+    "comment": "Can tell you the exact date every \"Prep\" was hazed. Would rather raise a Rough House than eat. \"There are girls in Mexico as well as Ames.\" he says. When in the classroom, he is the equal of any."
+  },
+  {
+    "name": "Danger Harry C.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": ["Dag", "Darg"],
+    "hometown": "Sioux City, Iowa",
+    "clubs": ["Colonials", "Forum", "Normal Debate, '09", "Kennedy Cup Debate"],
+    "comment": "A big husky warrior with a mighty voice. Did his part in convincing the Normalites that Postal Savings Banks were a failure. An old Knight of the Grip with a big fund of experience and a big heart."
+  },
+  {
+    "name": "Davenport William E.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": ["Bill","Curly"],
+    "hometown": "Odebolt, Iowa",
+    "clubs": ["Hawkeye"],
+    "comment": "Short and the girls say——\"sweet.\"——Has some resemblance to Cupid in build and, in like manner casts his arrows rather promiscuously. Effervescent, nervy, and smooth. Ever a jovial companion."
+  },
+  {
+    "name": "Davidson, Rex J.",
+    "gender": "Male",
+    "major": "Animal Husbandry.",
+    "nicknames": ["Davy."],
+    "hometown": "",
+    "clubs": ["Adelante","Pythian Y.M.C.A. Cabinet", "Delta Theta Sigma","Kennedy Cup Debates, '08 & '09"],
+    "comment": "A sociable, good-natured fellow. His perseverance has made him a man that does things. In the classroom, society, or football, he's Johnny on the spot. An ardent supporter of both Y.M. and Y.W.C.A."
+  },
+  {
+    "name": "Davis, E. C.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Hedrick, Iowa.",
+    "clubs": [
+      "Iowa Club.",
+      "Crescent.",
+      "Normal Debate, '09",
+      "Student Staff.",
+      "Class Vice-President.",
+      "Bomb Board.",
+      "A Z",
+      "Kennedy Cup Debate, '09"
+    ],
+    "comment": "An authority on Postal Savings Banks. A hot air gun of no mean caliber. An admirer of Uncle Benny's lectures on \"The Romance of Chemistry.\" He is a good student but likes to talk too well to keep still long. A happy and pleasant fellow."
+  },
+  {
+    "name": "Davis, Orrin L.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": ["Prep Minor."],
+    "hometown": "New Virginia, Iowa.",
+    "clubs": [],
+    "comment": "He was never caught rough-housing. He believes in physical culture as a cure for all ills. Gest a \"daily\" from near home. Orrin is an honest student who gets high grades and earns them."
+  },
+  {
+    "name": "Deacon, Elizabeth",
+    "gender": "Female",
+    "major": "Science.",
+    "nicknames": ["Deak."],
+    "hometown": "Ames, Iowa.",
+    "clubs": ["Phileleutheroi."],
+    "comment": "\"There is nothing so kingly as kindness and nothing so royal as truth.\" Sincere, honest, innocent, guileless,——more so than most deacons. Fair-haired and rosy-cheeked——so that \"gym\" work furnishes the only cosmetic needed. English grit and the inclination to take life seriously are hers. She always keeps up with the procession except when riding in the bandwagon with the clowns."
+  },
+  {
+    "name": "Dean, Myrtle D.",
+    "gender": "Female",
+    "major": "Domestic Science",
+    "nicknames": ["Deanie"],
+    "hometown": "New Richmond, Wisconsin",
+    "clubs": ["Y.W.C.A. Cabinet", "Phileleutheroi"],
+    "comment": "\"If you want work well done, select a busy woman——the other kind has no time.\" This girl with ideals hails from Oberlin, bringing westward some of its dignity and refinement. Thinks twice before she speaks, then says it to herself. Has such a sweet smile but is a little stingy with it. The personification of modesty. \"Smile, Myrtle, and toot your horn!\""
+  },
+  {
+    "name": "Deemer, Elizabeth",
+    "gender": "Female",
+    "major": "Science",
+    "nicknames": ["Beth"],
+    "hometown": "Des Moines, Iowa",
+    "clubs": ["Clio"],
+    "comment": "\"And e'en her failings lean to virtue's side.\" A gentle little maid whose many kindnesses surpass even her good grades. \"Beth\" is always willing, helpful, and an enthusiastic believer in all branches of college life."
+  },
+  {
+    "name": "Deemer Edward H.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": ["Judge", "Eddie"],
+    "hometown": "Des Moines, Iowa",
+    "clubs": ["Hawkeye", "Class Football"],
+    "comment": "\"Judge\" is as dignified as his honored relative. As good at making friends as he is at passing things up. Was one of our football team last fall and has been sad ever since. He thinks the '12s can't do it again."
+  },
+  {
+    "name": "Dickey Walter N.",
+    "gender": "Male",
+    "major": "Mechanical Engineering",
+    "nicknames": ["Dick"],
+    "hometown": "Cedar Falls, Iowa",
+    "clubs": ["Kappa Sigma", "Dutch Band"],
+    "comment": "\"Golden Lochs\" Dickey stars on the football field——with his cornet. Worries about exams at times. Whenever there is work to do \"Dick\" is on deck with his coat peeled. Modest, courteous, talented, and full of \"pep.\""
+  },
+  {
+    "name": "Dodds, John S.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": ["Jack"],
+    "hometown": "Mankato, Minnesota",
+    "clubs": ["Colonials", "Crescent", "Alternate Triangular Debate. '10"],
+    "comment": "\"Jack\" comes to us from a South Dakota college where they used him to run the windmill. Always looking for something to do. Considers 98 almost as low as a pass. Is going to show the college men that he can debate."
+  },
+  {
+    "name": "Doerr, John",
+    "gender": "Male",
+    "major": "Veterinary",
+    "nicknames": ["Hans"],
+    "hometown": "Baxter, Iowa",
+    "clubs": ["Vet. Med. Soc."],
+    "comment": "\"Deutschland, Deutschland über alles, über alles in der Welt.\" John formerly held that his opinion was always correct, but he has given in some of late. Like his countrymen, he works hard at anything he undertakes. A wizard for grubbing out facts."
+  },
+  {
+    "name": "Dornbach, William E.",
+    "gender": "Male",
+    "major": "Ceramics",
+    "nicknames": ["Wee", "Dorn", "Dippy"],
+    "hometown": "McGregor, Iowa",
+    "clubs": ["Los Hermanos", "Dutch Band"],
+    "comment": "\"Dorn\" is a monstrous talker. He can tell more prize-winning stories in ten minutes than you can think of in a week. Writes letters to Mason City. More sentimental than philosophical——more talented than practical."
+  },
+  {
+    "name": "Doughty, Lorin H.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": ["Lorin"],
+    "hometown": "Norfolk, Nebraska",
+    "clubs": ["Oak Club", "Secretary of the C.E. Society"],
+    "comment": "Came clear from Nebraska to learn how to be a Civil. When he was young, so many people patted him on the head and told him he was a bright boy that his hair has been thin ever since. Short in stature but long on gray matter."
+  },
+  {
+    "name": "Dowson, Harry R.",
+    "gender": "Male",
+    "major": "Mechanical Engineering",
+    "nicknames": ["Slim","Daws"],
+    "hometown": "Columbus Junction, Iowa",
+    "clubs": ["Adjutant in \"Prep\" Army"],
+    "comment": "Long and lanky with lurid locks. Studies so fast that he needs an extra pair of eyes to keep up with his brain. In the drawing room, he earns more salary than some of the instructors are paid. If he weren't a \"Mechanical\", he might be called the \"Good Samaritan.\""
+  },
+  {
+    "name": "Duval, Eugene C.",
+    "gender": "Male",
+    "major": "Mechanical Engineering",
+    "nicknames": ["Frenchie", "Red","Gene"],
+    "hometown": "Glenwood, Iowa",
+    "clubs": [],
+    "comment": "A man of expressive nicknames and a happy smile. His healthy color is no doubt due to long daily walks, for, though an engineer, he nightly hoofs it to the simple life. Good-natured and an earnest worker."
+  },
+  {
+    "name": "Easter, Mary",
+    "gender": "Female",
+    "major": "Domestic Science",
+    "nicknames": ["Merry Christras"],
+    "hometown": "Bonaparte, Iowa",
+    "clubs": ["Clio", "Y.W.C.A. Cabinet"],
+    "comment": "\"A merry heart doeth good like a medicine.\" Mary changed from \"Special\" to \"Junior\" in order to experience the pleasures of Algebra IV. A happy, good-natured girl who always looks on the bright side of everything. Her laughing eyes betray no secrets."
+  },
+  {
+    "name": "Eastwold, Oscar A.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": ["Fuzzy"],
+    "hometown": "Le Roy, Minnesota",
+    "clubs": ["Utopia", "A.I.E.E."],
+    "comment": "Doesn't care for the opportunities offered at I.S.C. for winning a happy home. A close and conscientious student, he devotes his time to the demands of his college course."
+  },
+  {
+    "name": "Edgecomb, Rex E.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": ["Red"],
+    "hometown": "Missouri Valley, Iowa",
+    "clubs": [
+      "Alpha Tau Omega",
+      "Winner Declamatory Contest, '08",
+      "Bachelor",
+      "Bomb Board"
+    ],
+    "comment": "Small but full of dignity, ginger, and greatness. Was at his best when playing the part of the \"Irish Lover.\" Achieved greatest fame when Stanley used him for the Sun in Astronomy Class. Naturally bright and a shining light in his classes. (Not a joke.)"
+  },
+  {
+    "name": "Elichling, Henry L.",
+    "gender": "Male",
+    "major": "Agronomy",
+    "nicknames": ["Ike"],
+    "hometown": "Paulding, Ohio",
+    "clubs": ["Sigma Nu", "AZ", "Bomb Board", "Mgr. Jr. Class Play"],
+    "comment": "A trifle thin of thatch but long on genuine gray matter. Conservative and well-poised, he has gained the esteem of all. \"Life is too short for vain idling.\" For verification, see \"Ike's\" grade sheet. Of late, shows signs of a desire to bask in the sunlight of our coed's smiles."
+  },
+  {
+    "name": "Elayda, Inocencio",
+    "gender": "Male",
+    "major": "Agronomy",
+    "nicknames": [],
+    "hometown": "Iba, Zambales, P.I.",
+    "clubs": ["Married","Cosmopolitan Club", "Philomathean", "Spanish Club"],
+    "comment": "Elyada came to Ames of his own accord that he might acquire the best America had to offer——which is complimentary both to the man and the school. A brilliant student and a hard worker——he is bound to carry back to his homeland a message that is worthwhile."
+  },
+  {
+    "name": "Elliott, William Robert",
+    "gender": "Male",
+    "major": "Veterinary",
+    "nicknames": ["Dad","Elliott"],
+    "hometown": "Woodward, Iowa",
+    "clubs": ["Veterinary Medical Society"],
+    "comment": "Young enough for a high-school boy but wise enough to stay at college. Still retains some of his boyish ways. Is the right kind for a lively bunch."
+  },
+  {
+    "name": "Evans, E. Loyd",
+    "gender": "Male",
+    "major": "Mechanical Engineering",
+    "nicknames": ["Bob"],
+    "hometown": "Linn Grove, Iowa",
+    "clubs": ["Class Football", "Forum"],
+    "comment": "\"Bob\" Evans has many of the traits of his godfather \"Fighting Bob.\" Disputes heavyweight roughhousing title with \"Hank\" Paulsen. His shock of black curly hair covers a solid head, but \"Bob\" does not overwork his faculties."
+  },
+  {
+    "name": "Farnsworth, Edwin P.",
+    "gender": "Male",
+    "major": "Dairy",
+    "nicknames": ["Farny"],
+    "hometown": "Avoca, Iowa",
+    "clubs": [],
+    "comment": "\"Farny\" is one of those common, ordinary good fellows—fat, jolly, and good-natured. Takes Dairy because he likes cream. Works (for) Pa during the summer but expects to own a farm himself when he gets through school."
+  },
+  {
+    "name": "Ferm, John F.",
+    "gender": "Male",
+    "major": "Mechanical Engineering",
+    "nicknames": ["Jawn"],
+    "hometown": "Lead, So. Dakota",
+    "clubs": ["Iowa Club"],
+    "comment": "Long, lean, and lanky, with a grip like a stone-crushing machine. Looks vicious but isn't. A shark in drawing and teaches the \"preps\" the difference between a triangle and a T-square. Knows how to apply himself and isn't afraid to exercise that knowledge."
+  },
+  {
+    "name": "Ferguson, Myrtle",
+    "gender": "Female",
+    "major": "Domestic Science",
+    "nicknames": [],
+    "hometown": "Sioux City, Iowa",
+    "clubs": [
+      "Kappa Delta",
+      "Tri Psi",
+      "Bomb Board",
+      "Y.W.C.A. Cabinet",
+      "Sophomore Class Play"
+    ],
+    "comment": "\"Whose smile makes glad——Whose frown is terrible.\" Ambitious with marked efficiency. Can show a high percentage of honors. Always attends class meetings and is in for any excitement, even drowning if it is to the best interests of the class. \"Pretty Keen\" in Chem.ANNOUNCEMENT!——Myrtle or her sister？"
+  },
+  {
+    "name": "Fiester, Arch A.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": ["Arch"],
+    "hometown": "Independence, Iowa",
+    "clubs": ["A.I.E.E."],
+    "comment": "Pretty much of an \"argufier.\" Likes to discuss the fine points of \"Phiz\" and dilate on the why and wherefore. Tends strictly to business, being a \"David\" with but few \"Jonathans.\""
+  },
+  {
+    "name": "Fischer, Austin J.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": ["Fish"],
+    "hometown": "Glidden, Iowa",
+    "clubs": ["Gamma Theta", "Class Baseball", "Class Tennis"],
+    "comment": "Your liking for \"Fish\" increases directly as the square of your acquaintance with him, for there's fun and humor under his reserved exterior. Neither hurry nor worry characterize him, but he generally lands whatever nibbles his bait. Has studied \"The Eternal Question\" at Boulder and Iowa City, with extended research at Ames."
+  },
+  {
+    "name": "Fleming, Mabel",
+    "gender": "Female",
+    "major": "Science",
+    "nicknames": [],
+    "hometown": "Ames, Iowa",
+    "clubs": ["Phileleutheroi", "French Club"],
+    "comment": "\"She has no faults, or I no faults can spy.\" A persistent \"motor dodger\". Once got lost in a blizzard. An all-round student, a fact, however, which does not prevent her from having open-hearted hospitality. Spends all her spare moments among the books."
+  },
+  {
+    "name": "Freed, Oscar F.",
+    "gender": "Male",
+    "major": "Veterinary",
+    "nicknames": ["Ossie"],
+    "hometown": "Ames, Iowa",
+    "clubs": ["Veterinary Medical Society"],
+    "comment": "Oscar used to have the failing of not getting to class until after roll-call, but has somewhat outgrown that habit the last year. Knows the name of every Veterinary instrument that was ever made. This probably accounts for his success as an agent. Can relate traditions and customs of the college some seven years back."
+  },
+  {
+    "name": "Freeman Frank G.",
+    "gender": "Male",
+    "major": "Forestry",
+    "nicknames": ["Tuffy"],
+    "hometown": "Winfield, Iowa",
+    "clubs": ["Ozark"],
+    "comment": "A bug fiend. Can sleep and at the same time take lecture notes. What he does not know about himself, \"Dutch\" Hoffman or \"Jennie\" Reynoldson does. Favorite song: \"Please go away and let me sleep.\""
+  },
+  {
+    "name": "Frevert Carl B.",
+    "gender": "Male",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "hometown": "Odebolt, Iowa",
+    "clubs": [
+      "Iowa Club",
+      "Reserves, '09",
+      "Class Football, '08-'09",
+      "Crescent"
+    ],
+    "comment": "A long stretch of freckled sunshine that even the trials of the college hospital could not obscure. A self-acknowledged \"Deutscher,\" especially fond of interchanging initial letters and playing tricks with English. Alarmingly studious, but always has time to laugh at a joke——except when very busy."
+  },
+  {
+    "name": "Fuller John M.",
+    "gender": "Male",
+    "major": "Dairy",
+    "nicknames": ["Frexy"],
+    "hometown": "Corning, Iowa",
+    "clubs": [
+      "Colonials",
+      "State Triangular Debate, '09-'10",
+      "Freshman Debate, '08",
+      "Delta Sigma Rho",
+      "Bomb Board",
+      "Student Staff",
+      "Philomathean",
+      "Kennedy Cup Debates",
+      "Short-horn Prof"
+    ],
+    "comment": "Possessed of a medium-sized human frame replete with all conveniences of modern learning. Mental brilliancy and a flexible tongue make him a veritable Vesuvius——in spouting forth hot arguments in debate. Participation in most phases of college life, a year at Northwestern, and dignity absorbed from being \"Prexy's\" stenographer have produced a capable, versatile man——well met, and better known."
+  },
+  {
+    "name": "Gardner William M.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": ["William"],
+    "hometown": "Audubon, Iowa",
+    "clubs": [
+      "Class Track",
+      "Class Football",
+      "Reserves",
+      "Welch",
+      "Alt. South Dakota Debate"
+    ],
+    "comment": "Here is a man who takes life seriously and who does his own thinking. He believes that cattle should be placed according to color and prefers black. Frequently stops work long enough to visit the tailor."
+  },
+  {
+    "name": "Ibson, Earle P.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": ["Gib"],
+    "hometown": "Oshawa, Ontario",
+    "clubs": ["Ozark"],
+    "comment": "Frames hazy thoughts in authoritative language and is somewhat adept at reciting from a short supply of facts. Reserved and self-possessed, and nobody's fool—perhaps darling, either."
+  },
+  {
+    "name": "Gilchrist, Margaret L.",
+    "gender": "Female",
+    "major": "Science",
+    "nicknames": [],
+    "hometown": "Ames, Iowa",
+    "clubs": ["Sophomore Class Play"],
+    "comment": "\"Sweet promptings unto kindest deeds were in her very look.\" A quiet little girl with a sparkle in her eye. She seems to like both extremities of the car line better than the central part. Has a faculty for framing her thoughts in plausible language when called upon unawares."
+  },
+  {
+    "name": "Gilmore, Claude Bertrand",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": ["Frivolous", "Huldah"],
+    "hometown": "Phillips, Neb",
+    "clubs": [],
+    "comment": "Quiet, unassuming, dependable. So decorous in his actions that he was never nicknamed. Made up \"Chem.\" last summer at U. of Ill. Thought there it would be only Champaign. The U. of Neb. chalked one up in our favor when this man crossed the border, for he's a worker. (Nicknames discovered later.)"
+  },
+  {
+    "name": "Gobble, Carl F.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": ["Carl", "Lafe", "Turkey"],
+    "hometown": "Fairfield, Iowa",
+    "clubs": ["A Z Colonnades"],
+    "comment": "Like John Lamson, he tried Parsons College for a few years but thought that too tame. \"Back to the farm for us.\" Outside of college work, Ames has no charms for Carl. His consistent work has made him a favorite among all."
+  },
+  {
+    "name": "Odin, Charles E.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "hometown": "Des Moines, Iowa",
+    "clubs": ["Phileleutheroi", "Alamo"],
+    "comment": "Whatever else may be said of him, it cannot be denied that pupils and teachers have always found him to be a \"good 'un.\" Plods along and gets a lot of high marks when no one suspects him of doing it."
+  },
+  {
+    "name": "Oodrich, Ira E.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": ["Ike"],
+    "hometown": "Waterloo, Iowa",
+    "clubs": ["Quo Vadis"],
+    "comment": "\"Ike\" is another one of those boys who never had any falling out with Mr. Toil or with the C. & N. W. Ry. Up in all his studies, and a man clear through."
+  },
+  {
+    "name": "Greer, James R.",
+    "gender": "Male",
+    "major": "Mining Engineering",
+    "nicknames": ["Jim"],
+    "hometown": "Marion, Iowa",
+    "clubs": ["A T Ω I Z"],
+    "comment": "Verily, a good time is the highest aim of college life. He that putteth grades above amusement lacketh a true college spirit. One who believes in taking the dignity out of freshmen by the barrel stave method. (See R. G. J.) Rather more agreeable than progressive in college work."
+  },
+  {
+    "name": "Gregg, Roy M.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": ["Gregg"],
+    "hometown": "Hawarden, Iowa",
+    "clubs": ["Class Track"],
+    "comment": "\"Gregg\" says that it doesn't pay to worry about your studies. If you can't make things go, get some help. Thinks \"Zoo\" the best study in his course."
+  },
+  {
+    "name": "Aas, Franz",
+    "gender": "Male",
+    "major": "Agronomy",
+    "nicknames": ["Haas"],
+    "hometown": "Shelby, Iowa",
+    "clubs": ["AOS"],
+    "comment": "The chief trouble with Franz is that he couldn't flunk an exam if he tried. \"Be diligent with thy studies and let everything else go hang\" is his motto. He actually spoke to a girl once at ISC but claims it's the only time he was guilty."
+  },
+  {
+    "name": "Hammond, F. B. Jr.",
+    "gender": "Male",
+    "major": "Dairy",
+    "nicknames": [],
+    "hometown": "Ames, Iowa",
+    "clubs": [
+      "Married",
+      "Kennedy Cup Debate",
+      "Assistant Editor Bomb",
+      "Triangular Debate, '09"
+    ],
+    "comment": "One of the greatest rivals Cicero ever had. A commanding combination of logic, brains, and elegance. Noted as a prominent debater; also as the man who, with his persuasive flow of language, defeated the move for student government. An earnest worker with a future in store."
+  },
+  {
+    "name": "Hanchette, Ralph W.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": ["Doc"],
+    "hometown": "Sioux City, Iowa",
+    "clubs": ["ΦΓΔ"],
+    "comment": "\"Doc\" is one of the Sioux City bunch. Came to Ames fully prepared to lead the quiet life but has since found many diversions. Quiet and gentlemanly, he is well-liked."
+  },
+  {
+    "name": "Handy, Don J.",
+    "gender": "Male",
+    "major": "Dairy",
+    "nicknames": ["Don"],
+    "hometown": "Grinnell, Iowa",
+    "clubs": ["Student Volunteer Band", "Y.M.C.A. Cabinet", "Glee Club"],
+    "comment": "\"Don\" is an all-around good fellow, a preacher's son. Quite a shouter himself—you always know when he's around. Used to take part in almost everything. Lately, his heart has become disastrously \"Flint\"-y to the cold outside world. Nevertheless, a hard, ambitious worker."
+  },
+  {
+    "name": "Harvey, Anna E.",
+    "gender": "Female",
+    "major": "Agronomy",
+    "nicknames": ["Mark"],
+    "hometown": "Manchester, Iowa",
+    "clubs": [
+      "Colonials",
+      "Crescent",
+      "Cosmopolitan Club",
+      "Agricultural Staff",
+      "T. L. B."
+    ],
+    "comment": "Belongs to the \"Talk Like Blazes\" organization and is a speaker of ability. Full of wit, power, and personal magnetism. Always attracts attention with his tall, well-groomed figure and military bearing. Able and energetic—can turn his hand to anything. Designer of barns and posters. Has only one weak spot—brown eyes find it."
+  },
+  {
+    "name": "Hanson, B. B.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": ["Hans", "Bert"],
+    "hometown": "Stacyville, Iowa",
+    "clubs": ["Los Hermanos"],
+    "comment": "Has tried the cinder path, but by means of his slide rule found out that his legs were too short to keep up with the car. Enjoys a laugh as well as work. Made a great hit as president of the seminar."
+  },
+  {
+    "name": "Hardman, Charles J.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": ["Possum"],
+    "hometown": "Commerce, Ga",
+    "clubs": ["Adelante", "Welch", "Kennedy Cup Debate"],
+    "comment": "Though a native of the South, he learned of the fame of I. S. C. and resolved to get his education with the boys of the Hawkeye state. A crack student and not unknown in society."
+  },
+  {
+    "name": "Harter, Ira H.",
+    "gender": "Male",
+    "major": "Mechanical Engineering",
+    "nicknames": ["Dad"],
+    "hometown": "Sac City, Iowa",
+    "clubs": ["Delphian", "Student Volunteer Band"],
+    "comment": "A \"Mechanical\" who's practical. Uses his knowledge to advance agriculture by working for International Harvester Co. every summer. Enjoys explaining and arguing problems of shop and classroom. When not studying, \"Dad\" shovels coal—not for Satan, however, but against him. When through school, the conquest will be extended to foreign lands."
+  },
+  {
+    "name": "Hatch, F. E.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": ["Hatch"],
+    "hometown": "Sumner, Iowa",
+    "clubs": ["Forum Society"],
+    "comment": "Big, quiet, and steady. He shies at strangers but is a good friend to those whom he knows. He is at I.S.C. to learn things and works at that most of the time."
+  },
+  {
+    "name": "Hatch, Harry C.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": ["Mick"],
+    "hometown": "George, Iowa",
+    "clubs": [],
+    "comment": "Harry has found that I.S.C. is not the place where things come easy. A hard worker, he pays the price of honest effort for what he gets. Has ambitions in the direction of the North Campus but hasn't realized them as yet."
+  },
+  {
+    "name": "Havner, Harry",
+    "gender": "Male",
+    "major": "Veterinary Medicine",
+    "nicknames": ["Harry"],
+    "hometown": "Corydon, Iowa",
+    "clubs": ["Z Z Z Bomb Board"],
+    "comment": "Harry has always held up the 'Vet's' end at all class meetings. Says 'Vet' is the only good course at I.S.C. To all comers, Harry is always the same, with a pleasant smile and a good word. One of the tried and true kind."
+  },
+  {
+    "name": "Hill, Alvah F.",
+    "gender": "Male",
+    "major": "Mechanical Engineering",
+    "nicknames": ["Alvie"],
+    "hometown": "Ames, Iowa",
+    "clubs": ["Major in Drill (when a freshman)", "Lieutenant in Spec. Co."],
+    "comment": "When a freshman, 'Alvie' stormed the fortress of the General's good graces and became Major Hill. But now he's a busy man—darts from place to place on one of those bump-bump bicycles. Accidentally swallowed, when a child, the National Library of Humor, so is now usually surrounded with laughter."
+  },
+  {
+    "name": "Ill, Frank W.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": ["Frank", "Bing"],
+    "hometown": "Osage, Iowa",
+    "clubs": ["Oak Club", "Class Tennis", "Welch"],
+    "comment": "A whirlwind at tennis and a genius in the recitation room. Never conditioned except in Campus Lab—but likes the girls just the same. A serene, complacent individual who wears \"the smile that won't come off.\" Esteemed by all—one Prof. even dismissed class to give \"Bing\" room to sleep."
+  },
+  {
+    "name": "Hintgen, Leo N.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": ["Heinie", "Doc", "Deacon"],
+    "hometown": "Ashton, Iowa",
+    "clubs": [],
+    "comment": "Happy-go-lucky sort, but often gets serious over some needed reform; \"speechifies\" by the hour to remedy it. Precise in everything and particular about his face! But, though it seems inconsistent, we've never seen \"Heinie\" fussing. Prefers to go easy till last of term, then make a safe finish by all-night crammings."
+  },
+  {
+    "name": "Hise, Fred H.",
+    "gender": "Male",
+    "major": "Mechanical Engineering",
+    "nicknames": ["Gov"],
+    "hometown": "Monroe, Iowa",
+    "clubs": [],
+    "comment": "Not the real \"Governor,\" however. Hasn't the flow of language of that distinguished man. Lives next door to \"Hard Luck\" and likes to talk about him. Likes success better than hard work."
+  },
+  {
+    "name": "Hoffman, Arthur F.",
+    "gender": "Male",
+    "major": "Forestry",
+    "nicknames": ["Dutch"],
+    "hometown": "Des Moines, Iowa",
+    "clubs": ["Class Track"],
+    "comment": "A great wind-jammer. His greatest ambition is to run a soda fountain. A firm believer in the benefits derived from \"prep tonic.\" \"A. F.\" wants it distinctly understood that he is taking Forestry, not \"Hort.\""
+  },
+  {
+    "name": "Olcombe, Frank L.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Southern Pines, North Carolina",
+    "clubs": [
+      "Colonials",
+      "Varsity Track",
+      "Class Football",
+      "Class President",
+      "Y.M.C.A. Cabinet",
+      "A.Z. Bomb Board",
+      "Welch",
+      "Alt. Normal Debate, '09"
+    ],
+    "comment": "Hidden under a diffident manner, this man has as true a heart and as chivalrous a nature as the Southland offers. He sure can hop over the sticks some and displays a like energy in all his college work. Capable and efficient, this loyal '11 is always ready to lend a helping hand."
+  },
+  {
+    "name": "Alloway, Gilbert N.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": ["Hal"],
+    "hometown": "Mason City, Iowa",
+    "clubs": ["K.S.S.S."],
+    "comment": "Not a great talker; reserved but sociable. Prefers to take things easy. Too many classes to attend at college. Still, he keeps a-coming and will make good at his chosen work. In fact, he's sparkling good now. In his waking dreams, he keeps a-\"Wake.\""
+  },
+  {
+    "name": "Orcasitas, Fernando",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": ["Horkie"],
+    "hometown": "Chihuahua, Mexico",
+    "clubs": ["S Ψ Φ Cosmopolitan Club", "Centro Literario Español"],
+    "comment": "No one can boast a better pompadour! A hard plugger and a good student, yet he has never missed a show in Ames. Expects to start a moving picture show and cheese factory in \"dear old Mexico.\""
+  },
+  {
+    "name": "Orcasitas, Pablo",
+    "gender": "Male",
+    "major": "Agronomy",
+    "nicknames": ["Horkie"],
+    "hometown": "Chihuahua, Mexico",
+    "clubs": ["S Ψ Φ Cosmopolitan Club", "Centro Literario Español"],
+    "comment": "His temper is not in accordance with his size. Enjoys taking soils exams. One of the many who came thousands of miles to Ames. Consequently, he's here for work, but between \"plugs,\" the boys find he has a likable, jolly, good nature."
+  },
+  {
+    "name": "Rough, Herbert S.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": ["Bert", "Chi"],
+    "hometown": "Chicago, Ill.",
+    "clubs": ["Hawkeye", "Athletic Council", "Captain '12 Track Team"],
+    "comment": "Bert started out at the University of Chicago, but decided that his talents were not appreciated there, so he trotted over to Ames. Has been associating with the '12's, but says he is going to hurry up and graduate with a good class. Is a happy fellow, and likes to make a lot of noise."
+  },
+  {
+    "name": "Householder, Harold W.",
+    "gender": "Male",
+    "major": "Veterinary",
+    "nicknames": ["Shady"],
+    "hometown": "Chariton, Iowa",
+    "clubs": ["Los Hermanos", "Vet. Med. Soc. K."],
+    "comment": "Changed from Ag. to Vet. after studying the conditions for a year. Thinks Chariton an ideal city for a summer home and takes great stock in the Burlington R.R. A great fellow to have a new joke up his sleeve and generally lets go of it at the right time."
+  },
+  {
+    "name": "Howd, Otto O.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": ["Dad", "Father"],
+    "hometown": "Webster City, Iowa",
+    "clubs": [],
+    "comment": "Has a genial, fatherly way that is quite soothing to those who come in contact with him. Nothing ever troubles him. He works hard, and has no trouble keeping up with the rest."
+  },
+  {
+    "name": "Howe, John L.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": ["Gov. Hisey", "Judge"],
+    "hometown": "Council Bluffs, Iowa",
+    "clubs": ["Welch", "Alternate, Triangular Debate, '09"],
+    "comment": "He may be small, but he has plenty of grit. Won great notoriety at Pall Mall Park by representing Gov. Hisey. His speeches on that occasion did the governor credit. In P.S.X. he revealed a deep knowledge of the 'Psychology of Pairs.' This probably explains his aversion for peaches."
+  },
+  {
+    "name": "Owes, Ray L.",
+    "gender": "Male",
+    "major": "Mechanical Engineering",
+    "nicknames": ["Stuffy"],
+    "hometown": "Clinton, Iowa",
+    "clubs": ["Colonnades"],
+    "comment": "Low down in stature, stands sturdy on his understanding. Has a large-sized casing for a well-stuffed brain and is still gathering facts to fill it fuller. Somewhat troubled with consumption of food."
+  },
+  {
+    "name": "Hoyt, Edward L.",
+    "gender": "Male",
+    "major": "Mechanical Engineering",
+    "nicknames": ["Ned"],
+    "hometown": "Omaha, Neb",
+    "clubs": [],
+    "comment": "Ned believes that Ames is a better school than his own State University. He is a pleasant fellow to have around, for nothing ever seems to go wrong with him. As a student, he is more of a practical man than a theorist."
+  },
+  {
+    "name": "Hungerford, Josephine",
+    "gender": "Female",
+    "major": "Science",
+    "nicknames": ["Jo", "Kitty"],
+    "hometown": "Carroll, Iowa",
+    "clubs": ["Pi Beta Phi", "C.O.B.", "Bomb Board", "Tri Tsi", "French Club"],
+    "comment": "'She gives a side glance and looks down. Beware! Beware!' Alice in Wonderland found no more delightful surprises than does Josephine in this prosaic world of ours. A faddist of note, but overshoes are not included in her list of hobbies. Withal, a girl who will be a genuine woman. Found in the vanguard when it comes to A-1 work."
+  },
+  {
+    "name": "Domestic Science",
+    "gender": "Female",
+    "major": "Domestic Science",
+    "nicknames": ["Sis"],
+    "hometown": "Ackley, Iowa",
+    "clubs": ["Crescent"],
+    "comment": "'Once in my life, I made a break.' Stick-to-it-iveness is this young lady's motto. After missing a year, Edith has joined the ranks of the good class and has no end of patriotism for her foster '11. Loyalty and sincerity characterize her actions."
+  },
+  {
+    "name": "Urd, Ralph R.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": ["Gold Dust Twin"],
+    "hometown": "Williams, Iowa",
+    "clubs": [],
+    "comment": "An expert in the science of railroading. Knows just how to stretch a freshman without being caught. Recently associated with J. Walter Killey in the fire-sale business."
+  },
+  {
+    "name": "Hutcheson, Charles R.",
+    "gender": "Male",
+    "major": "Dairy",
+    "nicknames": ["Hutch"],
+    "hometown": "West Branch, Iowa",
+    "clubs": [
+      "Colonials",
+      "Normal Debate, '09",
+      "Freshman Debate",
+      "Y.M.C.A. Cabinet",
+      "Philomathean"
+    ],
+    "comment": "A versatile chap involved in everything. Though a dairyman, he has a keen interest in a good ear of corn. A hustler from head to toe, brimming with enthusiasm. Stayed through the short course to take \"Condensed Campus Communion\"."
+  },
+  {
+    "name": "Hynes, Bert C.",
+    "gender": "Male",
+    "major": "Ceramics",
+    "nicknames": ["Happy Heinie"],
+    "hometown": "Shenandoah, Iowa",
+    "clubs": ["Beta Theta Pi", "Kappa Phi", "Bomb Board"],
+    "comment": "It would take a combination of Chemistry, Calculus, Physics, and Fast Three to measure Bert's fondness for hard work. He has tackled everything from bricklaying to head operator in a canning factory, claiming there's nothing like work as a diversion from overstudy. He is admired not just for his artistic ability."
+  },
+  {
+    "name": "Jensen, Gene J.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": ["Donsky"],
+    "hometown": "Maquoketa, Iowa",
+    "clubs": ["A.I.E.E."],
+    "comment": "A man who works hard for everything he earns. Has more grit in his jaw than a bulldog and more sense in his head than most men carry with them. An officer in the National Guard, he knows how to make the \"preps\" step lively. Responsible and reliable when there is work to be done."
+  },
+  {
+    "name": "Johnson, Floyd L.",
+    "gender": "Male",
+    "major": "Agronomy",
+    "nicknames": [],
+    "hometown": "Boone, Iowa",
+    "clubs": ["Pythian"],
+    "comment": "A Boone product. A farmer by profession and a would-be scientist. Has not as yet torn up the earth very deeply. Is not an unknown quantity at fussing; just a good fellow in spite of it. A one-time rehabilitator of patent leather shoes."
+  },
+  {
+    "name": "Jones, R. Glenn",
+    "gender": "Male",
+    "major": "Dairy",
+    "nicknames": ["Jonesy"],
+    "hometown": "Marion, Iowa",
+    "clubs": [
+      "Adelante",
+      "Triangular Debate, '09",
+      "Freshman Debate, '08",
+      "Kennedy Cup Debate, '09",
+      "Delta Sigma Rho",
+      "Debating League",
+      "Pythian",
+      "Bomb Board",
+      "Agriculturist Staff",
+      "Short Horn Prof"
+    ],
+    "comment": "Now, if you have any better specimens of the genus homo, trot them out. This normal-minded, even-tempered chap has a genius for making friends and the ability to conserve his precious hours in sincere, effective work. As faithful as \"Horatius at the Bridge,\" and possessed of a blush so sweet that it endears him to all feminine beholders."
+  },
+  {
+    "name": "Jones, Margaret",
+    "gender": "Female",
+    "major": "Domestic Science",
+    "nicknames": ["Marjorie"],
+    "hometown": "Manchester, Iowa",
+    "clubs": ["Omega Delta", "Sophomore Class Play", "Clio"],
+    "comment": "\"They say her smiles are sunbeams; it may be, but never a sunbeam has she thrown on me.\" Is keeping up the record of her family in I.S.C. circles. Her fondness for toasted marshmallows is only exceeded by—but we promised not to mention that. Into everything that is going on, and persevering in all she undertakes."
+  },
+  {
+    "name": "Kammerer, Nelson C.",
+    "gender": "Male",
+    "major": "Mechanical Engineering",
+    "nicknames": ["Nel"],
+    "hometown": "Fort Madison, Iowa",
+    "clubs": [],
+    "comment": "Here's a fast young man—fast with his head and fast to his books. Finishes qualitative analysis and drawing with time to spare. Not overly verbose nor painfully quiet. A pleasant fellow, well worth knowing. Not connected with the state institution in his hometown."
+  },
+  {
+    "name": "Elley, James B.",
+    "gender": "Male",
+    "major": "Mechanical Engineering",
+    "nicknames": ["Jim", "J. B."],
+    "hometown": "Ames, Iowa",
+    "clubs": ["Beardshear"],
+    "comment": "Sure of himself, he is a good student. 'J. B.' is strong in woodshop. His fussing is strictly an amateur performance, but he is improving. He likes to flock with the civils."
+  },
+  {
+    "name": "Kelley, Raymond",
+    "gender": "Male",
+    "major": "Mechanical Engineering",
+    "nicknames": ["Ray", "Smiler"],
+    "hometown": "Ames, Iowa",
+    "clubs": ["Beardshear"],
+    "comment": "He has as yet started no great conflagrations. His sweet, confiding smile wins acquaintances, and he does nothing to scare them away. An able student, loyal to his society and to I. S. C."
+  },
+  {
+    "name": "Kierulff, W. Karl",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": ["Cap"],
+    "hometown": "Montezuma, Iowa",
+    "clubs": ["Theta Xi", "Dutch Band"],
+    "comment": "Quite an artist in penciling beautiful girls' heads. Also gifted in musical lines. He is not taking E. E. because his sister took an E. E., but because he likes it. Thinks quite a bit but never says much."
+  },
+  {
+    "name": "Killey, J. Walter",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": ["Gold Dust Twin"],
+    "hometown": "Perry, Iowa",
+    "clubs": ["Class Football"],
+    "comment": "Rather a quiet young gentleman in outward appearance but a lively one in a 'Ruff Haus' or football game. Looks inside his books pretty often and keeps well posted."
+  },
+  {
+    "name": "Lippel, Frank H.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": ["Klipp", "Moore's Non-leakable"],
+    "hometown": "Britt, Iowa",
+    "clubs": ["Crescent", "A.I.E.E."],
+    "comment": "Advance agent for Moore's Non-leakable Pens. Apparently of the legendary tortoise type, but in \"Klipp's\" case, it is deliberate, consistent thinking. No speed exhibition with a breakdown, but continuous, steady running, night and day. Honest in everything, modest, dependable, and capable of taking care of himself."
+  },
+  {
+    "name": "Koepeke, William C.",
+    "gender": "Male",
+    "major": "Forestry",
+    "nicknames": ["Slim"],
+    "hometown": "Davenport, Iowa",
+    "clubs": [],
+    "comment": "Not so wise as he looks, but wise enough for all practical purposes. A tall sycamore of the Mississippi, with some sporting instincts overdeveloped. He thinks Forestry is fine, but the other departments are not to his liking."
+  },
+  {
+    "name": "Krall, John A.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Ames, Iowa",
+    "clubs": [],
+    "comment": "The Committee of Investigation failed to dig up any scandal concerning this man—could not even get track of a nickname. The mists of uncertainty envelop his past. In a positive way, John is a little man who picks up friends easily—does his work and makes no great fuss about it."
+  },
+  {
+    "name": "Kyner, Roy E.",
+    "gender": "Male",
+    "major": "Veterinary",
+    "nicknames": ["Tim", "Ikey"],
+    "hometown": "Humeston, Iowa",
+    "clubs": ["Vet. Med. Society", "Acacia", "Class Baseball", "K"],
+    "comment": "A quiet, unassuming chap. Never says much, but you can bet it is right when he does. Used to try to keep his \"roomy,\" \"Hic,\" from roughhousing, but has given up all hopes now. Starred in Physiology and Zoo last year. One of the big little men in his class."
+  },
+  {
+    "name": "Aing, Frank O.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "hometown": "Grinnell, Iowa",
+    "clubs": [],
+    "comment": "Would always be right in his statements if he were not sometimes wrong. Likes to argue about it, anyway. Well posted in bookology and always busy. Stands in well with the department and is \"Stantie's\" right-hand man."
+  },
+  {
+    "name": "Laird, W. Ray",
+    "gender": "Male",
+    "major": "Veterinary",
+    "nicknames": ["Pret"],
+    "hometown": "Algona, Iowa",
+    "clubs": ["Acacia", "Veterinary Medical Society"],
+    "comment": "Is a member of the firm—\"Nelson and Laird\"—organized some years ago. This firm has made good in books, college specialties, excursion trips, etc., and has done especially well in handling \"preps\"—always being able to make a good clearing."
+  },
+  {
+    "name": "Lamb, Eleanor",
+    "gender": "Female",
+    "major": "Domestic Science",
+    "nicknames": ["Topsy"],
+    "hometown": "Ridott, Ill",
+    "clubs": [
+      "Crescent",
+      "Y.W.C.A. Cabinet",
+      "Sophomore Class Play",
+      "Bomb Board",
+      "Hockey Team"
+    ],
+    "comment": "\"What stature is she of? Just as high as my heart.\" She comes from Illinois but is partial to Milwaukee products. A demure little maiden who has made good at I.S.C. Once a schoolma'am—but now reformed and still retains a great capacity for doing things."
+  },
+  {
+    "name": "Lamson, John B.",
+    "gender": "Male",
+    "major": "Agronomy",
+    "nicknames": ["Johnny"],
+    "hometown": "Fairfield, Iowa",
+    "clubs": ["Colonnades", "Agriculturist Staff", "Alpha Zeta"],
+    "comment": "Not a social \"light\" but says he will try next year. Attended only one class meeting and then stuffed the ballot box. Can talk more foolishness in a minute than any other man on the Campus. Every Ag. knows \"Johnny\" and admires him."
+  },
+  {
+    "name": "Sourd, Glenn M.",
+    "gender": "Male",
+    "major": "Mechanical Engineering",
+    "nicknames": ["La", "G. M."],
+    "hometown": "Woodbine, Iowa",
+    "clubs": ["Class Baseball", "Class Football", "Varsity Football"],
+    "comment": "This curly-haired M.E. upset the dope. On the gridiron, Clyde calls him \"La\"; in the classroom, he might be called \"La-zy,\" but appearances are deceiving. He gets his lessons and he sure can play football. At one time, he took an elective: \"Theory of Prof-working.\""
+  },
+  {
+    "name": "Attimer, Bernard J.",
+    "gender": "Male",
+    "major": "Veterinary",
+    "nicknames": ["Lat", "B. J."],
+    "hometown": "Bancroft, Iowa",
+    "clubs": [
+      "Class Track Captain, '09",
+      "Sub. Varsity Football",
+      "Varsity Track",
+      "Veterinary Medical Society"
+    ],
+    "comment": "A hard, consistent trainer in athletics and has no real bad habits except that he has been known to tell some \"purty\" big stories about happenings up home. He gets the practical side of the work, and after all, that is what really counts."
+  },
+  {
+    "name": "Lee, La Verne",
+    "gender": "Male",
+    "major": "Agronomy",
+    "nicknames": ["Hop", "Honey Boy"],
+    "hometown": "Sac City, Iowa",
+    "clubs": ["Colonnades", "Varsity Track", "A.A."],
+    "comment": "The Junior high stepper. Can't jump unless the band plays \"Honey Boy,\" but that seems to lift him right off the earth. Doesn't care much for girls or conversation and is only occasionally cordial."
+  },
+  {
+    "name": "Leerburg, Nis",
+    "gender": "Male",
+    "major": "Mechanical Engineering",
+    "nicknames": ["Leery"],
+    "hometown": "Iowa Falls, Iowa",
+    "clubs": ["Instructor in Drawing"],
+    "comment": "Wise in experience and in the ways of the world. He has traveled as a machinist and has dispensed tools, cotton-waste, and knowledge at the I.S.C. machine shop; he has studied drawing by mail from the I.C.S. and also under Varela at I.S.C., and now he spends his leisure hours drawing a salary from the Drawing Department."
+  },
+  {
+    "name": "Leonard, Arthur C.",
+    "gender": "Male",
+    "major": "Mechanical Engineering",
+    "nicknames": ["Arty"],
+    "hometown": "Elliot, Iowa",
+    "clubs": [],
+    "comment": "\"Arty\" is as short as they make 'em. Noted for nothing notorious. Consistent, well-groomed, and semi-industrious. Gets his own work done without any fuss. Quiet and reserved in public, but at home—oh, my!"
+  },
+  {
+    "name": "Linse, Jesse F.",
+    "gender": "Male",
+    "major": "Veterinary",
+    "nicknames": ["Jess"],
+    "hometown": "Ames, Iowa",
+    "clubs": ["Glee Club", "Veterinary Medical Society"],
+    "comment": "Never believed in letting his work pile up on him. Used to work hours and hours overtime in the Bacteriology lab and dissection. It is rumored that \"Jess\" once lived in Lamoni, Iowa, but liked Ames so well that he moved here."
+  },
+  {
+    "name": "Lippincott, W. A.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": ["Married"],
+    "hometown": "Ames, Iowa",
+    "clubs": [],
+    "comment": "Instructor in Poultry Husbandry. Came from Cornell University to I.S.C. to complete his practical education. From association with Prof. Pierce, he has developed a tendency to joking. Tries to make his classwork practical and is well-liked by the fellows. He grew tired of the simple, single life and took unto himself a partner."
+  },
+  {
+    "name": "Long, Fred R.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": ["Fritz", "Shorty"],
+    "hometown": "Marne, Iowa",
+    "clubs": [],
+    "comment": "Jovial and \"talky\" and a good mixer. One of Bruce Crossley's prize corn judges as a prep. Likes the 'll's so well that he is working overtime to catch up with them and will be there soon."
+  },
+  {
+    "name": "Ong, George J.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": ["Herman", "Shorty"],
+    "hometown": "Thornton, Iowa",
+    "clubs": [
+      "Philomathean",
+      "A.I.E.E.",
+      "Cosmopolitan Club",
+      "Class Baseball",
+      "Oak Club",
+      "Student Staff",
+      "Y.M.C.A. Cabinet, '09-'10",
+      "Deutscher Verein"
+    ],
+    "comment": "George is into everything—even mischief. Accomplishes wonders with minimum work and worry. His graphophone laugh cheers the hearts of the homesick. On one day he may be seen tearing up the cinder path, at church, dodging tennis balls, at \"Mag\" Hall, catching baseballs, on the West, North, and South sides, and in the English Library, besides attending classes."
+  },
+  {
+    "name": "Lovesee, Rosco G.",
+    "gender": "Male",
+    "major": "Veterinary",
+    "nicknames": ["Rock"],
+    "hometown": "Storm Lake, Iowa",
+    "clubs": ["Veterinary Medical Society", "K"],
+    "comment": "Not seen a great deal about the Campus, but if you would look up his record, it would speak for itself. Nothing ever troubled him in College except Chem, and that not very much, for he passed it up a mile. Steady-going and painstaking in anything he does."
+  },
+  {
+    "name": "Luney, Edmund A.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": ["Ebb"],
+    "hometown": "Denison, Iowa",
+    "clubs": [],
+    "comment": "Luney is not what his name would seem to indicate—witness the fact that he is a Junior. Liked E. and M. so well that he reserved a portion of it to lunch on during the winter vacation."
+  },
+  {
+    "name": "McCall, Frank E.",
+    "gender": "Male",
+    "major": "Horticulture and Forestry",
+    "nicknames": [],
+    "hometown": "Ames, Iowa",
+    "clubs": ["Pythian", "Agriculturist Staff"],
+    "comment": "Frank came to us from Ames High. Used to teach school too. Delights in Hort. and Forestry because apples, fresh air, and nature are healthful. Knows how to enjoy life. Lives with his folks because he needs to be looked after."
+  },
+  {
+    "name": "McCartney, Herbert E.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": ["Mack"],
+    "hometown": "Geneva, Nebraska",
+    "clubs": ["Forum"],
+    "comment": "A studious chap from beyond the \"Big Muddy.\" Uses precise English and has debating aspirations. Stayed out a term to learn the tricks of his trade and be an \"Ill.\""
+  },
+  {
+    "name": "McCormick, A. Glenn",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": ["Mac"],
+    "hometown": "Mt. Pleasant, Iowa",
+    "clubs": ["Adelante", "Pythian", "Class Track", "Oratorical Council"],
+    "comment": "\"True wisdom is too broad to be gained in a day; life too short for idle moments.\" A steady worker with a good reputation in society—literary and otherwise."
+  },
+  {
+    "name": "McCoy, Edward",
+    "gender": "Male",
+    "major": "Mechanical Engineering",
+    "nicknames": ["Mac"],
+    "hometown": "Creston, Iowa",
+    "clubs": ["T.O. Bomb Board", "Varsity Football"],
+    "comment": "\"Mac's\" first year \"Profs\" might have thought he would never set the world astir, but later he seems to have shaken his curly locks and stepped out into the limelight. He is now taking rapid strides towards football fame and Margaret Hall. Next year the millennium!"
+  },
+  {
+    "name": "McCulloch, Harry I.",
+    "gender": "Male",
+    "major": "Veterinary",
+    "nicknames": ["Hic", "Mac"],
+    "hometown": "Humeston, Iowa",
+    "clubs": ["K Acacia", "Veterinary Medical Society"],
+    "comment": "\"Hic\" hails from Wayne County—the best county in the state, so the story runs. \"Mac\" never rushes ahead to meet a task but always hits it hard when it gets to him. Has the requirements for a good student—zealous worker and has lots of \"pep.\""
+  },
+  {
+    "name": "Ccune, Charles E.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": ["Mac"],
+    "hometown": "Davenport, Iowa",
+    "clubs": [
+      "Colonials",
+      "Philomathean",
+      "Bomb Board",
+      "Student Staff",
+      "A.I.E.E."
+    ],
+    "comment": "Optimistic. Sincere and effective rather than brilliant. Sees life's humorous side and has a penchant for harmless jokes. His cranial mechanism may revolve rather slowly, but it turns out the finished product—neat, precise, and exact. A courteous, companionable, versatile chap who has \"hitched his wagon to a star.\""
+  },
+  {
+    "name": "McDonald, Ethel",
+    "gender": "Female",
+    "major": "Domestic Science",
+    "nicknames": [],
+    "hometown": "Ames, Iowa",
+    "clubs": ["Crescent"],
+    "comment": "\"Infinite riches in little room.\" A neat, diminutive lady of the very best quality. So distinctively feminine that she had the usual characteristic fondness for \"Stantie's Jokes.\" A fine reader. Favors better relations between the Zoology and Domestic Science Departments."
+  },
+  {
+    "name": "McDonald, Murl",
+    "gender": "Male",
+    "major": "Agronomy",
+    "nicknames": ["Mac"],
+    "hometown": "Ames, Iowa",
+    "clubs": [
+      "Welch",
+      "Bomb Board",
+      "Y.M.C.A. Cabinet",
+      "Student Volunteer",
+      "Corn Judging Team",
+      "Student Staff",
+      "Agriculturist Staff",
+      "Normal Debate",
+      "A.Z. Soph. Class Play"
+    ],
+    "comment": "There have been very few college activities in which Murl has not taken part. For work, his equal is hard to find."
+  },
+  {
+    "name": "McElyea, Lew W.",
+    "gender": "Male",
+    "major": "Veterinary",
+    "nicknames": ["Mac", "Lewy"],
+    "hometown": "Ames, Iowa",
+    "clubs": [
+      "B.II.",
+      "Class Track Captain, '08",
+      "Varsity Track",
+      "Veterinary Medical Society",
+      "K."
+    ],
+    "comment": "Always moving—couldn't keep still on a bet. Enjoys a joke better than the fellow who springs it. \"Lew\" never hit the cinder path to town but once—the cars didn't run then. A good-natured, jovial fellow, liked by everyone; even by a Pi Phi whom he slighted during the last Vet. dance for the sake of a snooze."
+  },
+  {
+    "name": "Millan, C. Gifford",
+    "gender": "Male",
+    "major": "Agronomy",
+    "nicknames": ["Jim", "J. G.", "Mac"],
+    "hometown": "Vinton, Iowa",
+    "clubs": ["Beardshear", "Delta Theta Sigma"],
+    "comment": "Red-haired but not red-headed. \"Mac\" is Johnny-on-the-spot everywhere you put him. Loves everything but Chem.—there he draws the line. Has good sense and sound judgment with no pretense about it."
+  },
+  {
+    "name": "Macklin, Theodore",
+    "gender": "Male",
+    "major": "Dairy",
+    "nicknames": [],
+    "hometown": "Ames, Iowa",
+    "clubs": [
+      "Phileleutheroi",
+      "South Dakota Debate",
+      "Kennedy Cup Debate, '09"
+    ],
+    "comment": "Claims to be a foreign-born American. Says he intends to instruct the \"heathen-Chinee.\" Does some debating stunts on the side for the Phileleutherois, when not out hunting ducks. One of the boys who will someday deliver the goods—not aluminum, either."
+  },
+  {
+    "name": "Madson, Sern",
+    "gender": "Male",
+    "major": "Mining Engineering",
+    "nicknames": [],
+    "hometown": "Mason City, Iowa",
+    "clubs": ["Pythian", "Iowa Club"],
+    "comment": "A mechanical genius who has invented many valuable machines—such as lamp-holders, rat-traps, windmills, etc. He is a loyal Pythian. Never had any falling out with Mr. Toil. You will find him to be a friend in time of need."
+  },
+  {
+    "name": "Maine, Harry E.",
+    "gender": "Male",
+    "major": "Mining Engineering",
+    "nicknames": ["Feathers", "Crook"],
+    "hometown": "Des Moines, Iowa",
+    "clubs": [
+      "Sigma Nu",
+      "Scrub Football",
+      "Freshman Track Team",
+      "Gamma Zeta Psi"
+    ],
+    "comment": "Found out that football is hard work. Frequents the cinder path. Is liked by everybody for he is always the same. A true friend to all who know him. Not so quiet at home as abroad."
+  },
+  {
+    "name": "Alloy, John M.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": ["Mike"],
+    "hometown": "Davenport, Iowa",
+    "clubs": ["Class Baseball", "Varsity Baseball"],
+    "comment": "\"Mike\" walks about the campus in a dignified, impressive sort of way—but he has been known to get excited on an athletic field. An all-around athlete specializing in baseball. Might easily be mistaken for a good-looking gentleman—yet the girls say he doesn't take up much of their time."
+  },
+  {
+    "name": "Manautou, Gregorio",
+    "gender": "Male",
+    "major": "Agronomy",
+    "nicknames": [],
+    "hometown": "Arroyo, Puerto Rico",
+    "clubs": ["Cosmopolitan Club", "Centro Literario Español"],
+    "comment": "A man who has made good in whatever he attempted. An honor in Organic Chemistry is sufficient proof of his mental ability. Can put many an American student to shame on the platform. He says, \"I love I. S. C., but oh, those sugar mills of Puerto Rico for me!\""
+  },
+  {
+    "name": "Manning, Truman W.",
+    "gender": "Male",
+    "major": "Science",
+    "nicknames": ["Tru"],
+    "hometown": "Ames, Iowa",
+    "clubs": [
+      "Alpha Tau Omega",
+      "Class Treasurer",
+      "Manager Sophomore Class Play"
+    ],
+    "comment": "Noted for sound business principles, probably due to his early training in the Ames Savings Bank. Has it over the fellows somewhat when it comes to mixing with the fair sex, for no doubt his auto talks for him many times."
+  },
+  {
+    "name": "Marks, Wilford H.",
+    "gender": "Male",
+    "major": "Veterinary",
+    "nicknames": ["Doc"],
+    "hometown": "Lake Park, Iowa",
+    "clubs": ["Veterinary Medical Society"],
+    "comment": "English and History were too much for Marks, so he turned to Veterinary Medicine. Enjoyed Prep Drill so much that he took it just to pass the time away. Expects to make a fortune when he leaves I. S. C. There are few better and many worse than Marks."
+  },
+  {
+    "name": "Martin, Edwin R.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": ["Martie"],
+    "hometown": "Wayland, Iowa",
+    "clubs": ["Colonials", "Phileleutheroi", "Bomb Board", "A.I.E.E."],
+    "comment": "Genius personified but disguised under a heavy cloak of modesty. Has a brain cabinet that is A-1. The percentage of pure worth condensed in \"Martie\" averages higher than the percentage butter fat in canned cream. Knows how to stay up late both to study and to fuss. Admired by all and the better known, the better liked."
+  },
+  {
+    "name": "Mayhew, Harry",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Villisca, Iowa",
+    "clubs": [],
+    "comment": "Doesn’t pretend to be a great man, but his friends know him to be a good and honest student. He has a special knack for digesting A.H. lectures. Enjoys trips to Sioux City to judge stock."
+  },
+  {
+    "name": "Merrill, Andrew H.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": ["A.H.", "Ag"],
+    "hometown": "Livermore, Iowa",
+    "clubs": [],
+    "comment": "\"A.H.\" is not an Ag but a big husky Civil. He has a splendid capacity for rough-housing and sometimes exercises it. He doesn’t claim to be a star in his class, but he knows that the road to success lies over the more or less rugged road of hard work and applies himself accordingly."
+  },
+  {
+    "name": "Michaelson, T.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": ["Mike"],
+    "hometown": "Cedar Falls, Iowa",
+    "clubs": [],
+    "comment": "In spite of all our efforts, we have been unable to unearth his first name. \"Mike\" has gained great renown by virtue of his eraser-throwing ability. The continued smile which he wears makes him many friends. Says he never attended his home town state institution, perhaps from fear."
+  },
+  {
+    "name": "Miller, Paul E.",
+    "gender": "Male",
+    "major": "Agronomy",
+    "nicknames": ["Pete"],
+    "hometown": "Cedar Rapids, Iowa",
+    "clubs": [
+      "Zeta Sigma Zeta",
+      "Philomathean",
+      "Drake Freshman Debate",
+      "Triangular Debate, '09",
+      "Delta Sigma Rho",
+      "Debating League",
+      "Oratorical Council",
+      "South Dakota Debate, '10"
+    ],
+    "comment": "City-bred but (to be) country-wed. A good student and debater of note. Showed Grinnell and South Dakota where to head in. When the wheels of his cranial appendage begin to spin, the other fellow may as well give in. The Prince of Philo-Phussers."
+  },
+  {
+    "name": "Mills, Vera",
+    "gender": "Female",
+    "major": "Science",
+    "nicknames": ["Betty"],
+    "hometown": "Jefferson, Iowa",
+    "clubs": ["Pi Beta Phi", "Bomb Board", "French Club"],
+    "comment": "\"Her frowns are fairer far than smiles of other maidens are. And then—her voice!\" The placid stream of \"Betty's\" life runs on undisturbed by earthquake, storm, or change of dynasty. Wide awake and capable, here's a girl you can depend upon when there's work to be done. Nevertheless, is oft wooed into oblivion by the gentle Goddess of Sleep. The college \"Paris\" would undoubtedly award to this maid the golden apple."
+  },
+  {
+    "name": "Obley, Byers",
+    "gender": "Male",
+    "major": "Mining Engineering",
+    "nicknames": ["Moke"],
+    "hometown": "Ames, Iowa",
+    "clubs": ["Class Football", "Crescent"],
+    "comment": "Married. Brindle complexion and ticklish. Has learned to fight defending his ribs from \"Hank\" Paulsen. There's nothing slow about \"Moke.\" He works in school and out; stopped last year long enough to buy a marriage license. (Got a stand-in by living at the \"Hennery\" one term.)"
+  },
+  {
+    "name": "Morris, Fred H.",
+    "gender": "Male",
+    "major": "Mining Engineering",
+    "nicknames": ["Fritz"],
+    "hometown": "Corning, Iowa",
+    "clubs": [
+      "Colonials",
+      "Phileleutheroi",
+      "Alt. Triangular Debate, '10",
+      "Kennedy Cup Debate, '09"
+    ],
+    "comment": "\"Fritz\" blew onto the campus from Corning—that famous rendezvous of stellar men (Bowman, Bliss, Drennan, et al.). Easily holds his own in the classroom—perhaps elsewhere. The \"try-again\" spirit is bound to land him on an intercollegiate debate. Partial to swarms (not of the Hymenoptera variety)."
+  },
+  {
+    "name": "Rupert, Ose S. T.",
+    "gender": "Male",
+    "major": "Agronomy",
+    "nicknames": [],
+    "hometown": "Oak Park, Illinois",
+    "clubs": ["Los Hermanos", "Crescent", "Soph. Class Play"],
+    "comment": "Has done much, but is noted most for the track suit he wore at a certain tug-of-war. If he were not so big, we would call him a pretty boy. A bright fellow who works sometimes."
+  },
+  {
+    "name": "Mosher, Clark L.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": ["Mose"],
+    "hometown": "West Liberty, Iowa",
+    "clubs": [
+      "Captain Class Baseball, '09",
+      "Class and Varsity Basketball, '09"
+    ],
+    "comment": "\"Mose\" first showed his good sense by coming right past Iowa City to take engineering at Ames. He didn't do this because there were few girls here, although his \"campus lab.\" is in serious condition. A scrappy opponent in basketball and a consistent student."
+  },
+  {
+    "name": "Musgrove, Floyd B.",
+    "gender": "Male",
+    "major": "Mechanical Engineering",
+    "nicknames": ["Musty"],
+    "hometown": "Ames, Iowa",
+    "clubs": ["Crescent"],
+    "comment": "He declares emphatically that he is not a German. Generally in a hurry and always wears a smile under his hat. A wit as keen as the smile is broad. One of the bell-ringers. Although the south-side joker, he finds plenty of time to work."
+  },
+  {
+    "name": "Marvis, C. Stewart",
+    "gender": "Male",
+    "major": "Mechanical Engineering",
+    "nicknames": ["Snooks"],
+    "hometown": "Muscatine, Iowa",
+    "clubs": ["Noisy Order of Venders"],
+    "comment": "Is a full member of the Noisy Order of Venders. Dispenses hot-air, slang, and Japanese ker-chew. Though young in years, he is aged in experience—to hear him tell it. Has helped stretch \"preps\" ever since he came to Ames and is always ready for a good time."
+  },
+  {
+    "name": "Taylor, Joseph S.",
+    "gender": "Male",
+    "major": "Agronomy",
+    "nicknames": [],
+    "hometown": "Clear Lake, Iowa",
+    "clubs": [
+      "Adelante",
+      "Philomathean",
+      "Drake Freshman Debate, '09",
+      "Normal Debate, '09"
+    ],
+    "comment": "Comes from Cerro Gordo County where hot-air blows free at all seasons of the year. Expelled a goodly portion of the super-heated atmosphere in the Normal debate. A rough-houser of widespread fame, so much so that his ardor must needs be dampened occasionally. Enjoys library work for he gets a chance to sleep once in a while."
+  },
+  {
+    "name": "Eil, James E.",
+    "gender": "Male",
+    "major": "Agronomy",
+    "nicknames": ["Jim"],
+    "hometown": "Long Grove, Iowa",
+    "clubs": [],
+    "comment": "Hurrah for Scott County, the greatest barley county in the world! Ask \"Jim\" if you don't believe it. The charms of engineering did not last long with \"Jim.\" As an earnest worker and a good fellow, he is hard to beat."
+  },
+  {
+    "name": "Nelson, N. Louis",
+    "gender": "Male",
+    "major": "Veterinary",
+    "nicknames": ["Louie", "Ped"],
+    "hometown": "Algona, Iowa",
+    "clubs": ["Acacia", "Veterinary Medical Society"],
+    "comment": "\"To be able to view the misfortunes of life as mere incidents compared with the good success that is bound to come is a characteristic which but few men have.\" \"Louie\" formerly held down a position with the Western Union as operator. Says telegraphy is out of date now and thinks that personal visits up home are much better."
+  },
+  {
+    "name": "Nichols, Niva G.",
+    "gender": "Female",
+    "major": "Music",
+    "nicknames": ["Nick"],
+    "hometown": "Ames, Iowa",
+    "clubs": ["Glee Club", "French Club"],
+    "comment": "\"Smiles and laughter are the best essentials for making friends.\" Belongs to the big class in Ames High; viz, the one that got out the first and only annual. \"Nick\" took music in Des Moines for a while, but finally decided to help boost the number here at home. Still has the habit of holding engagements open for the winter."
+  },
+  {
+    "name": "Verly, Frank L.",
+    "gender": "Male",
+    "major": "Horticulture",
+    "nicknames": [],
+    "hometown": "Center Junction, Iowa",
+    "clubs": ["Iowa Club", "Pythian"],
+    "comment": "Silent, yet not lacking in aggressiveness. A man more disposed to do than to say. A booster for Literary Society and a student of no mean ability."
+  },
+  {
+    "name": "Palmer, Bert L.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": ["Hump"],
+    "hometown": "Algona, Iowa",
+    "clubs": ["Acacia"],
+    "comment": "A noted fancier of the equine persuasion. Bright and sharp, he has a splendid capacity for doing work as well as avoiding it. One good-looking man that keeps shy of anything that looks like a fashion plate."
+  },
+  {
+    "name": "Palmer, Donald B.",
+    "gender": "Male",
+    "major": "Veterinary",
+    "nicknames": ["Ling", "D. B.", "Dutch"],
+    "hometown": "Cedar Rapids, Iowa",
+    "clubs": ["Class Sergeant-at-Arms", "Veterinary Medical Society"],
+    "comment": "A little man from a big city. \"Ling\" rides with his partner Buck to and from the farm each day. Always has an answer, even though in exams. The six-footers wanted \"D. B.\" in their organization, but he thought himself too tall."
+  },
+  {
+    "name": "Palmer, Roy C.",
+    "gender": "Male",
+    "major": "Agronomy",
+    "nicknames": [],
+    "hometown": "Eddyville, Iowa",
+    "clubs": [
+      "Zeta Sigma Zeta",
+      "Class Football, '08",
+      "Welch",
+      "State Triangular Debate, '10"
+    ],
+    "comment": "A youth of delicate constitution. Debates for the Welchmen with just as much vigor as he plays football for his class. An agreeable fellow, and one of those few who are broad enough to be good in athletics, debate, and studies."
+  },
+  {
+    "name": "Parker, Benjamin L.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": ["Benny"],
+    "hometown": "Moscow, Iowa",
+    "clubs": ["Acacia", "Class Track", "Varsity Track"],
+    "comment": "A slow, easy-going, cool-headed chap, though he does wear a fur cap and likes to argue. Always willing to cuss your side and discuss the other side of a question. Loaned a pennant to a Cornell girl once but will never do it again."
+  },
+  {
+    "name": "Paulsen, Henry J.",
+    "gender": "Male",
+    "major": "Mining Engineering",
+    "nicknames": ["Hank"],
+    "hometown": "Avoca, Iowa",
+    "clubs": ["Bachelor", "Class Football"],
+    "comment": "Rosy-cheeked and cherubic-faced—nevertheless rumored a \"rough-houser.\" At one time startled his friends by mixing with the Prepared Hot-Air Artists in the Home Oratorical. Does good class work—probably due to his ability to handle chalk and erasers."
+  },
+  {
+    "name": "Peterson, George",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": ["Pete"],
+    "hometown": "Harlan, Iowa",
+    "clubs": ["Theta Xi"],
+    "comment": "FIRST YEAR: Bright, modest, and retiring, with but little to say. SECOND YEAR: Brighter, less retiring, and growing livelier every day. THIRD YEAR: Reached the superlative and still progressing."
+  },
+  {
+    "name": "Platts, Charles A. E.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": ["Plat", "Senator", "General"],
+    "hometown": "Lake Mills, Iowa",
+    "clubs": ["Beardshear", "Short-horn Prof"],
+    "comment": "Started with the '10s, but says he stayed out a year so he could graduate with the good class. Chas. always had a desire to be an officer in the \"Prep Army,\" and his ambition was finally realized. Just a boy with a man's characteristics."
+  },
+  {
+    "name": "Orterfield, Ray S.",
+    "gender": "Male",
+    "major": "Veterinary",
+    "nicknames": ["Porter", "Percy"],
+    "hometown": "Hartley, Iowa",
+    "clubs": ["Acacia", "Veterinary Medical Society"],
+    "comment": "A scholar of merit and just enough of a Democrat to keep his proportion of Honors to Credits as 16 to 1. If in doubt about anything, he never hesitates to inquire into the matter. Says he likes to room alone."
+  },
+  {
+    "name": "Pusch, George W.",
+    "gender": "Male",
+    "major": "Mining Engineering",
+    "nicknames": ["Peter"],
+    "hometown": "Tucson, Arizona",
+    "clubs": ["Sigma Nu", "Kappa Phi"],
+    "comment": "A big-hearted Dutchman who believes in carrying an overcoat even in sunny weather. Prefers Arizona to the Iowa climate. Spends his vacations at Ames. A man to be depended upon."
+  },
+  {
+    "name": "Quaife, Elvin L.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": ["Brer"],
+    "hometown": "Ionia, Iowa",
+    "clubs": [
+      "Colonials",
+      "Philomanthean",
+      "Y.M.C.A. Cabinet",
+      "Oratorical Council",
+      "Delta Sigma Rho",
+      "National Dairy Judging Team",
+      "Normal Debate, '08",
+      "State Triangular Debate, '10"
+    ],
+    "comment": "No relative of the lazy, nor friend of the indolent. With both physical energy and mental strength, he finds it easy to carry his work and do outside stunts too. Never gets the 'blues'—has no reason to. It might be hinted that he fills his brother's shoes on some occasions."
+  },
+  {
+    "name": "Quinn, Allen A.",
+    "gender": "Male",
+    "major": "Agronomy",
+    "nicknames": ["Senator"],
+    "hometown": "Mantua, Ohio",
+    "clubs": [],
+    "comment": "After two years at the Buckeye Ag. College, Quinn thought he would cast his lot with the '11's of I.S.C. A conscientious worker and always ready when there is something doing."
+  },
+  {
+    "name": "Quint, Annie L.",
+    "gender": "Female",
+    "major": "Science",
+    "nicknames": ["Anne"],
+    "hometown": "Chicago, Ill",
+    "clubs": ["K.A.C.", "O.B."],
+    "comment": "She moves a Goddess and she looks a Queen. Another loyal descendant of old I.S.C. She started out at Northwestern, but the ties of Ames proved too strong a bond for this fair maid. Is noted in Psych (Psychology) classes for original opinions."
+  },
+  {
+    "name": "Raash, Fred A.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": ["Dutchy"],
+    "hometown": "Rockford, Iowa",
+    "clubs": ["Iowa Club", "Beardshear"],
+    "comment": "Careful, honest, painstaking. As a guard at Anamosa, he learned to keep the rules. Consequently, he doesn't hate drill. Everything is smooth sailing since he bade adieu to the English department."
+  },
+  {
+    "name": "Rector, John U.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": ["J.U.", "Rec"],
+    "hometown": "",
+    "clubs": ["Student Staff", "Bomb Board", "Forum"],
+    "comment": "An artist of national reputation. Designates himself as Jay-You-Are. From the looks of some of his cartoons, it is thought that he came from the Podunk high school. Rec prefers to fuss with his textbooks as a rule."
+  },
+  {
+    "name": "Reynoldson, Le Roy A.",
+    "gender": "Male",
+    "major": "Forestry",
+    "nicknames": ["Jennie"],
+    "hometown": "Primghar, Iowa",
+    "clubs": ["S.A.E.", "Dutch Band"],
+    "comment": "One year at Minnesota was enough for Jennie. Makes a specialty of collecting walking sticks for the Bug department. Expects to be at least a Gifford Pinchot."
+  },
+  {
+    "name": "Cketts, Robert A.",
+    "gender": "Male",
+    "major": "Veterinary",
+    "nicknames": ["Bob", "Rick"],
+    "hometown": "Ames, Iowa",
+    "clubs": ["Veterinary Medical Society", "Class Baseball"],
+    "comment": "Married. Goes to all classes and gets good grades. \"Rick\" is our baseball fan and football enthusiast. A great \"dopester\" before all games. If everyone had the athletic spirit that Bob has, things would move for I.S.C."
+  },
+  {
+    "name": "Eis, Sabin",
+    "gender": "Male",
+    "major": "Veterinary",
+    "nicknames": ["Sabin"],
+    "hometown": "Armstrong, Iowa",
+    "clubs": ["Veterinary Medical Society", "Dutch Band"],
+    "comment": "Not very mighty but has the name of a good town behind him. So quiet that you wouldn't know he was around if he didn't answer in roll-call. Will make a good Vet if he learns to talk a little more."
+  },
+  {
+    "name": "Robinson, Frank A.",
+    "gender": "Male",
+    "major": "Mining Engineering",
+    "nicknames": ["Ham"],
+    "hometown": "Colfax, Iowa",
+    "clubs": ["Class Baseball", "Quo Vadis"],
+    "comment": "Easy-going, yet lost his heart in Colfax. Cherishes tender feelings for rods of railroads. Satellite of the Chem. department. Official dope dispenser, unofficial printer of separation sheets. Senior partner in \"Central Specialty Co.\" \"Cachoo\" a specialty."
+  },
+  {
+    "name": "Rogers, Harold C.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "hometown": "Toledo, Iowa",
+    "clubs": ["Rho Sigma Gamma", "Class Track"],
+    "comment": "Says that he never had a nickname but we doubt it. However, he early made a name for himself by winning his numerals. Has more brains than he knows what to do with. Perhaps it is because he used to be a Baptist at Des Moines College."
+  },
+  {
+    "name": "Ohwer, Alfred C.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": ["Dutch"],
+    "hometown": "Denison, Iowa",
+    "clubs": ["Reserves", "A.I.E.E."],
+    "comment": "Who does not know \"Dutch\"? \"Dutch\"—circulator of petitions, promoter of reforms, dispenser of wisdom, instigator of athletic enthusiasm. Coached the Seniors in '09. Next year we hope to see him on the Varsity. A hard worker and an ingenious thinker, but he sometimes misdirects his energies."
+  },
+  {
+    "name": "Root, Walter H.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": ["Walt"],
+    "hometown": "Des Moines, Iowa",
+    "clubs": ["Class President, '07"],
+    "comment": "\"Walt\" is so well known that he hardly needs a write-up. He came from Des Moines and brought the \"hustling\" spirit with him. Was the first president of the class."
+  },
+  {
+    "name": "Rudnick, Arthur W.",
+    "gender": "Male",
+    "major": "Dairy",
+    "nicknames": [],
+    "hometown": "Chicago, Ill",
+    "clubs": [],
+    "comment": "\"I want you to know I'm from Chicago.\" Small in stature, black hair and green eyes. A butter man from the word go. Really enjoys Chem. for he never has to study it. Characteristic ailment—knowledge and being aware of it."
+  },
+  {
+    "name": "Rush, Gladys",
+    "gender": "Female",
+    "major": "Science",
+    "nicknames": ["Rushum"],
+    "hometown": "Ames, Iowa",
+    "clubs": ["Hockey Team", "Sophomore Class Play", "Phileleutheroi", "I.F."],
+    "comment": "\"Within her eyes the heaven of April with its changing lights.\" A slender girl of much modesty and refinement. Speaks her good will to everyone by always carrying a pleasant countenance about with her. Conscientious and dependable—one you can \"count on.\" Has no serious faults and only one minor—an attraction for a short, sawed-off ΔΣP pin."
+  },
+  {
+    "name": "Russell, Leta",
+    "gender": "Female",
+    "major": "Science",
+    "nicknames": [],
+    "hometown": "Humboldt, Iowa",
+    "clubs": ["Ω Δ"],
+    "comment": "\"I like above all things in the world to be loved.\" This fair maiden hails from Gotch’s town. Has many strings to her beau. Sometimes keeps her Romeo in suspense. However, only true worth attracts admiration."
+  },
+  {
+    "name": "Schaefer, Charles W.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": ["Shorty"],
+    "hometown": "Grinnell, Iowa",
+    "clubs": ["Philomathean"],
+    "comment": "He makes up in energy what he lacks in size. \"Shorty\" believes that good scholarship plus Ames spirit equals the best chance for success. Wins many close friends."
+  },
+  {
+    "name": "Schmitt, Walter W.",
+    "gender": "Male",
+    "major": "Agronomy",
+    "nicknames": ["Smittie"],
+    "hometown": "Niagara Falls, N.Y.",
+    "clubs": ["Beardshear"],
+    "comment": "\"Smittie\" doesn’t pretend to move as fast as the water in the whirlpool at dear old Niagara, but believes in taking things as they come. A hardworking fellow with little time for society."
+  },
+  {
+    "name": "School, Fred S.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "hometown": "Gladbrook, Iowa",
+    "clubs": ["Class Baseball"],
+    "comment": "He believes that the Nevada girls are dearer than those of Ames. Has a consistent record in the classroom. Without \"fuss or feathers,\" we may expect Fred to do his share in the world’s work."
+  },
+  {
+    "name": "Hohenberger, J. Guy",
+    "gender": "Male",
+    "major": "Veterinary",
+    "nicknames": ["Shonny"],
+    "hometown": "East Peru, Iowa",
+    "clubs": ["Veterinary Medical Society"],
+    "comment": "Took a long leave of absence in the fall of '08 to go home and elect Bryan. He thinks now that he could have improved his time better by staying in Ames. Often becomes reminiscent and tells stories of his younger days."
+  },
+  {
+    "name": "Schregardus, Dirk",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "hometown": "Prairie City, Iowa",
+    "clubs": ["Adelante", "Beardshear", "Oratorical Council"],
+    "comment": "Dirk does not mix like some of our members, but when you come to know him, you know a thoughtful and agreeable fellow. A booster for literary work, and, best of all, he will not admit it."
+  },
+  {
+    "name": "Scott, Floyd A.",
+    "gender": "Male",
+    "major": "Veterinary",
+    "nicknames": [],
+    "hometown": "Ames, Iowa",
+    "clubs": ["Veterinary Medical Society"],
+    "comment": "Floyd lives up at Ontario but insists that his address is Ames. Always walks to early morning classes; says it saves time. Has a voice good enough for the Glee Club but hasn't had the nerve to try out as yet."
+  },
+  {
+    "name": "Earle, Mary A.",
+    "gender": "Female",
+    "major": "Domestic Science",
+    "nicknames": ["Mollie"],
+    "hometown": "Nemaha, Iowa",
+    "clubs": ["Ladies Glee Club", "Quill"],
+    "comment": "A jolly girl; if you doubt, just watch those dimples. A charter member of the Mind-Your-Own-Business Club. \"You can always depend on 'Mollie,'\"—a frequent remark among her friends. Known to receive heavy-laden epistles from Storm Lake."
+  },
+  {
+    "name": "Harp, E. P.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": ["Dan"],
+    "hometown": "Dow City, Iowa",
+    "clubs": ["Varsity Football"],
+    "comment": "Big and husky. Often fills a gap in the Varsity line. If there is anything else that distinguishes him, it is that he is sharp enough to attend to his own business. Follows paths that lead him far from the fair \"co-eds.\""
+  },
+  {
+    "name": "Shields, Fred W.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": ["Fritz", "Big Chief"],
+    "hometown": "Villisca, Iowa",
+    "clubs": ["Reserves", "Class Football", "Class Track", "Forum"],
+    "comment": "\"Fritz\" usually manages to pass in everything. He is noted as a promoter and manager of club baseball teams. The \"Big Chief\" is not as bloodthirsty as his name, but he has an unequalled reputation as a South side rough-houser. Also known as \"The protector of the preps.\""
+  },
+  {
+    "name": "Shiffer, James A.",
+    "gender": "Male",
+    "major": "Mechanical Engineering",
+    "nicknames": ["Shifferino"],
+    "hometown": "Tipton, Iowa",
+    "clubs": [],
+    "comment": "A modest, mild-spoken, independent youth whose true worth is only revealed to those who know him personally. An amateur photographer, a mechanical prodigy, and a genius in the art of making various contrivances—having already had two inventions patented."
+  },
+  {
+    "name": "Simmons, Paul M.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": ["Simmie"],
+    "hometown": "Osceola, Iowa",
+    "clubs": ["Φ Γ Δ"],
+    "comment": "A loquacious, vivacious person, who is more serious-minded than he appears. Is a successful understudy of George Cohen. Sticks close to I. S. C. even in vacation time. Ambitious, although not along Engineering lines."
+  },
+  {
+    "name": "Imms, William H.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Beaman, Iowa",
+    "clubs": ["Gamma Theta"],
+    "comment": "Works hard, but doesn't mind that. He and McCoy have been known to enjoy some splendid house parties between trains at Webster City."
+  },
+  {
+    "name": "Smith, Percy T.",
+    "gender": "Male",
+    "major": "Forestry",
+    "nicknames": ["Perc", "Mellin's Food"],
+    "hometown": "Canton, S. D.",
+    "clubs": ["Acacia"],
+    "comment": "He was at one time a member of the '10s, but stayed out a year, just long enough to change from A. H. to Forestry. Percy is a bit quiet and retiring, but a shark at grade-getting. Short and round, but square, too."
+  },
+  {
+    "name": "Smith, W. Armstrong",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": ["Smithie"],
+    "hometown": "Roxbury, N. Y.",
+    "clubs": [],
+    "comment": "A Yankee from the East is this. He wouldn't get in a hurry unless it was necessary—doesn't believe in it. Careful and methodical, and although he doesn't make the fire fly, we cannot say that he will not get there just the same."
+  },
+  {
+    "name": "Smith, Warren T.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": ["Tommy"],
+    "hometown": "Ames, Iowa",
+    "clubs": ["Bomb Board", "Sigma Nu", "Student Staff", "Sigma Sigma"],
+    "comment": "Class President, '10. Tommy knows every path on the campus; every pebble in the paths; but only one girl on the path. Serious, conscientious, and confiding. Has never missed a class meeting. A loyal '11."
+  },
+  {
+    "name": "Quyer, Albert R.",
+    "gender": "Male",
+    "major": "Mechanical Engineering",
+    "nicknames": ["Squee"],
+    "hometown": "Ames, Iowa",
+    "clubs": ["Class Football", "Glee Club"],
+    "comment": "A big fellow with a deep voice, which he uses to good advantage in the Glee Club. Denies the report that he is the original \"Wild Man from Borneo.\""
+  },
+  {
+    "name": "Tafford, Ray R.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": ["Staff"],
+    "hometown": "Ames, Iowa",
+    "clubs": ["Forum", "Class Track"],
+    "comment": "Staff is a hard-working chap of more than ordinary ability. He dreams electricity but forgets his dreams during working hours. The smell of Dukes' Mixture is as sweet incense to him."
+  },
+  {
+    "name": "Steigleder, Charles J.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": ["Steig"],
+    "hometown": "Spencer, Iowa",
+    "clubs": ["Beta Theta Pi", "Kappa Phi", "Sigma Sigma"],
+    "comment": "Notwithstanding his German extraction, \"Steig\" has a veritable Yankee's appreciation for a good joke. Makes big scores as a chronic fusser but is a good student nevertheless."
+  },
+  {
+    "name": "Stephens, Marie",
+    "gender": "Female",
+    "major": "Domestic Science",
+    "nicknames": [],
+    "hometown": "Lohrville, Iowa",
+    "clubs": ["Kappa Delta"],
+    "comment": "\"An excellent thing in woman.\" A close relative of the Chem. Department, but Marie doesn't lean that way. Is a loyal exponent of the D.S. course when not keeping in practice her histrionic talents. Has starred several seasons in County Fair roles."
+  },
+  {
+    "name": "Stewart, Benjamin James",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": ["Stew"],
+    "hometown": "Davenport, Iowa",
+    "clubs": [
+      "Class Baseball (Spring of 1907 with '09)",
+      "Ex. '09",
+      "Acacia",
+      "Pythian"
+    ],
+    "comment": "Has had to stop school enough times to discourage most fellows, but comes back stronger each round. As a member of the Liars Club, he likes a good story and a good pipe. Rather slow, but his orchard of learning is well cultivated and yields fruit."
+  },
+  {
+    "name": "Stewart, James E.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "hometown": "Eldon, Iowa",
+    "clubs": ["Class Football"],
+    "comment": "The committee skirmished around for three weeks but failed to dig up a nickname for this big man. A great addition to our class football team. Perpetually happy, always working, he's a valuable addition to the Civils."
+  },
+  {
+    "name": "Toddard, Irving W.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": ["Irv"],
+    "hometown": "Newton, Iowa",
+    "clubs": ["Delphian", "Major—Battalion"],
+    "comment": "\"Irv's\" name has already been immortalized by one of his college contemporaries as follows: \"The worth in debate, We might well relate, Of this excellent minister's son; But in drill he's a shark, And so as a mark, Of distinction he's called captain.\""
+  },
+  {
+    "name": "Tookey, D. D.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": ["Danny", "D. D."],
+    "hometown": "Cedar Rapids, Iowa",
+    "clubs": ["Zeta Sigma Zeta", "Bachelor", "Class Basketball"],
+    "comment": "\"D. D.\" is a qualified manager and excels as a mixer. Classified special for a few terms so he could take all of his electives. Quick and witty."
+  },
+  {
+    "name": "Torm, Shirley Snow",
+    "gender": "Female",
+    "major": "Domestic Science",
+    "nicknames": [],
+    "hometown": "Ames, Iowa",
+    "clubs": [
+      "Clio",
+      "Bomb Board",
+      "Class Secretary",
+      "Junior Class Play",
+      "Pi Beta Phi"
+    ],
+    "comment": "I am a woman. When I think, I must speak. Left I.S.C. for Grinnell but found life among the Congregationalists too quiet and returned in a month. She is always ready for a good time. Her capacity for bluffing is only surpassed by her capability for sincere, earnest work."
+  },
+  {
+    "name": "Stoulil, William G.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": ["Bill"],
+    "hometown": "Pocahontas, Iowa",
+    "clubs": ["Utopia"],
+    "comment": "You wouldn't take him for a lady's man, but perhaps you have never been down to Assembly. Old enough to know his business and big enough to tend to it, so we have no cause to worry about his future."
+  },
+  {
+    "name": "Sumner, Maude A.",
+    "gender": "Female",
+    "major": "",
+    "nicknames": ["IIr2"],
+    "hometown": "Fairfield, Iowa",
+    "clubs": ["Phileleutheroi"],
+    "comment": "Who is't can read a woman? She is working overtime to remove a condition from her first term Campus Lab. Now doing fine work under a more competent instructor. Aims to astonish even Prof. Thompson when she acquires the roll of sheepskin tied with cardinal and gold."
+  },
+  {
+    "name": "Tellier, Emma L.",
+    "gender": "Female",
+    "major": "Domestic Science",
+    "nicknames": ["Carrots"],
+    "hometown": "Humboldt, Iowa",
+    "clubs": [
+      "Ω Δ",
+      "Bomb Board",
+      "Sophomore Class Play",
+      "Student Staff",
+      "Y.W.C.A. Cabinet",
+      "A Basketball-Tennis",
+      "Class Hockey-Tennis-Basketball"
+    ],
+    "comment": "Auburn-thatched is this girl, but the thatch covers a head full of fun and frolic, wit and wisdom, and promptings of kindness to all mankind. A feminine athlete of no mean ability, she has all the attributes that go to make a woman womanly. Occasionally given to the study of abstract objects, such as bricks, for example."
+  },
+  {
+    "name": "Olstrup, Mogens R.",
+    "gender": "Male",
+    "major": "Dairy",
+    "nicknames": ["Mogo", "Dutchy", "Denmark"],
+    "hometown": "Bugstrup, Denmark",
+    "clubs": ["Beardshear"],
+    "comment": "So lately from Denmark that his thoughts are still too big for the English he knows. A brilliant student and a hard worker; he takes time to help run the Dairy Department. He is a great mixer, especially with the faculty. Can call more men by their first names than anyone else we know except Bruce Crossley."
+  },
+  {
+    "name": "Tompkin, Will I.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": ["Willie", "Tommy"],
+    "hometown": "Garrison, Iowa",
+    "clubs": [],
+    "comment": "A lot bigger than his size indicates. Good at passing up 'Math' and \"Phyz.\" The champion lightweight rough-houser of the campus. He has attended every Sophomore-Freshman function that has occurred in the last three years."
+  },
+  {
+    "name": "Trimele, Charles S.",
+    "gender": "Male",
+    "major": "Dairy",
+    "nicknames": ["Chuck"],
+    "hometown": "Clarinda, Iowa",
+    "clubs": [],
+    "comment": "A butter-making Ag. hand-me-down from the '10s. However, he is no flunker but one of the old steadies. Never thundered very loud but can make number one butter. Poses as a \"Joke-cracker.\""
+  },
+  {
+    "name": "Tudor, J. M.",
+    "gender": "Male",
+    "major": "Agronomy",
+    "nicknames": ["Tude"],
+    "hometown": "Iowa City, Iowa",
+    "clubs": [
+      "Zeta Sigma Zeta",
+      "Welch",
+      "Drake Freshman Debate, '08",
+      "Kennedy Cup Debate"
+    ],
+    "comment": "\"Tude\" hails from the farm, but you'd never think it. Started out a plugger but decided all work and no play makes Jack a dull boy. Now he's giving the vice-versa a trial. An accomplished fusser."
+  },
+  {
+    "name": "Ail, Howard O.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": ["H. O."],
+    "hometown": "Nevada, Iowa",
+    "clubs": ["Forum"],
+    "comment": "\"H. O.\" has never formulated any startling theories concerning the validity of the nebular hypothesis, has never even been seen dallying along the lover's lane of I. S. C.; but—\"Oh you at Drake,\" His bid for fame consists in true integrity, the ability to mind his own business, and consistent plugging for a sheepskin."
+  },
+  {
+    "name": "Van Auken, Ellsworth W.",
+    "gender": "Male",
+    "major": "Mining Engineering",
+    "nicknames": ["Van"],
+    "hometown": "Ames, Iowa",
+    "clubs": ["Dutch Band"],
+    "comment": "An English and Math shark in his day. Busy now with mining problems. A nervous, quick-stepping, quick-thinking chap."
+  },
+  {
+    "name": "Arella, Joseph B.",
+    "gender": "Male",
+    "major": "Mechanical Engineering",
+    "nicknames": ["J. B."],
+    "hometown": "Ames, Iowa",
+    "clubs": ["Instructor in Mechanical Engineering"],
+    "comment": "Married. \"J. B.\" needs no introduction to the E. E.'s and M. E.'s—most of them have been fired from the drawing room by him. As a man of much experience, he entered in '07 as a Junior to get a roll of sheepskin to use in practical work. Duck shooting, home life, teacher's duties, and student's cares have kept him busy."
+  },
+  {
+    "name": "Waughn, Howard",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Marion, Iowa",
+    "clubs": [
+      "Kennedy Cup Debate, '09",
+      "South Dakota Debate, '10",
+      "Pythian",
+      "Delta Theta Sigma",
+      "Delta Sigma Rho",
+      "Agriculturist Staff",
+      "Cosmopolitan Club",
+      "Bomb Board",
+      "State Triangular Debate, '08",
+      "Declamatory Contest, '09",
+      "Oratorical Contest, '09",
+      "Stock Judging Team, '09"
+    ],
+    "comment": "Here is a believer in doing something outside of the regular college curriculum. The war-horse type, responsible, capable—a good student and right at home on the forensic platform. Has recently extended his field of effort to include Margaret Hall and is devoting much attention thereto."
+  },
+  {
+    "name": "Elif, Carlton E.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": ["Pete"],
+    "hometown": "Sanborn, Iowa",
+    "clubs": ["Forum", "A.I.E.E."],
+    "comment": "One of General Lincoln's aides. He did the pedestrian stunt in his freshman year of progressively marking time from here to Des Moines in 9 hours and 30 minutes. His capacity for getting lessons may be closely judged by this record of activity."
+  },
+  {
+    "name": "Walker, Boyd A.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "hometown": "Des Moines, Iowa",
+    "clubs": [
+      "B.O.II Varsity Track",
+      "Class President, Fall, '09",
+      "Bomb Board",
+      "A.A. Sigma Sigma"
+    ],
+    "comment": "Always looks as if he had just stepped out of a bandbox. How he does it he has never explained. Aside from his consistent college work, Boyd has found time to become one of the most popular and best-liked men in his class."
+  },
+  {
+    "name": "Walters, Ralph E.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": ["Walt", "Slivers", "Sport"],
+    "hometown": "Harlan, Iowa",
+    "clubs": ["Brotherhood of St. Andrew"],
+    "comment": "Naturally endowed with mental brilliance to such a degree that work becomes play. A jolly fellow who talks almost as much as a girl. Once accused of stacking a girl's room. Never seen much with the fair sex but is always on the lookout for a good cook."
+  },
+  {
+    "name": "Waterman, Charles R.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "hometown": "Newell, Iowa",
+    "clubs": ["Theta Xi"],
+    "comment": "He and his pipe are often seen in the neighborhood of the campus. He started out to be a '10 but decided that the '11s were a much better class. Can do a surprisingly large amount of good work when he wants to."
+  },
+  {
+    "name": "Atson, Wallace S.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": ["Wat", "Jack", "Piper"],
+    "hometown": "Greene, Iowa",
+    "clubs": ["Bomb Board", "Dutch Band"],
+    "comment": "Isn't green—if he is from Greene. In prep days, Piper's rough-housing ability roused the ire of his long-suffering landlady. Go away Hall girls, but Oh! those downtown lassies. When it comes to work, Wat hits the line all the time and renders good account of himself unto all his professors."
+  },
+  {
+    "name": "Eiss, Albert",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "hometown": "Denison, Iowa",
+    "clubs": [
+      "Rho Sigma Gamma",
+      "Class Football",
+      "Varsity Basketball",
+      "Forum"
+    ],
+    "comment": "Truly, beef is not necessary for an athlete. Ames' pep has made our pigmy great. Another man who never lets his studies interfere with his college work. Is very persistent in his attempts to make up campus lab."
+  },
+  {
+    "name": "Elden, Ernest",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": ["E. Z."],
+    "hometown": "Iowa Falls, Iowa",
+    "clubs": [],
+    "comment": "Never worries but always tries to live up to his nickname. His motto is, \"Never do today what you can put off until tomorrow.\" Nevertheless, we expect to see E. Z. make as much out of life as some who stir up more dust."
+  },
+  {
+    "name": "Whitham, J. Campbell",
+    "gender": "Male",
+    "major": "Forestry",
+    "nicknames": ["Fuzzy", "Whit"],
+    "hometown": "Fairfield, Iowa",
+    "clubs": ["Class Baseball, '09"],
+    "comment": "Not large in stature but a mate for anyone in industry. Those silent workers are bound to make things count somewhere. For further information, apply at Forestry Office. Also see Barrett."
+  },
+  {
+    "name": "Ichmann, George",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "hometown": "Atlantic, Iowa",
+    "clubs": [],
+    "comment": "Formerly one of Lincoln's Light Brigade, but lost his nerve during one of the bloodless conflicts and deserted. Some day this embryonic genius may startle the world with some wonderful electric toys."
+  },
+  {
+    "name": "Wilbur, William E.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": ["Bill"],
+    "hometown": "Omaha, Nebraska",
+    "clubs": ["Hawkeye", "Bomb Board"],
+    "comment": "Hails from the Bug-Eater State. Plentifully endowed with wisdom, particularly of the copyrighted species. Manufacturer of \"A I\" English. If stupid, might have been called a grind. Can answer a question before the Prof. asks it."
+  },
+  {
+    "name": "Whilley, Louis E.",
+    "gender": "Male",
+    "major": "Veterinary",
+    "nicknames": ["Duke", "Lew"],
+    "hometown": "Ames, Iowa",
+    "clubs": ["K Vet", "Medical Society", "Bomb Board"],
+    "comment": "A great hustler for business—says it pays to advertise. Came very near getting credit in Zoo V. for working in a produce house last summer. An all-around fellow no matter where you meet him."
+  },
+  {
+    "name": "Woodman, Arthur",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": ["Woody"],
+    "hometown": "Russell, Iowa",
+    "clubs": ["Zeta Sigma Zeta"],
+    "comment": "Two years of plugging have taught him many things, among which is the folly of shunning Margaret Hall. Does not say much, but when he does talk, he is pretty sure to know what it is about. Slow and steady and a good student."
+  },
+  {
+    "name": "Oody, Clyde C.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "hometown": "Newton, Iowa",
+    "clubs": ["Delphian", "Class Football", "Class Treasurer"],
+    "comment": "A big man with lots of energy, as the other class teams have found out, to their sorrow. One of the stars on the '11 football squad. A capable worker, he has made many friends among his classmates."
+  },
+  {
+    "name": "Wright, Charles E.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": ["Hand-me-down"],
+    "hometown": "Ames, Iowa",
+    "clubs": ["Dutch Band"],
+    "comment": "A \"Hand-me-down\" from the '09s. He is dark-haired and dark-eyed and frequently permeates the brick walls of the \"House of a Hundred.\" When not fussing, he puts in some of his time studying and keeps up well with his class."
+  },
+  {
+    "name": "Wylie, Paul E.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": ["Colonel"],
+    "hometown": "Des Moines, Iowa",
+    "clubs": [
+      "Hawkeye",
+      "Phileleutheroi",
+      "Major College Cadets",
+      "Captain Cummins Rifles",
+      "Bomb Board"
+    ],
+    "comment": "Not content with learning all he could of Mining and Civil Engineering, he came back to Short Course to find out how to be an Ag. He is General Lincoln's right-hand man, which alone ought to be honor enough for anyone."
+  },
+  {
+    "name": "Zentmire, Zelma",
+    "gender": "Female",
+    "major": "Science Clio",
+    "nicknames": [],
+    "hometown": "Ames, Iowa",
+    "clubs": [],
+    "comment": "\"Sweet promptings unto kindness were in her very look.\" A girl who is a real student. Zelma always has a bright smile for everyone, even on a rainy day. A thorough exponent of the South Side as a desirable place to live."
+  },
+  {
+    "name": "Immerman, Arthur G.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": ["Zim"],
+    "hometown": "Washta, Iowa",
+    "clubs": [],
+    "comment": "Slow and easy-going, he gets there just the same—and he's sure of it. Came to us from the '09's, but a worthy heritage. Not particularly a shining light in society, but a student of excellent quality and made of the right sort of stuff."
+  },
+  {
+    "name": "Alverson, H. A.",
+    "gender": "Male",
+    "major": "Civil Engineering",
+    "nicknames": ["Hal"],
+    "hometown": "Kingsley, Iowa",
+    "clubs": [],
+    "comment": "\"Hal\" is from a town where they believe in being neither seen nor heard. A sort of invisible omnipresence. Always on hand when he is wanted, and always manages to get there with the goods, but is never in the way."
+  },
+  {
+    "name": "Lake, Charles C.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "nicknames": ["Rivers", "Grandpa"],
+    "hometown": "Gilbert, Iowa",
+    "clubs": ["Reserves, '09"],
+    "comment": "A whole-souled man who still retains some of his youthful ways. Does not always believe that I.S.C. instructors are little Tin Gods on wheels. He had to borrow a slide rule to figure out whether he was a Junior or not."
+  },
+  {
+    "name": "McRoberts, Hilton L.",
+    "gender": "Male",
+    "major": "Veterinary",
+    "nicknames": ["Mac", "Sharky"],
+    "hometown": "Columbus Junction, Iowa",
+    "clubs": [
+      "Φ Γ Δ Vet. Med. Society",
+      "Captain Class Football",
+      "Class Baseball"
+    ],
+    "comment": "A practical sort of fellow who does not always look on the serious side and believes in giving work a vacation now and then. Has the ability to make a good athlete. Once in a while will \"fuss.\""
+  }
+]

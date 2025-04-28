@@ -1,0 +1,7191 @@
+[
+  {
+    "name": "Anne Abell",
+    "gender": "Female",
+    "hometown": "Vermillion, S. D.",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "University High School",
+    "clubs": [
+      "Gamma Phi Beta",
+      "Home Economics Club",
+      "Y. W. C. A."
+    ]
+  },
+  {
+    "name": "Amy Adams",
+    "gender": "Female",
+    "hometown": "Washta, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Washta High School",
+    "clubs": [
+      "W. A. A. Council",
+      "Tennis, Fall '27",
+      "Volley Ball, '27, '28",
+      "Home Economics Club",
+      "Y. W. C. A.",
+      "Junior Representative to Guild, '28",
+      "Secretary Quill, '29"
+    ]
+  },
+  {
+    "name": "Muriel Lois Agg",
+    "gender": "Female",
+    "hometown": "Ames, Iowa",
+    "major": "Ceramics",
+    "nicknames": [],
+    "highschool": "Ames High School",
+    "clubs": [
+      "Kappa Delta",
+      "W. A. A. Tennis, '25, '26",
+      "Sophomore Council",
+      "Engineers' Minstrel Show, '28"
+    ]
+  },
+  {
+    "name": "Mary Kathryn Alexander",
+    "gender": "Female",
+    "hometown": "Spencer, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Grinnell High School",
+    "clubs": [
+      "W. A. A.",
+      "Y. W. C. A.",
+      "Home Economics Club",
+      "May Fete, '28",
+      "Theta Epsilon"
+    ]
+  },
+  {
+    "name": "Dorothy Jane Allen",
+    "gender": "Female",
+    "hometown": "Ames, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Ames High School",
+    "clubs": []
+  },
+  {
+    "name": "Clifford N. Anderson",
+    "gender": "Male",
+    "hometown": "Des Moines, Iowa",
+    "major": "Industrial Science",
+    "nicknames": [],
+    "highschool": "East High School, Des Moines",
+    "clubs": [
+      "Sigma Nu",
+      "Treasurer, Class '25"
+    ]
+  },
+  {
+    "name": "W. Donald Acheson",
+    "gender": "Male",
+    "hometown": "Ames, Iowa",
+    "major": "Economic Science",
+    "nicknames": [],
+    "highschool": "Ames High School",
+    "clubs": [
+      "Kappa Sigma",
+      "Pi Gamma Mu",
+      "Bomb Key"
+    ]
+  },
+  {
+    "name": "Adamson, Cecil Temple",
+    "gender": "Male",
+    "hometown": "Centerville, Iowa",
+    "major": "Veterinary Medicine and Industrial Science",
+    "nicknames": [],
+    "highschool": "Centerville High School",
+    "clubs": []
+  },
+  {
+    "name": "Akers, Forest W.",
+    "gender": "Male",
+    "hometown": "Des Moines, Iowa",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "highschool": "Indiana High School",
+    "clubs": [
+      "Simpson Auronia",
+      "B. K. E.",
+      "A. S. C. E.",
+      "Knights of St. Patrick"
+    ]
+  },
+  {
+    "name": "Alleman, Nina",
+    "gender": "Female",
+    "hometown": "Ames, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Mitchellville High School",
+    "clubs": [
+      "Zeta Tau Alpha",
+      "Y. W. C. A.",
+      "Kappa Phi",
+      "W. A. A.",
+      "Home Economics Club"
+    ]
+  },
+  {
+    "name": "Ames, John T.",
+    "gender": "Male",
+    "hometown": "Traer, Iowa",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "Traer High School",
+    "clubs": [
+      "Chi Phi",
+      "Glee Club",
+      "Dramatic Club Plays",
+      "National Collegiate Players",
+      "Eta Kappa Nu",
+      "Phi Mu Alpha",
+      "Cardinal Guild"
+    ]
+  },
+  {
+    "name": "Anderson, Mildred M.",
+    "gender": "Female",
+    "hometown": "Albia, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Albia High School",
+    "clubs": [
+      "Zeta Tau Alpha",
+      "Women's Guild",
+      "Y. W. C. A.",
+      "Home Economics Club",
+      "W. A. A.",
+      "Dramatic Club"
+    ]
+  },
+  {
+    "name": "Andrews, Nina",
+    "gender": "Female",
+    "hometown": "Waterloo, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "East Waterloo High School",
+    "clubs": [
+      "Chi Omega Class Secretary",
+      "Freshman Commission",
+      "Sophomore Council",
+      "Y.W.C.A.",
+      "Home Economics Club",
+      "May Fete"
+    ]
+  },
+  {
+    "name": "Apfel, Leon K.",
+    "gender": "Male",
+    "hometown": "Shell Rock, Iowa",
+    "major": "Architectural Engineering",
+    "nicknames": [],
+    "highschool": "Shell Rock High School",
+    "clubs": [
+      "Sigma Sigma",
+      "Scabbard and Blade",
+      "Freshman Track",
+      "Interfraternity Council",
+      "Member Cadet Officers' Association",
+      "Crockett Society"
+    ]
+  },
+  {
+    "name": "Arensberg, Raymond D.",
+    "gender": "Male",
+    "hometown": "Des Moines, Iowa",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "East High School",
+    "clubs": [
+      "Engineering Council",
+      "Engineering Minstrels",
+      "Campfire"
+    ]
+  },
+  {
+    "name": "Ayres, James Edwin",
+    "gender": "Male",
+    "hometown": "Sioux Falls, S.D.",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "Washington High School",
+    "clubs": [
+      "Chi Phi",
+      "Captain, R.O.T.C.",
+      "Football",
+      "Basketball",
+      "Baseball"
+    ]
+  },
+  {
+    "name": "Bailey, Wm. W.",
+    "gender": "Male",
+    "hometown": "Red Lodge, Mont.",
+    "major": "Veterinary Medicine",
+    "nicknames": [],
+    "highschool": "",
+    "clubs": [
+      "Vet Medical Society",
+      "Freshman Track",
+      "Varsity Track",
+      "Varsity Cross Country"
+    ]
+  },
+  {
+    "name": "Balmos, Wilbur",
+    "gender": "Male",
+    "hometown": "Muscatine, Iowa",
+    "major": "Agricultural Education",
+    "nicknames": [],
+    "highschool": "Muscatine High School",
+    "clubs": [
+      "Sigma Alpha Pres.",
+      "Vocational Education Club",
+      "Agriculture Club",
+      "Freshman Grain Judging"
+    ]
+  },
+  {
+    "name": "Lucille E. Annear",
+    "gender": "Female",
+    "hometown": "Glidden, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Glidden High School",
+    "clubs": [
+      "President West Hall",
+      "President Dormitory Council",
+      "Women's Guild",
+      "Senior Council",
+      "Freshman Days Student Leader",
+      "Home Economics Club",
+      "Dramatic Club",
+      "Costume Committee",
+      "Veishea",
+      "Home Economics Vodvil"
+    ]
+  },
+  {
+    "name": "Aplin, Paul B.",
+    "gender": "Male",
+    "hometown": "Ames, Iowa",
+    "major": "Industrial Science",
+    "nicknames": [],
+    "highschool": "Ames High School",
+    "clubs": [
+      "Kappa Sigma",
+      "Pi Gamma Mu"
+    ]
+  },
+  {
+    "name": "Arnold, Fred J.",
+    "gender": "Male",
+    "hometown": "Klemme, Iowa",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "highschool": "Klemme and Garner High Schools",
+    "clubs": [
+      "Theta Xi",
+      "Band",
+      "A.S.M.E.",
+      "Night Show",
+      "Campfire",
+      "Campus Radio Club"
+    ]
+  },
+  {
+    "name": "Backhaus, Grace",
+    "gender": "Female",
+    "hometown": "Garnavillo, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Garnavillo High School",
+    "clubs": [
+      "Zeta Tau Alpha"
+    ]
+  },
+  {
+    "name": "Baird, John L.",
+    "gender": "Male",
+    "hometown": "Lisbon, Iowa",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "",
+    "clubs": []
+  },
+  {
+    "name": "Bark, W. Hurdman",
+    "gender": "Male",
+    "hometown": "Sandwich, Illinois",
+    "major": "Veterinary Medicine",
+    "nicknames": [],
+    "highschool": "Sandwich High School",
+    "clubs": [
+      "Tau Kappa Epsilon",
+      "Scabbard and Blade",
+      "Cadet Officers' Association",
+      "Vet. Med. Society",
+      "Dramatic Club",
+      "Veishea Committee"
+    ]
+  },
+  {
+    "name": "Barker, Betty",
+    "gender": "Female",
+    "hometown": "Ames, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Davenport High School, St. Katherine's, Merrill-Palmer",
+    "clubs": [
+      "Pi Beta Phi",
+      "Delta Phi Delta",
+      "Sigma Alpha Iota",
+      "Phi Upsilon Omicron",
+      "Jack O'Lantern",
+      "Freshman Commission President",
+      "Sophomore Council",
+      "Big Sister Captain",
+      "Cast of \"The Romantic Young Lady\"",
+      "Veishea Nite Show, '26, '27, '28",
+      "May Fete",
+      "Open House",
+      "Her Vodvil, '26, '27, '28",
+      "Cosmopolitan Night Show, '27",
+      "Girls' Glee Club, '27, '28",
+      "Secretary of Sophomore Class",
+      "Women's Editor of Bomb of '28",
+      "Homemaker, '26, '27, '28",
+      "Home Economics Club",
+      "W. A. A., '26",
+      "Intramural",
+      "Tennis Doubles, '26",
+      "Archery Team, '26",
+      "Dancing Team, '26",
+      "Pan-Hellenic Council, '27"
+    ]
+  },
+  {
+    "name": "Barry, James R.",
+    "gender": "Male",
+    "hometown": "Norwalk, Wisconsin",
+    "major": "Veterinary Medicine",
+    "nicknames": [],
+    "highschool": "Ontario High School",
+    "clubs": [
+      "Veterinary Medical Society",
+      "Newman Club"
+    ]
+  },
+  {
+    "name": "Baumhoeffener, Carl J.",
+    "gender": "Male",
+    "hometown": "Cedar Rapids, Iowa",
+    "major": "Landscape Architecture",
+    "nicknames": [],
+    "highschool": "Grant High School, Cedar Rapids",
+    "clubs": [
+      "Sigma Pi",
+      "Pi Epsilon Pi",
+      "Agriculture Club",
+      "Vistonian Club",
+      "Iowa State Student, '26, '27"
+    ]
+  },
+  {
+    "name": "Beach, George Oliver",
+    "gender": "Male",
+    "hometown": "Sioux City, Iowa",
+    "major": "Architectural Engineering",
+    "nicknames": [],
+    "highschool": "Central High School, Sioux City",
+    "clubs": [
+      "Acacia",
+      "Acacia Secretary",
+      "Engineering Council, '28, '29",
+      "Crockett Society, President, '28, '29",
+      "Engineers' Campfire, '28, '29",
+      "Phi Tau Theta",
+      "Knight of St. Patrick",
+      "Interfraternity Council, '28, '29"
+    ]
+  },
+  {
+    "name": "Beane, Harold H.",
+    "gender": "Male",
+    "hometown": "College Springs, Iowa",
+    "major": "Agricultural Education",
+    "nicknames": [],
+    "highschool": "Amity High School, College Springs",
+    "clubs": [
+      "Sigma Alpha",
+      "Vocational Education Club",
+      "Agricultural Club",
+      "Iowa Agriculturist"
+    ]
+  },
+  {
+    "name": "Bell, Kathryn",
+    "gender": "Female",
+    "hometown": "Springville, Iowa",
+    "major": "Dietetics",
+    "nicknames": [],
+    "highschool": "Springville High School",
+    "clubs": [
+      "Gamma Phi Beta",
+      "Sigma Alpha Iota",
+      "Glee Club, '25, '27, '28, '29",
+      "Freshman Commission",
+      "Her Yodvil, '28",
+      "Veishea Night Show, '27, '28",
+      "Engineers' Lady, '29"
+    ]
+  },
+  {
+    "name": "Barrett, Martha R.",
+    "gender": "Female",
+    "hometown": "Hinona, Minnesota",
+    "major": "Institutional Administration",
+    "nicknames": [],
+    "highschool": "Norfolk, Nebraska High School",
+    "clubs": [
+      "Chi Omega",
+      "Phi Upsilon Omicron",
+      "Women's Panhellenic"
+    ]
+  },
+  {
+    "name": "Barth, Freida H. A.",
+    "gender": "Female",
+    "hometown": "Hampton, Iowa",
+    "major": "Vocational Education",
+    "nicknames": [],
+    "highschool": "Latimer High School",
+    "clubs": [
+      "Kappa Phi",
+      "Home Economics Club",
+      "Y.W.C.A."
+    ]
+  },
+  {
+    "name": "Bayes, Harold Ashworth",
+    "gender": "Male",
+    "hometown": "Valley Junction, Iowa",
+    "major": "Agricultural Education",
+    "nicknames": [],
+    "highschool": "Valley Junction High School",
+    "clubs": [
+      "Baseball"
+    ]
+  },
+  {
+    "name": "Beal, George F.",
+    "gender": "Male",
+    "hometown": "Omaha, Nebraska",
+    "major": "Chemical Engineering",
+    "nicknames": [],
+    "highschool": "Central High School, Omaha",
+    "clubs": [
+      "Phi Kappa",
+      "Phi Lambda Upsilon",
+      "Sigma Upsilon",
+      "Summer Cardinal Guild",
+      "Senior Play Cast"
+    ]
+  },
+  {
+    "name": "Behrens, Richard C.",
+    "gender": "Male",
+    "hometown": "Davenport, Iowa",
+    "major": "General Engineering",
+    "nicknames": [],
+    "highschool": "Davenport High School",
+    "clubs": [
+      "Delta Upsilon",
+      "Track",
+      "Cross Country",
+      "Tau Beta Pi"
+    ]
+  },
+  {
+    "name": "Beretta, Edward H.",
+    "gender": "Male",
+    "hometown": "Red Lodge, Montana",
+    "major": "Veterinary Medicine",
+    "nicknames": [],
+    "highschool": "Carbon County High School, Red Lodge",
+    "clubs": [
+      "Veterinary Medical Society"
+    ]
+  },
+  {
+    "name": "Berkhimer, Ronald Joseph",
+    "gender": "Male",
+    "hometown": "Humboldt, Iowa",
+    "major": "Chemical Engineering",
+    "nicknames": [],
+    "highschool": "Humboldt High School",
+    "clubs": [
+      "Adelante","Chemical Engineering Society",
+      "Iowa Engineer",
+      "Intramural Tennis"
+    ]
+  },
+  {
+    "name": "Bindeman, H. L.",
+    "gender": "Male",
+    "hometown": "Denmark, Iowa",
+    "major": "Dairy Industry",
+    "nicknames": [],
+    "highschool": "Denmark High School",
+    "clubs": [
+      "Sigma Phi Epsilon",
+      "Pi Epsilon Pi"
+    ]
+  },
+  {
+    "name": "Black, James O.",
+    "gender": "Male",
+    "hometown": "Randolph, Nebraska",
+    "major": "Veterinary Medicine",
+    "nicknames": [],
+    "highschool": "Randolph High School",
+    "clubs": [
+      "Veterinary Medical Society"
+    ]
+  },
+  {
+    "name": "Boles, Laclare B.",
+    "gender": "Male",
+    "hometown": "Drakesville, Iowa",
+    "major": "Industrial Arts",
+    "nicknames": [],
+    "highschool": "Bloomfield High School",
+    "clubs": [
+      "Delta Sigma Phi"
+    ]
+  },
+  {
+    "name": "Bolton, Gertrude K.",
+    "gender": "Female",
+    "hometown": "Des Moines, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "West High, Des Moines",
+    "clubs": [
+      "Gamma Phi Beta",
+      "Homemaker Staff, '28"
+    ]
+  },
+  {
+    "name": "Bowie, Robert M.",
+    "gender": "Male",
+    "hometown": "Fort Morgan, Colorado",
+    "major": "Chemical Technology",
+    "nicknames": [],
+    "highschool": "Fort Morgan High School",
+    "clubs": [
+      "Chemists' Club, '27, '28, '29",
+      "Pi Mu Epsilon, '28, '29",
+      "Executive Committee, '29",
+      "Phi Lambda Upsilon, '29",
+      "Bomb Staff, '28, '29"
+    ]
+  },
+  {
+    "name": "Wilson, Beveridge",
+    "gender": "Male",
+    "hometown": "Olathe, Colorado",
+    "major": "Forestry",
+    "nicknames": [],
+    "highschool": "Olathe High School",
+    "clubs": [
+      "President Forestry Club",
+      "Agricultural Council",
+      "Alpha Zeta"
+    ]
+  },
+  {
+    "name": "Black, Henry",
+    "gender": "Male",
+    "hometown": "Reinbeck, Iowa",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "highschool": "Reinbeck High School",
+    "clubs": [
+      "Delta Sigma Phi",
+      "Tau Beta Pi",
+      "Scabbard and Blade",
+      "Pi Mu Epsilon",
+      "Bomb Staff",
+      "Iowa Engineer Staff",
+      "Interfraternity Council",
+      "Secretary, A.S.M.E."
+    ]
+  },
+  {
+    "name": "Blakey, Faye",
+    "gender": "Female",
+    "hometown": "Russell, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Corydon High School",
+    "clubs": [
+      "Kappa Phi Cabinet",
+      "Freshman Commission",
+      "Big Sister Captain"
+    ]
+  },
+  {
+    "name": "Bolin, Fonsoe",
+    "gender": "Male",
+    "hometown": "Larchwood, Iowa",
+    "major": "Veterinary Medicine",
+    "nicknames": [],
+    "highschool": "Bolwar, Mo., High School",
+    "clubs": [
+      "Veterinary Medical Society"
+    ]
+  },
+  {
+    "name": "Bonnell, Rachel",
+    "gender": "Female",
+    "hometown": "Ames, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Ames High School",
+    "clubs": [
+      "May Fete",
+      "Bomb Staff",
+      "Iowa State Student Staff",
+      "Green Gander Staff",
+      "Iowa Homemaker Staff",
+      "Dramatic Club",
+      "Home Economics Club",
+      "Y.W.C.A."
+    ]
+  },
+  {
+    "name": "Bouck, Marjory",
+    "gender": "Female",
+    "hometown": "Mason City, Iowa",
+    "major": "Industrial Science",
+    "nicknames": [],
+    "highschool": "Mason City High School",
+    "clubs": [
+      "Sigma Delta",
+      "Second Glee Club",
+      "Glee Club"
+    ]
+  },
+  {
+    "name": "Boyd, John W.",
+    "gender": "Male",
+    "hometown": "Mason City, Iowa",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "highschool": "Mason City High School",
+    "clubs": [
+      "Chi Phi",
+      "Pi Epsilon Pi",
+      "Stanford and Blade",
+      "Cadet Officers' Association"
+    ]
+  },
+  {
+    "name": "Beanam, Phoebe Beatrice",
+    "gender": "Female",
+    "hometown": "Dallas Center, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Adel High School",
+    "clubs": [
+      "Kappa Beta",
+      "Amiga Club"
+    ]
+  },
+  {
+    "name": "Bremer, Carrie Anna",
+    "gender": "Female",
+    "hometown": "Central City, Iowa",
+    "major": "Institutional and Dietetics",
+    "nicknames": [],
+    "highschool": "Coggon High School",
+    "clubs": [
+      "W.A.A.",
+      "Y.W.C.A.",
+      "Dramatic Club",
+      "Kappa Phi",
+      "Homemaker",
+      "Bomb",
+      "Quill Literary Society",
+      "Home Economics Club"
+    ]
+  },
+  {
+    "name": "Brewer, Hadley Philip",
+    "gender": "Male",
+    "hometown": "Tripoli, Iowa",
+    "major": "Two-Year Collegiate Agriculture",
+    "nicknames": [],
+    "highschool": "Tripoli High School",
+    "clubs": []
+  },
+  {
+    "name": "Brouhard, Leona Murree",
+    "gender": "Female",
+    "hometown": "Colo, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Colo High School",
+    "clubs": [
+      "Kappa Phi",
+      "Quill Literary Society",
+      "Y.W.C.A.",
+      "Home Economics Club"
+    ]
+  },
+  {
+    "name": "Brownfield, George Wilson",
+    "gender": "Male",
+    "hometown": "Ames, Iowa",
+    "major": "General Engineering",
+    "nicknames": [],
+    "highschool": "Ames High School",
+    "clubs": [
+      "Band"
+    ]
+  },
+  {
+    "name": "Bram, Fred A.",
+    "gender": "Male",
+    "hometown": "Laredo, Missouri",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "Albany, Mo., High School",
+    "clubs": [
+      "Commons Club",
+      "Band"
+    ]
+  },
+  {
+    "name": "Brasher, Vera Louise",
+    "gender": "Female",
+    "hometown": "Carbon Hill, Alabama",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Carbon Hill High School",
+    "clubs": [
+      "Kappa Beta",
+      "Women's Hockey Team",
+      "Baseball Team",
+      "Volleyball Team"
+    ]
+  },
+  {
+    "name": "Brewer, Esther Winifred",
+    "gender": "Female",
+    "hometown": "Central City, Iowa",
+    "major": "Economic Science",
+    "nicknames": [],
+    "highschool": "Central City High School",
+    "clubs": [
+      "Delphian Literary Society",
+      "Y.W.C.A.",
+      "W.A.A.",
+      "Baseball",
+      "Basketball",
+      "Volleyball",
+      "Tennis",
+      "Track"
+    ]
+  },
+  {
+    "name": "Brindle, Luther M.",
+    "gender": "Male",
+    "hometown": "Conrad, Iowa",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "highschool": "Conrad High School",
+    "clubs": [
+      "Theta Xi",
+      "Agricultural Club",
+      "Block and Bridle Club"
+    ]
+  },
+  {
+    "name": "Brown, Kenneth Ross",
+    "gender": "Male",
+    "hometown": "Ames, Iowa",
+    "major": "Zoology",
+    "nicknames": [],
+    "highschool": "Ames High School",
+    "clubs": [
+      "Y.M.C.A. Cabinet"
+    ]
+  },
+  {
+    "name": "Brucher, Victor J.",
+    "gender": "Male",
+    "hometown": "Remsen, Iowa",
+    "major": "Landscape Architecture",
+    "nicknames": [],
+    "highschool": "Remsen High School",
+    "clubs": [
+      "Lambda Chi Alpha"
+    ]
+  },
+  {
+    "name": "Buckle, Walter J.",
+    "gender": "Male",
+    "hometown": "Bellingham, Minnesota",
+    "major": "Architectural Engineering",
+    "nicknames": [],
+    "highschool": "De Smet, S.D., High School",
+    "clubs": [
+      "Kappa Sigma",
+      "T.L.B.",
+      "Crocket Society",
+      "Dramatic Club"
+    ]
+  },
+  {
+    "name": "Buckmaster, C.H.",
+    "gender": "Male",
+    "hometown": "Stuart, Iowa",
+    "major": "General Engineering",
+    "nicknames": [],
+    "highschool": "Stuart High School",
+    "clubs": [
+      "Tau Kappa Epsilon"
+    ]
+  },
+  {
+    "name": "Burkett, Lucille",
+    "gender": "Female",
+    "hometown": "Perry, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Granger High School",
+    "clubs": [
+      "Kappa Delta",
+      "Big Sister Captain, '27",
+      "Bomb Staff, '27"
+    ]
+  },
+  {
+    "name": "Burton, Russell B.",
+    "gender": "Male",
+    "hometown": "Corydon, Iowa",
+    "major": "General Engineering",
+    "nicknames": [],
+    "highschool": "Chariton High School",
+    "clubs": [
+      "Tau Gamma Nu",
+      "Scabbard and Blade",
+      "Glee Club, '29",
+      "Dramatic Club: \"The Romantic Young Lady\"",
+      "Engineers' Minstrel, '27",
+      "Cadet Officers' Association",
+      "Association of Industrial Engineers",
+      "Inter-Local Council, '28, '29",
+      "Life Saving Corps",
+      "Associate of Collegiate Engineers"
+    ]
+  },
+  {
+    "name": "Butler, Ivor D.",
+    "gender": "Male",
+    "hometown": "Williamsburg, Iowa",
+    "major": "Farm Crops and Soils",
+    "nicknames": [],
+    "highschool": "Williamsburg High School",
+    "clubs": [
+      "Sigma Sigma",
+      "Swimming Team, '27, '28, '29",
+      "Captain, '29",
+      "Porpoise Club, '26, '27, '28, '29",
+      "Alpha Zeta, '27, '28, '29",
+      "AA, '27, '28, '29",
+      "Red Cross Examiner",
+      "Agronomy Club",
+      "Cadet Captain, R.O.T.C."
+    ]
+  },
+  {
+    "name": "Caldwell, R. Rowland",
+    "gender": "Male",
+    "hometown": "Oskaloosa, Iowa",
+    "major": "Agricultural Engineering",
+    "nicknames": [],
+    "highschool": "Penn Academy and Oskaloosa High School",
+    "clubs": [
+      "Sigma Nu",
+      "Scabbard and Blade",
+      "Captain R.O.T.C. Artillery, '28",
+      "Military Circus, '26, '27, '28",
+      "Cadet Officers' Association, Veishea, '27, '28",
+      "Basketball Manager, '26",
+      "Freshman Track, '23",
+      "A.S.A.E."
+    ]
+  },
+  {
+    "name": "Buchholz, Walter F.",
+    "gender": "Male",
+    "hometown": "Wyoming, Iowa",
+    "major": "Farm Crops and Soils",
+    "nicknames": [],
+    "highschool": "Wyoming High School",
+    "clubs": [
+      "Farm House",
+      "Alpha Zeta",
+      "Sigma Upsilon",
+      "International Livestock and Farm Crops Judging Teams"
+    ]
+  },
+  {
+    "name": "Bundy, Clarence E.",
+    "gender": "Male",
+    "hometown": "Owatonna, Minnesota",
+    "major": "Agricultural Education",
+    "nicknames": [],
+    "highschool": "Owatonna High School",
+    "clubs": [
+      "Sigma Sigma",
+      "Alpha Zeta",
+      "Sigma Alpha",
+      "Agricultural Council '27, '28, '29",
+      "Inter-Literary Council '26, '27",
+      "Y.M.C.A. Cabinet '28, '29",
+      "Vocational Education Club",
+      "Agricultural Club",
+      "Delphian Literary Society",
+      "Agriculturist Staff",
+      "Farm Crops Judging Team"
+    ]
+  },
+  {
+    "name": "Burroughs, Zetta",
+    "gender": "Female",
+    "hometown": "Ames, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Tennant Consolidated High School",
+    "clubs": []
+  },
+  {
+    "name": "Butler, Dora E.",
+    "gender": "Female",
+    "hometown": "Lacona, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Lacona High School",
+    "clubs": [
+      "Y.W.C.A.",
+      "Women's Guild '28, '29",
+      "Kappa Beta"
+    ]
+  },
+  {
+    "name": "Byrum, Thelma",
+    "gender": "Female",
+    "hometown": "Canton, Illinois",
+    "major": "Industrial Science",
+    "nicknames": [],
+    "highschool": "Canton High School",
+    "clubs": [
+      "Amiga Club"
+    ]
+  },
+  {
+    "name": "Campbell, John",
+    "gender": "Male",
+    "hometown": "Waterloo, Iowa",
+    "major": "Poultry Husbandry",
+    "nicknames": [],
+    "highschool": "West Waterloo High School",
+    "clubs": [
+      "Agricultural Council",
+      "Poultry Club"
+    ]
+  },
+  {
+    "name": "Campbell, Max Pomroy",
+    "gender": "Male",
+    "hometown": "Presho, S.D.",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "Presho High School",
+    "clubs": [
+      "Wrestling"
+    ]
+  },
+  {
+    "name": "Capellen, Fern Esther",
+    "gender": "Female",
+    "hometown": "Dows, Iowa",
+    "major": "Economic History",
+    "nicknames": [],
+    "highschool": "Dows High School",
+    "clubs": [
+      "Kappa Phi",
+      "Big Sister Captain",
+      "Carillon Club",
+      "Girls' Glee Club",
+      "Chapel Choir",
+      "Y.W.C.A.",
+      "World Fellowship",
+      "League of Women Voters",
+      "May Fete",
+      "Big Sister",
+      "Pi Gamma Mu"
+    ]
+  },
+  {
+    "name": "Carter, George S.",
+    "gender": "Male",
+    "hometown": "Ames, Iowa",
+    "major": "Veterinary Medicine",
+    "nicknames": [],
+    "highschool": "Renwick High School",
+    "clubs": [
+      "Veterinary Medical Society"
+    ]
+  },
+  {
+    "name": "Caulum, Vera Aileen",
+    "gender": "Female",
+    "hometown": "Sioux City, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Sioux City Central High",
+    "clubs": [
+      "Phi Upsilon Omicron",
+      "Theta Sigma Phi",
+      "Iowa Homemaker Associate Editor",
+      "Y.W.C.A.",
+      "Big Sister Council",
+      "Women's Guild",
+      "Iowa State Student",
+      "W.A.A."
+    ]
+  },
+  {
+    "name": "Chambers, Earl R.",
+    "gender": "Male",
+    "hometown": "Corwith, Iowa",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "highschool": "Corwith Consolidated High School",
+    "clubs": [
+      "Alpha Mu",
+      "Pi Epsilon Pi",
+      "Block and Bridle"
+    ]
+  },
+  {
+    "name": "Chardoul, N.E.",
+    "gender": "Male",
+    "hometown": "Waterloo, Iowa",
+    "major": "Mechanical and Electrical Engineering",
+    "nicknames": [],
+    "highschool": "West High, Waterloo",
+    "clubs": [
+      "A.S.M.E.",
+      "A.I.E.E."
+    ]
+  },
+  {
+    "name": "Campbell, Richard Lincoln Bomb",
+    "gender": "Male",
+    "hometown": "Ames, Iowa",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "Hollywood, Calif., High School",
+    "clubs": [
+      "A. I. E. E."
+    ]
+  },
+  {
+    "name": "Carmody, Mildred",
+    "gender": "Female",
+    "hometown": "Melrose, Iowa",
+    "major": "Vocational Education",
+    "nicknames": [],
+    "highschool": "Melrose High School",
+    "clubs": [
+      "President Birch Hall",
+      "Dormitory Council",
+      "Inter-Literary Council",
+      "President, Quill Literary Society",
+      "W. A. A.",
+      "Y. W. C. A.",
+      "Dramatic Club",
+      "Newman Club",
+      "Students' Self Governing Association",
+      "May Fete",
+      "Women's Guild"
+    ]
+  },
+  {
+    "name": "Carter, William Hobart",
+    "gender": "Male",
+    "hometown": "Sergeant Bluff, Iowa",
+    "major": "Agricultural Engineering",
+    "nicknames": [],
+    "highschool": "Sergeant Bluff High School",
+    "clubs": [
+      "Alpha Sigma Phi",
+      "Agricultural Council",
+      "Knights of St. Patrick"
+    ]
+  },
+  {
+    "name": "Cecil, Caroline",
+    "gender": "Female",
+    "hometown": "Anita, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Anita High School",
+    "clubs": [
+      "Y. W. C. A.",
+      "Kappa Phi",
+      "Sophomore Council",
+      "Quill Literary Society",
+      "W. A. A.",
+      "Home Economics Club",
+      "Senior Council",
+      "Senior Sponsor for Freshman Hall"
+    ]
+  },
+  {
+    "name": "Chandler, James Wilbur",
+    "gender": "Male",
+    "hometown": "Danville, Iowa",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "highschool": "Danville High School",
+    "clubs": [
+      "Alpha Sigma Phi",
+      "Agricultural Club",
+      "Block and Bridle Club",
+      "Veishea Night Show"
+    ]
+  },
+  {
+    "name": "Charron, Maude",
+    "gender": "Female",
+    "hometown": "Macedonia, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Macedonia High School",
+    "clubs": [
+      "W. A. A.",
+      "Dormitory Council",
+      "Women's Guild",
+      "Home Economics Club",
+      "Big Sister Captain",
+      "Salad"
+    ]
+  },
+  {
+    "name": "Chenoweth, Arthur W.",
+    "gender": "Male",
+    "hometown": "Decatur, Illinois",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "highschool": "Decatur High School",
+    "clubs": [
+      "Phi Delta Theta",
+      "B.K.E.",
+      "A.S.C.E."
+    ]
+  },
+  {
+    "name": "Chicken, J. Neil",
+    "gender": "Male",
+    "hometown": "Afton, Iowa",
+    "major": "Agriculture and Manual Training",
+    "nicknames": [],
+    "highschool": "Arispe Consolidated School",
+    "clubs": [
+      "Varsity Swimming",
+      "Vocational Education Club",
+      "Porpoise"
+    ]
+  },
+  {
+    "name": "Chwang, Hsiao Cheng",
+    "gender": "Male",
+    "hometown": "Tsingpu, Kiangsu, China",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "highschool": "Nanyang Preparatory Middle School",
+    "clubs": [
+      "Junior Member of American Society of Automotive Engineers",
+      "Chinese Engineering Society",
+      "Cosmopolitan Club"
+    ]
+  },
+  {
+    "name": "Clark, Alice Jean",
+    "gender": "Female",
+    "hometown": "Hornick, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Hornick High School",
+    "clubs": []
+  },
+  {
+    "name": "Clifton, Clifford Charles",
+    "gender": "Male",
+    "hometown": "Ida Grove, Iowa",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "Los Angeles High School",
+    "clubs": [
+      "Lambda Chi Alpha",
+      "Engineers' Campfire",
+      "Veishea Vaudeville"
+    ]
+  },
+  {
+    "name": "Cox, Gertrude Murray",
+    "gender": "Female",
+    "hometown": "Ames, Iowa",
+    "major": "Mathematics",
+    "nicknames": [],
+    "highschool": "Perry High School",
+    "clubs": [
+      "Pi Mu Epsilon",
+      "Kappa Phi"
+    ]
+  },
+  {
+    "name": "Dean D. Chicken",
+    "gender": "Male",
+    "hometown": "Afton, Iowa",
+    "major": "Agricultural Education",
+    "nicknames": [],
+    "highschool": "Arispe Consolidated School",
+    "clubs": [
+      "Men's Vocational Education Club",
+      "American Red Cross",
+      "Life Saving"
+    ]
+  },
+  {
+    "name": "Christensen, Irving L.",
+    "gender": "Male",
+    "hometown": "Eagle Grove, Iowa",
+    "major": "Forestry",
+    "nicknames": [],
+    "highschool": "Eagle Grove High School",
+    "clubs": [
+      "Delta Upsilon",
+      "Track, '26, '27, '28, '29",
+      "Cross Country, '26, '27, '28",
+      "Captain Cross Country, '28",
+      "Double A Fraternity"
+    ]
+  },
+  {
+    "name": "Cisler, Marvin Charles",
+    "gender": "Male",
+    "hometown": "Cedar Rapids, Iowa",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "Washington High School",
+    "clubs": [
+      "Theta Xi",
+      "Varsity Track, '26, '27, '28, '29",
+      "Eta Kappa Nu",
+      "Tau Beta Pi",
+      "Knight of St. Patrick",
+      "Freshman Chemistry Award, '26",
+      "'AA' Freshman Scholarship",
+      "Cadet Officers' Association",
+      "Engineers' Campfire"
+    ]
+  },
+  {
+    "name": "Clark, Dwight Russell",
+    "gender": "Male",
+    "hometown": "Ames, Iowa",
+    "major": "Economic Science",
+    "nicknames": [],
+    "highschool": "Ames High School",
+    "clubs": [
+      "Bomb Staff",
+      "Cheer Leader",
+      "Green Gander"
+    ]
+  },
+  {
+    "name": "Coltvet, Emma Marie",
+    "gender": "Female",
+    "hometown": "Eagle Grove, Iowa",
+    "major": "Vocational Education",
+    "nicknames": [],
+    "highschool": "Eagle Grove High School",
+    "clubs": [
+      "W.A.A.",
+      "Y.W.C.A.",
+      "Dormitory Council",
+      "Women's Guild",
+      "Vo-Ed. Club",
+      "Baseball",
+      "Hockey",
+      "Home Economics Club"
+    ]
+  },
+  {
+    "name": "Cox, Helen B.",
+    "gender": "Female",
+    "hometown": "De Soto, Kansas",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Fairburg High School",
+    "clubs": [
+      "Pi Beta Phi",
+      "Dramatic Club"
+    ]
+  },
+  {
+    "name": "Cornelison, Jay Robert",
+    "gender": "Male",
+    "hometown": "Ottumwa, Iowa",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "highschool": "Ottumwa High School",
+    "clubs": [
+      "Chi Phi",
+      "A.S.C.E."
+    ]
+  },
+  {
+    "name": "Cozzens, William",
+    "gender": "Male",
+    "hometown": "Colo, Iowa",
+    "major": "Agriculture and Manual Training",
+    "nicknames": [],
+    "highschool": "Colo High School",
+    "clubs": [
+      "Vocational Ed. Club",
+      "Agricultural Club",
+      "Little International"
+    ]
+  },
+  {
+    "name": "Crippin, Alfred Harold",
+    "gender": "Male",
+    "hometown": "Ames, Iowa",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "Clarksville High School",
+    "clubs": []
+  },
+  {
+    "name": "Cummins, William Herschel",
+    "gender": "Male",
+    "hometown": "Hamburg, Iowa",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "Hamburg High School",
+    "clubs": [
+      "American Chemical Society"
+    ]
+  },
+  {
+    "name": "Dahl, Helen",
+    "gender": "Female",
+    "hometown": "Sloan, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Sloan High School",
+    "clubs": [
+      "Sigma Kappa",
+      "Y.W.C.A.",
+      "Hee Vodeil",
+      "May Fete '25",
+      "Veishea Night Show '25",
+      "Homemaker Editorial Staff",
+      "Iowa State Student",
+      "Bomb Staff '26"
+    ]
+  },
+  {
+    "name": "Davidson, Margaret",
+    "gender": "Female",
+    "hometown": "Ames, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Ames High School",
+    "clubs": [
+      "Chi Omega",
+      "Mortar Board",
+      "Omicron Nu",
+      "Phi Upsilon Omicron",
+      "Jack O'Lantern",
+      "Naiad",
+      "Women's \"A\" Fraternity",
+      "Y.W.C.A.",
+      "Big Sister Chief",
+      "Women's Guild",
+      "Home Economics Club",
+      "Iowa State Student Staff",
+      "Homemaker Staff"
+    ]
+  },
+  {
+    "name": "Omb, Burton D. Cowan",
+    "gender": "Male",
+    "hometown": "Crystal Lake, Illinois",
+    "major": "Chemical Engineering",
+    "nicknames": [],
+    "highschool": "Crystal Lake High School",
+    "clubs": [
+      "Gamma Sigma Alpha",
+      "Chemical Engineering Society",
+      "American Chemical Society",
+      "Chemists' Club",
+      "Knight of St. Patrick",
+      "Campfire","Veishea"
+    ]
+  },
+  {
+    "name": "Crabtree, Robert Grant",
+    "gender": "Male",
+    "hometown": "Council Bluffs, Iowa",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "highschool": "Abraham Lincoln High School",
+    "clubs": []
+  },
+  {
+    "name": "Crist, Howard W.",
+    "gender": "Male",
+    "hometown": "Stanwood, Iowa",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "highschool": "Stanwood High School",
+    "clubs": [
+      "Lambda Chi Alpha",
+      "Wrestling, '27, '28, '29"
+    ]
+  },
+  {
+    "name": "Cutshall, Bernice H.",
+    "gender": "Female",
+    "hometown": "Van Meter, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Van Meter High School",
+    "clubs": [
+      "Cedar Falls College",
+      "Y.W.C.A."
+    ]
+  },
+  {
+    "name": "Dale, George V.",
+    "gender": "Male",
+    "hometown": "Ames, Iowa",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "Nichols and Ames High School",
+    "clubs": []
+  },
+  {
+    "name": "Davis, Arthur W.",
+    "gender": "Male",
+    "hometown": "Ames, Iowa",
+    "major": "Industrial Science",
+    "nicknames": [],
+    "highschool": "Ames High School",
+    "clubs": [
+      "Pi Mu Epsilon '29"
+    ]
+  },
+  {
+    "name": "Davis, Margaret E.",
+    "gender": "Female",
+    "hometown": "Farnhamville, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Farnhamville High School",
+    "clubs": [
+      "Sigma Kappa",
+      "Home Economics Club",
+      "May Fete '25",
+      "Circulation Staff of Homemaker, '25, '26",
+      "Y.W.C.A"
+    ]
+  },
+  {
+    "name": "Dawson, Gladys H.",
+    "gender": "Female",
+    "hometown": "Ames, Iowa",
+    "major": "Vocational Education",
+    "nicknames": [],
+    "highschool": "Ames High School",
+    "clubs": [
+      "Chi Omega",
+      "W.A.A.",
+      "Phi Upsilon Omicron",
+      "Delta Phi Delta",
+      "Jack O'Lantern",
+      "Veishea Night Show",
+      "Her Vodvil",
+      "Women's \"A\" Fraternity"
+    ]
+  },
+  {
+    "name": "Deischer, Mildred Esther",
+    "gender": "Female",
+    "hometown": "Monticello, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Monticello High School",
+    "clubs": [
+      "Sigma Delta",
+      "Y.W.C.A.",
+      "Theta Sigma Phi",
+      "Student Staff",
+      "Editorial Staff Homemaker",
+      "Women's Guild",
+      "Home Economics Club"
+    ]
+  },
+  {
+    "name": "De Reus, James D.",
+    "gender": "Male",
+    "hometown": "Oskaloosa, Iowa",
+    "major": "Architectural Engineering",
+    "nicknames": [],
+    "highschool": "Oskaloosa High School",
+    "clubs": [
+      "Tau Gamma Nu",
+      "Tau Beta Pi",
+      "Iowa Engineer",
+      "Iowa State Student",
+      "Crocket Society",
+      "Cadet Officers' Association"
+    ]
+  },
+  {
+    "name": "Donels, Ray O.",
+    "gender": "Male",
+    "hometown": "Shellsburg, Iowa",
+    "major": "Agriculture and Science",
+    "nicknames": [],
+    "highschool": "Shellsburg High School",
+    "clubs": [
+      "Delta Chi",
+      "Agricultural Club",
+      "Inter-Fraternity Council '25, '26",
+      "Wrestling '26",
+      "Y.M.C.A"
+    ]
+  },
+  {
+    "name": "Doty, Chas. O.",
+    "gender": "Male",
+    "hometown": "Lake City, Iowa",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "highschool": "Lake City High School",
+    "clubs": [
+      "Alpha Gamma Rho",
+      "Alpha Zeta",
+      "Block and Bridle Club",
+      "Agricultural Club",
+      "Little International '26, '27, '28",
+      "Manager Veishea A.H. Open House '28"
+    ]
+  },
+  {
+    "name": "Ruth May Davis",
+    "gender": "Female",
+    "hometown": "Des Moines, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "North High",
+    "clubs": [
+      "Sigma Delta",
+      "Y.W.C.A.",
+      "Student Publication Board",
+      "Theta Sigma Phi",
+      "Student Staff",
+      "Homemaker Editorial Staff",
+      "Women's Guild",
+      "Women's Pan-Hellenic Council"
+    ]
+  },
+  {
+    "name": "Day, Ember N.",
+    "gender": "Female",
+    "hometown": "Gilmore City, Iowa",
+    "major": "Vocational Education",
+    "nicknames": [],
+    "highschool": "Gilmore City High School",
+    "clubs": [
+      "Kappa Phi",
+      "Senior Council",
+      "Big Sister Captain",
+      "Wesley Players",
+      "Sophomore Council",
+      "Methodist Student Council",
+      "W.A.A.",
+      "Y.W.C.A.",
+      "Home Economics Club",
+      "Freshman Day Student Leader"
+    ]
+  },
+  {
+    "name": "Delahooke, Henry Russell",
+    "gender": "Male",
+    "hometown": "Froelich, Iowa",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "Monona High School",
+    "clubs": [
+      "Sigma Sigma",
+      "Varsity Swimming",
+      "Porpoise",
+      "Track",
+      "Y.M.C.A.",
+      "Engineers' Campfire",
+      "Veishea",
+      "Red Cross Life Saving Corps"
+    ]
+  },
+  {
+    "name": "Dewell, Dwight Albert",
+    "gender": "Male",
+    "hometown": "Clinton, Iowa",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "Clinton High School",
+    "clubs": [
+      "Sigma Sigma",
+      "Iowa Engineer Staff",
+      "Pi Epsilon Pi",
+      "Veishea Night Show",
+      "Engineers' Campfire",
+      "Engineers' Minstrel",
+      "Life Saving Corps"
+    ]
+  },
+  {
+    "name": "Dorr, Minnie K.",
+    "gender": "Female",
+    "hometown": "Baxter, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Baxter High School",
+    "clubs": [
+      "Zeta Tau Alpha",
+      "Dramatic Club",
+      "Delphian Literary Society",
+      "W.A.A."
+    ]
+  },
+  {
+    "name": "Doty, Jesse K.",
+    "gender": "Male",
+    "hometown": "Lake City, Iowa",
+    "major": "Agricultural Economics",
+    "nicknames": [],
+    "highschool": "Lake City High School",
+    "clubs": [
+      "Alpha Gamma Rho",
+      "Alpha Zeta",
+      "Agricultural Club",
+      "Football",
+      "Wrestling"
+    ]
+  },
+  {
+    "name": "Dow, Charles W.",
+    "gender": "Male",
+    "hometown": "Marion, Iowa",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "highschool": "Marion High School",
+    "clubs": [
+      "Alpha Tau Omega",
+      "Tau Beta Pi",
+      "Scabbard and Blade",
+      "Bomb Staff '26",
+      "Associate Editor of '27 and '28 Bomb",
+      "Editor-in-Chief 1929 Bomb",
+      "Interfraternity Council '27, '28",
+      "Cadet Officers' Association",
+      "Bomb Key '27, '28, '29"
+    ]
+  },
+  {
+    "name": "Eckles, Gordon Bruce",
+    "gender": "Male",
+    "hometown": "Aplington, Iowa",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "highschool": "Aplington High School",
+    "clubs": [
+      "Block and Bridle",
+      "Agricultural Club",
+      "Cadet Officers' Association",
+      "Band",
+      "Student Deacon of Presbyterian Church",
+      "Chapel Choir"
+    ]
+  },
+  {
+    "name": "Eichman, Grace Alberta",
+    "gender": "Female",
+    "hometown": "Bettendorf, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Davenport High School",
+    "clubs": [
+      "Bomb '27, '28, '29",
+      "Sales Circulation Manager '28",
+      "Bomb Key",
+      "Iowa Homemaker",
+      "Student Staff",
+      "May Fete '26, '28",
+      "Veishea Night Show Chorus '27, '28",
+      "Home Economics Club",
+      "Dramatic Club"
+    ]
+  },
+  {
+    "name": "Ellsworth, Don C.",
+    "gender": "Male",
+    "hometown": "Rowley, Iowa",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "Rowley Consolidated High School",
+    "clubs": [
+      "Life Saving",
+      "Campfire",
+      "Veishea"
+    ]
+  },
+  {
+    "name": "Engler, Dorothy Estelle",
+    "gender": "Female",
+    "hometown": "Appleton, Wisconsin",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Appleton High School",
+    "clubs": [
+      "Alpha Gamma Delta",
+      "Y.W.C.A.",
+      "Cosmopolitan Club",
+      "W.A.A."
+    ]
+  },
+  {
+    "name": "Ensign, George G.",
+    "gender": "Male",
+    "hometown": "Clarion, Iowa",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "highschool": "Clarion High School",
+    "clubs": [
+      "Delta Sigma Phi",
+      "Bomb Staff '28, '29",
+      "Rifle Team '26, '27, '28, '29",
+      "Scabbard and Blade",
+      "Cadet Officers' Association",
+      "Bomb Key"
+    ]
+  },
+  {
+    "name": "Drybread, Mary Jane",
+    "gender": "Female",
+    "hometown": "Nevada, Iowa",
+    "major": "Vocational Education",
+    "nicknames": [],
+    "highschool": "Nevada High School",
+    "clubs": [
+      "Monticello Seminary",
+      "Gamma Phi Beta",
+      "League of Women Voters",
+      "Convocation Manager, 1929",
+      "Central Veishea Committee",
+      "Hec Vodvil 1929",
+      "Circulation Staff, Iowa Homemaker"
+    ]
+  },
+  {
+    "name": "Edwards, Paul F.",
+    "gender": "Male",
+    "hometown": "Ames, Iowa",
+    "major": "Economic Science",
+    "nicknames": [],
+    "highschool": "Omaha Central and Ames High School",
+    "clubs": [
+      "Babson Institution",
+      "Pistol Squad '24, '25"
+    ]
+  },
+  {
+    "name": "Elder, Clarence R.",
+    "gender": "Male",
+    "hometown": "Klemme, Iowa",
+    "major": "Agricultural Journalism",
+    "nicknames": [],
+    "highschool": "Klemme High School",
+    "clubs": [
+      "Theta Xi",
+      "Sigma Delta Chi",
+      "Pi Epsilon Pi",
+      "Iowa State Student Staff",
+      "Iowa Agriculturist, Editorial Staff"
+    ]
+  },
+  {
+    "name": "Engel, Raymond A.",
+    "gender": "Male",
+    "hometown": "Reinbeck, Iowa",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "highschool": "Reinbeck Consolidated High School",
+    "clubs": [
+      "Delta Sigma Phi",
+      "Bomb '27",
+      "Veishea '28",
+      "Band '26"
+    ]
+  },
+  {
+    "name": "Ericson, Clyde Merl",
+    "gender": "Male",
+    "hometown": "Mason City, Iowa",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "highschool": "Mason City High School",
+    "clubs": [
+      "Mason City Junior College"
+    ]
+  },
+  {
+    "name": "Erion, Earle Frederick",
+    "gender": "Male",
+    "hometown": "La Grange, Illinois",
+    "major": "Economic Science",
+    "nicknames": [],
+    "highschool": "Lyons Township High School",
+    "clubs": [
+      "Delta Chi",
+      "Freshman Cross Country",
+      "Bomb Staff '26, '27, '28, '29",
+      "Copy Editor Bomb '29",
+      "Bomb Key '28, '29"
+    ]
+  },
+  {
+    "name": "Esval, Orlando E.",
+    "gender": "Male",
+    "hometown": "Ames, Iowa",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "Scobey High School",
+    "clubs": [
+      "Montana State College"
+    ]
+  },
+  {
+    "name": "Evans, Raymond J.",
+    "gender": "Male",
+    "hometown": "Webster City, Iowa",
+    "major": "Chemical Engineering",
+    "nicknames": [],
+    "highschool": "Webster City High School",
+    "clubs": [
+      "Chemical Engineering Society"
+    ]
+  },
+  {
+    "name": "Fair, Irvis E.",
+    "gender": "Male",
+    "hometown": "Bayard, Iowa",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "Bayard Consolidated High School",
+    "clubs": [
+      "Band '27, '28, '29"
+    ]
+  },
+  {
+    "name": "Farnsworth, Mary A.",
+    "gender": "Female",
+    "hometown": "Cresco, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Cresco High School",
+    "clubs": [
+      "Zeta Tau Alpha",
+      "W.A.A.",
+      "Hockey",
+      "Basketball",
+      "Baseball",
+      "Y.W.C.A.",
+      "Home Economics Club",
+      "Dramatic Club",
+      "Delphian Literary Society"
+    ]
+  },
+  {
+    "name": "Farmer, Ralph S.",
+    "gender": "Male",
+    "hometown": "Montezuma, Iowa",
+    "major": "Dairy Industry",
+    "nicknames": [],
+    "highschool": "Delhi High School",
+    "clubs": [
+      "Farm House",
+      "Dairy Products Judging Team '28",
+      "Dairy Club, Vice-President",
+      "Dairy Cattle Club",
+      "Alpha Zeta"
+    ]
+  },
+  {
+    "name": "Findley, Hildred Lurene",
+    "gender": "Female",
+    "hometown": "Dallas Center, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Grimes High School",
+    "clubs": [
+      "Y.W.C.A.",
+      "Women's Guild",
+      "Home Economics Club"
+    ]
+  },
+  {
+    "name": "Evans, Clara Mirian",
+    "gender": "Female",
+    "hometown": "Ames, Iowa",
+    "major": "Industrial Science",
+    "nicknames": [],
+    "highschool": "Clinton, Ohio, High School",
+    "clubs": [
+      "Indiana State and Ohio State"
+    ]
+  },
+  {
+    "name": "Everitt, Lois",
+    "gender": "Female",
+    "hometown": "Mason City, Illinois",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Mason City Community High School",
+    "clubs": [
+      "Knox College",
+      "Sigma Alpha Iota",
+      "W.A.A.",
+      "Home Economics Club",
+      "Y.W.C.A."
+    ]
+  },
+  {
+    "name": "Ferguson, Franklin P.",
+    "gender": "Male",
+    "hometown": "Ames, Iowa",
+    "major": "Journalism",
+    "nicknames": [],
+    "highschool": "Ames High School",
+    "clubs": [
+      "Student Staff",
+      "Alpha Zeta",
+      "Sigma Delta Chi"
+    ]
+  },
+  {
+    "name": "Fee, Paul F.",
+    "gender": "Male",
+    "hometown": "Carroll, Iowa",
+    "major": "General Engineering",
+    "nicknames": [],
+    "highschool": "Carroll High School",
+    "clubs": [
+      "Sigma Alpha Epsilon",
+      "Interfraternity Council",
+      "Pebul",
+      "Pi Epsilon Pi",
+      "Society of Industrial Engineers",
+      "Iowa Engineer",
+      "Veishea Vodvil Manager '28",
+      "Scabbard and Blade",
+      "Military Circus"
+    ]
+  },
+  {
+    "name": "Fickes, Lee A.",
+    "gender": "Male",
+    "hometown": "Ames, Iowa",
+    "major": "Economic Science",
+    "nicknames": [],
+    "highschool": "Sac City High School",
+    "clubs": [
+      "Iowa University",
+      "Delta Tau Delta"
+    ]
+  },
+  {
+    "name": "Ford, Catherine",
+    "gender": "Female",
+    "hometown": "Des Moines, Iowa",
+    "major": "Zoology",
+    "nicknames": [],
+    "highschool": "East High School",
+    "clubs": [
+      "Drake University",
+      "Kappa Delta",
+      "Industrial Science Council",
+      "Y.W.C.A.",
+      "Veishea Night Show Cast '28"
+    ]
+  },
+  {
+    "name": "Fore, Robert E.",
+    "gender": "Male",
+    "hometown": "Ames, Iowa",
+    "major": "Agricultural Education",
+    "nicknames": [],
+    "highschool": "Cameron High School",
+    "clubs": []
+  },
+  {
+    "name": "Foster, Josephine",
+    "gender": "Female",
+    "hometown": "Ames, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Ames High School",
+    "clubs": [
+      "Pi Beta Phi",
+      "Jack O'Lantern",
+      "Sophomore Council",
+      "Hec Vodvil '25",
+      "May Fete '28",
+      "Mortar Board"
+    ]
+  },
+  {
+    "name": "Friederich, George R.",
+    "gender": "Male",
+    "hometown": "Norfolk, Nebraska",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "highschool": "Midland Academy",
+    "clubs": [
+      "Alpha Mu",
+      "A.S.M.E.",
+      "Engineers' Open House"
+    ]
+  },
+  {
+    "name": "Funk, Charles A.",
+    "gender": "Male",
+    "hometown": "Ottumwa, Iowa",
+    "major": "Chemical Engineering",
+    "nicknames": [],
+    "highschool": "Ottumwa High School",
+    "clubs": [
+      "Sigma Chi",
+      "Iowa State Student '25, '26",
+      "Chemical Engineering Society"
+    ]
+  },
+  {
+    "name": "Garrett, Anna Lee",
+    "gender": "Female",
+    "hometown": "Alcedo, Illinois",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Frances Shimer School",
+    "clubs": [
+      "Chi Omega",
+      "May Fete '28",
+      "Dramatic Club",
+      "Cast of \"Seven Keys to Baldpate\"",
+      "Veishea Night Show '28",
+      "Corillons Club",
+      "Glee Club"
+    ]
+  },
+  {
+    "name": "George, Donald K.",
+    "gender": "Male",
+    "hometown": "Dubuque, Iowa",
+    "major": "Industrial Science",
+    "nicknames": [],
+    "highschool": "Dubuque High School",
+    "clubs": [
+      "Pi Kappa Alpha",
+      "Ind. Sci. Council",
+      "Pebul",
+      "Treasurer Junior Class",
+      "General Chairman Junior Trot",
+      "Pi Epsilon Pi"
+    ]
+  },
+  {
+    "name": "Catherine Foster",
+    "gender": "Female",
+    "hometown": "Graettinger, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Graettinger High School",
+    "clubs": [
+      "Pi Beta Phi",
+      "Rockford College",
+      "Home Economics Club",
+      "Big Sister"
+    ]
+  },
+  {
+    "name": "Foulke, Ann F.",
+    "gender": "Female",
+    "hometown": "Pittsburgh, Pa.",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Charles City High School",
+    "clubs": [
+      "\"The First Year\"",
+      "Cast \"The Romantic Young Lady\"",
+      "Pi Beta Phi",
+      "Margaret Marrison",
+      "Hec Vodyil '26",
+      "Veishea '26",
+      "Cardinal Guild '28"
+    ]
+  },
+  {
+    "name": "Fritschel, Erich P.",
+    "gender": "Male",
+    "hometown": "Waverly, Iowa",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "Strawberry Point High School",
+    "clubs": [
+      "Wartburg College",
+      "Iowa Engineer"
+    ]
+  },
+  {
+    "name": "Garoupalis, Anacreon E.",
+    "gender": "Male",
+    "hometown": "Samos, Greece",
+    "major": "Dairy Husbandry",
+    "nicknames": [],
+    "highschool": "Pythagorium Gymnasium High School",
+    "clubs": [
+      "Cosmopolitan Club"
+    ]
+  },
+  {
+    "name": "Geiter, Ruth E.",
+    "gender": "Female",
+    "hometown": "Grundy Center, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Grundy Center High School",
+    "clubs": [
+      "Iowa State Teachers' College",
+      "Y.W.C.A."
+    ]
+  },
+  {
+    "name": "Gerling, Mabel Gertrude",
+    "gender": "Female",
+    "hometown": "Swan, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Clearfield High School",
+    "clubs": [
+      "Simpson College",
+      "Zeta Tau Alpha",
+      "Senior Council",
+      "Treas. Dramatic Club",
+      "Y.W.C.A.",
+      "Finance Committee"
+    ]
+  },
+  {
+    "name": "George, F. Gillen",
+    "gender": "Male",
+    "hometown": "Omaha, Nebraska",
+    "major": "Chemistry Technology",
+    "nicknames": [],
+    "highschool": "Omaha Central High School",
+    "clubs": [
+      "Beta Theta Pi"
+    ]
+  },
+  {
+    "name": "Girard, Chester H.",
+    "gender": "Male",
+    "hometown": "Dubuque, Iowa",
+    "major": "Industrial Science",
+    "nicknames": [],
+    "highschool": "Dubuque Senior High",
+    "clubs": [
+      "Pi Kappa Alpha",
+      "Iowa State Student",
+      "Pebul",
+      "Prep-Soph Committee",
+      "Inter-Fraternity Council"
+    ]
+  },
+  {
+    "name": "Goeser, Paul A.",
+    "gender": "Male",
+    "hometown": "Burlington, Iowa",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "highschool": "Burlington High School",
+    "clubs": [
+      "Farm House",
+      "Alpha Zeta",
+      "Delta Sigma Rho",
+      "Pi Epsilon Pi"
+    ]
+  },
+  {
+    "name": "Gould, Kenneth D.",
+    "gender": "Male",
+    "hometown": "Des Moines, Iowa",
+    "major": "Ceramic Engineering",
+    "nicknames": [],
+    "highschool": "Des Moines East High School",
+    "clubs": [
+      "American Ceramic Society",
+      "Velshen Knights of St. Patrick"
+    ]
+  },
+  {
+    "name": "Gregson, Editi M.",
+    "gender": "Female",
+    "hometown": "Corwith, Iowa",
+    "major": "Vocational Education",
+    "nicknames": [],
+    "highschool": "Corwith High School",
+    "clubs": [
+      "Theta Epsilon"
+    ]
+  },
+  {
+    "name": "Grout, Roy A.",
+    "gender": "Male",
+    "hometown": "Keokuk, Iowa",
+    "major": "Architectural Engineering",
+    "nicknames": [],
+    "highschool": "Keokuk High School",
+    "clubs": [
+      "Sigma Chi",
+      "Senior Class President",
+      "Cardinal Guild President",
+      "Glee Club",
+      "A-M-E-S Quartette",
+      "Cardinal Key",
+      "Phi Mu Alpha",
+      "Scabbard and Blade",
+      "Pebul",
+      "Engineering Council",
+      "Student Council of Memorial Union",
+      "Music \"A\" \"28\""
+    ]
+  },
+  {
+    "name": "Ruth Ginger",
+    "gender": "Female",
+    "hometown": "Spencer, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Spencer High School",
+    "clubs": [
+      "Zeta Tau Alpha",
+      "Jack O'Lantern",
+      "Iowa Homemaker",
+      "Home Economics Club",
+      "Y.W.C.A.",
+      "Dramatic Club"
+    ]
+  },
+  {
+    "name": "Gittins, Thomas W.",
+    "gender": "Male",
+    "hometown": "Griswold, Iowa",
+    "major": "Chemistry",
+    "nicknames": [],
+    "highschool": "Elliott High School",
+    "clubs": [
+      "Tau Kappa Epsilon",
+      "Pi Epsilon Pi",
+      "Industrial Science Council",
+      "Dramatic Club",
+      "National Collegiate Players",
+      "Phi Lambda Upsilon",
+      "Chemists' Club",
+      "Cardinal Guild",
+      "Central Veishea Committee"
+    ]
+  },
+  {
+    "name": "Goodlett, Clifton",
+    "gender": "Male",
+    "hometown": "Clarksville, Tennessee",
+    "major": "Dairy Industry",
+    "nicknames": [],
+    "highschool": "Clarksville High School",
+    "clubs": [
+      "Farm House",
+      "Alpha Zeta",
+      "Agricultural Council",
+      "Dairy Club",
+      "Block and Bridle",
+      "Dairy Cattle Club",
+      "\"The Bad Man\""
+    ]
+  },
+  {
+    "name": "Graf, Dorothy Lylian",
+    "gender": "Female",
+    "hometown": "Somonauk, Illinois",
+    "major": "Vocational Education",
+    "nicknames": [],
+    "highschool": "Somonauk Community High School",
+    "clubs": [
+      "Phi Omega Pi",
+      "Iowa Homemaker",
+      "Iowa State Student",
+      "Home Economics Club"
+    ]
+  },
+  {
+    "name": "Griffin, Charles S.",
+    "gender": "Male",
+    "hometown": "Pleasanton, Iowa",
+    "major": "Economic Science",
+    "nicknames": [],
+    "highschool": "Leon High School",
+    "clubs": [
+      "Kangaroos",
+      "Crescent Literary Society",
+      "President of Y.M.C.A.",
+      "Student Elder in Collegiate Presbyterian Church",
+      "Chapel Choir"
+    ]
+  },
+  {
+    "name": "Grouwinkel, Paul H.",
+    "gender": "Male",
+    "hometown": "Columbus Junction, Iowa",
+    "major": "Agricultural Education",
+    "nicknames": [],
+    "highschool": "Columbus Junction High School",
+    "clubs": [
+      "Vocational Education Club",
+      "Sigma Alpha",
+      "Phi Tau Theta"
+    ]
+  },
+  {
+    "name": "Groves, Audrey Bernice",
+    "gender": "Female",
+    "hometown": "Kansas City, MO",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Omaha Central High School",
+    "clubs": [
+      "Sigma Kappa",
+      "Y.W.C.A.",
+      "Glee Club",
+      "Homemaker"
+    ]
+  },
+  {
+    "name": "Gutz, Lorraine D.",
+    "gender": "Female",
+    "hometown": "Pomeroy, IA",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Pomeroy High School",
+    "clubs": [
+      "Alpha Delta Pi",
+      "Freshman Commission",
+      "Sophomore Council",
+      "Circulation Manager, Iowa Homemaker '27, '28",
+      "Editor, Iowa Homemaker '29",
+      "Senorita President",
+      "Jack O'Lantern",
+      "Phi Upsilon Omicron",
+      "Mortar Board",
+      "Big Sister Chief '29"
+    ]
+  },
+  {
+    "name": "Hahne, Winnifred",
+    "gender": "Female",
+    "hometown": "Webster City, IA",
+    "major": "Industrial Science",
+    "nicknames": [],
+    "highschool": "Lincoln High School",
+    "clubs": [
+      "Alpha Gamma Delta",
+      "Sigma Alpha Iota",
+      "Dramatic Club",
+      "Industrial Science Council",
+      "Band '26, '27, '28",
+      "Glee Club",
+      "Exchange Editor, Iowa State Student '27, '28",
+      "Green Gander '28, '29",
+      "Veishea '29",
+      "May Fete '26, '27, '28"
+    ]
+  },
+  {
+    "name": "Hall, Leroy P.",
+    "gender": "Male",
+    "hometown": "Crawford, NE",
+    "major": "Chemical Engineering",
+    "nicknames": [],
+    "highschool": "Crawford High School",
+    "clubs": [
+      "Delta Sigma Phi",
+      "Chemists' Club",
+      "Knights of St. Patrick",
+      "Chemical Engineering Society"
+    ]
+  },
+  {
+    "name": "Hamill, Alice",
+    "gender": "Female",
+    "hometown": "Sandwich, IL",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Sandwich Township High School",
+    "clubs": [
+      "Phi Mu"
+    ]
+  },
+  {
+    "name": "Hansell, E. Duane",
+    "gender": "Male",
+    "hometown": "Indiana, IA",
+    "major": "Dairy Husbandry",
+    "nicknames": [],
+    "highschool": "Spring Hill High School",
+    "clubs": [
+      "Phi Tau Theta",
+      "Meat Judging Team '28",
+      "Block and Bridle Club",
+      "Dairy Cattle Club"
+    ]
+  },
+  {
+    "name": "Gustafson, Carl R.",
+    "gender": "Male",
+    "hometown": "Sioux City, Iowa",
+    "major": "Economic Science",
+    "nicknames": [],
+    "highschool": "Central High School",
+    "clubs": [
+      "Phi Sigma Kappa",
+      "Pebul",
+      "Veishea Night Show '28",
+      "Iowa State Student '27"
+    ]
+  },
+  {
+    "name": "Hager, Helen S.",
+    "gender": "Female",
+    "hometown": "Waukon, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Waukon High School",
+    "clubs": [
+      "Pi Beta Phi",
+      "Omicron Nu",
+      "Cardinal Guild",
+      "Big Sister Captain",
+      "Cast of \"Melody Magic\"",
+      "\"The Poor Nut\""
+    ]
+  },
+  {
+    "name": "Halisman, Leo",
+    "gender": "Male",
+    "hometown": "Marion, Iowa",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "highschool": "Marion High School",
+    "clubs": [
+      "Band '25 '27 '28",
+      "A.S.C.E.",
+      "Engineers' Minstrel '27",
+      "Beta Kappa Epsilon"
+    ]
+  },
+  {
+    "name": "Hallett, Arthur G.",
+    "gender": "Male",
+    "hometown": "Epworth, Iowa",
+    "major": "Agricultural Education",
+    "nicknames": [],
+    "highschool": "Epworth High School",
+    "clubs": [
+      "Freshman Wrestling",
+      "Vocational Education Club '27 '28"
+    ]
+  },
+  {
+    "name": "Hannum, Helen Louise",
+    "gender": "Female",
+    "hometown": "Boone, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Boone High School",
+    "clubs": [
+      "Delta Delta Delta",
+      "Y.W.C.A.",
+      "Bomb '27 '28",
+      "Dramatic Club"
+    ]
+  },
+  {
+    "name": "Hanson, Nathaniel B.",
+    "gender": "Male",
+    "hometown": "Burlington, Iowa",
+    "major": "Forestry",
+    "nicknames": [],
+    "highschool": "Burlington High School",
+    "clubs": [
+      "Alpha Tau Omega",
+      "Forestry Club",
+      "Ames Forester"
+    ]
+  },
+  {
+    "name": "Hanson, Roy A.",
+    "gender": "Male",
+    "hometown": "Council Bluffs, Iowa",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "highschool": "Abraham Lincoln High School",
+    "clubs": [
+      "Alpha Sigma Phi",
+      "Iowa Engineer Staff '26, '28, '29",
+      "Business Manager Iowa Engineer '28, '29",
+      "Engineering Council '28, '29",
+      "Tau Beta Pi",
+      "Knights of St. Patrick",
+      "B.K.E."
+    ]
+  },
+  {
+    "name": "Harrell, George D.",
+    "gender": "Male",
+    "hometown": "Washington, D.C.",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "highschool": "McKinley High, Omaha Central High",
+    "clubs": [
+      "Phi Gamma Delta"
+    ]
+  },
+  {
+    "name": "Harris, W. Donald",
+    "gender": "Male",
+    "hometown": "Des Moines, Iowa",
+    "major": "Chemical Engineering",
+    "nicknames": [],
+    "highschool": "North Des Moines High",
+    "clubs": [
+      "Chemical Engineering Society"
+    ]
+  },
+  {
+    "name": "Hartman, Robert B.",
+    "gender": "Male",
+    "hometown": "Omaha, Nebraska",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "highschool": "Omaha Central High",
+    "clubs": [
+      "Phi Gamma Delta",
+      "A.S.M.E., Chairman",
+      "Engineering Council",
+      "Engineers' Campfire",
+      "Scabbard and Blade",
+      "Knights of St. Patrick",
+      "Cadet Officers' Association"
+    ]
+  },
+  {
+    "name": "Heffernan, Paul Malcolm",
+    "gender": "Male",
+    "hometown": "Ames, Iowa",
+    "major": "Architectural Engineering",
+    "nicknames": [],
+    "highschool": "Ames High School",
+    "clubs": [
+      "Theta Delta Chi",
+      "Tau Beta Pi",
+      "Sigma Upsilon, Secretary '27, '28",
+      "Green Gander Staff '27",
+      "Order of Goalings"
+    ]
+  },
+  {
+    "name": "Henderson, Ernest L.",
+    "gender": "Male",
+    "hometown": "Scranton, Iowa",
+    "major": "Dairy Industry",
+    "nicknames": [],
+    "highschool": "Scranton Consolidated Schools",
+    "clubs": [
+      "Alpha Sigma Phi"
+    ]
+  },
+  {
+    "name": "Kenneth Henry Har",
+    "gender": "Male",
+    "hometown": "Marshalltown, Iowa",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "highschool": "Marshalltown High School",
+    "clubs": [
+      "Tau Kappa Epsilon",
+      "Scabbard and Blade",
+      "Pres. '28",
+      "Treas. '27",
+      "National Collegiate Players",
+      "Treasurer '27",
+      "Pi Epsilon Pi",
+      "Battalion Commander",
+      "R.O.T.C. '28",
+      "Cadet Officers' Association",
+      "Knights of St. Patrick",
+      "Veishea Night Show '28",
+      "Little Country Theater '25",
+      "Dramatic Club",
+      "A.S.M.E."
+    ]
+  },
+  {
+    "name": "Harris, Raymond W.",
+    "gender": "Male",
+    "hometown": "Grinnell, Iowa",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "highschool": "Grinnell Central High",
+    "clubs": []
+  },
+  {
+    "name": "Hartford, Willis George",
+    "gender": "Male",
+    "hometown": "Plattsmouth, Nebr.",
+    "major": "General Engineering",
+    "nicknames": [],
+    "highschool": "Plattsmouth High School",
+    "clubs": [
+      "Phi Kappa Psi"
+    ]
+  },
+  {
+    "name": "Harvey, Grace G.",
+    "gender": "Female",
+    "hometown": "Denison, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Denison High School",
+    "clubs": [
+      "Y.W.C.A.",
+      "Freshman Commission",
+      "Naiad",
+      "President Alpha Unit of Birch Hall",
+      "W.A.A.",
+      "Swimming Team '24, '28"
+    ]
+  },
+  {
+    "name": "Heinkel, Ethiel Jane",
+    "gender": "Female",
+    "hometown": "Fort Dodge, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Fort Dodge High School",
+    "clubs": [
+      "Glee Club '26, '27, '29",
+      "Sigma Alpha Iota",
+      "Phi Upsilon Omicron",
+      "Secretary '28",
+      "Treasurer Women's Guild '28, '29",
+      "President Quill Literary Society",
+      "President Dormitory Council",
+      "Chairman Applied Art Open House '28",
+      "President Delta Phi Delta '28, '29",
+      "Secretary-Treasurer Applied Art Guild '27, '28",
+      "Group Leader",
+      "Freshman Discussion Group '28",
+      "Big Sister Captain '27, '28",
+      "Jack O'Lantern"
+    ]
+  },
+  {
+    "name": "Henn, Hattie",
+    "gender": "Female",
+    "hometown": "Denmark, Iowa",
+    "major": "Rural Sociology",
+    "nicknames": [],
+    "highschool": "Denmark High School",
+    "clubs": [
+      "Frisbie Fellowship",
+      "Delphian Literary Society",
+      "Y.W.C.A.",
+      "Chapel Choir"
+    ]
+  },
+  {
+    "name": "Hershey, Vaughn F.",
+    "gender": "Male",
+    "hometown": "Fairport, Iowa",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "Muscatine High School",
+    "clubs": [
+      "Eta Kappa Nu",
+      "A.I.E.E.",
+      "Engineers' Campfire '28",
+      "Veishea Open House '28, '29"
+    ]
+  },
+  {
+    "name": "Hibbs, Wayne B.",
+    "gender": "Male",
+    "hometown": "Carroll, Iowa",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "highschool": "Carroll High School",
+    "clubs": [
+      "Phi Kappa Tau",
+      "Cadet Officers' Association",
+      "Freshman Tennis",
+      "Knights of St. Patrick",
+      "Beta Kappa Epsilon",
+      "American Society of Civil Engineers"
+    ]
+  },
+  {
+    "name": "Hill, Sanford C.",
+    "gender": "Male",
+    "hometown": "Story City, Iowa",
+    "major": "Landscape Architecture",
+    "nicknames": [],
+    "highschool": "Story City High School",
+    "clubs": [
+      "Phi Gamma Delta",
+      "Football",
+      "Baseball",
+      "Double \"A\" Fraternity"
+    ]
+  },
+  {
+    "name": "Hindert, Lawrence A.",
+    "gender": "Male",
+    "hometown": "Perry, Iowa",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "Perry High School",
+    "clubs": [
+      "Baseball Manager '26, '27, '28",
+      "A.I.E.E."
+    ]
+  },
+  {
+    "name": "Hoak, Harry L.",
+    "gender": "Male",
+    "hometown": "Des Moines, Iowa",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "highschool": "West Des Moines High School",
+    "clubs": [
+      "Tau Kappa Epsilon",
+      "Double \"A\" Fraternity",
+      "Cardinal Guild",
+      "Engineering Council",
+      "Cross-Country '26, '27, '28, Captain '28",
+      "Track '27, '28, '29, Captain '29",
+      "Inter-Fraternity Council"
+    ]
+  },
+  {
+    "name": "Holding, Arthur L.",
+    "gender": "Male",
+    "hometown": "Burt, Iowa",
+    "major": "Forester",
+    "nicknames": [],
+    "highschool": "Burt High School",
+    "clubs": [
+      "Beta Delta Rho",
+      "Double \"A\" Fraternity",
+      "Athletic Council",
+      "Cardinal Guild",
+      "Freshman Wrestling",
+      "Varsity Wrestling '27, '28, '29, Captain '29",
+      "1928 Olympic Team",
+      "Forestry Club"
+    ]
+  },
+  {
+    "name": "Frances Hibbs",
+    "gender": "Female",
+    "hometown": "Numa, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Centerville High School",
+    "clubs": [
+      "Sigma Kappa",
+      "Freshman Commission",
+      "Jack O'Lantern",
+      "Y.W.C.A. Council",
+      "W.A.A.",
+      "Homemaker Staff '27, '28",
+      "Hee Vodvil '27"
+    ]
+  },
+  {
+    "name": "Highland, Edna R.",
+    "gender": "Female",
+    "hometown": "Eagle Grove, Iowa",
+    "major": "Zoology",
+    "nicknames": [],
+    "highschool": "Lake Wilson High School",
+    "clubs": [
+      "Sigma Delta",
+      "W.A.A.",
+      "Hee Vodvil",
+      "May Fete '26, '27",
+      "Carillon Glee Club",
+      "Dramatic Club",
+      "Cast 'Bad Man', 'Melody Magic'",
+      "Industrial Science Council",
+      "Senior Council",
+      "Y.W.C.A.",
+      "Wesley Players"
+    ]
+  },
+  {
+    "name": "Hillman, Merlin Jay",
+    "gender": "Male",
+    "hometown": "Rockford, Iowa",
+    "major": "Architectural Engineering",
+    "nicknames": [],
+    "highschool": "Rockford High School",
+    "clubs": [
+      "Alpha Tau Omega",
+      "T.L.B.",
+      "Phi Tau Theta",
+      "Knights of St. Patrick",
+      "College Dramatic Club",
+      "Crocket Society",
+      "Cadet Officers' Association"
+    ]
+  },
+  {
+    "name": "Hird, Fred S.",
+    "gender": "Male",
+    "hometown": "Des Moines, Iowa",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "West High School",
+    "clubs": [
+      "Eta Kappa Nu"
+    ]
+  },
+  {
+    "name": "Hoegh, Harry L.",
+    "gender": "Male",
+    "hometown": "Elkhorn, Iowa",
+    "major": "Farm Crops and Soils",
+    "nicknames": [],
+    "highschool": "Elkhorn High School",
+    "clubs": [
+      "Ausonia",
+      "Baseball",
+      "Pebul",
+      "Pi Epsilon Pi",
+      "Double \"A\" Fraternity"
+    ]
+  },
+  {
+    "name": "Holtz, Robert Dean",
+    "gender": "Male",
+    "hometown": "Gillette, Wyoming",
+    "major": "Forestry",
+    "nicknames": [],
+    "highschool": "Nebraska Central Academy",
+    "clubs": [
+      "Delta Sigma Phi",
+      "Freshman Football",
+      "Freshman Track",
+      "Varsity Track",
+      "Forestry Club",
+      "Monkey Drill"
+    ]
+  },
+  {
+    "name": "Hoover, Katharine Lee",
+    "gender": "Female",
+    "hometown": "Purdin, Missouri",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Linneus High School",
+    "clubs": [
+      "Home Economics Club",
+      "Chapel Choir",
+      "W.A.A."
+    ]
+  },
+  {
+    "name": "Hove, Gladys H.",
+    "gender": "Female",
+    "hometown": "Stanhope, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Stanhope High School",
+    "clubs": [
+      "Alpha Delta Pi",
+      "Glee Club",
+      "W.A.A.",
+      "Women's \"A\" Fraternity",
+      "Senior Council"
+    ]
+  },
+  {
+    "name": "Hoyt, John T.",
+    "gender": "Male",
+    "hometown": "Cedar Falls, Iowa",
+    "major": "General Engineering",
+    "nicknames": [],
+    "highschool": "Iowa City High School",
+    "clubs": [
+      "Tau Gamma Nu",
+      "Glee Club",
+      "AME'S Quartet",
+      "Phi Mu Alpha",
+      "Veishea Night Show '28",
+      "Engineers' Minstrel Show '28",
+      "American Society of Industrial Engineers",
+      "A.C.E."
+    ]
+  },
+  {
+    "name": "Hull, John A.",
+    "gender": "Male",
+    "hometown": "Boone, Iowa",
+    "major": "Economic Science",
+    "nicknames": [],
+    "highschool": "Boone High School",
+    "clubs": [
+      "Phi Kappa Psi"
+    ]
+  },
+  {
+    "name": "Iler, Beatrice",
+    "gender": "Female",
+    "hometown": "Ames, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Ames High School",
+    "clubs": [
+      "Chi Omega",
+      "W.A.A.",
+      "Sophomore Council",
+      "Jack O'Lantern",
+      "Delta Phi Delta",
+      "Phi Upsilon Omicron",
+      "Mortar Board",
+      "Home Economics Club"
+    ]
+  },
+  {
+    "name": "Irwin, Robert Y.",
+    "gender": "Male",
+    "hometown": "Ames, Iowa",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "highschool": "Ames High School",
+    "clubs": [
+      "Alpha Tau Omega"
+    ]
+  },
+  {
+    "name": "Hoskins, Margaret Ernestine",
+    "gender": "Female",
+    "hometown": "Sioux Rapids, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Sioux Rapids High School",
+    "clubs": [
+      "Glee Club",
+      "Iowa State Trio",
+      "Sigma Alpha Iota",
+      "W.A.A.",
+      "Hockey",
+      "Basketball",
+      "Freshman Commission",
+      "Sophomore Council",
+      "Jack O'Lantern",
+      "Mortar Board",
+      "Chimes of Normandy",
+      "Hec Vodvil '27, '28"
+    ]
+  },
+  {
+    "name": "Howell, Edward M.",
+    "gender": "Male",
+    "hometown": "Muscatine, Iowa",
+    "major": "Forestry",
+    "nicknames": [],
+    "highschool": "Muscatine High School",
+    "clubs": [
+      "Delta Sigma Phi",
+      "Scabbard and Blade",
+      "Cadet Captain '28"
+    ]
+  },
+  {
+    "name": "Huff, Danvin H.",
+    "gender": "Male",
+    "hometown": "Anita, Iowa",
+    "major": "Chemical Engineering",
+    "nicknames": [],
+    "highschool": "Adair High School",
+    "clubs": [
+      "Phi Kappa Tau",
+      "Freshman Football",
+      "Freshman Baseball",
+      "Varsity Football",
+      "Chemical Engineering Society",
+      "Chapel Choir",
+      "Engineers' Campfire"
+    ]
+  },
+  {
+    "name": "Hyland, Howard Lewis",
+    "gender": "Male",
+    "hometown": "Valley Junction, Iowa",
+    "major": "Farm Crops and Soils",
+    "nicknames": [],
+    "highschool": "Waukee High School",
+    "clubs": [
+      "Farm House",
+      "Agronomy Club",
+      "Varsity Basketball"
+    ]
+  },
+  {
+    "name": "Ingersoll, Donald G.",
+    "gender": "Male",
+    "hometown": "Dunlap, Iowa",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "Dunlap High School",
+    "clubs": [
+      "Veishea '28, '29",
+      "Engineers' Campfire '28"
+    ]
+  },
+  {
+    "name": "Iseminger, Loy Schultz",
+    "gender": "Male",
+    "hometown": "Altoona, Iowa",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "highschool": "East Des Moines High School",
+    "clubs": [
+      "Military Circus '26"
+    ]
+  },
+  {
+    "name": "Janda, Victor J.",
+    "gender": "Male",
+    "hometown": "Cedar Rapids, Iowa",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "highschool": "Cedar Rapids Washington High",
+    "clubs": [
+      "Freshman Class President",
+      "Freshman Basketball"
+    ]
+  },
+  {
+    "name": "Jeffers, Laura",
+    "gender": "Female",
+    "hometown": "Laurens, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Marathon High School",
+    "clubs": [
+      "Alpha Gamma Delta",
+      "Freshman Commission",
+      "Big Sister Council"
+    ]
+  },
+  {
+    "name": "Jensen, Elmer",
+    "gender": "Male",
+    "hometown": "Story City, Iowa",
+    "major": "Architectural Engineering",
+    "nicknames": [],
+    "highschool": "Story City High",
+    "clubs": [
+      "Capital City Commercial College Band '26, '27, '28",
+      "Cardinal Guild '28, '29"
+    ]
+  },
+  {
+    "name": "Jensen, Richard",
+    "gender": "Male",
+    "hometown": "Council Bluffs, Iowa",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "Abraham Lincoln High",
+    "clubs": [
+      "Chi Phi",
+      "Glee Club",
+      "Eta Kappa Nu Pres. '28",
+      "Scabbard and Blade '28",
+      "Sec.-Treas. Cadet Officers '28"
+    ]
+  },
+  {
+    "name": "Johnson, Julius R.",
+    "gender": "Male",
+    "hometown": "Altona, Illinois",
+    "major": "Farm Crops and Soils",
+    "nicknames": [],
+    "highschool": "Walnut Grove High School",
+    "clubs": [
+      "Lombard College Agronomy Club, Treas. '28",
+      "Little International '27, '28",
+      "Chapel Choir '28"
+    ]
+  },
+  {
+    "name": "Johnson, Percy C.",
+    "gender": "Male",
+    "hometown": "Cannon Falls, Minnesota",
+    "major": "Veterinary Medicine",
+    "nicknames": [],
+    "highschool": "Cannon Falls High School",
+    "clubs": [
+      "Beta Delta Rho",
+      "Pi Epsilon Pi",
+      "Scabbard and Blade",
+      "Veishea Night Show '26",
+      "R.O.T.C.",
+      "Vet. Med. Society"
+    ]
+  },
+  {
+    "name": "Donald Jarrett",
+    "gender": "Male",
+    "hometown": "Oakland, Iowa",
+    "major": "Engineering",
+    "nicknames": [],
+    "highschool": "Oakland High School",
+    "clubs": [
+      "Sigma Pi",
+      "A.S.M.E."
+    ]
+  },
+  {
+    "name": "Jennings, Wilbur",
+    "gender": "Male",
+    "hometown": "Moulton, Iowa",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "highschool": "Moulton High School",
+    "clubs": []
+  },
+  {
+    "name": "Jensen, Iva D.",
+    "gender": "Female",
+    "hometown": "Castana, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Castana Consolidated School",
+    "clubs": [
+      "Theta Epsilon",
+      "Y.W.C.A. Finance Committee",
+      "Home Economics Club",
+      "Geneva Club"
+    ]
+  },
+  {
+    "name": "John, Macklin E.",
+    "gender": "Male",
+    "hometown": "Shabbona, Illinois",
+    "major": "Agricultural Education",
+    "nicknames": [],
+    "highschool": "Shabbona High School",
+    "clubs": [
+      "A.C.C."
+    ]
+  },
+  {
+    "name": "Johnson, Leslie E.",
+    "gender": "Male",
+    "hometown": "Oskaloosa, Iowa",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "highschool": "Tracy High School",
+    "clubs": [
+      "Penn College Livestock Judging Team '28",
+      "Phi Tau Theta",
+      "M.E. Student Council"
+    ]
+  },
+  {
+    "name": "Jones, C. Eldon",
+    "gender": "Male",
+    "hometown": "Williamsburg, Iowa",
+    "major": "Industrial Science",
+    "nicknames": [],
+    "highschool": "Williamsburg High School",
+    "clubs": [
+      "Theta Chi",
+      "Phi Mu Alpha",
+      "Iowa State Glee Club '26",
+      "Senior Class Play '28",
+      "Freshman Debate Team '25",
+      "Music Gold \"A\"",
+      "Orchestra '25",
+      "\"Pot Boiler\" cast",
+      "\"Behind the Beyond\" cast",
+      "Veishea Night Shows '26"
+    ]
+  },
+  {
+    "name": "Martin, Jordan",
+    "gender": "Male",
+    "hometown": "Sioux Falls, South Dakota",
+    "major": "Economic Science",
+    "nicknames": [],
+    "highschool": "Washington High School",
+    "clubs": [
+      "Chi Phi","Pi Epsilon Pi",
+      "President '27",
+      "Senior Manager Football '28",
+      "Industrial Science Council",
+      "Dramatic Club",
+      "Vetshea Night Show lead '27",
+      "Cast \"The Poor Nut\""
+    ]
+  },
+  {
+    "name": "Kaltenheuser, Harold",
+    "gender": "Male",
+    "hometown": "Elkhart, Iowa",
+    "major": "Economic Science",
+    "nicknames": [],
+    "highschool": "Elkhart Consolidated High School",
+    "clubs": [
+      "Sigma Pi",
+      "Pi Gamma Mu",
+      "Senior Week Class Play",
+      "Intramural Track '28",
+      "Dramatic Club",
+      "\"Luco Sarto\"",
+      "\"The Earl of Pawtucket\""
+    ]
+  },
+  {
+    "name": "Keck, Ione B.",
+    "gender": "Female",
+    "hometown": "Washta, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Washta Consolidated High School",
+    "clubs": [
+      "Y.W.C.A.",
+      "President of Summer Session of Y.W.C.A. '28",
+      "League of Women Voters '26",
+      "Senior Council '28",
+      "Homemaker Summer '27",
+      "Chapel Choir",
+      "President of East Hall Summer '28"
+    ]
+  },
+  {
+    "name": "Kelly, Rundell W.",
+    "gender": "Male",
+    "hometown": "Ames, Iowa",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "highschool": "Washington High School",
+    "clubs": [
+      "Phi Kappa Psi",
+      "Pi Epsilon Pi",
+      "Scabbard and Blade"
+    ]
+  },
+  {
+    "name": "Kemper, George W.",
+    "gender": "Male",
+    "hometown": "Wapello, Iowa",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "Wapello High School",
+    "clubs": [
+      "Phi Tau Theta",
+      "Student Council",
+      "Wesley Hall '28",
+      "Association of Collegiate Engineers",
+      "Student Publicity Manager Collegiate Methodist Church '28",
+      "Freshman Student Leader '28"
+    ]
+  },
+  {
+    "name": "Kenyon, J. Kermit",
+    "gender": "Male",
+    "hometown": "Ames, Iowa",
+    "major": "Economic Science",
+    "nicknames": [],
+    "highschool": "Fremont High School",
+    "clubs": []
+  },
+  {
+    "name": "J. Clifford Joslin",
+    "gender": "Male",
+    "hometown": "Cedar Rapids, Iowa",
+    "major": "Agricultural Economics",
+    "nicknames": [],
+    "highschool": "Washington High School",
+    "clubs": [
+      "Phi Kappa Psi"
+    ]
+  },
+  {
+    "name": "Kautz, Harold M.",
+    "gender": "Male",
+    "hometown": "Rowley, Iowa",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "highschool": "Rowley High School",
+    "clubs": [
+      "Gamma Sigma Alpha",
+      "Association of Collegiate Engineers",
+      "American Society of Civil Engineers",
+      "Beta Kappa Epsilon",
+      "Veishea",
+      "Engineers' Campfire '24, '27, '28"
+    ]
+  },
+  {
+    "name": "Kellogg, W. G.",
+    "gender": "Male",
+    "hometown": "Miles, Iowa",
+    "major": "Dairy Industry",
+    "nicknames": [],
+    "highschool": "Miles High School",
+    "clubs": [
+      "Beta Delta Rho"
+    ]
+  },
+  {
+    "name": "Kelsey, Leland W.",
+    "gender": "Male",
+    "hometown": "Adair, Iowa",
+    "major": "General Engineering",
+    "nicknames": [],
+    "highschool": "Adair High School",
+    "clubs": [
+      "Alpha Sigma Pi",
+      "Iowa Engineer",
+      "Pebul"
+    ]
+  },
+  {
+    "name": "Kennedy, William B.",
+    "gender": "Male",
+    "hometown": "Des Moines, Iowa",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "East High School",
+    "clubs": [
+      "Commons Club",
+      "Band",
+      "Knights of St. Patrick",
+      "Phi Mu Alpha, Treasurer",
+      "Eta Kappa Nu, Secretary"
+    ]
+  },
+  {
+    "name": "King, Donald D.",
+    "gender": "Male",
+    "hometown": "Council Bluffs, Iowa",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "highschool": "Abraham Lincoln High School",
+    "clubs": [
+      "Adelante",
+      "Green Gander '26, '27, '28, '29",
+      "Order of Goalings",
+      "Bomb Satire '26, '27, '28",
+      "Iowa Engineer '27, '28, '29",
+      "Engineers' Minstrel Show '28",
+      "Knights of St. Patrick '29",
+      "Veishea Vod-Vil '28",
+      "Engineers' Campfire '28",
+      "Beta Kappa Epsilon"
+    ]
+  },
+  {
+    "name": "King, Harriet",
+    "gender": "Female",
+    "hometown": "Ames, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Ames High School",
+    "clubs": [
+      "Pi Beta Phi",
+      "Jack O'Lantern",
+      "Phi Upsilon Omicron",
+      "Mortar Board",
+      "Naiad",
+      "W.A.A.",
+      "Engineers' Lady '27",
+      "Home Economics Club",
+      "Bomb Key '27",
+      "Women's Guild",
+      "May Fete '26, '27, '28",
+      "Hec Vodvil '26, '27, '28",
+      "Veishea '27"
+    ]
+  },
+  {
+    "name": "Kirby, Robert Havens",
+    "gender": "Male",
+    "hometown": "Des Moines, Iowa",
+    "major": "Chemical Technology",
+    "nicknames": [],
+    "highschool": "Roosevelt High School",
+    "clubs": [
+      "Kappa Sigma",
+      "Chemists' Club",
+      "Phi Lambda Upsilon"
+    ]
+  },
+  {
+    "name": "Kleir, Elmer",
+    "gender": "Male",
+    "hometown": "Cedar Rapids, Iowa",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "highschool": "Grant High School",
+    "clubs": [
+      "Delta Sigma Phi",
+      "Varsity Tennis '27, '29",
+      "Alumni Secretary Tau Beta Pi",
+      "Sigma Upsilon",
+      "Knights of St. Patrick",
+      "Chapel Choir",
+      "Vice-President A.S.M.E."
+    ]
+  },
+  {
+    "name": "Knoll, Alma M.",
+    "gender": "Female",
+    "hometown": "Grimes, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Grimes High School",
+    "clubs": [
+      "Home Economics Club",
+      "Y.W.C.A.",
+      "Vocational Education Club",
+      "W.A.A."
+    ]
+  },
+  {
+    "name": "Koenitzer, Rolland D.",
+    "gender": "Male",
+    "hometown": "Ames, Iowa",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "highschool": "Tucson High School",
+    "clubs": [
+      "Rifle Team '27",
+      "Cardinal Guild '29"
+    ]
+  },
+  {
+    "name": "Krafka, Walter J.",
+    "gender": "Male",
+    "hometown": "Ottumwa, Iowa",
+    "major": "FLORICULTURE",
+    "nicknames": [],
+    "highschool": "Ottumwa High School",
+    "clubs": []
+  },
+  {
+    "name": "Elsie May",
+    "gender": "Female",
+    "hometown": "Kingston, Wayne, Nebraska",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Allen High School",
+    "clubs": [
+      "State Teachers' College",
+      "Y.W.C.A."
+    ]
+  },
+  {
+    "name": "Kirkeberg, Alf M.",
+    "gender": "Male",
+    "hometown": "Eagle Grove, Iowa",
+    "major": "Agricultural Education",
+    "nicknames": [],
+    "highschool": "Eagle Grove High School",
+    "clubs": [
+      "St. Olaf College"
+    ]
+  },
+  {
+    "name": "Knapp, J. Robert",
+    "gender": "Male",
+    "hometown": "Waverly, Iowa",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "Waverly High School",
+    "clubs": [
+      "Phi Kappa Tau",
+      "News Editor, Iowa Engineer",
+      "Dramatic Club",
+      "Engineers' Campfire",
+      "Engineers' Open House",
+      "Veishea",
+      "A.I.E.E.",
+      "Tau Beta Pi",
+      "Eta Kappa Nu"
+    ]
+  },
+  {
+    "name": "Knudson, Romona C.",
+    "gender": "Female",
+    "hometown": "Ames, Iowa",
+    "major": "Economic Science",
+    "nicknames": [],
+    "highschool": "Jewell High School",
+    "clubs": [
+      "Gamma Phi Beta",
+      "Glee Club"
+    ]
+  },
+  {
+    "name": "Kraai, Nelson",
+    "gender": "Male",
+    "hometown": "Orange City, Iowa",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "highschool": "Northwestern Classical Academy",
+    "clubs": [
+      "Hope College",
+      "A.S.C.E.",
+      "Beta Kappa Epsilon"
+    ]
+  },
+  {
+    "name": "Krause, Marie V.",
+    "gender": "Female",
+    "hometown": "Mason City, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Mason City High School",
+    "clubs": [
+      "Sigma Kappa",
+      "Dormitory Council",
+      "May Fete",
+      "Night Show",
+      "Y.W.C.A.",
+      "League of Women Voters",
+      "Vocational Education Club"
+    ]
+  },
+  {
+    "name": "Krizek, Kenneth M.",
+    "gender": "Male",
+    "hometown": "Toledo, Iowa",
+    "major": "Economic Science",
+    "nicknames": [],
+    "highschool": "Toledo High School",
+    "clubs": [
+      "Alpha Sigma Phi",
+      "Pi Gamma Mu"
+    ]
+  },
+  {
+    "name": "Kruse, Don M.",
+    "gender": "Male",
+    "hometown": "Maynard, Iowa",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "highschool": "Maynard High School",
+    "clubs": [
+      "Alpha Gamma Rho",
+      "Block and Bridle Club",
+      "Agricultural Club",
+      "Little International",
+      "Band",
+      "Iowa Agriculturist"
+    ]
+  },
+  {
+    "name": "Kulp, John William",
+    "gender": "Male",
+    "hometown": "Davenport, Iowa",
+    "major": "Forestry",
+    "nicknames": [],
+    "highschool": "Davenport High School",
+    "clubs": [
+      "Sigma Alpha Epsilon",
+      "Pebul",
+      "Pi Epsilon Pi",
+      "Football '27",
+      "Veishea Chorus '28"
+    ]
+  },
+  {
+    "name": "Lang, John Martin",
+    "gender": "Male",
+    "hometown": "Smithshire, Illinois",
+    "major": "Economic Science",
+    "nicknames": [],
+    "highschool": "Roseville Township High School",
+    "clubs": [
+      "Tau Kappa Epsilon"
+    ]
+  },
+  {
+    "name": "Latimer, Gale True",
+    "gender": "Female",
+    "hometown": "Osage, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Osage High School",
+    "clubs": [
+      "Gamma Phi Beta",
+      "Veishea: Assistant Business Manager",
+      "Hee Vodvil",
+      "Jack O'Lantern",
+      "Women's Guild",
+      "Big Sister Captain '27, '28",
+      "Women's Pan-Hellenic"
+    ]
+  },
+  {
+    "name": "Leach, John Ingram",
+    "gender": "Male",
+    "hometown": "Elgin, Illinois",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "highschool": "Elgin High School",
+    "clubs": [
+      "Chi Phi"
+    ]
+  },
+  {
+    "name": "Ellwyn C. Kroeger",
+    "gender": "Male",
+    "hometown": "Princeton, Iowa",
+    "major": "Chemical Engineering",
+    "nicknames": [],
+    "highschool": "Clinton High School",
+    "clubs": [
+      "Alpha Mu",
+      "Pi Epsilon Pi",
+      "Chemical Engineering Society"
+    ]
+  },
+  {
+    "name": "Kruse, Norman F.",
+    "gender": "Male",
+    "hometown": "Davenport, Iowa",
+    "major": "Chemical Engineering",
+    "nicknames": [],
+    "highschool": "Davenport High School",
+    "clubs": [
+      "Varsity Baseball '27, '28, '29",
+      "Prep Baseball '26",
+      "AA Fraternity",
+      "Chemical Engineering Society",
+      "Phi Lambda Upsilon",
+      "Tau Beta Pi"
+    ]
+  },
+  {
+    "name": "Kundel, Tewes",
+    "gender": "Male",
+    "hometown": "Minden, Iowa",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "Minden High School",
+    "clubs": [
+      "Eta Kappa Nu",
+      "Knights of St. Patrick",
+      "Chairman E. E. Open House '29",
+      "Band '26, '27, '28",
+      "Asst. Chairman E. E. Open House '28",
+      "A. I. E. E.",
+      "Engineers' Campfire '29"
+    ]
+  },
+  {
+    "name": "Larson, Marian E.",
+    "gender": "Female",
+    "hometown": "Sioux City, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Central High School, Sioux City, Iowa",
+    "clubs": [
+      "Gamma Phi Beta",
+      "Costumes for Vodvil '28",
+      "Veishea Night Show '27",
+      "W. A. A. Hockey '27",
+      "Volleyball '28",
+      "Y. W. C. A.",
+      "Dramatic Club",
+      "Home Economics Club"
+    ]
+  },
+  {
+    "name": "Law, Russell",
+    "gender": "Male",
+    "hometown": "Ames, Iowa",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "Hampton High School",
+    "clubs": [
+      "Phi Sigma Kappa",
+      "Tau Beta Pi",
+      "Eta Kappa Nu, Treasurer '29",
+      "A. I. E. E., President '29",
+      "Engineering Council, Treasurer '29",
+      "Freshman Swimming '26",
+      "Varsity Swimming '27",
+      "Iowa State College Porpoises",
+      "A. S. M. E.",
+      "Engineers' Campfire '28, '29",
+      "Engineers' Minstrel Show '28",
+      "Knights of St. Patrick",
+      "Iowa Engineer, Circulation Manager '29",
+      "Engineers' Open House '28, '29"
+    ]
+  },
+  {
+    "name": "Lee, Edward N.",
+    "gender": "Male",
+    "hometown": "Drummond, Wisconsin",
+    "major": "Forestry",
+    "nicknames": [],
+    "highschool": "Drummond High School",
+    "clubs": [
+      "Alpha Tau Omega",
+      "Forestry Club",
+      "Pi Epsilon Pi"
+    ]
+  },
+  {
+    "name": "Leichtle, Paul Adrian",
+    "gender": "Male",
+    "hometown": "New Sharon, Iowa",
+    "major": "Chemical Engineering",
+    "nicknames": [],
+    "highschool": "New Sharon High School",
+    "clubs": [
+      "Sigma Sigma",
+      "Band '26, '27, '28",
+      "Engineers' Minstrel Show",
+      "Engineering Council",
+      "Engineers' Campfire",
+      "Knights of St. Patrick",
+      "Chemical Engineering Society",
+      "Engineering Open House"
+    ]
+  },
+  {
+    "name": "Lessenich, Leonard J.",
+    "gender": "Male",
+    "hometown": "Sioux City, Iowa",
+    "major": "General Engineering",
+    "nicknames": [],
+    "highschool": "Central High School",
+    "clubs": [
+      "Phi Kappa Psi",
+      "Iowa State Student",
+      "T. L. B.",
+      "Scabbard and Blade",
+      "Inter-Fraternity Council"
+    ]
+  },
+  {
+    "name": "Lewis, Lillian",
+    "gender": "Female",
+    "hometown": "Boone, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Dallas High School",
+    "clubs": [
+      "Chapel Choir",
+      "Y. W. C. A."
+    ]
+  },
+  {
+    "name": "Lichty, Louise",
+    "gender": "Female",
+    "hometown": "Long Beach, California",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Monticello Seminary",
+    "clubs": [
+      "Pi Beta Phi",
+      "Vice-President Freshman Class",
+      "Home Economics Club",
+      "May Fete '27",
+      "Hec Vodvil",
+      "Hoover Club",
+      "Bomb Staff '26, '27",
+      "Bomb Key '27",
+      "Senorita Club",
+      "Women's Guild"
+    ]
+  },
+  {
+    "name": "Little, Martin B.",
+    "gender": "Male",
+    "hometown": "Pleasanton, Iowa",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "Leon High School",
+    "clubs": [
+      "Green Gander",
+      "Iowa Engineer",
+      "R. O. T. C. Rifle Team"
+    ]
+  },
+  {
+    "name": "Louthan, George R.",
+    "gender": "Male",
+    "hometown": "Hale Center, Texas",
+    "major": "Agricultural Engineering",
+    "nicknames": [],
+    "highschool": "Hale Center High School",
+    "clubs": [
+      "Engineering Council",
+      "A. S. A. E.",
+      "Campfire",
+      "Veishea",
+      "Knights of St. Patrick"
+    ]
+  },
+  {
+    "name": "Leith, Isabel",
+    "gender": "Female",
+    "hometown": "Laurens, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Laurens High School",
+    "clubs": [
+      "Phi Omega Pi",
+      "Veishea '28",
+      "Y.W.C.A.",
+      "Homemaker Staff"
+    ]
+  },
+  {
+    "name": "Lewis, Henry V.",
+    "gender": "Male",
+    "hometown": "Edgewood, Iowa",
+    "major": "Veterinary Medicine",
+    "nicknames": [],
+    "highschool": "Edgewood High School",
+    "clubs": [
+      "Lambda Delta Chi",
+      "Scabbard and Blade",
+      "Cadet Officers' Association",
+      "Pi Epsilon Pi",
+      "Veterinary Medical Society",
+      "Veishea Open House '28"
+    ]
+  },
+  {
+    "name": "Lewis, Margaret",
+    "gender": "Female",
+    "hometown": "Ames, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Ames High School",
+    "clubs": [
+      "Chapel Choir '28",
+      "Y.W.C.A.",
+      "Kappa Beta"
+    ]
+  },
+  {
+    "name": "Lieser, George Henry",
+    "gender": "Male",
+    "hometown": "Waukon, Iowa",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "highschool": "Waukon High School",
+    "clubs": [
+      "Phi Kappa Psi",
+      "T.I.B.",
+      "Freshman Football",
+      "Wrestling"
+    ]
+  },
+  {
+    "name": "Louk, John L.",
+    "gender": "Male",
+    "hometown": "Greenfield, Iowa",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "Bridgewater High School",
+    "clubs": [
+      "American Association of Comments Club",
+      "Baseball"
+    ]
+  },
+  {
+    "name": "Lowery, Arlie Ross",
+    "gender": "Male",
+    "hometown": "Pella, Iowa",
+    "major": "Industrial Science (Chemistry)",
+    "nicknames": [],
+    "highschool": "Central Academy",
+    "clubs": []
+  },
+  {
+    "name": "Ludwig, Fred John",
+    "gender": "Male",
+    "hometown": "Lawton, Iowa",
+    "major": "Farm Crops and Soils",
+    "nicknames": [],
+    "highschool": "Lawton High School",
+    "clubs": [
+      "Chi Phi",
+      "Varsity Basketball '27, '28, '29",
+      "Freshman Numeral '26",
+      "Double A Fraternity",
+      "Alpha Zeta"
+    ]
+  },
+  {
+    "name": "Lusher, Harlo Miles",
+    "gender": "Male",
+    "hometown": "Corydon, Iowa",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "Corydon High School",
+    "clubs": [
+      "Eta Kappa Nu"
+    ]
+  },
+  {
+    "name": "Mabbitt, Harry F.",
+    "gender": "Male",
+    "hometown": "Redfield, Iowa",
+    "major": "Architectural Engineering",
+    "nicknames": [],
+    "highschool": "Redfield High School",
+    "clubs": [
+      "Beta Delta Rho",
+      "Dramatic Club",
+      "Crocket Society",
+      "Reserve Officers' Association"
+    ]
+  },
+  {
+    "name": "Macklem, Ayres W.",
+    "gender": "Male",
+    "hometown": "Ida Grove, Iowa",
+    "major": "Economic Science",
+    "nicknames": [],
+    "highschool": "Ida Grove High School",
+    "clubs": [
+      "Delta Chi"
+    ]
+  },
+  {
+    "name": "Macy, Ruth",
+    "gender": "Female",
+    "hometown": "Moorcroft, Wyoming",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Campbell County High School",
+    "clubs": [
+      "Zeta Tau Alpha",
+      "Omicron Nu",
+      "Jack O'Lantern",
+      "Senior Council",
+      "Vocational Education Club",
+      "Big Sister Chief"
+    ]
+  },
+  {
+    "name": "Mann, George E.",
+    "gender": "Male",
+    "hometown": "Boone, Iowa",
+    "major": "Chemical Engineering",
+    "nicknames": [],
+    "highschool": "Boone High School",
+    "clubs": [
+      "Phi Sigma Kappa",
+      "Phi Mu Alpha",
+      "Chemical Engineering Society",
+      "Band '25, '26, '27, '28",
+      "Iowa State Serenaders '28",
+      "\"Chimes of Normandy\"",
+      "Veishea Night Show Orchestra '28"
+    ]
+  },
+  {
+    "name": "Lund, Everett E.",
+    "gender": "Male",
+    "hometown": "Alta, Iowa",
+    "major": "Zoology",
+    "nicknames": [],
+    "highschool": "Alta Consolidated High School",
+    "clubs": [
+      "Manual Arts Club",
+      "Freshman Wrestling '26"
+    ]
+  },
+  {
+    "name": "Lutjens, Fred H.",
+    "gender": "Male",
+    "hometown": "Hull, Iowa",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "Hull High School",
+    "clubs": [
+      "Sigma Phi Epsilon",
+      "Football '27, '28",
+      "Track '28, '29",
+      "Band '24, '25, '26",
+      "Double A Fraternity"
+    ]
+  },
+  {
+    "name": "Machael, Marion L.",
+    "gender": "Female",
+    "hometown": "Clinton, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Clinton High School",
+    "clubs": [
+      "Girls' Glee Club",
+      "Chapel Choir"
+    ]
+  },
+  {
+    "name": "Macy, Loring K.",
+    "gender": "Male",
+    "hometown": "Searsboro, Iowa",
+    "major": "Agricultural Economics",
+    "nicknames": [],
+    "highschool": "Lynnville High School",
+    "clubs": [
+      "\"Kangaroos\"",
+      "Y.M.C.A. Cabinet, Secretary",
+      "Agricultural Economics Club, Secretary",
+      "Alpha Zeta",
+      "Men's Glee Club '27, '28"
+    ]
+  },
+  {
+    "name": "Main, Dorothy",
+    "gender": "Female",
+    "hometown": "Mount Ayr, Iowa",
+    "major": "Home Economics and Agriculture",
+    "nicknames": [],
+    "highschool": "Mount Ayr High School",
+    "clubs": [
+      "Agricola Club"
+    ]
+  },
+  {
+    "name": "Manship, Jessie Elizabeth",
+    "gender": "Female",
+    "hometown": "Le Grand, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Le Grand High School",
+    "clubs": [
+      "Omicron Nu",
+      "Senior Y.W.C.A. Council",
+      "Varsity Hockey '25",
+      "May Fete '26",
+      "League of Women Voters Council",
+      "Home Economics Club"
+    ]
+  },
+  {
+    "name": "Marnette, Margaret L.",
+    "gender": "Female",
+    "hometown": "Des Moines, Iowa",
+    "major": "Technical Journalism",
+    "nicknames": [],
+    "highschool": "School for Deaf East High",
+    "clubs": [
+      "Theta Sigma Phi",
+      "Goslings",
+      "Bomb Key",
+      "Green Gander",
+      "Associate Editor of Iowa State Student '25, '26, '27, '28",
+      "Bomb '26, '27, '28, '29",
+      "Bomb Publication Board '28, '29",
+      "Homemaker '26, '27, '28, '29",
+      "Journalism \"A\""
+    ]
+  },
+  {
+    "name": "Martin, Clyde D.",
+    "gender": "Male",
+    "hometown": "Algona, Iowa",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "Algona High School",
+    "clubs": [
+      "Theta Xi",
+      "Freshman Wrestling",
+      "Bachelor Debating Society",
+      "A. I. E. E.",
+      "Engineers' Campfire"
+    ]
+  },
+  {
+    "name": "Mauthe, Helen",
+    "gender": "Female",
+    "hometown": "Washington, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Washington High School",
+    "clubs": [
+      "Sigma Delta",
+      "Omicron Nu",
+      "Phi Upsilon Omicron",
+      "Jack O'Lantern",
+      "Senior Council",
+      "Sophomore Council",
+      "Freshman Commission",
+      "May Fete '25, '26",
+      "Women's Guild",
+      "Women's Pan-Hellenic"
+    ]
+  },
+  {
+    "name": "McClure, Kathleen",
+    "gender": "Female",
+    "hometown": "Iowa Falls, Iowa",
+    "major": "Zoology",
+    "nicknames": [],
+    "highschool": "Iowa Falls High School",
+    "clubs": [
+      "Pi Beta Phi",
+      "W. A. A.",
+      "Basketball '28",
+      "Iowa State Student"
+    ]
+  },
+  {
+    "name": "McDonald, Charline",
+    "gender": "Female",
+    "hometown": "Boone, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Boone High School",
+    "clubs": [
+      "Kappa Delta",
+      "Freshman Commission",
+      "Sophomore Council",
+      "Jack O'Lantern",
+      "Bomb Key '28",
+      "Big Sister Captain"
+    ]
+  },
+  {
+    "name": "McKee, Jean",
+    "gender": "Female",
+    "hometown": "Cherokee, Iowa",
+    "major": "Economic Science",
+    "nicknames": [],
+    "highschool": "Wilson High School",
+    "clubs": [
+      "Alpha Gamma Delta",
+      "Theta Sigma Phi",
+      "Mortar Board",
+      "Women's Guild",
+      "May Fete '27",
+      "Industrial Science Council",
+      "Women's Editor Iowa State Student '28, '29"
+    ]
+  },
+  {
+    "name": "George E. Marsh",
+    "gender": "Male",
+    "hometown": "Collins, Iowa",
+    "major": "Economic Science",
+    "nicknames": [],
+    "highschool": "Collins High School",
+    "clubs": [
+      "Ellsworth College",
+      "Baseball '28, '29",
+      "Double \"A\" Fraternity"
+    ]
+  },
+  {
+    "name": "Martin, Mary Grace",
+    "gender": "Female",
+    "hometown": "Cedar Falls, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Cedar Falls High School",
+    "clubs": [
+      "Iowa State Teachers' College",
+      "Alpha Gamma Delta",
+      "Y.W.C.A.",
+      "Kappa Phi",
+      "W.A.A.",
+      "Baseball",
+      "Archery"
+    ]
+  },
+  {
+    "name": "McCauley, Earl D.",
+    "gender": "Male",
+    "hometown": "Lake Park, Iowa",
+    "major": "Veterinary Medicine",
+    "nicknames": [],
+    "highschool": "Lake Park High School",
+    "clubs": [
+      "Des Moines University",
+      "Tau Kappa Epsilon",
+      "Vet. Med. Society",
+      "Scabbard and Blade"
+    ]
+  },
+  {
+    "name": "McCrillis, Harold L.",
+    "gender": "Male",
+    "hometown": "Des Moines, Iowa",
+    "major": "Veterinary Medicine",
+    "nicknames": [],
+    "highschool": "East Des Moines High School",
+    "clubs": [
+      "Veterinary Medical Society"
+    ]
+  },
+  {
+    "name": "McDonald, M. H.",
+    "gender": "Male",
+    "hometown": "Earham, Iowa",
+    "major": "Agricultural Education",
+    "nicknames": [],
+    "highschool": "Waukee High School",
+    "clubs": [
+      "Farm House",
+      "Alpha Zeta",
+      "Sigma Alpha",
+      "Agricultural Club",
+      "Vocational Education Club",
+      "Agriculturist"
+    ]
+  },
+  {
+    "name": "McLaughlin, R. Wayne",
+    "gender": "Male",
+    "hometown": "Oakland, Iowa",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "highschool": "Oakland High School",
+    "clubs": [
+      "Des Moines University",
+      "American Society of Mechanical Engineers"
+    ]
+  },
+  {
+    "name": "McNary, The Floyd",
+    "gender": "Male",
+    "hometown": "Polo, Missouri",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Mirabile High School",
+    "clubs": []
+  },
+  {
+    "name": "Meldrum, James G.",
+    "gender": "Male",
+    "hometown": "Dell Rapids, South Dakota",
+    "major": "Zoology and Physical Education",
+    "nicknames": [],
+    "highschool": "Dell Rapids High School",
+    "clubs": [
+      "Ausonia"
+    ]
+  },
+  {
+    "name": "Merritt, Frances",
+    "gender": "Female",
+    "hometown": "Eldora, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Eldora High School",
+    "clubs": [
+      "Delta Delta Delta",
+      "Hec Vodvil '26, '27",
+      "Junior Class, Secretary '27",
+      "League of Women Voters, Treasurer '28"
+    ]
+  },
+  {
+    "name": "Meyer, Byron Burt",
+    "gender": "Male",
+    "hometown": "Dows, Iowa",
+    "major": "Economic Science",
+    "nicknames": [],
+    "highschool": "Dows High School",
+    "clubs": [
+      "Lambda Chi Alpha",
+      "Sigma Upsilon, Vice-President '28",
+      "Inter-Fraternity Council '27, '28",
+      "Industrial Science Council '27, '28, President '28",
+      "Dramatic Club '26, '27",
+      "Cast \"The Romantic Young Lady\"",
+      "Industrial Science Open House '28",
+      "Summer Cardinal Guild '28"
+    ]
+  },
+  {
+    "name": "Michel, Karl L.",
+    "gender": "Male",
+    "hometown": "Dubuque, Iowa",
+    "major": "Chemical Engineering",
+    "nicknames": [],
+    "highschool": "Dubuque Senior High School",
+    "clubs": [
+      "Pi Kappa Alpha",
+      "Iowa State Dramatic Club",
+      "Pi Epsilon Pi",
+      "Inter-Fraternity Council '28, '29, Secretary and Treasurer '29",
+      "\"The Importance of Being Earnest\"",
+      "\"Luco Sarto\"",
+      "\"Hell Bent fer Heaven\"",
+      "Property Manager for Iowa State Dramatic Club",
+      "Property Manager for Veishea '27"
+    ]
+  },
+  {
+    "name": "Miller, Fred H.",
+    "gender": "Male",
+    "hometown": "Barrington, Illinois",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "",
+    "clubs": [
+      "Upsilon Sigma Alpha",
+      "Secretary and Treasurer of Non-Collegiate Class"
+    ]
+  },
+  {
+    "name": "Meaney, Bomb W. J.",
+    "gender": "Male",
+    "hometown": "Cedar Rapids, Iowa",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "highschool": "Grant High School",
+    "clubs": [
+      "Coe College",
+      "Iowa University",
+      "American Society of Civil Engineers",
+      "Beta Kappa Epsilon"
+    ]
+  },
+  {
+    "name": "Mericle, Robert B.",
+    "gender": "Male",
+    "hometown": "Blue Earth, Minnesota",
+    "major": "Veterinary Medicine",
+    "nicknames": [],
+    "highschool": "Blue Earth High School",
+    "clubs": [
+      "Veterinary Medical Society"
+    ]
+  },
+  {
+    "name": "Merritt, Ira Lee",
+    "gender": "Male",
+    "hometown": "Norway, Iowa",
+    "major": "Agricultural Economics",
+    "nicknames": [],
+    "highschool": "Norway High School",
+    "clubs": [
+      "Acacia",
+      "Wesley Players",
+      "Phi Tau Tieta"
+    ]
+  },
+  {
+    "name": "Michaelian, Bagdessar",
+    "gender": "Male",
+    "hometown": "Armenia",
+    "major": "Dairying",
+    "nicknames": [],
+    "highschool": "Central School of Ada-Bazar",
+    "clubs": []
+  },
+  {
+    "name": "Miller, Esther Elinor",
+    "gender": "Female",
+    "hometown": "Galva, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Galva High School",
+    "clubs": [
+      "Veishea '27",
+      "Vice-President Crescent Literary Society '27",
+      "Vice-President South Hall '27",
+      "Y.W.C.A."
+    ]
+  },
+  {
+    "name": "Mills, Harlow B.",
+    "gender": "Male",
+    "hometown": "Le Grand, Iowa",
+    "major": "Zoology and Entomology",
+    "nicknames": [],
+    "highschool": "Le Grand High School",
+    "clubs": [
+      "Adelante",
+      "Wesley Players",
+      "Phi Ma Alpha",
+      "Gondoliers",
+      "Pinafore",
+      "Night Show '28"
+    ]
+  },
+  {
+    "name": "Mitchell, Ken F.",
+    "gender": "Male",
+    "hometown": "Mason City, Iowa",
+    "major": "Landscape Architecture",
+    "nicknames": [],
+    "highschool": "Mason City High School",
+    "clubs": [
+      "Sigma Chi",
+      "T. L. B.",
+      "Goslings","Green Gander",
+      "Art Editor '25, '26",
+      "Bomb '25, '26, Art Editor '26",
+      "Bomb Key",
+      "Junior Class President '27",
+      "Cardinal Guild",
+      "Agricultural Council",
+      "Vistonian Club",
+      "Varsity Cheer Leader '27, '28"
+    ]
+  },
+  {
+    "name": "Moore, Bernard A.",
+    "gender": "Male",
+    "hometown": "Ryan, Iowa",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "highschool": "Central City High School",
+    "clubs": [
+      "Beta Kappa Epsilon",
+      "A. S. C. E.",
+      "A. C. E."
+    ]
+  },
+  {
+    "name": "Morey, Harold F.",
+    "gender": "Male",
+    "hometown": "Oelwein, Iowa",
+    "major": "Forestry",
+    "nicknames": [],
+    "highschool": "Oelwein High School",
+    "clubs": [
+      "Forestry Club",
+      "Red Cross Life Saving Corps",
+      "Band '25, '26",
+      "Veishea '27",
+      "Advertising Manager Ames Forester '29"
+    ]
+  },
+  {
+    "name": "Morrison, Ruth Elizabeth",
+    "gender": "Female",
+    "hometown": "Ottumwa, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Ottumwa High School",
+    "clubs": [
+      "Theta Sigma Phi",
+      "Student Staff '28, '29",
+      "Homemaker Staff '28, '29",
+      "Big Sister Council '28"
+    ]
+  },
+  {
+    "name": "Mundt, Walter H.",
+    "gender": "Male",
+    "hometown": "Everly, Iowa",
+    "major": "Agricultural Economics",
+    "nicknames": [],
+    "highschool": "Everly Consolidated High School",
+    "clubs": [
+      "Lambda Chi Alpha",
+      "Agricultural Economics ClubClub",
+      "College Band '22, '23, '24"
+    ]
+  },
+  {
+    "name": "Myers, Ivan G.",
+    "gender": "Male",
+    "hometown": "Des Moines, Iowa",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "highschool": "Roosevelt High School",
+    "clubs": [
+      "Phi Gamma Delta"
+    ]
+  },
+  {
+    "name": "Cornelia Mollenhof",
+    "gender": "Female",
+    "hometown": "Burnside, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Burnside High School",
+    "clubs": [
+      "State Teachers' College",
+      "Minnesota University",
+      "Vaishes Orchestra '27",
+      "College Orchestra '26, '27, '28, '29"
+    ]
+  },
+  {
+    "name": "Moore, John Milton",
+    "gender": "Male",
+    "hometown": "Le Mars, Iowa",
+    "major": "Architectural Engineering",
+    "nicknames": [],
+    "highschool": "Le Mars High School",
+    "clubs": [
+      "University of Minnesota",
+      "Delta Tau Delta",
+      "Manager of Basketball '28",
+      "Croquet Society",
+      "Knights of St. Patrick"
+    ]
+  },
+  {
+    "name": "Mork, Lee D.",
+    "gender": "Male",
+    "hometown": "Long Beach, Calif.",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "highschool": "Long Beach High School",
+    "clubs": [
+      "Theta Xi",
+      "Tau Beta Pi",
+      "A.S.C.E.",
+      "Beta Kappa Epsilon",
+      "Knights of St. Patrick"
+    ]
+  },
+  {
+    "name": "Motland, Alida Nina",
+    "gender": "Female",
+    "hometown": "Osage, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Osage High School",
+    "clubs": [
+      "St. Olaf College",
+      "Y.W.C.A.",
+      "Home Economics Club",
+      "Orchestra"
+    ]
+  },
+  {
+    "name": "Munson, Thelma",
+    "gender": "Female",
+    "hometown": "Alpena, South Dakota",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Alpena High School",
+    "clubs": [
+      "Dakota Wesleyan University",
+      "Sigma Delta",
+      "Women's Guild",
+      "May Fete '27",
+      "Business Staff of Homemaker"
+    ]
+  },
+  {
+    "name": "Myers, Gilbert",
+    "gender": "Male",
+    "hometown": "State Center, Iowa",
+    "major": "Dairy Industry",
+    "nicknames": [],
+    "highschool": "State Center High School",
+    "clubs": [
+      "Phi Sigma Kappa",
+      "Pi Epsilon Pi",
+      "Dairy Club",
+      "Little International",
+      "Cadet Officers' Association",
+      "Military Circus '27",
+      "Agronomy Show",
+      "Agricultural Club"
+    ]
+  },
+  {
+    "name": "Serapio, Nacnac",
+    "gender": "Male",
+    "hometown": "Dingras, Ilocos Norte, Philippines",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "highschool": "Seattle College",
+    "clubs": []
+  },
+  {
+    "name": "Neidert, Marian Aleta",
+    "gender": "Female",
+    "hometown": "Colo, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Colo High School",
+    "clubs": [
+      "Home Economics Club",
+      "Women's League of Voters"
+    ]
+  },
+  {
+    "name": "Nelson, Merle R.",
+    "gender": "Male",
+    "hometown": "Rockford, Iowa",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "Rockford High School",
+    "clubs": [
+      "Delta Tau Delta",
+      "Tau Beta Pi",
+      "Eta Kappa Nu",
+      "Iowa Engineer Staff"
+    ]
+  },
+  {
+    "name": "Nickle, Irene V.",
+    "gender": "Female",
+    "hometown": "Indianola, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Creston High School",
+    "clubs": [
+      "Kappa Phi",
+      "Freshman Commission",
+      "Sophomores Council",
+      "Junior Advisory Board",
+      "Y.W.C.A.",
+      "Jack O'Lantern",
+      "Omicron Nu"
+    ]
+  },
+  {
+    "name": "Nordstrom, Harold",
+    "gender": "Male",
+    "hometown": "Wausa, Nebraska",
+    "major": "Veterinary Medicine",
+    "nicknames": [],
+    "highschool": "Wausa High School",
+    "clubs": [
+      "Veterinary Medical Society"
+    ]
+  },
+  {
+    "name": "Novak, Louis C.",
+    "gender": "Male",
+    "hometown": "Cedar Rapids, Iowa",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "Washington High School",
+    "clubs": [
+      "Theta Xi",
+      "Eta Kappa Nu",
+      "Tau Beta Pi",
+      "Knights of St. Patrick"
+    ]
+  },
+  {
+    "name": "Nechanicky, Blanche B.",
+    "gender": "Female",
+    "hometown": "Clutier, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Toledo High School",
+    "clubs": [
+      "Veishea '27, '28",
+      "Home Economics Club"
+    ]
+  },
+  {
+    "name": "Nelson, Alvin L.",
+    "gender": "Male",
+    "hometown": "Cherokee, Iowa",
+    "major": "Chemical Technology",
+    "nicknames": [],
+    "highschool": "Cherokee High School",
+    "clubs": [
+      "Lambda Chi Alpha",
+      "Phi Mu Alpha",
+      "Phi Lambda Upsilon",
+      "Cardinal Guild",
+      "Iowa State Concert Band",
+      "Iowa State Symphony Orchestra",
+      "Men's Glee Club",
+      "Bachelor Debating Society",
+      "Inter-Literary Council"
+    ]
+  },
+  {
+    "name": "Newhard, Helen F.",
+    "gender": "Female",
+    "hometown": "Ames, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Ames High School",
+    "clubs": [
+      "Chi Omega",
+      "Women's Editor of Bomb",
+      "Bomb Key",
+      "Mortar Board",
+      "Women's \"A\" Fraternity",
+      "Phi Upsilon Omicron",
+      "Jack O'Lantern",
+      "Delta Phi Delta",
+      "Hec Vodvil",
+      "Veishea Night Show",
+      "W. A. A. Sports",
+      "Business Manager May Fete"
+    ]
+  },
+  {
+    "name": "Nilson, Walter L.",
+    "gender": "Male",
+    "hometown": "Minneapolis, Minnesota",
+    "major": "Veterinary Medicine",
+    "nicknames": [],
+    "highschool": "South High School",
+    "clubs": [
+      "University of Minnesota Vet. Med. Society"
+    ]
+  },
+  {
+    "name": "Norman, Clarence C.",
+    "gender": "Male",
+    "hometown": "New Providence, Iowa",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "highschool": "Union High School",
+    "clubs": [
+      "Gamma Sigma Alpha",
+      "A. S. C. E.",
+      "A. C. E.",
+      "Beta Kappa Epsilon",
+      "Pi Epsilon Pi",
+      "Dramatic Club",
+      "Cast \"Earl of Pawtucket\""
+    ]
+  },
+  {
+    "name": "Olander, Lloyd W.",
+    "gender": "Male",
+    "hometown": "Yankton, South Dakota",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "Yankton High School",
+    "clubs": [
+      "Yankton College",
+      "Aracia"
+    ]
+  },
+  {
+    "name": "Oliver, John Ross",
+    "gender": "Male",
+    "hometown": "Red Oak, Iowa",
+    "major": "Agricultural Engineering",
+    "nicknames": [],
+    "highschool": "Red Oak High School",
+    "clubs": [
+      "Beta Theta Pi",
+      "A.S.A.E.",
+      "Agricultural Club",
+      "Sophomore Wrestling Manager"
+    ]
+  },
+  {
+    "name": "Olson, Hildur Marie",
+    "gender": "Female",
+    "hometown": "Ashtabula, Ohio",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Ashtabula High School",
+    "clubs": [
+      "Kappa Delta",
+      "Y.W.C.A.",
+      "Senior Council",
+      "Homemaker"
+    ]
+  },
+  {
+    "name": "Orning, E. C.",
+    "gender": "Male",
+    "hometown": "Ames, Iowa",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "highschool": "Gilbert High School",
+    "clubs": []
+  },
+  {
+    "name": "Osborne, Ralph H.",
+    "gender": "Male",
+    "hometown": "Creston, Iowa",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "Creston High School",
+    "clubs": [
+      "A.I.E.E."
+    ]
+  },
+  {
+    "name": "Ours, Carl C.",
+    "gender": "Male",
+    "hometown": "Creston, Iowa",
+    "major": "Chemical Engineering",
+    "nicknames": [],
+    "highschool": "Creston High School",
+    "clubs": [
+      "Theta Delta Chi",
+      "Football '26, '27, '28"
+    ]
+  },
+  {
+    "name": "Ouverson, Norma G.",
+    "gender": "Female",
+    "hometown": "Fertile, Iowa",
+    "major": "Foods and Nutrition",
+    "nicknames": [],
+    "highschool": "Fertile Consolidated High School",
+    "clubs": [
+      "Phi Omega Pi",
+      "Women's \"A\" Fraternity",
+      "W.A.A.",
+      "Pan-Hellenic Council",
+      "Home Economics Club"
+    ]
+  },
+  {
+    "name": "Olson, Alice",
+    "gender": "Female",
+    "hometown": "Newell, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Newell High School",
+    "clubs": [
+      "Buena Vista College",
+      "Kappa Delta",
+      "Homemaker Staff '26, '27, '28",
+      "May Fete '27",
+      "Home Economics Club",
+      "Properties Home Economics Vodvil '28",
+      "Big Sister Council '28",
+      "Y.W.C.A. '27",
+      "Bomb Staff '28"
+    ]
+  },
+  {
+    "name": "Olson, Roy W.",
+    "gender": "Male",
+    "hometown": "Story City, Iowa",
+    "major": "Forestry",
+    "nicknames": [],
+    "highschool": "Story City High School",
+    "clubs": [
+      "Chi Phi",
+      "Inter-Fraternity Council '28, '29",
+      "Agricultural Club",
+      "Forestry Club",
+      "Secretary and Treasurer '28",
+      "Asst. Football Manager '28"
+    ]
+  },
+  {
+    "name": "Osborne, Harold D.",
+    "gender": "Male",
+    "hometown": "Dows, Iowa",
+    "major": "Veterinary Medicine",
+    "nicknames": [],
+    "highschool": "Dows High School",
+    "clubs": []
+  },
+  {
+    "name": "Otto, Lloyd L.",
+    "gender": "Male",
+    "hometown": "Fort Dodge, Iowa",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "highschool": "Fort Dodge High School",
+    "clubs": [
+      "Secretary and Treasurer of Trade and Industries Society '27, '28",
+      "A.S.M.E."
+    ]
+  },
+  {
+    "name": "Overmyer, Dwight E.",
+    "gender": "Male",
+    "hometown": "Marshalltown, Iowa",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "Marshalltown High School",
+    "clubs": [
+      "Beta Delta Rho",
+      "Phi Mu Alpha",
+      "Orchestra '25, '26, '27, '28",
+      "Veishea '26, '27",
+      "Engineers' Minstrel Show '26"
+    ]
+  },
+  {
+    "name": "Paine, Merwyn Harris",
+    "gender": "Male",
+    "hometown": "Burt, Iowa",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "Burt High School",
+    "clubs": [
+      "Beta Delta Rho"
+    ]
+  },
+  {
+    "name": "Parker, Dorothy A.",
+    "gender": "Female",
+    "hometown": "Des Moines, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "North High School",
+    "clubs": [
+      "Delta Delta Delta",
+      "Hec Vodvil '25",
+      "Veishea Nite Show '25, '26, '28",
+      "Homemaker '26"
+    ]
+  },
+  {
+    "name": "Parlasca, Edwin W.",
+    "gender": "Male",
+    "hometown": "Elgin, Illinois",
+    "major": "Architectural Engineering",
+    "nicknames": [],
+    "highschool": "Elgin High School",
+    "clubs": [
+      "Phi Kappa",
+      "Veishea Nite Show",
+      "Freshman Tennis",
+      "Varsity Tennis",
+      "Freshman Swimming",
+      "Varsity Swimming",
+      "Green Gander Staff"
+    ]
+  },
+  {
+    "name": "Paustian, Raymond George",
+    "gender": "Male",
+    "hometown": "Davenport, Iowa",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "highschool": "Davenport High School",
+    "clubs": [
+      "Lambda Delta Chi",
+      "Tau Beta Pi",
+      "Pi Epsilon Pi",
+      "Beta Kappa Epsilon",
+      "Knights of St. Patrick",
+      "Engineers Campfire",
+      "Veishea",
+      "Iowa Engineer",
+      "Cadet Officers' Association",
+      "R.O.T.C. Captain",
+      "Interlocal Council",
+      "Scabbard and Blade"
+    ]
+  },
+  {
+    "name": "Peterson, Frank Albert",
+    "gender": "Male",
+    "hometown": "Morrison, Illinois",
+    "major": "Agricultural Economics",
+    "nicknames": [],
+    "highschool": "Morrison High School",
+    "clubs": [
+      "Agricultural Economics ClubClub",
+      "Omega Tau Epsilon",
+      "Scabbard and Pax Political Fraternity at Kansas State"
+    ]
+  },
+  {
+    "name": "Petersen, Murray Brown",
+    "gender": "Male",
+    "hometown": "Omaha, Nebraska",
+    "major": "Chemical Engineering",
+    "nicknames": [],
+    "highschool": "Omaha Central High School",
+    "clubs": [
+      "Beta Theta Pi",
+      "Freshman Baseball Manager '26",
+      "Bomb Staff '27",
+      "Varsity Tennis '28, '29",
+      "Chemist Club"
+    ]
+  },
+  {
+    "name": "Pierce, Eleanor Louise",
+    "gender": "Female",
+    "hometown": "Creston, Illinois",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Rochelle High School",
+    "clubs": [
+      "Pi Beta Phi",
+      "Big Sister",
+      "May Fete"
+    ]
+  },
+  {
+    "name": "Paul Thomas Parker",
+    "gender": "Male",
+    "hometown": "Emmetsburg, Iowa",
+    "major": "Chemical Technology",
+    "nicknames": [],
+    "highschool": "Logan High School",
+    "clubs": [
+      "Theta Chi",
+      "Phi Lambda Upsilon",
+      "Cast \"Luca Sarto\"",
+      "Inter-Fraternity Council '28, '29"
+    ]
+  },
+  {
+    "name": "Paul, Agnes A.",
+    "gender": "Female",
+    "hometown": "Gilman, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Gilman Consolidated High School",
+    "clubs": [
+      "Frisbie Fellowship",
+      "Quill Literary Society",
+      "Cosmopolitan Club",
+      "League of Women Voters"
+    ]
+  },
+  {
+    "name": "Peters, Roy Frederick",
+    "gender": "Male",
+    "hometown": "Cedar Falls, Iowa",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "highschool": "Cedar Falls High School",
+    "clubs": [
+      "Iowa State Teachers' College",
+      "Iowa Engineer Staff '27, '28",
+      "A.S.M.E."
+    ]
+  },
+  {
+    "name": "Peterson, James Blain",
+    "gender": "Male",
+    "hometown": "Hastings, Nebraska",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "Hastings High School",
+    "clubs": [
+      "Upsilon Sigma Alpha"
+    ]
+  },
+  {
+    "name": "Pickett, Parzillai Stewart",
+    "gender": "Male",
+    "hometown": "Ames, Iowa",
+    "major": "Horticulture",
+    "nicknames": [],
+    "highschool": "Ames High School",
+    "clubs": [
+      "Freshman Cross Country '25",
+      "President Hort Club '28, '29",
+      "Manager Hort Show '28"
+    ]
+  },
+  {
+    "name": "Pierce, Ethel L.",
+    "gender": "Female",
+    "hometown": "Missouri Valley, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Missouri Valley High School",
+    "clubs": [
+      "University of Omaha",
+      "Y.W.C.A."
+    ]
+  },
+  {
+    "name": "Pond, James Clifford",
+    "gender": "Male",
+    "hometown": "Craig, Nebraska",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "Craig High School",
+    "clubs": []
+  },
+  {
+    "name": "Pospishil, Benjamin K.",
+    "gender": "Male",
+    "hometown": "Cedar Rapids, Iowa",
+    "major": "Chemical Engineering",
+    "nicknames": [],
+    "highschool": "Washington High School",
+    "clubs": [
+      "Phi Kappa Psi",
+      "Varsity Tennis",
+      "Chemists' Club"
+    ]
+  },
+  {
+    "name": "Preston, Helen E.",
+    "gender": "Female",
+    "hometown": "Carlisle, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Carlisle High School",
+    "clubs": []
+  },
+  {
+    "name": "Pride, R. A.",
+    "gender": "Male",
+    "hometown": "Manchester, Iowa",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "highschool": "Manchester High School",
+    "clubs": [
+      "Delta Tau Delta",
+      "T. L. B.",
+      "A. S. M. E."
+    ]
+  },
+  {
+    "name": "Pruess, Donald B.",
+    "gender": "Male",
+    "hometown": "Missouri Valley, Iowa",
+    "major": "Chemical Engineering",
+    "nicknames": [],
+    "highschool": "Missouri Valley High School",
+    "clubs": [
+      "Tau Kappa Epsilon",
+      "Tau Beta Pi",
+      "Phi Lambda Upsilon",
+      "Knights of St. Patrick",
+      "Chemists' Club",
+      "Chemical Engineering Society"
+    ]
+  },
+  {
+    "name": "Quaife, Ethel Alice",
+    "gender": "Female",
+    "hometown": "Ionia, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Ionia High School",
+    "clubs": []
+  },
+  {
+    "name": "Porter, Lyle B.",
+    "gender": "Male",
+    "hometown": "Ames, Iowa",
+    "major": "Chemical Engineering",
+    "nicknames": [],
+    "highschool": "Ames High School",
+    "clubs": [
+      "Phi Kappa Tau",
+      "Chemists' Club",
+      "Chemical Engineering Society",
+      "A.C.E.",
+      "Knights of St. Patrick"
+    ]
+  },
+  {
+    "name": "Potter, Helen Elizabeth",
+    "gender": "Female",
+    "hometown": "Brush, Colorado",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Brush High School",
+    "clubs": [
+      "Kappa Delta",
+      "Y.W.C.A.",
+      "Sponsor of Freshman Hall"
+    ]
+  },
+  {
+    "name": "Price, Russell R.",
+    "gender": "Male",
+    "hometown": "Winterset, Iowa",
+    "major": "Pre-Medicine",
+    "nicknames": [],
+    "highschool": "Winterset High School",
+    "clubs": [
+      "Sigma Chi",
+      "Band, Secretary and Treasurer, Manager",
+      "Pebul",
+      "Phi Tau Theta",
+      "Phi Mu Alpha"
+    ]
+  },
+  {
+    "name": "Proescholdt, Laura",
+    "gender": "Female",
+    "hometown": "Manilla, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Manilla High School",
+    "clubs": []
+  },
+  {
+    "name": "Putnam, George M.",
+    "gender": "Male",
+    "hometown": "Carson, Iowa",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "highschool": "Carson High School",
+    "clubs": [
+      "Alpha Tau Omega",
+      "Pi Epsilon Pi",
+      "Block and Bridle Club",
+      "Iowa Agriculturist '26, '27, Circulation Manager '28, '29",
+      "Little International '28"
+    ]
+  },
+  {
+    "name": "Raasch, Roy C.",
+    "gender": "Male",
+    "hometown": "Watertown, South Dakota",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "Watertown High School",
+    "clubs": [
+      "A.I.E.E.",
+      "Vice-President Bachelor Debating Society",
+      "President Bachelor Debating Society",
+      "Inter-Literary Council",
+      "Radio Debate '28",
+      "Dramatic Club, \"The Soul of a Professor\", \"The Poor Nut\", \"The Earl of Pawtucket\""
+    ]
+  },
+  {
+    "name": "Randell, Grace E.",
+    "gender": "Female",
+    "hometown": "Keosauqua, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Keosauqua High School",
+    "clubs": [
+      "V.W.C.A."
+    ]
+  },
+  {
+    "name": "Raymond, Lowell W.",
+    "gender": "Male",
+    "hometown": "Council Bluffs, Iowa",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "highschool": "Abraham Lincoln High School",
+    "clubs": []
+  },
+  {
+    "name": "Reed, Sarah Agnes",
+    "gender": "Female",
+    "hometown": "Wellsville, Missouri",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "McMillan Mexico High School",
+    "clubs": [
+      "Delta Delta Delta",
+      "Home Economics Club",
+      "Y.W.C.A."
+    ]
+  },
+  {
+    "name": "Reischauer, Clarence E.",
+    "gender": "Male",
+    "hometown": "Story City, Iowa",
+    "major": "Agriculture and Science",
+    "nicknames": [],
+    "highschool": "Story City High School",
+    "clubs": [
+      "Iowa State Concert Band",
+      "Iowa State Training Band"
+    ]
+  },
+  {
+    "name": "Rice, Frank K.",
+    "gender": "Male",
+    "hometown": "Holstein, Iowa",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "highschool": "Holstein High School",
+    "clubs": [
+      "Block and Bridle"
+    ]
+  },
+  {
+    "name": "Rietveld, Howard L.",
+    "gender": "Male",
+    "hometown": "Knoxville, Iowa",
+    "major": "Economic Science",
+    "nicknames": [],
+    "highschool": "Knoxville High School",
+    "clubs": []
+  },
+  {
+    "name": "Rawson, Homer A. Bomb",
+    "gender": "Male",
+    "hometown": "Slater, Iowa",
+    "major": "Economic Science",
+    "nicknames": [],
+    "highschool": "Slater High School",
+    "clubs": [
+      "Alpha Tau Omega",
+      "Freshman Tennis",
+      "T. L. B.",
+      "Cardinal Guild",
+      "Pi Gamma Mu",
+      "Cadet Officers' Association",
+      "Junior Class President",
+      "Bomb Key"
+    ]
+  },
+  {
+    "name": "Reck, Samuel H.",
+    "gender": "Male",
+    "hometown": "Gary, Indiana",
+    "major": "Technical Journalism",
+    "nicknames": [],
+    "highschool": "Rockford High School",
+    "clubs": [
+      "Delta Tau Delta",
+      "Sigma Delta Chi",
+      "Issue Editor Iowa State Student",
+      "Editor Green Gander",
+      "Journalist Club",
+      "Agricultural Council",
+      "Editor Scoop Shovel"
+    ]
+  },
+  {
+    "name": "Reese, Henry Floyd",
+    "gender": "Male",
+    "hometown": "Ames, Iowa",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "highschool": "Prescott Con. High School",
+    "clubs": [
+      "Beta Kappa Epsilon",
+      "American Society of Civil Engineers"
+    ]
+  },
+  {
+    "name": "Rhoads, Betty",
+    "gender": "Female",
+    "hometown": "Boone, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Boone High School",
+    "clubs": [
+      "Delta Delta Delta",
+      "Secretary Sophomore Class '26",
+      "Cardinal Guild '27",
+      "Hec Vodvil '25, '27",
+      "Bomb '26",
+      "Homemaker '26"
+    ]
+  },
+  {
+    "name": "Richardson, Hubert O.",
+    "gender": "Male",
+    "hometown": "Council Bluffs, Iowa",
+    "major": "Chemical Engineering",
+    "nicknames": [],
+    "highschool": "Thomas Jefferson High School",
+    "clubs": [
+      "Phi Kappa Tau",
+      "Cast of \"Melody Magic\"",
+      "Veishea Nite Show",
+      "Engineers' Minstrel Show",
+      "Dramatic Club",
+      "Chemical Engineering Society"
+    ]
+  },
+  {
+    "name": "Riley, Vera Lucille",
+    "gender": "Female",
+    "hometown": "De Soto, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "De Soto High School",
+    "clubs": [
+      "Sigma Delta",
+      "I. S. C. Band '25, '26, '27, '28",
+      "W. A. A.",
+      "Hockey, Baseball",
+      "Archery",
+      "Saxophone Quintette '28",
+      "Home Economics Club"
+    ]
+  },
+  {
+    "name": "Rinderschacher, Henrietta",
+    "gender": "Female",
+    "hometown": "Fremont, Nebraska",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Fremont High School",
+    "clubs": [
+      "Phi Omega Pi",
+      "Y.W.C.A.",
+      "Homemaker"
+    ]
+  },
+  {
+    "name": "Roberts, Dorothy Dean",
+    "gender": "Female",
+    "hometown": "Elliott, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Red Oak High School",
+    "clubs": [
+      "Phi Upsilon Omicron",
+      "W.A.A.",
+      "Kappa Phi Club",
+      "Y.W.C.A.",
+      "Freshman Commission",
+      "Sophomore Council",
+      "Junior Advisory Board",
+      "Senior Council"
+    ]
+  },
+  {
+    "name": "Robinson, John C.",
+    "gender": "Male",
+    "hometown": "Des Moines, Iowa",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "highschool": "North Des Moines High School",
+    "clubs": []
+  },
+  {
+    "name": "Roe, Orrie M.",
+    "gender": "Male",
+    "hometown": "Ames, Iowa",
+    "major": "Dairy Marketing",
+    "nicknames": [],
+    "highschool": "Ames High School",
+    "clubs": [
+      "Delta Tau Delta",
+      "Double \"A\" Fraternity",
+      "Football '26, '27, '28",
+      "Baseball '27"
+    ]
+  },
+  {
+    "name": "Rohrig, Carl E.",
+    "gender": "Male",
+    "hometown": "Oelwein, Iowa",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "Oelwein High School",
+    "clubs": [
+      "Eta Kappa Nu",
+      "Knights of St. Patrick",
+      "Engineers' Campfire",
+      "Iowa Engineer",
+      "Veishea"
+    ]
+  },
+  {
+    "name": "Rohrs, Emma Helen",
+    "gender": "Female",
+    "hometown": "Shelby, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Shelby High School",
+    "clubs": [
+      "Kappa Phi",
+      "Y.W.C.A."
+    ]
+  },
+  {
+    "name": "Wendell R. Ritchie",
+    "gender": "Male",
+    "hometown": "Marathon, Iowa",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "highschool": "Marathon High School",
+    "clubs": [
+      "Delta Sigma Phi",
+      "Agricultural Club",
+      "Cadet Officers' Association"
+    ]
+  },
+  {
+    "name": "Roberts, Richmond J.",
+    "gender": "Male",
+    "hometown": "Lime Spring, Iowa",
+    "major": "Chemical Engineering",
+    "nicknames": [],
+    "highschool": "Lime Spring High School",
+    "clubs": []
+  },
+  {
+    "name": "Rock, Lawrence H.",
+    "gender": "Male",
+    "hometown": "Avoca, Iowa",
+    "major": "Agricultural Education",
+    "nicknames": [],
+    "highschool": "Avoca High School",
+    "clubs": []
+  },
+  {
+    "name": "Roemer, Orland A.",
+    "gender": "Male",
+    "hometown": "Sibley, Iowa",
+    "major": "Ceramic Engineering",
+    "nicknames": [],
+    "highschool": "Sibley High School",
+    "clubs": [
+      "Ceramic Society"
+    ]
+  },
+  {
+    "name": "Rohrs, Elma M.",
+    "gender": "Female",
+    "hometown": "Shelby, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Shelby High School",
+    "clubs": [
+      "Kappa Phi",
+      "Y.W.C.A.",
+      "College Orchestra",
+      "W.A.A. Sports"
+    ]
+  },
+  {
+    "name": "Romsey, Max S.",
+    "gender": "Male",
+    "hometown": "Clinton, Iowa",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "Clinton High School",
+    "clubs": []
+  },
+  {
+    "name": "Rosengreen, Vivian J.",
+    "gender": "Female",
+    "hometown": "Boone, Iowa",
+    "major": "Chemical Engineering",
+    "nicknames": [],
+    "highschool": "Boone High School",
+    "clubs": [
+      "Phi Kappa Tau",
+      "Iowa State Chemists' Club",
+      "Chemical Engineering Society",
+      "Engineers' Campfire",
+      "American Chemical Society"
+    ]
+  },
+  {
+    "name": "Roush, Roder R.",
+    "gender": "Male",
+    "hometown": "Rolfe, Iowa",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "Plover High School",
+    "clubs": []
+  },
+  {
+    "name": "Ruebel, Ellen C.",
+    "gender": "Female",
+    "hometown": "Brighton, Colorado",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Brighton High School",
+    "clubs": [
+      "Kappa Delta"
+    ]
+  },
+  {
+    "name": "Ryner, Elinor",
+    "gender": "Female",
+    "hometown": "Perry, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Omaha Central High School",
+    "clubs": [
+      "Kappa Delta",
+      "Y.W.C.A.",
+      "Iowa Homemaker",
+      "Big Sister Council",
+      "League of Women Voters",
+      "Bomb Staff '28",
+      "Home Economics Club"
+    ]
+  },
+  {
+    "name": "Sanderson, Burdette E.",
+    "gender": "Male",
+    "hometown": "Lee, Illinois",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "DeKalb Township High School",
+    "clubs": [
+      "Commons Club",
+      "Chapel Choir '25",
+      "Engineers' Minstrel '26",
+      "Concert Band '27, '28",
+      "Phi Mu Alpha"
+    ]
+  },
+  {
+    "name": "Sandstrom, Lorraine Alice",
+    "gender": "Female",
+    "hometown": "Kiron, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Denison High School",
+    "clubs": [
+      "Chi Omega",
+      "Jack O'Lantern",
+      "Freshman Commission",
+      "Sophomore Council",
+      "Glee Club",
+      "Senior Council",
+      "Y.W.C.A.",
+      "Hee Vodvil '26"
+    ]
+  },
+  {
+    "name": "Rossiter, Glenn",
+    "gender": "Male",
+    "hometown": "Low Moor, Iowa",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "highschool": "Clinton High School",
+    "clubs": [
+      "Alpha Mu",
+      "Beta Kappa Epsilon",
+      "Pi Epsilon Pi",
+      "American Society of Civil Engineers"
+    ]
+  },
+  {
+    "name": "Rudi, Carl F.",
+    "gender": "Male",
+    "hometown": "Glidden, Iowa",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "Glidden High School",
+    "clubs": [
+      "Tau Kappa Epsilon",
+      "Double \"A\" Fraternity",
+      "Football '26, '27, '28",
+      "Baseball '27, '28, '29"
+    ]
+  },
+  {
+    "name": "Ryan, Lorena Mary",
+    "gender": "Female",
+    "hometown": "Monona, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Monona High School",
+    "clubs": [
+      "Quill Literary Society",
+      "Y.W.C.A.",
+      "Newman Club"
+    ]
+  },
+  {
+    "name": "Sackett, Mabel O.",
+    "gender": "Female",
+    "hometown": "Big Horn, Wyoming",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Sheridan High School; Laramie College",
+    "clubs": [
+      "Kappa Delta",
+      "Freshman Commission",
+      "Manager Play Day '28",
+      "Jack O'Lantern"
+    ]
+  },
+  {
+    "name": "Sands, Theo. B.",
+    "gender": "Male",
+    "hometown": "Valparaiso, Indiana",
+    "major": "Agricultural Economics",
+    "nicknames": [],
+    "highschool": "San Pierre High School",
+    "clubs": [
+      "Pi Gamma Mu"
+    ]
+  },
+  {
+    "name": "Scherr, Ralph B.",
+    "gender": "Male",
+    "hometown": "Dubuque, Iowa",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "highschool": "Dubuque High School",
+    "clubs": [
+      "Alpha Sigma Phi",
+      "Tau Beta Pi",
+      "National Collegiate Players",
+      "Dramatic Club",
+      "Cadet Officers' Association",
+      "Sigma Upsilon"
+    ]
+  },
+  {
+    "name": "Scholten, John",
+    "gender": "Male",
+    "hometown": "Orange City, Iowa",
+    "major": "Agricultural Engineering",
+    "nicknames": [],
+    "highschool": "Northwestern Classical Academy",
+    "clubs": [
+      "Calvin College",
+      "Farm House",
+      "Tau Beta Pi",
+      "A.S.A.E."
+    ]
+  },
+  {
+    "name": "Schwartz, Lyle H.",
+    "gender": "Male",
+    "hometown": "Canora, South Dakota",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "Canora High School",
+    "clubs": [
+      "South Dakota State School of Mines"
+    ]
+  },
+  {
+    "name": "Sederholm, Alfred A.",
+    "gender": "Male",
+    "hometown": "Gowrie, Iowa",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "Gowrie Consolidated High School",
+    "clubs": [
+      "Engineers' Campfire",
+      "Rifle Team",
+      "Pistol Team",
+      "Prep Track"
+    ]
+  },
+  {
+    "name": "Seymour, Frances A.",
+    "gender": "Female",
+    "hometown": "Danville, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Danville High School",
+    "clubs": [
+      "Women's Guild '27",
+      "Home Economics Club '26, '27, '28",
+      "Y.W.C.A.",
+      "May Fete '26, '27"
+    ]
+  },
+  {
+    "name": "Shea, James A.",
+    "gender": "Male",
+    "hometown": "Stuart, Iowa",
+    "major": "Chemical Engineering",
+    "nicknames": [],
+    "highschool": "Stuart High School",
+    "clubs": [
+      "R.O.T.C.: Pistol Team '27, '28",
+      "Chemical Engineering Society",
+      "Newman Club '27",
+      "Phi Lambda Upsilon"
+    ]
+  },
+  {
+    "name": "Shepard, Ivelyn Ernestine",
+    "gender": "Female",
+    "hometown": "Gilbert, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Gilbert High School",
+    "clubs": [
+      "Sigma Delta",
+      "Home Economics Club",
+      "W.A.A.",
+      "Y.W.C.A.",
+      "4-H Club",
+      "Frisbie Fellowship"
+    ]
+  },
+  {
+    "name": "Wilma Schultz",
+    "gender": "Female",
+    "hometown": "Silver City, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Silver City High School",
+    "clubs": [
+      "Kappa Phi",
+      "Concert Band '24, '25, '27",
+      "Home Economics Orchestra",
+      "Y.W.C.A.",
+      "Engineers' Campfire '28",
+      "Vocational Education Club",
+      "League of Women Voters",
+      "Home Economics Club"
+    ]
+  },
+  {
+    "name": "Schweppe, Harold B.",
+    "gender": "Male",
+    "hometown": "Webster City, Iowa",
+    "major": "Dairy Industry",
+    "nicknames": [],
+    "highschool": "Lincoln High School",
+    "clubs": [
+      "Phi Gamma Delta",
+      "Varsity Football '26, '27, '28",
+      "Agricultural Council '27",
+      "Inter-Fraternity Council '27, '28"
+    ]
+  },
+  {
+    "name": "Seippel, Martin W.",
+    "gender": "Male",
+    "hometown": "Dubuque, Iowa",
+    "major": "Economic Science",
+    "nicknames": [],
+    "highschool": "University of Dubuque Academy",
+    "clubs": [
+      "Beta Theta Pi",
+      "Swimming",
+      "Pi Gamma Mu"
+    ]
+  },
+  {
+    "name": "Shaw, Joseph C.",
+    "gender": "Male",
+    "hometown": "Perry, Iowa",
+    "major": "Dairy Husbandry",
+    "nicknames": [],
+    "highschool": "Rippey High School",
+    "clubs": [
+      "Cast \"The Romantic Young Lady\"",
+      "Cast \"The Poor Nut\"",
+      "Beta Delta Rho",
+      "Dairy Cattle Judging Team",
+      "Secretary and Treasurer Dairy Cattle Club",
+      "Vice-President Inter-local Council",
+      "Dramatic Club",
+      "Veishea Night Show '26, '28",
+      "Dairy Husbandry Open House",
+      "Agricultural Club",
+      "Block and Bridle Club",
+      "Property Manager \"Luca Sarto\"",
+      "\"Seven Keys to Baldpate\"",
+      "Freshman Wrestling Team"
+    ]
+  },
+  {
+    "name": "Shad, Willis H.",
+    "gender": "Male",
+    "hometown": "Fontanelle, Iowa",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "Fontanelle High School",
+    "clubs": []
+  },
+  {
+    "name": "Sias, Carleton P.",
+    "gender": "Male",
+    "hometown": "Waterloo, Iowa",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "highschool": "West High School",
+    "clubs": [
+      "Delts Upsilon",
+      "Goslings",
+      "Green Gander Art Staff",
+      "Knights of St. Patrick"
+    ]
+  },
+  {
+    "name": "Ruth, E. Sievers",
+    "gender": "Female",
+    "hometown": "Walnut, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Walnut High School",
+    "clubs": [
+      "Sigma Kappa",
+      "President Vocational Education Club",
+      "Veirhea Nite Show '27, '28",
+      "May Fete '27",
+      "He Yodvil '27"
+    ]
+  },
+  {
+    "name": "Smelser, Pauline",
+    "gender": "Female",
+    "hometown": "Oskaloosa, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Oskaloosa High School",
+    "clubs": [
+      "Y.W.C.A.",
+      "Kappa Phi"
+    ]
+  },
+  {
+    "name": "Smith, Alma",
+    "gender": "Female",
+    "hometown": "Thompson, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Graettinger High School",
+    "clubs": [
+      "Kappa Phi"
+    ]
+  },
+  {
+    "name": "Smith, Edward David",
+    "gender": "Male",
+    "hometown": "Oak Park, Illinois",
+    "major": "Veterinary Medicine",
+    "nicknames": [],
+    "highschool": "Crane Technical High School",
+    "clubs": [
+      "Baseball '27",
+      "Veterinary Medical Society, President '28, Treasurer '26"
+    ]
+  },
+  {
+    "name": "Snyder, Irving Wallace",
+    "gender": "Male",
+    "hometown": "Fontanelle, Iowa",
+    "major": "Industrial Science and Electrical Engineering",
+    "nicknames": [],
+    "highschool": "Fontanelle High School",
+    "clubs": [
+      "Iowa State Student Reporter",
+      "Bomb Salesman",
+      "Open House"
+    ]
+  },
+  {
+    "name": "Slusser, Coralie Custis",
+    "gender": "Female",
+    "hometown": "Blacksburg, Virginia",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Blacksburg High School",
+    "clubs": []
+  },
+  {
+    "name": "Smith, Alberta Marion",
+    "gender": "Female",
+    "hometown": "Valley Junction, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Valley Junction High School",
+    "clubs": [
+      "Kappa Beta",
+      "Y.W.C.A."
+    ]
+  },
+  {
+    "name": "Smith, Deforest A.",
+    "gender": "Male",
+    "hometown": "Dubuque, Iowa",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "Dubuque High School",
+    "clubs": [
+      "Delta Tau Delta",
+      "Tau Beta Pi",
+      "Eta Kappa Nu",
+      "Scabbard and Blade",
+      "Pebul",
+      "Pi Epsilon Pi",
+      "Bomb Staff '26, '27, '28",
+      "Business Mgr. Bomb '29",
+      "Memorial Union Council '29",
+      "Veishea '27"
+    ]
+  },
+  {
+    "name": "Snook, Hazel M.",
+    "gender": "Female",
+    "hometown": "Grand Junction, Iowa",
+    "major": "Foods and Nutrition",
+    "nicknames": [],
+    "highschool": "St. Mary's Academy",
+    "clubs": [
+      "Home Economics Club",
+      "Dormitory Council",
+      "President of Margaret Hall",
+      "Women's Guild"
+    ]
+  },
+  {
+    "name": "Snyder, Kenneth W.",
+    "gender": "Male",
+    "hometown": "Tama, Iowa",
+    "major": "Dairy Industry",
+    "nicknames": [],
+    "highschool": "Tama High School",
+    "clubs": [
+      "Member of the 1928 Dairy Products Judging Team",
+      "Treasurer of Dairy Club '27"
+    ]
+  },
+  {
+    "name": "Sprague, Jas. T.",
+    "gender": "Male",
+    "hometown": "Miami, Oklahoma",
+    "major": "Dairy Industry",
+    "nicknames": [],
+    "highschool": "Miami High School",
+    "clubs": [
+      "Beta Kappa Epsilon",
+      "A.S.C.E. '29"
+    ]
+  },
+  {
+    "name": "Sproul, Malcolm",
+    "gender": "Male",
+    "hometown": "Mason City, Iowa",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "highschool": "Greene High School",
+    "clubs": [
+      "Sigma Sigma",
+      "Concert Band '25, '26, '27, '28",
+      "College Popular Orchestra '27",
+      "Iowa Engineer '25",
+      "Veishea Night Show '26, '27",
+      "A.S.M.E."
+    ]
+  },
+  {
+    "name": "Stark, Mildred Rowena",
+    "gender": "Female",
+    "hometown": "Corydon, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Corydon High School",
+    "clubs": [
+      "Kappa Phi",
+      "Phi Upsilon Omicron",
+      "Omicron Nu",
+      "Jack O'Lantern",
+      "Y.W.C.A.",
+      "Home Economics Club"
+    ]
+  },
+  {
+    "name": "Stewart, Ruth",
+    "gender": "Female",
+    "hometown": "Omaha, Nebraska",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Omaha Central High School",
+    "clubs": [
+      "Chi Omega",
+      "Freshman Commission",
+      "Y.W.C.A. Cabinet",
+      "Veisheaen Costume Committee",
+      "Hec Vodvil Costume Committee",
+      "Student Staff",
+      "Homemaker Editorial Staff",
+      "Chapel Choir",
+      "W.A.A.",
+      "Red Cross Life Saving",
+      "Hockey Team '25, '27"
+    ]
+  },
+  {
+    "name": "Stitt, James C.",
+    "gender": "Male",
+    "hometown": "Ames, Iowa",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "Norfolk High School",
+    "clubs": [
+      "Acacia"
+    ]
+  },
+  {
+    "name": "Stone, June",
+    "gender": "Female",
+    "hometown": "Leon, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Leon High School",
+    "clubs": [
+      "Alpha Delta Pi",
+      "Hockey Team '25, '26, '27, '28",
+      "Basketball Team '25, '26, '27, '28",
+      "Track '25, '26",
+      "Baseball",
+      "W.A.A. Council '27, '28",
+      "\"A\" Fraternity",
+      "W.A.A. Pin",
+      "Homemaker Circulation Staff",
+      "Night Show '27",
+      "May Fete '28",
+      "Little International"
+    ]
+  },
+  {
+    "name": "Streepy, Freeland",
+    "gender": "Male",
+    "hometown": "Cincinnati, Iowa",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "highschool": "Cincinnati High School",
+    "clubs": [
+      "Tau Kappa Epsilon"
+    ]
+  },
+  {
+    "name": "Wallace M. Stanton",
+    "gender": "Male",
+    "hometown": "Glen Ellyn, Illinois",
+    "major": "General Engineering",
+    "nicknames": [],
+    "highschool": "Glenbard Twp. High School",
+    "clubs": [
+      "Alpha Sigma Phi",
+      "Tan Beta Pi",
+      "Cardinal Key",
+      "Pi Epsilon Pi",
+      "St. Patrick '29",
+      "General Manager 1929 Veishea",
+      "Treasurer 1928 Veishea",
+      "Pres. Engineering Council '28, '29",
+      "Pres. Society of Industrial Engineers Board '28, '29",
+      "Iowa Engineer Publication Board '28, '29",
+      "Pres. Bomb Publication Board '28, '29",
+      "Interfraternity Council '27, '28, '29, Vice-Pres. '29",
+      "Memorial Union Student Council '28, '29",
+      "Y.M.C.A. Cabinet '27, '28, '29",
+      "Gen. Mgr. '28 Engineers Campfire",
+      "Faculty Fraternity Committee '28, '29",
+      "Vice-Pres. Junior Class"
+    ]
+  },
+  {
+    "name": "Stebbins, Marjorie",
+    "gender": "Female",
+    "hometown": "Bonaparte, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Bonaparte High School",
+    "clubs": [
+      "W.A.A.: Tennis '25, '26",
+      "Baseball '25, '26, '27, '28",
+      "Basketball '26, '28",
+      "Hiking '26, '27",
+      "Track '26",
+      "Women's \"A\" Fraternity",
+      "Y.W.C.A.",
+      "Vice-Pres. East Hall '27",
+      "Homemaker Staff '28",
+      "Freshman Student Leader '28",
+      "Senior Council"
+    ]
+  },
+  {
+    "name": "Stiles, Herbert",
+    "gender": "Male",
+    "hometown": "Ames, Iowa",
+    "major": "Chemical Engineering",
+    "nicknames": [],
+    "highschool": "Ames High School",
+    "clubs": []
+  },
+  {
+    "name": "Stouffer, Lawrence W.",
+    "gender": "Male",
+    "hometown": "Colfax, Iowa",
+    "major": "Dairy Husbandry",
+    "nicknames": [],
+    "highschool": "Colfax High School",
+    "clubs": [
+      "Dairy Cattle Club",
+      "Block and Bridle Club. '29"
+    ]
+  },
+  {
+    "name": "Sulebach, Dorothea L.",
+    "gender": "Female",
+    "hometown": "Sioux City, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Central High School",
+    "clubs": [
+      "Chi Omega",
+      "Freshman Commission",
+      "Sophomore Council",
+      "Iowa State Student",
+      "W.A.A.",
+      "Naiad"
+    ]
+  },
+  {
+    "name": "Sweany, Lewis Edwin",
+    "gender": "Male",
+    "hometown": "Kidder, Missouri",
+    "major": "Agricultural Education",
+    "nicknames": [],
+    "highschool": "Kidder High School",
+    "clubs": []
+  },
+  {
+    "name": "Swenson, Frances G.",
+    "gender": "Female",
+    "hometown": "Ottumwa, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Burlington High School",
+    "clubs": [
+      "Alpha Gamma Delta",
+      "May Fete",
+      "Bomb '24",
+      "Jack O'Lantern",
+      "Student",
+      "Homemaker",
+      "Women's Guild",
+      "Big Sister Council",
+      "Dramatic Club",
+      "Y.W.C.A.",
+      "Theta Sigma Phi"
+    ]
+  },
+  {
+    "name": "Symons, Arthur",
+    "gender": "Male",
+    "hometown": "Shanghai, China",
+    "major": "Architectural Engineering",
+    "nicknames": [],
+    "highschool": "Thomas High School",
+    "clubs": [
+      "Ames Chinese Students' Club",
+      "Crocket Society"
+    ]
+  },
+  {
+    "name": "Tharp, Bernice J.",
+    "gender": "Female",
+    "hometown": "Yale, Oklahoma",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Yale High School",
+    "clubs": [
+      "Oklahoma A. and M. Home Economics Club",
+      "Women's Guild"
+    ]
+  },
+  {
+    "name": "Cutler, R. Swanson",
+    "gender": "Male",
+    "hometown": "Gowrie, Iowa",
+    "major": "Industrial Arts",
+    "nicknames": [],
+    "highschool": "Gowrie High School",
+    "clubs": [
+      "Engineering Council",
+      "Bomb Sales '28",
+      "Veishea",
+      "Ind. Arts Club"
+    ]
+  },
+  {
+    "name": "Sweeney, H. Morrow",
+    "gender": "Male",
+    "hometown": "Sutherland, Iowa",
+    "major": "Geology",
+    "nicknames": [],
+    "highschool": "Sutherland High School",
+    "clubs": [
+      "Phi Kappa Psi"
+    ]
+  },
+  {
+    "name": "Swigert, Arthur M.",
+    "gender": "Male",
+    "hometown": "Waterloo, Iowa",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "highschool": "West Waterloo High School",
+    "clubs": []
+  },
+  {
+    "name": "Taylor, Ralph C.",
+    "gender": "Male",
+    "hometown": "Marshalltown, Iowa",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "Marshalltown High School",
+    "clubs": []
+  },
+  {
+    "name": "Thomas, Eleanor J.",
+    "gender": "Female",
+    "hometown": "Castleford, Idaho",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Castleford High School",
+    "clubs": [
+      "Phi Omega Pi",
+      "Y.W.C.A.",
+      "Women's Guild"
+    ]
+  },
+  {
+    "name": "Thomas, Frances Ada",
+    "gender": "Female",
+    "hometown": "Davenport, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Audubon High School",
+    "clubs": [
+      "Phi Omega Pi",
+      "Theta Sigma Phi",
+      "Y.W.C.A.",
+      "Sophomore Council",
+      "Homemaker",
+      "Iowa State Student",
+      "Freshman Student Leader"
+    ]
+  },
+  {
+    "name": "Thomas, Isabelle R.",
+    "gender": "Female",
+    "hometown": "What Cheer, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "",
+    "clubs": [
+      "Gamma Phi Beta",
+      "Hec Vodvil '26, '27, '28",
+      "Veishea Night Show '26",
+      "May Fete '26",
+      "Home Economics Club"
+    ]
+  },
+  {
+    "name": "Thorburn, Esther M.",
+    "gender": "Female",
+    "hometown": "Webster, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Webster Consolidated High School",
+    "clubs": [
+      "Sigma Alpha Iota",
+      "Iowa State Symphony '27, '28"
+    ]
+  },
+  {
+    "name": "Tinley, Mildred Beatrice",
+    "gender": "Female",
+    "hometown": "Council Bluffs, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "St. Francis Academy",
+    "clubs": []
+  },
+  {
+    "name": "Tomschie, Emit Joseph",
+    "gender": "Male",
+    "hometown": "Albany, Minnesota",
+    "major": "Veterinary Medicine",
+    "nicknames": [],
+    "highschool": "Albany and St. Cloud Technical High School",
+    "clubs": [
+      "Wrestling",
+      "Boxing",
+      "Football",
+      "Veterinary Medical Society",
+      "Sergeant-at-Arms '25, '26, '27"
+    ]
+  },
+  {
+    "name": "Turner, Carrell O.",
+    "gender": "Male",
+    "hometown": "Adair, Iowa",
+    "major": "Chemical Engineering",
+    "nicknames": [],
+    "highschool": "Adair High School",
+    "clubs": [
+      "Phi Tau Theta"
+    ]
+  },
+  {
+    "name": "Turner, Forrest D.",
+    "gender": "Male",
+    "hometown": "Belknap, Iowa",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "Bloomfield High School",
+    "clubs": [
+      "Delta Sigma Phi",
+      "A.I.E.E.",
+      "Cadet Officers Association",
+      "Military Circus '28"
+    ]
+  },
+  {
+    "name": "Arthur T. Thompson",
+    "gender": "Male",
+    "hometown": "Ames, Iowa",
+    "major": "Technical Journalism",
+    "nicknames": [],
+    "highschool": "Cumberland High School",
+    "clubs": [
+      "Delta Sigma Phi",
+      "Alpha Zeta","Iowa Agriculturist Associate Editor '28",
+      "Iowa State Student '26, '27, '28",
+      "Issue Editor '27, '28",
+      "Sigma Delta Chi",
+      "Journalism Club"
+    ]
+  },
+  {
+    "name": "Tiarks, Fred John",
+    "gender": "Male",
+    "hometown": "McClelland, Iowa",
+    "major": "Agriculture",
+    "nicknames": [],
+    "highschool": "Boyles Business College",
+    "clubs": [
+      "Upsilon Sigma Alpha",
+      "Vice-President Curtiss Club"
+    ]
+  },
+  {
+    "name": "Tobias, Hazel M.",
+    "gender": "Female",
+    "hometown": "Latimer, Iowa",
+    "major": "Iowa State Teachers' College",
+    "nicknames": [],
+    "highschool": "Latimer High School",
+    "clubs": [
+      "Y.W.C.A.",
+      "Kappa Phi",
+      "Student Council M.E. Collegiate Church",
+      "Home Economics Club"
+    ]
+  },
+  {
+    "name": "Treseder, Don W.",
+    "gender": "Male",
+    "hometown": "Sioux City, Iowa",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "Central High School",
+    "clubs": [
+      "Phi Kappa Tau",
+      "A.I.E.E. Cadet Officers' Association"
+    ]
+  },
+  {
+    "name": "Treptow, Esther C.",
+    "gender": "Female",
+    "hometown": "Pierson, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Pierson High School",
+    "clubs": [
+      "Coe College",
+      "Sigma Delta '29"
+    ]
+  },
+  {
+    "name": "Tyredale, Stanford J.",
+    "gender": "Male",
+    "hometown": "Lee, Illinois",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "highschool": "Shabbona High School",
+    "clubs": [
+      "Aravia","Knights of St. Patrick",
+      "Kappa Epsilon",
+      "A.S.C.E."
+    ]
+  },
+  {
+    "name": "Van Potter, Martha",
+    "gender": "Female",
+    "hometown": "Ames, Iowa",
+    "major": "Mathematics",
+    "nicknames": [],
+    "highschool": "Ames High School",
+    "clubs": [
+      "Y.W.C.A."
+    ]
+  },
+  {
+    "name": "Walker, Evelyn Jones",
+    "gender": "Female",
+    "hometown": "Bonne, Iowa",
+    "major": "Mathematics",
+    "nicknames": [],
+    "highschool": "Napier High School",
+    "clubs": [
+      "Kappa Phi",
+      "President of Oak Lodge '28",
+      "Pi Mu Epsilon",
+      "Vice-Director Pi Mu Epsilon '28",
+      "Y.W.C.A.",
+      "Finance Group of Y.W.C.A.",
+      "Treasurer Oak Lodge '27",
+      "Scholarship Committee '27",
+      "Chapel Choir '27, '28"
+    ]
+  },
+  {
+    "name": "Walmsley, James Edward",
+    "gender": "Male",
+    "hometown": "Norfolk, Nebraska",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "Norfolk High School",
+    "clubs": [
+      "Lambda Chi Alpha"
+    ]
+  },
+  {
+    "name": "Warren, Rollin F.",
+    "gender": "Male",
+    "hometown": "Leland, Illinois",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "highschool": "Somonauk High School",
+    "clubs": [
+      "Phi Kappa Tau",
+      "Pi Epsilon Pi",
+      "Freshman Baseball",
+      "Iowa Agriculturist",
+      "Kansas City Royal and International Livestock Judging Team",
+      "Agricultural Council",
+      "Block and Brindle Club",
+      "Dairy Cattle Club",
+      "Associate Manager of Little International",
+      "Agricultural Club"
+    ]
+  },
+  {
+    "name": "Bertha Vander Kraan",
+    "gender": "Female",
+    "hometown": "Prairie City, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Central Academy Jack O'Lantern",
+    "clubs": []
+  },
+  {
+    "name": "Vendelboe, Jay",
+    "gender": "Male",
+    "hometown": "Harlan, Iowa",
+    "major": "Agricultural Education",
+    "nicknames": [],
+    "highschool": "Harlan High School",
+    "clubs": [
+      "Pi Kappa Alpha",
+      "Band '25, '26",
+      "Dramatic Club '27, '28"
+    ]
+  },
+  {
+    "name": "Waller, Leland C.",
+    "gender": "Male",
+    "hometown": "Little Rock, Arkansas",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "Little Rock Senior High School",
+    "clubs": [
+      "Alpha Mu",
+      "Campus Radio Club"
+    ]
+  },
+  {
+    "name": "Walter, Maurice Charles",
+    "gender": "Male",
+    "hometown": "Burlington, Iowa",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "highschool": "Burlington High School",
+    "clubs": [
+      "Alpha Sigma Phi",
+      "Boxing",
+      "Track"
+    ]
+  },
+  {
+    "name": "Watson, Bernice I.",
+    "gender": "Female",
+    "hometown": "Archer, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Archer High School",
+    "clubs": []
+  },
+  {
+    "name": "Watkins, Ruth Ellen",
+    "gender": "Female",
+    "hometown": "Logan, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Missouri Valley High School",
+    "clubs": [
+      "Phi Omega Pi",
+      "Theta Sigma Phi",
+      "Mortar Board",
+      "Phi Upsilon Omicron",
+      "Iowa Homemaker, Business Manager",
+      "Green Gander",
+      "Iowa State Student",
+      "Little Country Theater",
+      "Senior Council"
+    ]
+  },
+  {
+    "name": "Weber, Ralph Edwin",
+    "gender": "Male",
+    "hometown": "Irvington, Iowa",
+    "major": "Veterinary Medicine",
+    "nicknames": [],
+    "highschool": "Algona High School",
+    "clubs": [
+      "Sigma Chi",
+      "Freshman Football",
+      "Sophomore Football Manager",
+      "I.S.C. Glee Club '27, '28, '29",
+      "A-M-E-S Quartet '28, '29",
+      "T.L.B.",
+      "Phi Mu Alpha",
+      "Cardinal Guild",
+      "Student Memorial Union Council '28, '29",
+      "Secretary, Veterinary Medicine Society '28",
+      "Assistant Veishea Parade Manager '28",
+      "Chapel Choir '27, '28"
+    ]
+  },
+  {
+    "name": "Wehrle, A. Porter",
+    "gender": "Male",
+    "hometown": "New Sharon, Iowa",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "New Sharon High School",
+    "clubs": [
+      "Delta Sigma Phi",
+      "Pi Epsilon Pi",
+      "A.I.E.E.",
+      "Cadet Officers Association",
+      "Military Circus '25"
+    ]
+  },
+  {
+    "name": "Wells, Lorraine",
+    "gender": "Female",
+    "hometown": "Lake View, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Lake View High School",
+    "clubs": [
+      "Freshman Commission",
+      "Sophomore Council",
+      "Big Sister Captain",
+      "Kappa Phi Cabinet '27, '28, '29",
+      "Geneva Club",
+      "Y.W.C.A. Cabinet '29",
+      "Jack O'Lantern"
+    ]
+  },
+  {
+    "name": "Western, Dallas E.",
+    "gender": "Male",
+    "hometown": "Creston, Iowa",
+    "major": "Agricultural Education",
+    "nicknames": [],
+    "highschool": "Simpson College",
+    "clubs": [
+      "National Vice-President, Phi Tau Theta",
+      "President, Collegiate M.E. Church Student Council '28",
+      "Y.M.C.A.",
+      "Vocational Education Club",
+      "Varsity Track '28"
+    ]
+  },
+  {
+    "name": "Weyrauch, Mabel E.",
+    "gender": "Female",
+    "hometown": "Ames, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Bradgate High School",
+    "clubs": [
+      "Pi Beta Phi",
+      "Basketball '25, '26",
+      "Hec Vodvil '25, '26, '28",
+      "Jack O'Lantern",
+      "Omicron Nu"
+    ]
+  },
+  {
+    "name": "Whitehouse, Sam C.",
+    "gender": "Male",
+    "hometown": "Cherokee, Iowa",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "highschool": "Cherokee High School",
+    "clubs": [
+      "Sigma Pi",
+      "Secretary-Treasurer, A.S.C.F.",
+      "Knights of St. Patrick",
+      "Engineer Campfire '27, '28",
+      "Engineer Minstrels '28"
+    ]
+  },
+  {
+    "name": "Weekley, Ted S.",
+    "gender": "Male",
+    "hometown": "Sheldon, Iowa",
+    "major": "Landscape Architecture",
+    "nicknames": [],
+    "highschool": "Sheldon High School",
+    "clubs": [
+      "Alpha Gamma Rho",
+      "Cardinal Guild '28, '29",
+      "Treas. Cardinal Guild",
+      "Vice-Pres. Cardinal Guild",
+      "Pres. Vistonian Club '28, '29",
+      "Interfraternity Council '28, '29",
+      "Horizons Publication Board",
+      "Sec. of Agricultural Council '28, '29",
+      "Pi Epsilon Pi"
+    ]
+  },
+  {
+    "name": "Weingarth, Hazel Vera",
+    "gender": "Female",
+    "hometown": "Bedford, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Bedford High School",
+    "clubs": [
+      "Theta Epsilon",
+      "W. A. A.",
+      "Quill Literary Society",
+      "Y. W. C. A.",
+      "Vocational Education Club",
+      "Home Economics Club"
+    ]
+  },
+  {
+    "name": "Wentworth, Mildred Louise",
+    "gender": "Female",
+    "hometown": "Battle Creek, Michigan",
+    "major": "Landscape Architecture",
+    "nicknames": [],
+    "highschool": "Rockford College",
+    "clubs": [
+      "Delta Delta Delta",
+      "Senior Class Secretary '29",
+      "Women's Guild '28, '29",
+      "Pan-Hellenic Council '28, '29",
+      "Horizons Staff '26, '27, '28, '29",
+      "Vistonian Club '25, '26, '27, '28, '29"
+    ]
+  },
+  {
+    "name": "Weston, Marion Josephine",
+    "gender": "Female",
+    "hometown": "Ames, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Napier Consolidated High School",
+    "clubs": [
+      "Omicron Nu",
+      "Jack O'Lantern",
+      "Big Sister Council"
+    ]
+  },
+  {
+    "name": "White, Brinton F.",
+    "gender": "Male",
+    "hometown": "Eagle Grove, Iowa",
+    "major": "Economic Science",
+    "nicknames": [],
+    "highschool": "Eagle Grove High School",
+    "clubs": [
+      "Phi Sigma Kappa",
+      "T. L. B. '29"
+    ]
+  },
+  {
+    "name": "Whitney, Harley Leclere",
+    "gender": "Male",
+    "hometown": "Central City, Iowa",
+    "major": "Civil Engineering",
+    "nicknames": [],
+    "highschool": "Central City High School",
+    "clubs": [
+      "Gamma Sigma Alpha",
+      "Association of Collegiate Engineers",
+      "American Society of Civil Engineers",
+      "Beta Kappa Epsilon"
+    ]
+  },
+  {
+    "name": "Wiederkacht, Aileen C.",
+    "gender": "Female",
+    "hometown": "Wapello, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Wapello Consolidated High School",
+    "clubs": [
+      "W. A. A.",
+      "Kappa Phi",
+      "Big Sister Council '27",
+      "Y. W. C. A.",
+      "Jack O'Lantern",
+      "Senior Council '28",
+      "Big Sister Council '28",
+      "Freshman Day Student Group Leader '28",
+      "Home Economics Club"
+    ]
+  },
+  {
+    "name": "Wilcox, Roscoe G.",
+    "gender": "Male",
+    "hometown": "Des Moines, Iowa",
+    "major": "Chemical Engineering",
+    "nicknames": [],
+    "highschool": "North High School",
+    "clubs": [
+      "Drake University",
+      "Chemical Engineering Society"
+    ]
+  },
+  {
+    "name": "Williams, George P.",
+    "gender": "Male",
+    "hometown": "Ames, Iowa",
+    "major": "Economic Science",
+    "nicknames": [],
+    "highschool": "Ames High School",
+    "clubs": [
+      "Phi Kappa",
+      "Cardinal Key",
+      "Pi Gamma Mu",
+      "President Memorial Union Council '27, '28",
+      "Cadet Officers' Association",
+      "Green Goslings",
+      "Cardinal Guild '27, '28"
+    ]
+  },
+  {
+    "name": "Williams, Howard C.",
+    "gender": "Male",
+    "hometown": "Linn Grove, Iowa",
+    "major": "Horticulture",
+    "nicknames": [],
+    "highschool": "Linn High School",
+    "clubs": [
+      "Treasurer of Hart Club",
+      "Agricultural Council '19"
+    ]
+  },
+  {
+    "name": "W. Russell Wicks",
+    "gender": "Male",
+    "hometown": "Winterset, Iowa",
+    "major": "Economic Science",
+    "nicknames": [],
+    "highschool": "Earlham High School",
+    "clubs": [
+      "Phi Sigma Kappa",
+      "Iowa State Student '27, '28, '29",
+      "Junior Intramural Manager '28",
+      "Associate Senior Intramural Manager '29",
+      "Bomb Staff '28, '29",
+      "Advertising Manager '29",
+      "Assistant Issue Editor of Iowa State Student '28, '29"
+    ]
+  },
+  {
+    "name": "Wight, George D.",
+    "gender": "Male",
+    "hometown": "Winterset, Iowa",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "highschool": "Winterset High School",
+    "clubs": [
+      "Block and Bridle",
+      "Agricultural Club",
+      "Y.M.C.A.",
+      "Livestock Judging Team '28"
+    ]
+  },
+  {
+    "name": "Willey, Russell C.",
+    "gender": "Male",
+    "hometown": "Osage, Iowa",
+    "major": "Dairy Industry",
+    "nicknames": [],
+    "highschool": "Osage High School",
+    "clubs": [
+      "Adelante",
+      "Alpha Zeta",
+      "Agricultural Council",
+      "Business Manager Iowa Agriculturist '28, '29",
+      "Dairy Club",
+      "Veishea",
+      "Agricultural Club"
+    ]
+  },
+  {
+    "name": "Williams, George Matthew",
+    "gender": "Male",
+    "hometown": "Correctionville, Iowa",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "Correctionville High School",
+    "clubs": [
+      "Sigma Sigma",
+      "Eta Kappa Nu",
+      "Knights of St. Patrick",
+      "Double \"A\" Fraternity",
+      "Cadet Officers' Association Swimming",
+      "Red Cross Corps",
+      "Porpoise",
+      "Engineers' Council",
+      "A.I.E.E."
+    ]
+  },
+  {
+    "name": "Williamson, Ruth Y.",
+    "gender": "Female",
+    "hometown": "Sigourney, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Sigourney High School",
+    "clubs": [
+      "Phi Omega Pi",
+      "Kappa Beta",
+      "W.A.A.",
+      "Band",
+      "Y.W.C.A.",
+      "Home Economics  Club",
+      "I.S.C. Dramatic Club"
+    ]
+  },
+  {
+    "name": "Williams, James B.",
+    "gender": "Male",
+    "hometown": "Marshalltown, Iowa",
+    "major": "Chemical Engineering",
+    "nicknames": [],
+    "highschool": "Marshalltown High School",
+    "clubs": [
+      "Gamma Sigma Alpha",
+      "Chemical Engineering Society"
+    ]
+  },
+  {
+    "name": "Wilson, Aleene B.",
+    "gender": "Female",
+    "hometown": "Ames, Iowa",
+    "major": "Vocational Education",
+    "nicknames": [],
+    "highschool": "Union High School",
+    "clubs": [
+      "Alpha Gamma Delta",
+      "Freshman Commission",
+      "Sophomore Council",
+      "Senior Council"
+    ]
+  },
+  {
+    "name": "Wilson, Ruth",
+    "gender": "Female",
+    "hometown": "Clarinda, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Clarinda High School",
+    "clubs": [
+      "Kappa Delta"
+    ]
+  },
+  {
+    "name": "Wooldridge, Allen J.",
+    "gender": "Male",
+    "hometown": "Osage, Iowa",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "Osage High School",
+    "clubs": []
+  },
+  {
+    "name": "Young, Arthur W.",
+    "gender": "Male",
+    "hometown": "Shenandoah, Iowa",
+    "major": "Animal Husbandry",
+    "nicknames": [],
+    "highschool": "Shenandoah High School",
+    "clubs": [
+      "Commons Club"
+    ]
+  },
+  {
+    "name": "Zink, Clarence R.",
+    "gender": "Male",
+    "hometown": "Green Mountain, Iowa",
+    "major": "Agricultural Engineering",
+    "nicknames": [],
+    "highschool": "Green Mountain High School",
+    "clubs": [
+      "Adelante",
+      "Freshman Football",
+      "Football '27",
+      "Veishea Open House '27",
+      "Wrestling '28",
+      "A.S.A.E."
+    ]
+  },
+  {
+    "name": "Zollars, Charles H.",
+    "gender": "Male",
+    "hometown": "Creston, Iowa",
+    "major": "General Engineering",
+    "nicknames": [],
+    "highschool": "Creston High School",
+    "clubs": [
+      "Theta Xi",
+      "Secretary General Engineers Society '27",
+      "Track '27"
+    ]
+  },
+  {
+    "name": "Wilson, Dale G.",
+    "gender": "Male",
+    "hometown": "Danville, Iowa",
+    "major": "Mechanical Engineering",
+    "nicknames": [],
+    "highschool": "Danville High School",
+    "clubs": [
+      "Gamma Sigma Alpha",
+      "Student Branch A.S.M.E. 26, 28, 29",
+      "Philomathean Literary Society",
+      "Intercollegiate Debate",
+      "H.M.S. Pinafore"
+    ]
+  },
+  {
+    "name": "Witter, Dorothy L.",
+    "gender": "Female",
+    "hometown": "Rockford, Iowa",
+    "major": "Home Economics",
+    "nicknames": [],
+    "highschool": "Gladbrook High School",
+    "clubs": [
+      "Phi Omega Pi",
+      "Y.W.C.A.",
+      "I.S.C. Orchestra"
+    ]
+  },
+  {
+    "name": "Yard, Irene",
+    "gender": "Female",
+    "hometown": "Washington, Iowa",
+    "major": "Horticulture",
+    "nicknames": [],
+    "highschool": "",
+    "clubs": [
+      "Secretary of Horticulture Club '28",
+      "Agricola Club",
+      "Y.W.C.A."
+    ]
+  },
+  {
+    "name": "Zarger, Floyd John",
+    "gender": "Male",
+    "hometown": "Lohrville, Iowa",
+    "major": "",
+    "nicknames": [],
+    "highschool": "Lohrville High School",
+    "clubs": []
+  },
+  {
+    "name": "Zahradnek, Albert F.",
+    "gender": "Male",
+    "hometown": "Iowa City, Iowa",
+    "major": "Electrical Engineering",
+    "nicknames": [],
+    "highschool": "",
+    "clubs": []
+  }
+]

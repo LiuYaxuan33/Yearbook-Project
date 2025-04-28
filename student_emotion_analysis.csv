@@ -1,0 +1,2121 @@
+name,trust,positive,negative,fear,year,gender,major,joy,anger,surprise,anticipation,sadness,disgust
+"Abramson, John",1.0,1.0,1.0,1.0,1911,Male,Civil Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Ahlbrecht, Louise",4.0,6.0,2.0,2.0,1911,Female,Domestic Science,5.0,2.0,1.0,1.0,0.0,0.0
+"Amondson, Owen L.",1.0,3.0,0.0,0.0,1911,Male,Mechanical Engineering,1.0,0.0,0.0,0.0,0.0,0.0
+"Anderson, May",2.0,4.0,2.0,0.0,1911,Female,Domestic Science,0.0,0.0,0.0,0.0,2.0,0.0
+Apple Alfred B.,1.0,5.0,1.0,2.0,1911,Male,Mechanical & Electrical Engineering,0.0,1.0,0.0,0.0,0.0,0.0
+Arnold Maude,3.0,6.0,1.0,1.0,1911,Female,Science,3.0,1.0,1.0,4.0,3.0,2.0
+Baker Guy A.,2.0,4.0,2.0,1.0,1911,Male,Civil Engineering,0.0,1.0,0.0,1.0,1.0,1.0
+Baker Osmon D.,6.0,8.0,0.0,2.0,1911,Male,Animal Husbandry,5.0,1.0,3.0,3.0,1.0,1.0
+Baldwin W. Howard,1.0,4.0,1.0,1.0,1911,Male,Mechanical Engineering,3.0,1.0,2.0,0.0,2.0,0.0
+Ballard Fred S.,0.0,1.0,0.0,0.0,1911,Male,Veterinary,1.0,0.0,0.0,0.0,0.0,0.0
+Barrett Robert L.,2.0,2.0,0.0,0.0,1911,Male,Forestry,2.0,0.0,1.0,2.0,0.0,0.0
+Barry Russell J.,2.0,4.0,2.0,2.0,1911,Male,Electrical Engineering,3.0,2.0,2.0,4.0,3.0,0.0
+"Bashford, L. G.",0.0,1.0,0.0,0.0,1911,Male,Civil Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Baxter, R. B.",4.0,4.0,2.0,0.0,1911,Male,Animal Husbandry,3.0,0.0,2.0,3.0,0.0,0.0
+"Beardshear, Charles",0.0,1.0,0.0,0.0,1911,Male,Dairy,0.0,0.0,0.0,1.0,0.0,0.0
+"Beardshear, William",1.0,1.0,1.0,1.0,1911,Male,Science,0.0,0.0,0.0,1.0,0.0,0.0
+"Beinhart, Ernest G.",1.0,3.0,0.0,0.0,1911,Male,Animal Husbandry,0.0,0.0,0.0,0.0,0.0,0.0
+"Beitel, Ashley H.",1.0,1.0,0.0,0.0,1911,Male,Mechanical Engineering,1.0,0.0,1.0,2.0,0.0,0.0
+"Beiter, Grover C.",2.0,3.0,0.0,0.0,1911,Male,Civil Engineering,1.0,0.0,2.0,1.0,0.0,0.0
+"Benbow, Fred M.",2.0,5.0,1.0,0.0,1911,Male,Electrical Engineering,1.0,0.0,2.0,2.0,1.0,0.0
+"Benson, Arthur W.",2.0,4.0,1.0,0.0,1911,Male,Civil Engineering,2.0,0.0,1.0,1.0,0.0,0.0
+"Beresford, Rex",2.0,6.0,0.0,0.0,1911,Male,Animal Husbandry,2.0,0.0,0.0,1.0,0.0,0.0
+"Beverly, A. LEE",0.0,2.0,1.0,1.0,1911,Male,Veterinary,0.0,1.0,0.0,2.0,1.0,0.0
+"Bevins, Noel O.",5.0,8.0,1.0,1.0,1911,Male,Veterinary,2.0,1.0,0.0,2.0,0.0,0.0
+"Blair, James R.",3.0,3.0,2.0,1.0,1911,Male,Civil Engineering,3.0,1.0,1.0,2.0,2.0,1.0
+"Blake, Fred",2.0,4.0,0.0,1.0,1911,Male,Animal Husbandry,1.0,0.0,0.0,3.0,0.0,0.0
+"Born, A. LEE",1.0,3.0,0.0,0.0,1911,Male,Veterinary,0.0,0.0,0.0,1.0,0.0,0.0
+"Brennan, Regina",1.0,3.0,0.0,0.0,1911,Female,Domestic Science,1.0,0.0,1.0,1.0,0.0,0.0
+"Bristol, Fred T.",1.0,2.0,0.0,0.0,1911,Male,Civil Engineering,1.0,0.0,1.0,2.0,0.0,0.0
+"Brown, Evelyn H.",3.0,5.0,1.0,0.0,1911,Male,Civil Engineering,2.0,0.0,1.0,3.0,1.0,1.0
+"Brown, Florence",0.0,5.0,1.0,0.0,1911,Female,Music,2.0,1.0,1.0,1.0,2.0,0.0
+"Brown, Joseph D.",1.0,4.0,0.0,1.0,1911,Male,Electrical Engineering,2.0,0.0,0.0,2.0,0.0,0.0
+"Brown, Roy E.",6.0,7.0,2.0,1.0,1911,Male,Veterinary,5.0,0.0,2.0,2.0,0.0,0.0
+"Brown, Seth A.",1.0,2.0,1.0,0.0,1911,Male,Electrical Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Brush, George P.",3.0,4.0,4.0,0.0,1911,Male,Electrical Engineering,3.0,0.0,2.0,2.0,1.0,0.0
+"Buck, Floyd L.",1.0,1.0,1.0,0.0,1911,Male,Veterinary,0.0,0.0,0.0,0.0,1.0,0.0
+"Burgeson, J. Alvin",3.0,4.0,0.0,0.0,1911,Male,Electrical Engineering,2.0,0.0,2.0,2.0,0.0,0.0
+"Burkhalter, Carl S.",2.0,6.0,1.0,1.0,1911,Male,Civil Engineering,2.0,0.0,2.0,2.0,0.0,0.0
+"Burling, Helen Alice",3.0,4.0,1.0,3.0,1911,Female,Science,1.0,0.0,1.0,2.0,0.0,0.0
+"Burlingame, J. Homer",1.0,3.0,2.0,1.0,1911,Male,Mechanical Engineering,1.0,3.0,0.0,1.0,1.0,1.0
+"Cameron, Hurst M.",0.0,1.0,1.0,0.0,1911,Male,Veterinary,0.0,0.0,0.0,0.0,1.0,0.0
+"Cameron, William D.",3.0,4.0,1.0,0.0,1911,Male,Electrical Engineering,3.0,2.0,1.0,3.0,0.0,0.0
+"Capper, Charles",4.0,6.0,2.0,2.0,1911,Male,Civil Engineering,3.0,1.0,3.0,2.0,0.0,1.0
+"Cassady, Edward M.",0.0,4.0,0.0,0.0,1911,Male,Animal Husbandry,0.0,0.0,1.0,0.0,0.0,0.0
+"Chalmers, David J.",2.0,3.0,0.0,0.0,1911,Male,Veterinary,2.0,0.0,0.0,1.0,1.0,0.0
+"Chapman, Evan A.",2.0,2.0,5.0,3.0,1911,Male,Science,1.0,3.0,2.0,2.0,1.0,2.0
+"Clapper, Lyle.",1.0,2.0,2.0,2.0,1911,Male,Civil Engineering,1.0,2.0,1.0,1.0,3.0,2.0
+"Clark, Clarissa A.",2.0,4.0,0.0,0.0,1911,Female,Science,1.0,0.0,0.0,1.0,0.0,0.0
+"Clark, Giles W.",0.0,3.0,1.0,0.0,1911,Male,Mechanical Engineering,1.0,0.0,0.0,0.0,0.0,0.0
+"Cockerell, B. Fred",4.0,6.0,0.0,0.0,1911,Male,Civil Engineering,2.0,0.0,2.0,3.0,0.0,0.0
+"Colvin, Robert C.",0.0,2.0,0.0,0.0,1911,Male,Civil Engineering,0.0,0.0,0.0,0.0,1.0,1.0
+"Cooley, Clark H.",2.0,3.0,1.0,0.0,1911,Male,Electrical Engineering,1.0,0.0,0.0,0.0,0.0,0.0
+"Cort, E. G.",3.0,3.0,0.0,0.0,1911,Male,Animal Husbandry,1.0,0.0,0.0,2.0,0.0,0.0
+Creel Salvador,0.0,1.0,0.0,0.0,1911,Male,Agronomy,0.0,0.0,0.0,0.0,0.0,0.0
+Danger Harry C.,2.0,4.0,1.0,3.0,1911,Male,Animal Husbandry,1.0,2.0,0.0,0.0,1.0,1.0
+Davenport William E.,2.0,4.0,0.0,0.0,1911,Male,Animal Husbandry,3.0,0.0,1.0,1.0,0.0,0.0
+"Davidson, Rex J.",2.0,5.0,0.0,0.0,1911,Male,Animal Husbandry,3.0,0.0,0.0,2.0,0.0,0.0
+"Davis, E. C.",6.0,9.0,1.0,2.0,1911,Male,Animal Husbandry,4.0,2.0,3.0,5.0,1.0,0.0
+"Davis, Orrin L.",1.0,2.0,0.0,1.0,1911,Male,Civil Engineering,1.0,1.0,0.0,1.0,1.0,1.0
+"Deacon, Elizabeth",5.0,7.0,0.0,1.0,1911,Female,Science,2.0,1.0,1.0,0.0,2.0,1.0
+"Dean, Myrtle D.",5.0,7.0,1.0,1.0,1911,Female,Domestic Science,4.0,1.0,3.0,2.0,1.0,1.0
+"Deemer, Elizabeth",4.0,3.0,0.0,0.0,1911,Female,Science,2.0,0.0,1.0,1.0,0.0,0.0
+Deemer Edward H.,3.0,3.0,1.0,0.0,1911,Male,Animal Husbandry,2.0,0.0,1.0,2.0,1.0,0.0
+Dickey Walter N.,1.0,4.0,0.0,0.0,1911,Male,Mechanical Engineering,1.0,0.0,0.0,1.0,0.0,0.0
+"Dodds, John S.",1.0,1.0,0.0,0.0,1911,Male,Civil Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Doerr, John",1.0,2.0,2.0,0.0,1911,Male,Veterinary,0.0,0.0,1.0,1.0,1.0,1.0
+"Dornbach, William E.",0.0,1.0,0.0,0.0,1911,Male,Ceramics,0.0,0.0,0.0,0.0,0.0,0.0
+"Doughty, Lorin H.",0.0,2.0,0.0,0.0,1911,Male,Civil Engineering,0.0,0.0,0.0,1.0,1.0,1.0
+"Dowson, Harry R.",2.0,3.0,1.0,0.0,1911,Male,Mechanical Engineering,2.0,0.0,1.0,3.0,0.0,1.0
+"Duval, Eugene C.",3.0,4.0,1.0,1.0,1911,Male,Mechanical Engineering,2.0,0.0,1.0,3.0,1.0,0.0
+"Easter, Mary",2.0,5.0,1.0,0.0,1911,Female,Domestic Science,5.0,1.0,2.0,2.0,1.0,1.0
+"Eastwold, Oscar A.",3.0,3.0,0.0,0.0,1911,Male,Electrical Engineering,2.0,0.0,1.0,3.0,1.0,1.0
+"Edgecomb, Rex E.",4.0,7.0,2.0,0.0,1911,Male,Civil Engineering,4.0,0.0,2.0,3.0,0.0,0.0
+"Elichling, Henry L.",3.0,3.0,2.0,0.0,1911,Male,Agronomy,1.0,0.0,0.0,1.0,3.0,1.0
+"Elayda, Inocencio",3.0,3.0,1.0,0.0,1911,Male,Agronomy,1.0,0.0,0.0,1.0,0.0,0.0
+"Elliott, William Robert",1.0,2.0,0.0,0.0,1911,Male,Veterinary,1.0,0.0,0.0,0.0,0.0,0.0
+"Evans, E. Loyd",1.0,2.0,2.0,1.0,1911,Male,Mechanical Engineering,0.0,2.0,1.0,0.0,0.0,0.0
+"Farnsworth, Edwin P.",2.0,2.0,0.0,0.0,1911,Male,Dairy,2.0,0.0,2.0,3.0,0.0,0.0
+"Ferm, John F.",1.0,1.0,3.0,1.0,1911,Male,Mechanical Engineering,0.0,1.0,0.0,1.0,0.0,1.0
+"Ferguson, Myrtle",3.0,5.0,2.0,1.0,1911,Female,Domestic Science,3.0,1.0,2.0,2.0,2.0,1.0
+"Fiester, Arch A.",1.0,1.0,0.0,0.0,1911,Male,Electrical Engineering,1.0,0.0,0.0,1.0,0.0,0.0
+"Fischer, Austin J.",2.0,3.0,2.0,2.0,1911,Male,Civil Engineering,2.0,0.0,0.0,3.0,1.0,0.0
+"Fleming, Mabel",1.0,2.0,1.0,1.0,1911,Female,Science,0.0,0.0,0.0,0.0,1.0,0.0
+"Freed, Oscar F.",1.0,1.0,1.0,1.0,1911,Male,Veterinary,1.0,1.0,0.0,2.0,1.0,0.0
+Freeman Frank G.,1.0,1.0,2.0,2.0,1911,Male,Forestry,1.0,1.0,0.0,1.0,0.0,2.0
+Frevert Carl B.,1.0,2.0,0.0,1.0,1911,Male,Mechanical Engineering,2.0,0.0,1.0,2.0,1.0,0.0
+Fuller John M.,1.0,7.0,1.0,1.0,1911,Male,Dairy,0.0,3.0,0.0,0.0,0.0,1.0
+Gardner William M.,0.0,1.0,0.0,0.0,1911,Male,Animal Husbandry,0.0,0.0,0.0,1.0,0.0,0.0
+"Gibson, Earle P.",3.0,4.0,0.0,0.0,1911,Male,Electrical Engineering,1.0,0.0,0.0,0.0,0.0,0.0
+"Gilchrist, Margaret L.",2.0,4.0,0.0,0.0,1911,Female,Science,2.0,0.0,2.0,2.0,1.0,0.0
+"Gilmore, Claude Bertrand",0.0,2.0,0.0,0.0,1911,Male,Electrical Engineering,0.0,0.0,0.0,1.0,1.0,0.0
+"Gobble, Carl F.",1.0,1.0,1.0,0.0,1911,Male,Animal Husbandry,1.0,0.0,0.0,2.0,0.0,1.0
+"Goodin, Charles E.",2.0,2.0,1.0,0.0,1911,Male,Civil Engineering,2.0,0.0,1.0,1.0,1.0,0.0
+"Goodrich, Ira E.",0.0,0.0,1.0,0.0,1911,Male,Civil Engineering,0.0,0.0,0.0,0.0,1.0,0.0
+"Greer, James R.",5.0,9.0,2.0,1.0,1911,Male,Mining Engineering,4.0,0.0,2.0,3.0,0.0,0.0
+"Gregg, Roy M.",1.0,2.0,1.0,1.0,1911,Male,Animal Husbandry,1.0,0.0,0.0,2.0,1.0,0.0
+"Haas, Franz",0.0,0.0,2.0,0.0,1911,Male,Agronomy,0.0,1.0,0.0,1.0,1.0,0.0
+"Hammond, F. B. Jr.",2.0,7.0,2.0,1.0,1911,Male,Dairy,1.0,0.0,0.0,2.0,1.0,0.0
+"Hanchette, Ralph W.",3.0,6.0,0.0,0.0,1911,Male,Electrical Engineering,1.0,0.0,0.0,1.0,2.0,0.0
+"Handy, Don J.",3.0,3.0,1.0,0.0,1911,Male,Dairy,1.0,0.0,1.0,1.0,0.0,0.0
+"Hanna, Harvey. E.",2.0,8.0,0.0,1.0,1911,Male,Agronomy,1.0,0.0,1.0,1.0,0.0,0.0
+"Hanson, B. B.",3.0,3.0,1.0,1.0,1911,Male,Civil Engineering,2.0,1.0,1.0,0.0,0.0,0.0
+"Hardman, Charles J.",0.0,1.0,2.0,1.0,1911,Male,Animal Husbandry,0.0,0.0,0.0,1.0,0.0,0.0
+"Harter, Ira H.",1.0,4.0,2.0,2.0,1911,Male,Mechanical Engineering,1.0,1.0,1.0,1.0,0.0,0.0
+"Hatch, F. E.",3.0,4.0,0.0,0.0,1911,Male,Animal Husbandry,2.0,0.0,2.0,2.0,1.0,0.0
+"Hatch, Harry C.",2.0,3.0,1.0,1.0,1911,Male,Electrical Engineering,2.0,2.0,0.0,0.0,2.0,1.0
+"Havner, Harry",7.0,7.0,2.0,0.0,1911,Male,Veterinary Medicine,6.0,2.0,4.0,3.0,2.0,0.0
+"Hill, Alvah F.",3.0,7.0,0.0,1.0,1911,Male,Mechanical Engineering,3.0,0.0,3.0,3.0,1.0,0.0
+"Hill, Frank W.",2.0,2.0,2.0,1.0,1911,Male,Civil Engineering,1.0,0.0,1.0,0.0,0.0,0.0
+"Hintgen, Leo N.",2.0,4.0,0.0,0.0,1911,Male,Civil Engineering,2.0,0.0,0.0,1.0,0.0,0.0
+"Hise, Fred H.",2.0,5.0,0.0,0.0,1911,Male,Mechanical Engineering,2.0,0.0,1.0,2.0,0.0,0.0
+"Hoffman, Arthur F.",2.0,1.0,0.0,0.0,1911,Male,Forestry,1.0,0.0,0.0,1.0,0.0,0.0
+"Holcombe, Frank L.",3.0,3.0,1.0,1.0,1911,Male,Animal Husbandry,2.0,0.0,1.0,2.0,0.0,0.0
+"Halloway, Gilbert N.",3.0,4.0,0.0,0.0,1911,Male,Electrical Engineering,2.0,0.0,2.0,2.0,0.0,0.0
+"Horcasitas, Fernando",3.0,3.0,1.0,0.0,1911,Male,Animal Husbandry,1.0,0.0,1.0,2.0,0.0,0.0
+"Horcasitas, Pablo",1.0,1.0,0.0,0.0,1911,Male,Agronomy,1.0,0.0,1.0,1.0,0.0,0.0
+"Hough, Herbert S.",3.0,4.0,1.0,0.0,1911,Male,Animal Husbandry,2.0,0.0,1.0,4.0,0.0,0.0
+"Householder, Harold W.",1.0,1.0,1.0,0.0,1911,Male,Veterinary,0.0,0.0,0.0,1.0,0.0,0.0
+"Howd, Otto O.",1.0,4.0,0.0,0.0,1911,Male,Civil Engineering,2.0,0.0,0.0,0.0,0.0,0.0
+"Howe, John L.",3.0,4.0,3.0,2.0,1911,Male,Animal Husbandry,0.0,2.0,0.0,1.0,0.0,2.0
+"Howes, Ray L.",4.0,4.0,0.0,0.0,1911,Male,Mechanical Engineering,1.0,0.0,0.0,0.0,0.0,0.0
+"Hoyt, Edward L.",3.0,3.0,1.0,0.0,1911,Male,Mechanical Engineering,1.0,0.0,1.0,2.0,0.0,0.0
+"Hungerford, Josephine",4.0,6.0,2.0,2.0,1911,Female,Science,3.0,0.0,0.0,3.0,0.0,0.0
+"Hunt, Edith",2.0,4.0,1.0,1.0,1911,Female,Domestic Science,1.0,0.0,2.0,1.0,1.0,0.0
+"Hurd, Ralph R.",1.0,1.0,0.0,0.0,1911,Male,Civil Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Hutcheson, Charles R.",2.0,4.0,1.0,0.0,1911,Male,Dairy,3.0,0.0,2.0,2.0,0.0,0.0
+"Hynes, Bert C.",1.0,5.0,0.0,0.0,1911,Male,Ceramics,1.0,0.0,1.0,0.0,0.0,0.0
+"Jensen, Gene J.",5.0,7.0,0.0,1.0,1911,Male,Electrical Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Johnson, Floyd L.",3.0,5.0,3.0,1.0,1911,Male,Agronomy,1.0,1.0,1.0,3.0,0.0,0.0
+"Jones, R. Glenn",4.0,8.0,2.0,1.0,1911,Male,Dairy,2.0,1.0,2.0,2.0,0.0,1.0
+"Jones, Margaret",0.0,1.0,0.0,0.0,1911,Female,Domestic Science,1.0,0.0,0.0,0.0,0.0,0.0
+"Kammerer, Nelson C.",2.0,5.0,1.0,0.0,1911,Male,Mechanical Engineering,1.0,0.0,1.0,2.0,2.0,0.0
+"Kelley, James B.",1.0,2.0,0.0,0.0,1911,Male,Mechanical Engineering,1.0,0.0,1.0,1.0,0.0,0.0
+"Kelley, Raymond",3.0,3.0,1.0,2.0,1911,Male,Mechanical Engineering,3.0,1.0,4.0,2.0,0.0,0.0
+"Kierulff, W. Karl",1.0,3.0,0.0,1.0,1911,Male,Electrical Engineering,2.0,1.0,1.0,1.0,1.0,0.0
+"Killey, J. Walter",2.0,5.0,0.0,0.0,1911,Male,Civil Engineering,2.0,0.0,0.0,2.0,1.0,0.0
+"Klippel, Frank H.",3.0,5.0,2.0,3.0,1911,Male,Electrical Engineering,2.0,1.0,2.0,1.0,2.0,1.0
+"Koepeke, William C.",1.0,3.0,0.0,0.0,1911,Male,Forestry,1.0,0.0,0.0,0.0,0.0,0.0
+"Krall, John A.",1.0,0.0,3.0,1.0,1911,Male,Animal Husbandry,0.0,1.0,0.0,2.0,1.0,1.0
+"Kyner, Roy E.",0.0,3.0,0.0,0.0,1911,Male,Veterinary,0.0,0.0,0.0,0.0,1.0,0.0
+"Laing, Frank O.",0.0,0.0,2.0,0.0,1911,Male,Civil Engineering,0.0,1.0,0.0,0.0,0.0,0.0
+"Laird, W. Ray",2.0,2.0,0.0,0.0,1911,Male,Veterinary,2.0,0.0,2.0,2.0,0.0,0.0
+"Lamb, Eleanor",1.0,2.0,0.0,0.0,1911,Female,Domestic Science,1.0,0.0,1.0,1.0,0.0,0.0
+"Lamson, John B.",1.0,2.0,1.0,0.0,1911,Male,Agronomy,0.0,0.0,0.0,1.0,0.0,0.0
+"LaSourd, Glenn M.",3.0,1.0,3.0,0.0,1911,Male,Mechanical Engineering,1.0,1.0,0.0,4.0,1.0,0.0
+"Lattimer, Bernard J.",2.0,1.0,1.0,1.0,1911,Male,Veterinary,0.0,1.0,0.0,0.0,1.0,1.0
+"Lee, La Verne",0.0,2.0,0.0,0.0,1911,Male,Agronomy,1.0,0.0,0.0,0.0,0.0,0.0
+"Leerburg, Nis",3.0,4.0,0.0,0.0,1911,Male,Mechanical Engineering,2.0,0.0,1.0,3.0,0.0,0.0
+"Leonard, Arthur C.",0.0,3.0,1.0,0.0,1911,Male,Mechanical Engineering,0.0,1.0,0.0,1.0,2.0,0.0
+"Linse, Jesse F.",1.0,0.0,0.0,0.0,1911,Male,Veterinary,0.0,0.0,0.0,0.0,0.0,1.0
+"Lippincott, W. A.",3.0,5.0,1.0,0.0,1911,Male,Animal Husbandry,0.0,0.0,0.0,2.0,0.0,0.0
+"Long, Fred R.",1.0,3.0,0.0,0.0,1911,Male,Animal Husbandry,2.0,0.0,2.0,1.0,0.0,0.0
+"Long, George J.",1.0,3.0,4.0,1.0,1911,Male,Electrical Engineering,2.0,0.0,1.0,2.0,2.0,0.0
+"Lovesee, Rosco G.",1.0,1.0,0.0,0.0,1911,Male,Veterinary,1.0,0.0,1.0,1.0,0.0,0.0
+"Luney, Edmund A.",1.0,1.0,0.0,0.0,1911,Male,Electrical Engineering,1.0,0.0,0.0,1.0,0.0,0.0
+"McCall, Frank E.",4.0,4.0,0.0,0.0,1911,Male,Horticulture and Forestry,3.0,0.0,1.0,1.0,0.0,0.0
+"McCartney, Herbert E.",1.0,2.0,2.0,1.0,1911,Male,Animal Husbandry,0.0,1.0,0.0,0.0,1.0,2.0
+"McCormick, A. Glenn",4.0,3.0,0.0,0.0,1911,Male,Animal Husbandry,2.0,0.0,2.0,1.0,0.0,0.0
+"McCoy, Edward",0.0,2.0,0.0,0.0,1911,Male,Mechanical Engineering,1.0,0.0,1.0,2.0,0.0,0.0
+"McCulloch, Harry I.",2.0,3.0,0.0,0.0,1911,Male,Veterinary,1.0,0.0,1.0,1.0,0.0,0.0
+"McCune, Charles E.",4.0,8.0,0.0,0.0,1911,Male,Electrical Engineering,3.0,0.0,0.0,2.0,0.0,0.0
+"McDonald, Ethel",1.0,4.0,0.0,0.0,1911,Female,Domestic Science,1.0,0.0,0.0,0.0,0.0,0.0
+"McDonald, Murl",0.0,0.0,0.0,0.0,1911,Male,Agronomy,0.0,0.0,0.0,0.0,0.0,0.0
+"McElyea, Lew W.",3.0,4.0,2.0,0.0,1911,Male,Veterinary,2.0,1.0,0.0,0.0,0.0,0.0
+"McMillan, J. Gifford",1.0,2.0,1.0,0.0,1911,Male,Agronomy,1.0,0.0,2.0,1.0,0.0,0.0
+"Macklin, Theodore",1.0,1.0,1.0,1.0,1911,Male,Dairy,0.0,1.0,0.0,1.0,0.0,0.0
+"Madson, Sern",2.0,4.0,1.0,1.0,1911,Male,Mining Engineering,2.0,0.0,1.0,1.0,1.0,0.0
+"Maine, Harry E.",3.0,5.0,0.0,0.0,1911,Male,Mining Engineering,4.0,0.0,0.0,1.0,1.0,0.0
+"Malloy, John M.",1.0,4.0,1.0,1.0,1911,Male,Civil Engineering,1.0,0.0,1.0,2.0,0.0,0.0
+"Manautou, Gregorio",3.0,6.0,1.0,1.0,1911,Male,Agronomy,2.0,0.0,1.0,1.0,1.0,1.0
+"Manning, Truman W.",3.0,4.0,1.0,1.0,1911,Male,Science,1.0,0.0,0.0,1.0,1.0,0.0
+"Marks, Wilford H.",1.0,1.0,1.0,1.0,1911,Male,Veterinary,1.0,0.0,1.0,2.0,1.0,0.0
+"Martin, Edwin R.",1.0,6.0,3.0,0.0,1911,Male,Electrical Engineering,1.0,1.0,1.0,1.0,3.0,1.0
+"Mayhew, Harry",2.0,4.0,1.0,1.0,1911,Male,Animal Husbandry,3.0,1.0,1.0,1.0,1.0,1.0
+"Merrill, Andrew H.",1.0,4.0,1.0,0.0,1911,Male,Civil Engineering,3.0,0.0,1.0,2.0,0.0,0.0
+"Michaelson, T.",2.0,4.0,3.0,1.0,1911,Male,Civil Engineering,1.0,2.0,1.0,0.0,1.0,0.0
+"Miller, Paul E.",2.0,3.0,0.0,0.0,1911,Male,Agronomy,1.0,0.0,1.0,1.0,0.0,0.0
+"Mills, Vera",2.0,2.0,3.0,3.0,1911,Female,Science,1.0,3.0,2.0,2.0,1.0,0.0
+"Mobley, Byers",2.0,2.0,1.0,1.0,1911,Male,Mining Engineering,1.0,1.0,0.0,2.0,0.0,0.0
+"Morris, Fred H.",0.0,6.0,1.0,0.0,1911,Male,Mining Engineering,1.0,0.0,0.0,0.0,0.0,0.0
+"Mose, T.Rupert",2.0,3.0,0.0,0.0,1911,Male,Agronomy,1.0,0.0,0.0,2.0,0.0,0.0
+"Mosher, Clark L.",1.0,3.0,1.0,1.0,1911,Male,Civil Engineering,2.0,1.0,1.0,4.0,0.0,1.0
+"Musgrove, Floyd B.",2.0,4.0,0.0,0.0,1911,Male,Mechanical Engineering,3.0,0.0,3.0,2.0,0.0,0.0
+"Narvis, C. Stewart",1.0,2.0,1.0,0.0,1911,Male,Mechanical Engineering,1.0,1.0,1.0,3.0,0.0,0.0
+"Taylor, Joseph S.",1.0,6.0,0.0,0.0,1911,Male,Agronomy,0.0,0.0,1.0,0.0,0.0,0.0
+"Eil, James E.",4.0,4.0,0.0,0.0,1911,Male,Agronomy,2.0,0.0,1.0,2.0,0.0,0.0
+"Nelson, N. Louis",2.0,2.0,1.0,0.0,1911,Male,Veterinary,2.0,0.0,1.0,2.0,0.0,0.0
+"Nichols, Niva G.",1.0,3.0,0.0,0.0,1911,Female,Music,3.0,0.0,2.0,2.0,1.0,1.0
+"Overly, Frank L.",1.0,2.0,1.0,0.0,1911,Male,Horticulture,0.0,0.0,0.0,1.0,0.0,0.0
+"Palmer, Bert L.",0.0,2.0,0.0,1.0,1911,Male,Electrical Engineering,1.0,0.0,1.0,0.0,0.0,0.0
+"Palmer, Donald B.",1.0,3.0,1.0,1.0,1911,Male,Veterinary,1.0,0.0,2.0,3.0,0.0,0.0
+"Palmer, Roy C.",3.0,7.0,0.0,1.0,1911,Male,Agronomy,3.0,1.0,2.0,3.0,0.0,0.0
+"Parker, Benjamin L.",2.0,1.0,2.0,0.0,1911,Male,Electrical Engineering,0.0,1.0,0.0,1.0,0.0,0.0
+"Paulsen, Henry J.",2.0,3.0,0.0,0.0,1911,Male,Mining Engineering,1.0,0.0,1.0,3.0,0.0,0.0
+"Peterson, George",1.0,1.0,0.0,0.0,1911,Male,Civil Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Platts, Charles A. E.",4.0,4.0,0.0,0.0,1911,Male,Animal Husbandry,3.0,0.0,2.0,3.0,0.0,1.0
+"Porterfield, Ray S.",2.0,2.0,1.0,1.0,1911,Male,Veterinary,0.0,0.0,0.0,0.0,1.0,0.0
+"Pusch, George W.",0.0,1.0,0.0,0.0,1911,Male,Mining Engineering,1.0,0.0,1.0,1.0,0.0,0.0
+"Quaife, Elvin L.",4.0,4.0,2.0,0.0,1911,Male,Animal Husbandry,1.0,0.0,0.0,0.0,0.0,0.0
+"Quinn, Allen A.",1.0,1.0,0.0,0.0,1911,Male,Agronomy,0.0,0.0,0.0,2.0,0.0,0.0
+"Quint, Annie L.",1.0,3.0,0.0,1.0,1911,Female,Science,1.0,0.0,1.0,0.0,0.0,0.0
+"Raash, Fred A.",2.0,3.0,1.0,3.0,1911,Male,Electrical Engineering,1.0,2.0,0.0,0.0,2.0,2.0
+"Rector, John U.",2.0,0.0,1.0,1.0,1911,Male,Animal Husbandry,0.0,1.0,0.0,1.0,1.0,0.0
+"Reynoldson, Le Roy A.",0.0,0.0,1.0,1.0,1911,Male,Forestry,0.0,0.0,0.0,0.0,0.0,1.0
+"Ricketts, Robert A.",1.0,5.0,0.0,0.0,1911,Male,Veterinary,3.0,0.0,2.0,3.0,0.0,0.0
+"Reis, Sabin",3.0,5.0,0.0,1.0,1911,Male,Veterinary,3.0,1.0,2.0,2.0,1.0,0.0
+"Robinson, Frank A.",2.0,2.0,2.0,0.0,1911,Male,Mining Engineering,1.0,0.0,0.0,0.0,1.0,0.0
+"Rogers, Harold C.",2.0,2.0,1.0,1.0,1911,Male,Civil Engineering,1.0,0.0,1.0,1.0,2.0,1.0
+"Ohwer, Alfred C.",2.0,6.0,0.0,0.0,1911,Male,Electrical Engineering,2.0,0.0,2.0,2.0,0.0,0.0
+"Root, Walter H.",1.0,2.0,0.0,0.0,1911,Male,Civil Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Rudnick, Arthur W.",2.0,3.0,1.0,0.0,1911,Male,Dairy,1.0,0.0,0.0,0.0,0.0,0.0
+"Rush, Gladys",4.0,8.0,0.0,0.0,1911,Female,Science,2.0,0.0,2.0,2.0,0.0,0.0
+"Russell, Leta",2.0,5.0,0.0,1.0,1911,Female,Science,2.0,0.0,1.0,1.0,0.0,0.0
+"Schaefer, Charles W.",1.0,4.0,0.0,0.0,1911,Male,Civil Engineering,3.0,0.0,2.0,2.0,0.0,0.0
+"Schmitt, Walter W.",1.0,2.0,1.0,1.0,1911,Male,Agronomy,0.0,0.0,0.0,1.0,0.0,0.0
+"School, Fred S.",2.0,2.0,1.0,0.0,1911,Male,Civil Engineering,1.0,1.0,1.0,2.0,1.0,0.0
+"Shohenberger, J. Guy",1.0,2.0,3.0,1.0,1911,Male,Veterinary,0.0,0.0,1.0,2.0,3.0,0.0
+"Schregardus, Dirk",3.0,3.0,0.0,0.0,1911,Male,Electrical Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Scott, Floyd A.",1.0,3.0,0.0,0.0,1911,Male,Veterinary,2.0,0.0,1.0,2.0,0.0,0.0
+"Searle, Mary A.",2.0,0.0,2.0,2.0,1911,Female,Domestic Science,0.0,1.0,0.0,2.0,1.0,0.0
+"Sharp, E. P.",0.0,2.0,1.0,0.0,1911,Male,Civil Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Shields, Fred W.",1.0,2.0,1.0,1.0,1911,Male,Animal Husbandry,0.0,1.0,0.0,0.0,0.0,1.0
+"Shiffer, James A.",2.0,7.0,0.0,1.0,1911,Male,Mechanical Engineering,3.0,1.0,2.0,2.0,1.0,0.0
+"Simmons, Paul M.",1.0,3.0,0.0,1.0,1911,Male,Civil Engineering,3.0,0.0,0.0,3.0,0.0,0.0
+"Simms, William H.",1.0,2.0,0.0,0.0,1911,Male,Animal Husbandry,2.0,0.0,1.0,1.0,0.0,0.0
+"Smith, Percy T.",0.0,1.0,1.0,1.0,1911,Male,Forestry,0.0,0.0,0.0,2.0,1.0,0.0
+"Smith, W. Armstrong",0.0,1.0,0.0,1.0,1911,Male,Civil Engineering,0.0,0.0,0.0,1.0,0.0,0.0
+"Smith, Warren T.",2.0,2.0,0.0,1.0,1911,Male,Civil Engineering,1.0,0.0,1.0,0.0,0.0,0.0
+"Squyer, Albert R.",2.0,4.0,1.0,0.0,1911,Male,Mechanical Engineering,2.0,0.0,2.0,1.0,0.0,0.0
+"Tafford, Ray R.",1.0,4.0,2.0,0.0,1911,Male,Electrical Engineering,1.0,2.0,1.0,1.0,0.0,1.0
+"Steigleder, Charles J.",3.0,4.0,2.0,0.0,1911,Male,Civil Engineering,3.0,0.0,2.0,2.0,1.0,0.0
+"Stephens, Marie",4.0,4.0,0.0,1.0,1911,Female,Domestic Science,2.0,0.0,1.0,0.0,0.0,0.0
+"Stewart, Benjamin James",3.0,4.0,1.0,1.0,1911,Male,Electrical Engineering,2.0,0.0,2.0,2.0,1.0,0.0
+"Stewart, James E.",3.0,4.0,0.0,0.0,1911,Male,Civil Engineering,2.0,0.0,0.0,2.0,0.0,0.0
+"Stoddard, Irving W.",1.0,5.0,1.0,0.0,1911,Male,Electrical Engineering,1.0,0.0,0.0,0.0,0.0,0.0
+"Stookey, D. D.",1.0,3.0,0.0,0.0,1911,Male,Animal Husbandry,2.0,0.0,0.0,0.0,0.0,0.0
+"Storm, Shirley Snow",3.0,5.0,0.0,0.0,1911,Female,Domestic Science,2.0,0.0,1.0,3.0,1.0,0.0
+"Stoulil, William G.",1.0,1.0,1.0,1.0,1911,Male,Civil Engineering,0.0,0.0,0.0,1.0,1.0,0.0
+"Sumner, Maude A.",2.0,4.0,1.0,1.0,1911,Female,,0.0,1.0,0.0,1.0,1.0,0.0
+"Tellier, Emma L.",1.0,9.0,0.0,0.0,1911,Female,Domestic Science,2.0,0.0,0.0,1.0,0.0,0.0
+"Tolstrup, Mogens R.",2.0,2.0,0.0,0.0,1911,Male,Dairy,1.0,0.0,0.0,2.0,0.0,0.0
+"Tompkin, Will I.",2.0,2.0,0.0,0.0,1911,Male,Electrical Engineering,2.0,0.0,1.0,2.0,0.0,0.0
+"Trimele, Charles S.",0.0,0.0,0.0,0.0,1911,Male,Dairy,0.0,0.0,0.0,0.0,0.0,0.0
+"Tudor, J. M.",0.0,2.0,1.0,0.0,1911,Male,Agronomy,1.0,0.0,0.0,1.0,1.0,0.0
+"Yail, Howard O.",3.0,5.0,0.0,1.0,1911,Male,Animal Husbandry,2.0,0.0,2.0,2.0,0.0,0.0
+"Van Auken, Ellsworth W.",0.0,0.0,2.0,1.0,1911,Male,Mining Engineering,0.0,0.0,0.0,1.0,0.0,0.0
+"Yarella, Joseph B.",1.0,1.0,1.0,1.0,1911,Male,Mechanical Engineering,0.0,1.0,0.0,0.0,0.0,0.0
+"Yaughn, Howard",3.0,5.0,0.0,0.0,1911,Male,Animal Husbandry,1.0,0.0,1.0,1.0,0.0,0.0
+"Yelif, Carlton E.",1.0,1.0,1.0,0.0,1911,Male,Electrical Engineering,0.0,0.0,0.0,1.0,0.0,0.0
+"Walker, Boyd A.",1.0,1.0,0.0,0.0,1911,Male,Civil Engineering,1.0,0.0,0.0,1.0,0.0,0.0
+"Walters, Ralph E.",3.0,6.0,1.0,1.0,1911,Male,Electrical Engineering,2.0,1.0,1.0,2.0,0.0,0.0
+"Waterman, Charles R.",1.0,1.0,0.0,0.0,1911,Male,Electrical Engineering,1.0,0.0,2.0,3.0,0.0,0.0
+"Watson, Wallace S.",2.0,2.0,1.0,0.0,1911,Male,Civil Engineering,1.0,1.0,1.0,2.0,0.0,0.0
+"Weiss, Albert",0.0,2.0,0.0,0.0,1911,Male,Animal Husbandry,0.0,0.0,0.0,0.0,0.0,0.0
+"Welden, Ernest",1.0,1.0,1.0,0.0,1911,Male,Civil Engineering,0.0,0.0,1.0,2.0,0.0,0.0
+"Whitham, J. Campbell",2.0,3.0,1.0,0.0,1911,Male,Forestry,0.0,0.0,0.0,0.0,0.0,0.0
+"Wichmann, George",1.0,5.0,4.0,3.0,1911,Male,Electrical Engineering,2.0,1.0,3.0,0.0,2.0,1.0
+"Wilbur, William E.",1.0,4.0,1.0,0.0,1911,Male,Civil Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Willey, Louis E.",2.0,3.0,1.0,0.0,1911,Male,Veterinary,0.0,0.0,0.0,0.0,0.0,0.0
+"Woodman, Arthur",4.0,3.0,1.0,0.0,1911,Male,Civil Engineering,2.0,0.0,2.0,2.0,0.0,0.0
+"Woody, Clyde C.",1.0,2.0,1.0,1.0,1911,Male,Civil Engineering,2.0,0.0,0.0,1.0,1.0,0.0
+"Wright, Charles E.",0.0,0.0,0.0,0.0,1911,Male,Civil Engineering,0.0,0.0,0.0,1.0,0.0,0.0
+"Wylie, Paul E.",3.0,5.0,0.0,0.0,1911,Male,Civil Engineering,1.0,0.0,0.0,0.0,0.0,0.0
+"Zentmire, Zelma",3.0,5.0,0.0,0.0,1911,Female,Science,2.0,0.0,2.0,1.0,1.0,0.0
+"Zimmerman, Arthur G.",3.0,3.0,0.0,0.0,1911,Male,Animal Husbandry,2.0,0.0,0.0,1.0,0.0,0.0
+"Halverson, H. A.",0.0,1.0,0.0,0.0,1911,Male,Civil Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Lake, Charles C.",1.0,0.0,0.0,1.0,1911,Male,Animal Husbandry,0.0,0.0,0.0,0.0,0.0,0.0
+"McRoberts, Hilton L.",2.0,6.0,1.0,0.0,1911,Male,Veterinary,2.0,1.0,1.0,2.0,1.0,0.0
+"Adams, D. E.",1.0,1.0,2.0,1.0,1912,Male,Civil Engineering,1.0,0.0,1.0,2.0,0.0,0.0
+"Alexander, P. V.",2.0,3.0,0.0,0.0,1912,Male,Electrical Engineering,1.0,0.0,1.0,1.0,0.0,0.0
+"Anderson, John W.",3.0,3.0,1.0,1.0,1912,Male,Electrical Engineering,2.0,0.0,2.0,2.0,0.0,1.0
+"Anderson, A. G.",1.0,2.0,2.0,0.0,1912,Male,Civil Engineering,0.0,0.0,0.0,1.0,1.0,0.0
+"Amesbury, E. G.",2.0,5.0,1.0,0.0,1912,Male,Civil Engineering,2.0,0.0,3.0,3.0,1.0,0.0
+"Arthur, Joseph N.",4.0,5.0,0.0,0.0,1912,Male,Civil Engineering,3.0,0.0,2.0,2.0,0.0,0.0
+"Baker, Jason",0.0,0.0,2.0,0.0,1912,Male,Mechanical Engineering,0.0,0.0,1.0,0.0,0.0,0.0
+"Banks, C. H.",1.0,1.0,2.0,2.0,1912,Male,Veterinary,0.0,0.0,0.0,0.0,1.0,2.0
+"Barret, Ruth",3.0,5.0,1.0,2.0,1912,Female,Science,1.0,1.0,2.0,3.0,1.0,0.0
+"Bass, Elmer A.",2.0,3.0,1.0,0.0,1912,Male,Animal Husbandry,1.0,1.0,1.0,1.0,2.0,0.0
+"Bass, Howard L.",0.0,3.0,1.0,0.0,1912,Male,Animal Husbandry,0.0,1.0,0.0,1.0,0.0,0.0
+"Baughman, J. T.",0.0,1.0,2.0,1.0,1912,Male,Veterinary,0.0,1.0,0.0,1.0,1.0,1.0
+"Beaty, Floyd A.",3.0,5.0,3.0,0.0,1912,Male,Electrical Engineering,3.0,1.0,2.0,2.0,2.0,0.0
+"Beckman, H. C.",3.0,2.0,1.0,1.0,1912,Male,Civil Engineering,1.0,2.0,0.0,1.0,0.0,0.0
+"Bell, Ray A.",3.0,4.0,2.0,0.0,1912,Male,Agronomy,1.0,0.0,1.0,1.0,0.0,0.0
+"Bell, Edward M.",2.0,5.0,0.0,0.0,1912,Male,Animal Husbandry,1.0,0.0,0.0,1.0,1.0,0.0
+"Benton, Eldridge M. A. H.",3.0,7.0,3.0,1.0,1912,Male,Animal Husbandry,4.0,2.0,1.0,2.0,1.0,2.0
+"Biller, Minerva",2.0,3.0,0.0,0.0,1912,Female,Home Economics,2.0,0.0,1.0,1.0,0.0,0.0
+"Bird, Byron",2.0,4.0,3.0,2.0,1912,Male,Civil Engineering,3.0,1.0,3.0,1.0,2.0,1.0
+"Bissell, Elsie K.",1.0,3.0,2.0,0.0,1912,Female,Home Economics,1.0,0.0,0.0,1.0,1.0,1.0
+"Blinn, Ray E.",1.0,1.0,0.0,0.0,1912,Male,Mechanical Engineering,1.0,0.0,1.0,1.0,0.0,0.0
+"Boden, Frank Otto",4.0,5.0,1.0,0.0,1912,Male,Civil Engineering,1.0,0.0,1.0,1.0,1.0,0.0
+"Bosman, Gideon J.",4.0,4.0,3.0,0.0,1912,Male,Agronomy,2.0,0.0,1.0,1.0,1.0,0.0
+"Brady, Electrical Engineering",2.0,2.0,0.0,0.0,1912,Male,Veterinary,0.0,0.0,1.0,1.0,0.0,0.0
+"Brant, W. O.",5.0,4.0,3.0,2.0,1912,Male,Agronomy,2.0,3.0,0.0,0.0,2.0,0.0
+"Brooks, Ernest C.",3.0,4.0,1.0,1.0,1912,Male,Electrical Engineering,1.0,0.0,1.0,2.0,1.0,0.0
+"Brouhard, O. J.",2.0,3.0,1.0,0.0,1912,Male,Animal Husbandry,0.0,1.0,0.0,0.0,0.0,0.0
+"Brown, Roy G.",2.0,1.0,1.0,0.0,1912,Male,Veterinary,1.0,0.0,1.0,1.0,0.0,0.0
+"Brown, Carrie Leona",3.0,5.0,2.0,1.0,1912,Female,Home Economics,4.0,1.0,3.0,4.0,1.0,1.0
+"Buckman, A. W.",0.0,1.0,2.0,1.0,1912,Male,Industrial Chemistry,0.0,0.0,1.0,0.0,0.0,0.0
+"Bysom, Leslie L.",2.0,2.0,1.0,1.0,1912,Male,Electrical Engineering,1.0,0.0,1.0,1.0,2.0,2.0
+"Caldwell, Florence",4.0,9.0,0.0,0.0,1912,Female,Home Economics,4.0,0.0,0.0,2.0,0.0,0.0
+"Campbell, A. L.",1.0,3.0,2.0,0.0,1912,Male,Mechanical Engineering,1.0,1.0,1.0,0.0,1.0,0.0
+"Cathcart, C. S.",2.0,3.0,0.0,0.0,1912,Male,Agricultural Engineering,1.0,0.0,1.0,3.0,0.0,0.0
+"Chambers, Arnette B.",2.0,2.0,1.0,1.0,1912,Male,Electrical Engineering,1.0,0.0,1.0,0.0,0.0,0.0
+"Chappel, A. R.",2.0,4.0,2.0,1.0,1912,Male,Animal Husbandry,2.0,1.0,0.0,3.0,2.0,1.0
+"Clark, Hal B.",3.0,6.0,0.0,0.0,1912,Male,Forestry,3.0,0.0,3.0,5.0,0.0,0.0
+"Clarkson, L. John",3.0,6.0,2.0,0.0,1912,Male,Mining Engineering,3.0,0.0,2.0,3.0,0.0,2.0
+"Clayton, Pearl",5.0,8.0,0.0,0.0,1912,Female,Science,2.0,0.0,1.0,2.0,0.0,0.0
+"Clemmer, Harold F.",1.0,1.0,2.0,2.0,1912,Male,Civil Engineering,0.0,0.0,1.0,1.0,1.0,1.0
+"Clyde, Flora H.",0.0,0.0,0.0,0.0,1912,Female,Home Economics,0.0,0.0,0.0,0.0,0.0,0.0
+"Collins, James V.",0.0,2.0,1.0,0.0,1912,Male,Electrical Engineering,0.0,0.0,0.0,1.0,1.0,0.0
+"Compton, D. Wroe",2.0,7.0,1.0,1.0,1912,Male,Animal Husbandry,4.0,0.0,1.0,2.0,1.0,0.0
+"Cool, C. A.",0.0,6.0,1.0,0.0,1912,Male,Civil Engineering,1.0,0.0,0.0,2.0,0.0,0.0
+"Cooper, Morton O.",1.0,3.0,6.0,1.0,1912,Male,Animal Husbandry,0.0,2.0,0.0,0.0,2.0,2.0
+"Corray, Lawrence E.",2.0,2.0,3.0,2.0,1912,Male,Civil Engineering,0.0,0.0,0.0,0.0,2.0,1.0
+"Craft, Ira C.",3.0,2.0,3.0,2.0,1912,Male,Civil Engineering,0.0,1.0,0.0,3.0,0.0,1.0
+"Cressler, Merritt W.",2.0,3.0,1.0,0.0,1912,Male,Civil Engineering,1.0,0.0,0.0,0.0,0.0,0.0
+"Crittenden, Florence",0.0,1.0,2.0,0.0,1912,Female,Home Economics,1.0,0.0,1.0,2.0,2.0,0.0
+"Cronin, L. J.",2.0,2.0,1.0,1.0,1912,Male,Forestry,0.0,0.0,0.0,1.0,0.0,0.0
+"Cronin, Maurice J.",2.0,5.0,0.0,0.0,1912,Male,Animal Husbandry,0.0,0.0,0.0,0.0,1.0,0.0
+"Culp, Opal Adrian",2.0,6.0,0.0,0.0,1912,Female,Home Economics,3.0,0.0,1.0,3.0,0.0,0.0
+"Cutler, E. C.",1.0,2.0,1.0,0.0,1912,Male,Mechanical Engineering,1.0,0.0,0.0,1.0,0.0,0.0
+"Day, R. M.",4.0,8.0,0.0,0.0,1912,Male,Dairy,2.0,0.0,0.0,1.0,2.0,0.0
+"Dean, Caroline Mary",2.0,3.0,2.0,1.0,1912,Female,Home Economics,2.0,1.0,3.0,3.0,2.0,1.0
+"De Vault, G. G.",0.0,3.0,2.0,2.0,1912,Male,Mechanical Engineering,2.0,1.0,1.0,2.0,0.0,0.0
+"Doty, Hiram S.",1.0,2.0,1.0,0.0,1912,Male,Science,1.0,0.0,2.0,1.0,0.0,0.0
+"Drake, Charles P.",2.0,3.0,3.0,1.0,1912,Male,Electrical Engineering,1.0,0.0,0.0,0.0,2.0,0.0
+"Drew, L. Paul",5.0,7.0,3.0,0.0,1912,Male,Civil Engineering,0.0,0.0,0.0,0.0,0.0,1.0
+"Dunn, Russell",4.0,5.0,0.0,0.0,1912,Male,Animal Husbandry,2.0,0.0,1.0,3.0,1.0,0.0
+"Dunlop, Alex. N.",1.0,4.0,1.0,0.0,1912,Male,Animal Husbandry,1.0,1.0,1.0,1.0,2.0,1.0
+"Dunlop, George",0.0,1.0,0.0,0.0,1912,Male,Agronomy,1.0,0.0,0.0,2.0,0.0,0.0
+"Dyer, W. K.",1.0,1.0,2.0,0.0,1912,Male,Animal Husbandry,0.0,1.0,0.0,0.0,2.0,0.0
+"Egloff, J. M.",2.0,4.0,1.0,0.0,1912,Male,Animal Husbandry,1.0,1.0,2.0,1.0,1.0,0.0
+"Ellis, Guy",1.0,1.0,2.0,0.0,1912,Male,Dairy,1.0,1.0,1.0,2.0,1.0,1.0
+"Emerson, J. Gordon",0.0,1.0,0.0,0.0,1912,Male,General Science,0.0,0.0,0.0,0.0,0.0,0.0
+"Fain, Olive Ernestine",0.0,2.0,0.0,0.0,1912,Female,Home Economics,1.0,0.0,0.0,0.0,1.0,0.0
+"Farquhar, Fred",0.0,1.0,0.0,0.0,1912,Male,Agronomy,1.0,0.0,0.0,1.0,0.0,0.0
+"Feddersen, P. C.",1.0,3.0,0.0,1.0,1912,Male,Mining Engineering,1.0,0.0,0.0,2.0,0.0,0.0
+"Ferrand, W. S.",2.0,3.0,0.0,0.0,1912,Male,Veterinary,2.0,1.0,1.0,2.0,1.0,1.0
+"Ferriols, Vincente",1.0,1.0,1.0,0.0,1912,Male,Veterinary,0.0,1.0,0.0,1.0,1.0,0.0
+"Fischer, Edward L.",3.0,4.0,1.0,1.0,1912,Male,Electrical Engineering,2.0,2.0,1.0,1.0,0.0,0.0
+"Flint, Victor",1.0,3.0,1.0,0.0,1912,Male,Animal Husbandry,0.0,0.0,0.0,1.0,0.0,0.0
+"Folkins, G. H.",3.0,2.0,0.0,0.0,1912,Male,Veterinary,1.0,0.0,1.0,2.0,0.0,0.0
+"Fowler, A. E.",0.0,3.0,1.0,0.0,1912,Male,Mechanical Engineering,1.0,0.0,2.0,2.0,2.0,0.0
+"Francis, Leslie L.",3.0,5.0,2.0,1.0,1912,Male,Electrical Engineering,2.0,1.0,0.0,1.0,2.0,1.0
+"Friedman, Victor N.",4.0,5.0,1.0,0.0,1912,Male,Electrical Engineering,2.0,0.0,0.0,3.0,1.0,0.0
+"Frommelt, Horace A.",4.0,8.0,0.0,0.0,1912,Male,Electrical Engineering,5.0,0.0,2.0,2.0,1.0,0.0
+"Fuchs, Iva B.",5.0,6.0,1.0,0.0,1912,Female,Home Economics,5.0,1.0,2.0,2.0,0.0,1.0
+"Furman, Russel A.",2.0,5.0,1.0,0.0,1912,Male,Civil Engineering,2.0,0.0,0.0,0.0,0.0,0.0
+"Gaden, Henry",1.0,2.0,1.0,0.0,1912,Male,Civil Engineering,2.0,0.0,2.0,2.0,0.0,0.0
+"Gaston, Mildred",3.0,6.0,0.0,0.0,1912,Female,Home Economics,5.0,0.0,1.0,3.0,0.0,0.0
+"Garabrandt, Howard",0.0,1.0,1.0,0.0,1912,Male,Agronomy,1.0,1.0,0.0,0.0,0.0,0.0
+"Gaylord, Ralph Welles",2.0,1.0,1.0,0.0,1912,Male,Civil Engineering,0.0,1.0,0.0,0.0,0.0,1.0
+"Gibson, Andrew D.",2.0,5.0,2.0,0.0,1912,Male,Electrical Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Gillis, Dewitt C.",3.0,4.0,3.0,0.0,1912,Male,Veterinary,2.0,1.0,2.0,2.0,1.0,0.0
+"Gillmor, I. F.",2.0,2.0,1.0,1.0,1912,Male,Animal Husbandry,2.0,0.0,2.0,3.0,1.0,0.0
+"Gjellefald, Olaf N.",2.0,3.0,0.0,0.0,1912,Male,Civil Engineering,1.0,0.0,1.0,1.0,0.0,0.0
+"Good, Harry F.",2.0,4.0,0.0,0.0,1912,Male,Electrical Engineering,3.0,0.0,1.0,1.0,1.0,0.0
+"Gray, Margaret",2.0,4.0,1.0,1.0,1912,Female,Home Economics,4.0,0.0,2.0,2.0,0.0,0.0
+"Gregg, Ralph W.",3.0,6.0,0.0,0.0,1912,Male,Animal Husbandry,1.0,0.0,0.0,1.0,0.0,0.0
+"Group, Jesse C.",6.0,7.0,4.0,1.0,1912,Male,Electrical Engineering,4.0,1.0,1.0,3.0,3.0,1.0
+"Hadley, Murray B.",4.0,5.0,2.0,1.0,1912,Male,Mining Engineering,4.0,0.0,2.0,2.0,3.0,0.0
+"Hale, Virgil",1.0,4.0,0.0,0.0,1912,Male,Mechanical Engineering,1.0,0.0,0.0,1.0,0.0,0.0
+"Hamilton, Sherman",1.0,5.0,1.0,1.0,1912,Male,Mechanical Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Hanson, Clara W.",1.0,3.0,1.0,1.0,1912,Female,Home Economics,2.0,0.0,1.0,2.0,0.0,0.0
+"Hanson, Irvin W.",5.0,7.0,2.0,1.0,1912,Male,Electrical Engineering,4.0,0.0,1.0,5.0,0.0,1.0
+"Harris, Rosalie",1.0,1.0,0.0,0.0,1912,Female,Home Economics,1.0,0.0,1.0,2.0,0.0,0.0
+"Hartnell, F. E.",3.0,5.0,0.0,1.0,1912,Male,Animal Husbandry,3.0,0.0,2.0,4.0,0.0,0.0
+"Haw, Arthur B.",1.0,2.0,1.0,2.0,1912,Male,Industrial Chemistry,2.0,0.0,1.0,2.0,1.0,0.0
+"Helm, F.",0.0,1.0,0.0,0.0,1912,Male,Animal Husbandry,0.0,0.0,0.0,0.0,0.0,0.0
+"Enninger, Frank E.",3.0,3.0,2.0,2.0,1912,Male,Mining Engineering,2.0,2.0,3.0,5.0,2.0,2.0
+"Hill, F. A.",2.0,7.0,9.0,7.0,1912,Male,Mechanical Engineering,6.0,3.0,1.0,3.0,6.0,0.0
+"Hill, T. John",1.0,6.0,1.0,1.0,1912,Male,Science,1.0,0.0,1.0,2.0,1.0,0.0
+"Hitchings, Charles C",3.0,6.0,0.0,0.0,1912,Male,Animal Husbandry,3.0,0.0,0.0,2.0,1.0,0.0
+"Horn, W. L.",0.0,3.0,1.0,1.0,1912,Male,Animal Husbandry,1.0,0.0,1.0,1.0,0.0,0.0
+"Howe, Alice",4.0,4.0,0.0,0.0,1912,Female,Home Economics,3.0,0.0,2.0,1.0,0.0,0.0
+"Hunter, Carrie",2.0,3.0,1.0,0.0,1912,Female,Home Economics,1.0,0.0,1.0,1.0,0.0,0.0
+"Hurst, R. L.",0.0,2.0,2.0,1.0,1912,Male,Mining Engineering,1.0,0.0,1.0,1.0,0.0,0.0
+"Hutchison, Claron B.",5.0,5.0,1.0,0.0,1912,Male,Electrical Engineering,2.0,0.0,1.0,2.0,0.0,0.0
+"Hyzer, Albert L.",1.0,2.0,2.0,0.0,1912,Male,Dairy,1.0,1.0,0.0,1.0,0.0,0.0
+"Jay, D. A.",1.0,2.0,0.0,0.0,1912,Male,Animal Husbandry,2.0,0.0,0.0,2.0,0.0,0.0
+"Johnson, Frank B.",3.0,6.0,3.0,1.0,1912,Male,Electrical Engineering,3.0,1.0,1.0,3.0,1.0,1.0
+"Jones, William E.",1.0,4.0,0.0,0.0,1912,Male,Civil Engineering,3.0,0.0,0.0,1.0,1.0,0.0
+"Jones, John J.",6.0,9.0,0.0,1.0,1912,Male,Mining Engineering,5.0,0.0,3.0,1.0,0.0,0.0
+"Keeney, Will E.",2.0,4.0,4.0,0.0,1912,Male,Civil Engineering,1.0,0.0,1.0,2.0,0.0,0.0
+"Keipp, Harry M.",2.0,3.0,0.0,0.0,1912,Male,Animal Husbandry,2.0,0.0,1.0,2.0,0.0,0.0
+"Keith, Roger",1.0,2.0,0.0,0.0,1912,Male,Mining Engineering,2.0,0.0,0.0,2.0,0.0,0.0
+"Kelleher, John J.",2.0,2.0,0.0,0.0,1912,Male,Animal Husbandry,0.0,0.0,0.0,1.0,0.0,0.0
+"Kennedy, Carl N.",4.0,4.0,0.0,0.0,1912,Male,Animal Husbandry,2.0,0.0,1.0,2.0,0.0,0.0
+"Kerrigan, John C.",2.0,6.0,1.0,1.0,1912,Male,Civil Engineering,2.0,0.0,1.0,5.0,0.0,0.0
+"King, Jessie Bernice",2.0,3.0,1.0,0.0,1912,Female,Home Economics,2.0,0.0,0.0,1.0,0.0,0.0
+"Knight, Everett F.",3.0,9.0,1.0,1.0,1912,Male,Electrical Engineering,4.0,2.0,1.0,4.0,0.0,0.0
+"Knutz, Will H.",1.0,2.0,0.0,0.0,1912,Male,Electrical Engineering,0.0,0.0,0.0,0.0,1.0,0.0
+"Koolish, Philip H.",3.0,5.0,1.0,0.0,1912,Male,Electrical Engineering,2.0,0.0,0.0,0.0,1.0,0.0
+"Krause, F. E.",2.0,4.0,0.0,0.0,1912,Male,Agronomy,2.0,0.0,1.0,1.0,1.0,0.0
+"Kuempel, Reuben ",2.0,2.0,0.0,0.0,1912,Male,Mechanical Engineering,2.0,0.0,1.0,2.0,0.0,0.0
+"Jacey, Sumner E.",0.0,4.0,2.0,0.0,1912,Male,Mechanical Engineering,2.0,0.0,1.0,2.0,0.0,0.0
+"Jake, Carrie",2.0,3.0,2.0,1.0,1912,Female,Home Economics,1.0,1.0,0.0,0.0,0.0,0.0
+"Jayman, Claude C.",1.0,1.0,0.0,0.0,1912,Male,Animal Husbandry,0.0,0.0,0.0,0.0,0.0,0.0
+"Jessel, L. R.",0.0,2.0,1.0,0.0,1912,Male,Forestry,1.0,0.0,0.0,1.0,0.0,0.0
+"Jemmon, Geo. R.",1.0,4.0,0.0,0.0,1912,Male,Civil Engineering,1.0,0.0,1.0,2.0,0.0,0.0
+"Lieser, Harold A.",0.0,2.0,0.0,0.0,1912,Male,Electrical Engineering,0.0,0.0,0.0,0.0,1.0,0.0
+"Little, Roy L.",7.0,7.0,4.0,5.0,1912,Male,Animal Husbandry,7.0,2.0,4.0,7.0,2.0,2.0
+"Lindaman, H. W.",0.0,0.0,1.0,1.0,1912,Male,Mechanical Engineering,0.0,0.0,0.0,1.0,1.0,0.0
+"Logan, C. C.",1.0,3.0,1.0,0.0,1912,Male,Veterinary,0.0,1.0,0.0,0.0,2.0,1.0
+"Longnecker, Albert C.",5.0,6.0,2.0,2.0,1912,Male,Agricultural Engineering,3.0,2.0,1.0,3.0,2.0,2.0
+"Loomis, George A.",2.0,4.0,1.0,1.0,1912,Male,Ceramics,1.0,1.0,0.0,2.0,1.0,1.0
+"Louck, Rex C.",0.0,0.0,0.0,1.0,1912,Male,Veterinary,0.0,0.0,0.0,1.0,0.0,0.0
+"Luithley, W. E.",0.0,3.0,0.0,0.0,1912,Male,Veterinary,2.0,0.0,0.0,2.0,0.0,0.0
+"Lynde, Alice",3.0,3.0,1.0,1.0,1912,Female,Home Economics,1.0,0.0,1.0,1.0,1.0,0.0
+"Mellor, Bessie",2.0,5.0,1.0,1.0,1912,Female,Home Economics,1.0,0.0,1.0,2.0,1.0,0.0
+"Maney, T. J.",0.0,3.0,2.0,1.0,1912,Male,Horticulture,0.0,1.0,0.0,2.0,1.0,1.0
+"Mayne, Earl W.",1.0,2.0,1.0,1.0,1912,Male,Veterinary,1.0,1.0,0.0,1.0,1.0,0.0
+"McCown, W. Verne",2.0,4.0,2.0,0.0,1912,Male,Civil Engineering,0.0,0.0,0.0,1.0,2.0,1.0
+"McDonough, Dan G.",1.0,1.0,3.0,2.0,1912,Male,Electrical Engineering,0.0,1.0,1.0,2.0,2.0,1.0
+"McDermott, Guy I.",2.0,4.0,1.0,0.0,1912,Male,Agricultural Engineering,2.0,0.0,2.0,1.0,0.0,0.0
+"McElroy, Harold W.",1.0,3.0,0.0,0.0,1912,Male,Dairy,2.0,0.0,0.0,3.0,0.0,0.0
+"McGrew, E. M.",2.0,6.0,0.0,1.0,1912,Male,Agronomy,3.0,0.0,2.0,2.0,1.0,1.0
+"McKelvy, I. P.",4.0,4.0,2.0,0.0,1912,Male,Agronomy,2.0,0.0,1.0,1.0,1.0,0.0
+"McMillan, L. E.",1.0,3.0,1.0,1.0,1912,Male,Animal Husbandry,2.0,0.0,1.0,1.0,0.0,0.0
+"Meade, R. S.",1.0,1.0,1.0,0.0,1912,Male,Electrical Engineering,1.0,0.0,1.0,1.0,1.0,0.0
+"Mercer, Clyde",3.0,7.0,0.0,0.0,1912,Male,Electrical Engineering,3.0,0.0,1.0,2.0,0.0,0.0
+"Miller, Claude C.",5.0,8.0,1.0,1.0,1912,Male,Electrical Engineering,4.0,1.0,3.0,3.0,2.0,0.0
+"Miller, W. J.",5.0,5.0,0.0,0.0,1912,Male,Veterinary,3.0,0.0,1.0,3.0,0.0,0.0
+"Miner, Leland R.",3.0,4.0,1.0,2.0,1912,Male,Mechanical Engineering,2.0,1.0,1.0,2.0,0.0,0.0
+"Molsberry, H. C.",0.0,0.0,1.0,1.0,1912,Male,Electrical Engineering,0.0,1.0,1.0,1.0,1.0,1.0
+"Montillon, Geo. H.",1.0,5.0,2.0,1.0,1912,Male,Mechanical Engineering,0.0,1.0,0.0,0.0,2.0,0.0
+"Moore, C. G.",1.0,1.0,3.0,1.0,1912,Male,Veterinary,1.0,1.0,0.0,1.0,1.0,1.0
+"Moore, Lela",1.0,3.0,2.0,1.0,1912,Female,Home Economics,1.0,1.0,0.0,0.0,1.0,1.0
+"Moorehead, Helen",0.0,1.0,2.0,2.0,1912,Female,Home Economics,1.0,1.0,1.0,1.0,0.0,2.0
+"Moriarty, Clarence",2.0,4.0,1.0,0.0,1912,Male,Civil Engineering,2.0,0.0,0.0,1.0,0.0,0.0
+"Mosbo, Edward",0.0,4.0,0.0,0.0,1912,Male,Mechanical Engineering,1.0,0.0,0.0,1.0,0.0,0.0
+"Mould, Henry E.",2.0,2.0,0.0,0.0,1912,Male,Electrical Engineering,1.0,0.0,1.0,1.0,0.0,0.0
+"Murray, Chas. A.",0.0,1.0,1.0,0.0,1912,Male,Veterinary,1.0,0.0,0.0,1.0,0.0,0.0
+"Meyers, C. H.",4.0,4.0,3.0,1.0,1912,Male,Mechanical Engineering,3.0,1.0,2.0,2.0,1.0,1.0
+"Naiden, James H.",2.0,2.0,1.0,2.0,1912,Male,Mechanical Engineering,1.0,0.0,1.0,2.0,1.0,0.0
+"Dason, Everett P.",1.0,4.0,1.0,0.0,1912,Male,Electrical Engineering,2.0,0.0,0.0,1.0,1.0,0.0
+"Negaard, Clark Oscar",3.0,5.0,0.0,0.0,1912,Male,Mechanical Engineering,0.0,0.0,0.0,0.0,1.0,0.0
+"Nemmers, W. P.",1.0,3.0,1.0,0.0,1912,Male,Civil Engineering,1.0,1.0,0.0,1.0,0.0,0.0
+"Newburger, Morton B.",3.0,3.0,1.0,0.0,1912,Male,Dairy,1.0,0.0,0.0,0.0,0.0,0.0
+"Newell, Thomas R.",1.0,3.0,1.0,0.0,1912,Male,Civil Engineering,1.0,0.0,0.0,0.0,1.0,0.0
+"Newsome, F. W.",1.0,3.0,0.0,0.0,1912,Male,Animal Husbandry,2.0,0.0,1.0,0.0,0.0,0.0
+"O'Banion, A. C.",0.0,0.0,1.0,0.0,1912,Male,Forestry,0.0,1.0,0.0,0.0,0.0,0.0
+"O'Neil, Clem J.",3.0,3.0,0.0,0.0,1912,Male,Dairy,1.0,0.0,0.0,1.0,0.0,0.0
+"Olmstead, Harry H.",0.0,1.0,0.0,0.0,1912,Male,Veterinary,0.0,0.0,0.0,1.0,0.0,0.0
+"Olmstead, R. A.",4.0,5.0,3.0,1.0,1912,Male,Forestry,2.0,1.0,1.0,2.0,2.0,1.0
+"Olsen, Gustave C.",1.0,2.0,2.0,0.0,1912,Male,Civil Engineering,1.0,0.0,1.0,1.0,1.0,0.0
+"Olson, William A.",5.0,7.0,3.0,2.0,1912,Male,Civil Engineering,2.0,1.0,2.0,0.0,2.0,1.0
+"Olson, DeWitt P.",3.0,3.0,3.0,2.0,1912,Male,Civil Engineering,3.0,0.0,1.0,1.0,3.0,0.0
+"Olson, Carl E.",2.0,5.0,1.0,1.0,1912,Male,Civil Engineering,0.0,0.0,1.0,2.0,0.0,0.0
+"Osborn, Lynn W.",3.0,3.0,1.0,1.0,1912,Male,Agronomy,2.0,1.0,4.0,3.0,1.0,0.0
+"Packman, Chloe Grace",1.0,4.0,1.0,0.0,1912,Female,General Science,0.0,1.0,0.0,1.0,0.0,1.0
+"Paine, H. W.",0.0,2.0,1.0,1.0,1912,Male,Mechanical Engineering,0.0,0.0,0.0,1.0,0.0,0.0
+"Parker, Robert H.",2.0,6.0,1.0,1.0,1912,Male,Civil Engineering,3.0,0.0,2.0,2.0,0.0,0.0
+"Parmenter, Glee",2.0,2.0,2.0,0.0,1912,Male,Veterinary,0.0,2.0,0.0,1.0,0.0,0.0
+"Patterson, John",3.0,4.0,2.0,0.0,1912,Male,Veterinary,3.0,0.0,0.0,0.0,2.0,1.0
+"Paulsen, John August",0.0,2.0,2.0,1.0,1912,Male,Civil Engineering,0.0,0.0,0.0,1.0,1.0,1.0
+"Peck, Louise",1.0,3.0,0.0,0.0,1912,Female,Home Economics,0.0,0.0,0.0,0.0,0.0,0.0
+"Pollock, R. C.",2.0,3.0,1.0,1.0,1912,Male,Science,0.0,0.0,0.0,1.0,0.0,0.0
+"Pomeroy, S. L.",4.0,4.0,2.0,0.0,1912,Male,Civil Engineering,3.0,3.0,2.0,4.0,1.0,0.0
+"Porter, D. G.",2.0,3.0,2.0,0.0,1912,Male,Mechanical Engineering,2.0,0.0,1.0,2.0,0.0,0.0
+"Ramey, Ethel",0.0,6.0,0.0,0.0,1912,Female,Music,1.0,0.0,0.0,1.0,2.0,0.0
+"Richmond, Chas. A.",3.0,4.0,0.0,0.0,1912,Male,Mechanical Engineering,1.0,0.0,2.0,2.0,0.0,0.0
+"Richmond, Howard H.",0.0,2.0,0.0,0.0,1912,Male,Forestry,1.0,0.0,0.0,0.0,0.0,0.0
+"Reed, Clark",4.0,3.0,1.0,0.0,1912,Male,Animal Husbandry,2.0,0.0,2.0,1.0,1.0,0.0
+"Roberts, Lucia L.",3.0,2.0,0.0,0.0,1912,Male,Veterinary,1.0,0.0,1.0,1.0,0.0,0.0
+"Robinson, Clara A.",2.0,5.0,0.0,0.0,1912,Female,Home Economics,0.0,0.0,0.0,1.0,0.0,0.0
+"Rogers, Glenn E. A. H.",1.0,4.0,1.0,1.0,1912,Male,Animal Husbandry,1.0,1.0,1.0,0.0,0.0,1.0
+"Rosecrans, Merle",0.0,3.0,2.0,1.0,1912,Male,Civil Engineering,1.0,1.0,0.0,3.0,2.0,0.0
+"Rowat, T. W.",2.0,2.0,0.0,0.0,1912,Male,Civil Engineering,1.0,0.0,1.0,0.0,0.0,0.0
+"Rounds, A. D.",1.0,1.0,2.0,0.0,1912,Male,Civil Engineering,1.0,1.0,0.0,0.0,0.0,0.0
+"Sanborn, G. Clifford",3.0,6.0,1.0,0.0,1912,Male,Mining Engineering,2.0,0.0,1.0,4.0,1.0,1.0
+"Scott, David R.",2.0,3.0,0.0,0.0,1912,Male,Electrical Engineering,1.0,0.0,1.0,2.0,0.0,0.0
+"Schnaidt, H. A.",1.0,4.0,1.0,1.0,1912,Male,Animal Husbandry,1.0,1.0,2.0,1.0,1.0,0.0
+"Schumacher, C.",0.0,2.0,1.0,0.0,1912,Male,Mechanical Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Sheehan, Wm. M.",0.0,5.0,1.0,1.0,1912,Male,Electrical Engineering,1.0,1.0,0.0,2.0,0.0,0.0
+"Shupe, Milton W.",4.0,4.0,0.0,0.0,1912,Male,Electrical Engineering,3.0,0.0,2.0,2.0,0.0,0.0
+"Shields, Robert W.",0.0,0.0,0.0,0.0,1912,Male,Civil Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Shearer, P. S.",5.0,5.0,0.0,0.0,1912,Male,Animal Husbandry,3.0,0.0,2.0,2.0,0.0,0.0
+"Silver, Frank F.",5.0,4.0,1.0,1.0,1912,Male,Animal Husbandry,2.0,0.0,1.0,1.0,1.0,0.0
+"Simmons, G. P.",3.0,3.0,1.0,1.0,1912,Male,Veterinary,2.0,1.0,0.0,1.0,0.0,0.0
+"Skinner, S. P.",3.0,4.0,1.0,1.0,1912,Male,Animal Husbandry,2.0,2.0,2.0,2.0,0.0,0.0
+"Smith, Wm. A.",6.0,6.0,0.0,1.0,1912,Male,Forestry,4.0,1.0,3.0,5.0,0.0,0.0
+"Smith, Fae E.",7.0,8.0,1.0,0.0,1912,Male,Electrical Engineering,2.0,0.0,2.0,2.0,0.0,0.0
+"Smith, Grace E.",3.0,5.0,1.0,0.0,1912,Female,Home Economics,3.0,0.0,0.0,2.0,0.0,0.0
+"Smith, Howard E.",1.0,1.0,1.0,0.0,1912,Male,Animal Husbandry,0.0,0.0,0.0,0.0,0.0,0.0
+"Smullin, George W.",1.0,5.0,2.0,1.0,1912,Male,Mechanical Engineering,4.0,0.0,2.0,4.0,0.0,0.0
+"Sosa, Hermas A.",2.0,2.0,0.0,1.0,1912,Male,Agronomy,2.0,0.0,1.0,1.0,0.0,0.0
+"Sperry, Don C.",1.0,8.0,2.0,2.0,1912,Male,Veterinary,0.0,0.0,0.0,0.0,1.0,0.0
+"Stang, L. C.",1.0,4.0,1.0,0.0,1912,Male,Electrical Engineering,1.0,0.0,1.0,1.0,3.0,1.0
+"Stearns, Harvey P.",6.0,5.0,4.0,3.0,1912,Male,Mechanical Engineering,2.0,1.0,2.0,3.0,4.0,0.0
+"Stephenson, J. L.",1.0,1.0,0.0,0.0,1912,Male,Civil Engineering,1.0,0.0,0.0,1.0,0.0,0.0
+"Stewart, Carl A.",2.0,2.0,3.0,2.0,1912,Male,Civil Engineering,2.0,2.0,1.0,1.0,2.0,1.0
+"Taylor, Ben L.",3.0,3.0,2.0,0.0,1912,Male,Civil Engineering,0.0,1.0,2.0,0.0,0.0,0.0
+"Taylor, Lee",4.0,6.0,2.0,1.0,1912,Male,Mining Engineering,4.0,1.0,2.0,2.0,1.0,0.0
+"Thompson, D. C.",2.0,3.0,0.0,0.0,1912,Male,Mechanical Engineering,1.0,0.0,1.0,2.0,0.0,0.0
+"Thornburg, Earl R.",1.0,2.0,0.0,1.0,1912,Male,Electrical Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+Thomas W. Lynk,4.0,3.0,0.0,1.0,1912,Male,Civil Engineering,2.0,0.0,2.0,1.0,0.0,0.0
+"Tong, Edna",4.0,3.0,4.0,1.0,1912,Female,Home Economics,3.0,2.0,2.0,3.0,1.0,0.0
+"Tompkins, J. Lester",4.0,4.0,0.0,0.0,1912,Male,Animal Husbandry,1.0,0.0,1.0,1.0,1.0,0.0
+"Truax, T. R.",0.0,3.0,2.0,1.0,1912,Male,Science,0.0,2.0,0.0,1.0,0.0,1.0
+"Tyson, Harry B.",1.0,3.0,3.0,0.0,1912,Male,Mining Engineering,1.0,2.0,0.0,1.0,1.0,0.0
+"Un, Chung C.",4.0,9.0,1.0,0.0,1912,Male,Agronomy,1.0,0.0,1.0,3.0,0.0,0.0
+"Van Deventer, James R.",4.0,5.0,0.0,0.0,1912,Male,Animal Husbandry,2.0,0.0,2.0,1.0,0.0,0.0
+"Van Meerten, Elbert J.",2.0,4.0,1.0,0.0,1912,Male,Agricultural Engineering,2.0,0.0,1.0,1.0,0.0,0.0
+"Worse, Charles",4.0,6.0,2.0,0.0,1912,Male,Civil Engineering,2.0,1.0,2.0,1.0,0.0,0.0
+"Wagner, Kenneth",1.0,2.0,0.0,0.0,1912,Male,Civil Engineering,1.0,0.0,2.0,1.0,0.0,0.0
+"Walkey, Fred L.",4.0,0.0,0.0,0.0,1912,Male,Veterinary,0.0,0.0,1.0,1.0,0.0,0.0
+"Walker, Robt K.",1.0,3.0,0.0,0.0,1912,Male,Animal Husbandry,2.0,0.0,1.0,3.0,0.0,0.0
+"Walker, Marion",4.0,7.0,0.0,0.0,1912,Female,Home Economics,3.0,0.0,1.0,2.0,0.0,0.0
+"Wall, Joe F.",0.0,1.0,1.0,0.0,1912,Male,Veterinary,1.0,0.0,1.0,0.0,0.0,0.0
+"Walraven, John W.",1.0,4.0,6.0,5.0,1912,Male,Electrical Engineering,0.0,4.0,0.0,2.0,2.0,2.0
+"Walton, Sam F.",0.0,3.0,1.0,0.0,1912,Male,Ceramics,0.0,1.0,1.0,1.0,0.0,0.0
+"Weaver, Ethel",3.0,4.0,1.0,0.0,1912,Female,Home Economics,3.0,0.0,3.0,3.0,0.0,1.0
+"Webster, Hugh",1.0,4.0,1.0,0.0,1912,Male,Animal Husbandry,1.0,0.0,0.0,1.0,1.0,0.0
+"Wells, Clark J.",2.0,6.0,0.0,0.0,1912,Male,Electrical Engineering,2.0,0.0,0.0,0.0,0.0,0.0
+"Wendt, Wm.",3.0,2.0,0.0,0.0,1912,Male,Civil Engineering,1.0,0.0,1.0,1.0,0.0,0.0
+"Whentch, Margaret",3.0,5.0,1.0,1.0,1912,Female,Science,4.0,1.0,2.0,2.0,0.0,0.0
+"Whentzel, Claude E.",1.0,3.0,0.0,0.0,1912,Male,Agronomy,1.0,1.0,1.0,2.0,0.0,0.0
+"White, Warren G.",1.0,2.0,0.0,3.0,1912,Male,Civil Engineering,1.0,1.0,1.0,1.0,0.0,0.0
+"Whitehead, Herbert H.",5.0,5.0,0.0,1.0,1912,Male,Animal Husbandry,3.0,1.0,0.0,2.0,0.0,0.0
+"Whitaker, W. S.",1.0,2.0,1.0,0.0,1912,Male,Agronomy,1.0,1.0,1.0,2.0,0.0,0.0
+"White, Helen",3.0,8.0,0.0,0.0,1912,Female,Home Economics,1.0,0.0,2.0,0.0,0.0,0.0
+"Wilcox, Herbert",1.0,2.0,0.0,0.0,1912,Male,Forestry,1.0,0.0,1.0,1.0,0.0,0.0
+"Wilkinson, H. Arthur",2.0,2.0,1.0,1.0,1912,Male,Electrical Engineering,0.0,1.0,0.0,1.0,1.0,1.0
+"Williams, Ruth",2.0,2.0,0.0,0.0,1912,Female,Home Economics,2.0,0.0,0.0,0.0,0.0,0.0
+"Williams, H. L.",0.0,0.0,1.0,0.0,1912,Male,Animal Husbandry,0.0,0.0,0.0,1.0,0.0,0.0
+"Williams, C. M.",2.0,2.0,2.0,0.0,1912,Male,Horticulture,1.0,1.0,0.0,0.0,1.0,0.0
+"Wilson, Osee Jane",3.0,2.0,4.0,2.0,1912,Female,Home Economics,1.0,0.0,0.0,1.0,1.0,1.0
+"Wilson, B. B.",0.0,3.0,2.0,0.0,1912,Male,Animal Husbandry,0.0,0.0,0.0,1.0,0.0,0.0
+"Wilson, Maude E.",5.0,5.0,1.0,0.0,1912,Female,Science,3.0,1.0,0.0,3.0,0.0,0.0
+"Witwer, Polly",2.0,4.0,0.0,0.0,1912,Female,Home Economics,1.0,0.0,0.0,0.0,0.0,0.0
+"Wormley, Don S.",0.0,0.0,2.0,0.0,1912,Male,Agricultural Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Wolfe, John H.",2.0,4.0,4.0,1.0,1912,Male,Chemistry Engineering,3.0,3.0,2.0,3.0,1.0,2.0
+"Wright, Harry F.",0.0,1.0,1.0,0.0,1912,Male,Mining Engineering,0.0,1.0,0.0,1.0,1.0,0.0
+"Zentmire, D.",0.0,4.0,1.0,0.0,1912,Male,Agronomy,0.0,0.0,0.0,1.0,1.0,0.0
+"Te Veltrup, Edward",5.0,8.0,1.0,1.0,1912,Male,Electrical Engineering,4.0,1.0,1.0,3.0,0.0,0.0
+"Mann, Wm. G.",1.0,2.0,1.0,0.0,1912,Male,Electrical Engineering,1.0,0.0,1.0,4.0,0.0,0.0
+"Gericke, Wm. F.",1.0,2.0,0.0,0.0,1912,Male,Agronomy,0.0,0.0,0.0,1.0,0.0,0.0
+"Bergen, Hansen",3.0,2.0,1.0,0.0,1912,Male,Science,1.0,0.0,1.0,1.0,0.0,0.0
+"Stivers, Ernest D.",3.0,3.0,0.0,1.0,1912,Male,Science and Agronomy,3.0,1.0,1.0,1.0,0.0,0.0
+"Abram, William",1.0,2.0,0.0,0.0,1913,Male,Civil Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Adams, Neil",1.0,2.0,1.0,0.0,1913,Male,Civil Engineering,1.0,1.0,1.0,2.0,1.0,0.0
+"Aldrich, Sperry W.",1.0,3.0,0.0,0.0,1913,Male,Civil Engineering,2.0,0.0,0.0,1.0,0.0,0.0
+"Allender, Merwyn M.",3.0,3.0,0.0,0.0,1913,Male,Animal Husbandry,2.0,0.0,1.0,1.0,0.0,0.0
+"Allstrand, Harry P.",1.0,3.0,1.0,1.0,1913,Male,Mechanical Engineering,1.0,1.0,0.0,2.0,0.0,1.0
+"Arentson, James A.",0.0,1.0,0.0,0.0,1913,Male,Agricultural Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Armour, Harvey B.",0.0,0.0,1.0,0.0,1913,Male,Civil Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Arthur, Edna",3.0,4.0,0.0,0.0,1913,Female,Home Economics,3.0,0.0,0.0,2.0,1.0,0.0
+"Ashby, William W.",1.0,0.0,1.0,0.0,1913,Male,Agricultural Engineering,0.0,0.0,0.0,0.0,1.0,0.0
+"Bacon, Frank R.",1.0,2.0,0.0,1.0,1913,Male,Agronomy,1.0,0.0,0.0,0.0,0.0,0.0
+"Bancroft, John S.",4.0,4.0,0.0,0.0,1913,Male,Animal Husbandry,4.0,0.0,1.0,3.0,0.0,1.0
+"Barker, Howard C.",4.0,3.0,1.0,1.0,1913,Male,Animal Husbandry,2.0,1.0,1.0,1.0,1.0,1.0
+"Barker, W. Earl",1.0,3.0,1.0,1.0,1913,Male,Civil Engineering,1.0,1.0,0.0,1.0,1.0,0.0
+"Barney, Fayette",1.0,0.0,1.0,0.0,1913,Male,Dairy,0.0,1.0,0.0,0.0,0.0,0.0
+"Batchelder, D. T.",2.0,3.0,0.0,0.0,1913,Male,Animal Husbandry,2.0,0.0,1.0,2.0,0.0,0.0
+"Baxter, L. J.",0.0,0.0,0.0,0.0,1913,Male,Science and Agronomy,0.0,0.0,0.0,1.0,0.0,0.0
+"Bell, Lucile",1.0,3.0,0.0,0.0,1913,Female,Home Economics,1.0,0.0,0.0,2.0,0.0,0.0
+"Bird, Catherine",0.0,0.0,0.0,0.0,1913,Female,Home Economics,0.0,0.0,0.0,0.0,0.0,0.0
+"Bird, Paul",0.0,3.0,0.0,0.0,1913,Male,Agronomy,0.0,0.0,0.0,0.0,1.0,0.0
+"Bisbee, Earl",3.0,4.0,2.0,0.0,1913,Male,Dairy,3.0,0.0,2.0,4.0,0.0,0.0
+"Bliss, Callie May",3.0,3.0,0.0,0.0,1913,Female,Home Economics,2.0,0.0,2.0,2.0,0.0,0.0
+"Bone, Joe",1.0,4.0,0.0,0.0,1913,Male,Animal Husbandry,2.0,0.0,2.0,2.0,0.0,0.0
+"Bonner, Gladys K.",3.0,4.0,0.0,0.0,1913,Female,Home Economics,2.0,0.0,1.0,4.0,0.0,0.0
+"Bonsteel, Myron M.",3.0,7.0,0.0,0.0,1913,Male,Mechanical Engineering,3.0,0.0,1.0,3.0,1.0,0.0
+"Bouton, E. M.",4.0,5.0,0.0,0.0,1913,Male,Electrical Engineering,1.0,0.0,1.0,1.0,0.0,0.0
+"Boyts, Harry J.",2.0,1.0,1.0,1.0,1913,Male,Animal Husbandry,1.0,0.0,1.0,2.0,0.0,1.0
+"Bradford, Bernice",1.0,2.0,0.0,0.0,1913,Female,Science,1.0,0.0,0.0,0.0,0.0,0.0
+"Brasted, Orin R.",1.0,2.0,1.0,0.0,1913,Male,Animal Husbandry,1.0,0.0,1.0,1.0,0.0,0.0
+"Brown, David K.",0.0,0.0,2.0,0.0,1913,Male,Forestry,0.0,0.0,0.0,0.0,0.0,0.0
+"Brumhall, J. H.",1.0,1.0,1.0,1.0,1913,Male,Electrical Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Burge, Charles A.",2.0,4.0,1.0,1.0,1913,Male,Animal Husbandry,2.0,1.0,1.0,2.0,1.0,0.0
+"Burlingham, C. Lloyd",1.0,3.0,0.0,0.0,1913,Male,Animal Husbandry,2.0,0.0,0.0,0.0,0.0,0.0
+"Burnett, Lloyd C.",1.0,1.0,2.0,0.0,1913,Male,Animal Husbandry,0.0,0.0,0.0,0.0,1.0,0.0
+"Butler, Lyle A.",0.0,0.0,2.0,0.0,1913,Male,Mining Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Cairy, Forest W.",1.0,1.0,1.0,0.0,1913,Male,Veterinary,1.0,0.0,1.0,1.0,0.0,0.0
+"Campbell, Clyde B.",2.0,3.0,0.0,0.0,1913,Male,Animal Husbandry,1.0,0.0,1.0,0.0,0.0,0.0
+"Chamberlain, Mark O.",1.0,4.0,1.0,1.0,1913,Male,Civil Engineering,2.0,0.0,1.0,0.0,0.0,0.0
+"Chatburn, Guy",2.0,2.0,0.0,0.0,1913,Male,Electrical Engineering,1.0,0.0,0.0,1.0,0.0,0.0
+"Chatterjee, Brahma N.",0.0,0.0,1.0,0.0,1913,Male,Animal Husbandry,0.0,0.0,0.0,0.0,0.0,0.0
+"Clapp, Paul",5.0,4.0,0.0,0.0,1913,Male,Electrical Engineering,2.0,0.0,0.0,0.0,0.0,0.0
+"Clark, Clifford K.",5.0,5.0,1.0,0.0,1913,Male,Mining Engineering,3.0,1.0,2.0,3.0,0.0,0.0
+"Clutter, J. A.",3.0,3.0,0.0,0.0,1913,Male,Dairy,0.0,0.0,0.0,0.0,0.0,0.0
+"Cochran, Clyde F.",1.0,2.0,0.0,0.0,1913,Male,Horticulture,1.0,0.0,1.0,0.0,0.0,0.0
+"Cochran, Morris C.",4.0,4.0,2.0,0.0,1913,Male,Animal Husbandry,4.0,0.0,2.0,2.0,0.0,0.0
+"Cochrane, William F.",3.0,7.0,1.0,1.0,1913,Male,Civil Engineering,4.0,0.0,2.0,2.0,1.0,0.0
+"Coe, Howard S.",2.0,2.0,0.0,0.0,1913,Male,Science,1.0,0.0,1.0,1.0,0.0,0.0
+"Conlee, Glenn L.",1.0,1.0,1.0,0.0,1913,Male,Electrical Engineering,0.0,0.0,0.0,0.0,1.0,0.0
+"Conlee, Harold E.",0.0,0.0,0.0,0.0,1913,Male,Electrical Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Costigan, George L.",0.0,1.0,1.0,0.0,1913,Male,Agricultural Engineering,1.0,0.0,0.0,1.0,1.0,0.0
+"Coverdale, Roy E.",0.0,0.0,1.0,2.0,1913,Male,Animal Husbandry,0.0,1.0,0.0,0.0,1.0,0.0
+"Crawford, A. Jesse",1.0,1.0,0.0,1.0,1913,Male,Mining Engineering,1.0,0.0,0.0,1.0,1.0,0.0
+"Crawford, Arch R.",1.0,1.0,0.0,0.0,1913,Male,Civil Engineering,1.0,0.0,0.0,0.0,0.0,0.0
+"Crocker, Thomas F.",2.0,2.0,0.0,0.0,1913,Male,Animal Husbandry,2.0,0.0,0.0,0.0,0.0,0.0
+"Crowley, Orville W.",2.0,3.0,0.0,0.0,1913,Male,Civil Engineering,3.0,0.0,1.0,2.0,0.0,0.0
+"Daly, Claude C.",2.0,1.0,1.0,1.0,1913,Male,Electrical Engineering,0.0,0.0,1.0,1.0,1.0,0.0
+"D'Antremont, Frank J.",0.0,0.0,2.0,1.0,1913,Male,Civil Engineering,0.0,0.0,0.0,2.0,1.0,0.0
+"Darbyshire, Glen",2.0,2.0,1.0,1.0,1913,Male,Veterinary and Animal Husbandry,1.0,0.0,0.0,1.0,1.0,0.0
+"Dickinson, Sherman",1.0,3.0,2.0,1.0,1913,Male,Animal Husbandry,2.0,2.0,1.0,2.0,1.0,2.0
+"Dibine, E. R.",3.0,6.0,0.0,0.0,1913,Male,Animal Husbandry,3.0,0.0,2.0,3.0,0.0,0.0
+"Dolcini, Valente",2.0,2.0,0.0,0.0,1913,Male,Animal Husbandry,0.0,0.0,0.0,3.0,0.0,0.0
+"Dorchester, Charles S.",4.0,4.0,0.0,0.0,1913,Male,Agronomy,3.0,0.0,3.0,4.0,0.0,0.0
+"Doty, Lewis J.",1.0,4.0,1.0,1.0,1913,Male,Veterinary,0.0,0.0,0.0,1.0,1.0,0.0
+"Doyle, Bernard L.",1.0,1.0,1.0,0.0,1913,Male,Veterinary,1.0,0.0,1.0,1.0,0.0,0.0
+"Egert, Benjamin J.",0.0,3.0,0.0,0.0,1913,Male,Mechanical Engineering,0.0,0.0,0.0,0.0,1.0,0.0
+"Ellis, Percy L.",3.0,3.0,1.0,0.0,1913,Male,Veterinary,1.0,0.0,1.0,1.0,0.0,0.0
+"Evans, R. M.",3.0,3.0,1.0,0.0,1913,Male,Civil Engineering,3.0,0.0,4.0,2.0,1.0,0.0
+"Fensler, H. M.",3.0,2.0,0.0,0.0,1913,Male,Civil Engineering,2.0,0.0,2.0,2.0,0.0,0.0
+"Fenton, Faith",0.0,4.0,1.0,0.0,1913,Female,Home Economics,0.0,0.0,1.0,0.0,1.0,0.0
+"Ferguson, Howard C.",4.0,3.0,2.0,1.0,1913,Male,Animal Husbandry,3.0,0.0,2.0,4.0,1.0,1.0
+"Fick, Adolph",0.0,2.0,0.0,0.0,1913,Male,Civil Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Finley, Edson L.",2.0,5.0,1.0,0.0,1913,Male,Veterinary,3.0,0.0,2.0,2.0,0.0,0.0
+"Fisher, Charles M.",1.0,2.0,0.0,0.0,1913,Male,Civil Engineering,2.0,0.0,2.0,1.0,0.0,0.0
+"Frazier, Everett H.",0.0,1.0,1.0,1.0,1913,Male,Civil Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Gage, Helen",1.0,1.0,0.0,0.0,1913,Female,Home Economics,1.0,0.0,0.0,1.0,0.0,0.0
+"Gates, Levi S.",5.0,4.0,0.0,0.0,1913,Male,Civil Engineering,2.0,0.0,3.0,3.0,0.0,0.0
+"Gatewood, Ray",1.0,0.0,0.0,0.0,1913,Male,Animal Husbandry,0.0,0.0,0.0,0.0,0.0,0.0
+"Gilchrist, Clifford M.",2.0,2.0,0.0,0.0,1913,Male,Veterinary,1.0,0.0,1.0,2.0,0.0,0.0
+"Gillette, Chester S.",1.0,2.0,0.0,0.0,1913,Male,Animal Husbandry,2.0,0.0,0.0,1.0,0.0,0.0
+"Girton, Earl S.",3.0,3.0,0.0,0.0,1913,Male,Animal Husbandry,2.0,0.0,1.0,1.0,0.0,0.0
+"Glaze, Clifford H.",3.0,4.0,0.0,1.0,1913,Male,Mechanical Engineering,3.0,0.0,3.0,4.0,0.0,0.0
+"Graham, D. W.",1.0,3.0,0.0,0.0,1913,Male,Agronomy,0.0,0.0,0.0,0.0,0.0,0.0
+"Gratiot, Joseph B.",1.0,1.0,0.0,0.0,1913,Male,Animal Husbandry,0.0,0.0,0.0,2.0,0.0,0.0
+"Hackett, Shirley M.",1.0,1.0,0.0,0.0,1913,Male,Agricultural Education,1.0,0.0,1.0,1.0,0.0,0.0
+"Hamm, J. R.",0.0,2.0,0.0,0.0,1913,Male,Civil Engineering,0.0,0.0,0.0,0.0,1.0,0.0
+"Hall, Harry W.",3.0,3.0,1.0,1.0,1913,Male,Veterinary,1.0,0.0,1.0,1.0,0.0,0.0
+"Hall, Oro W.",1.0,1.0,3.0,2.0,1913,Male,Electrical Engineering,0.0,0.0,0.0,2.0,3.0,2.0
+"Hanson, Marie",1.0,3.0,0.0,1.0,1913,Female,Home Economics,1.0,0.0,1.0,1.0,0.0,0.0
+"Harmon, Guy C.",0.0,0.0,2.0,0.0,1913,Male,Animal Husbandry,0.0,1.0,0.0,0.0,1.0,1.0
+"Hassell, Willard C.",0.0,3.0,0.0,0.0,1913,Male,Forestry,0.0,0.0,0.0,0.0,0.0,0.0
+"Harpel, Gates",1.0,1.0,0.0,2.0,1913,Male,Electrical Engineering,1.0,0.0,1.0,1.0,0.0,0.0
+"Harte, Edwin C.",2.0,4.0,0.0,0.0,1913,Male,Agronomy,2.0,0.0,0.0,1.0,0.0,0.0
+"Hartung, Arthur C.",2.0,2.0,0.0,0.0,1913,Male,Electrical Engineering,2.0,0.0,2.0,2.0,0.0,0.0
+"Hartung, Mary E.",3.0,4.0,1.0,1.0,1913,Female,Home Economics,4.0,1.0,1.0,2.0,1.0,1.0
+"Hawks, Georgena",1.0,4.0,1.0,0.0,1913,Female,Home Economics,2.0,0.0,1.0,2.0,0.0,0.0
+"Helm, Ralph L.",1.0,3.0,0.0,0.0,1913,Male,Agronomy,1.0,0.0,0.0,0.0,0.0,0.0
+"Helsel, Frank V.",2.0,2.0,1.0,0.0,1913,Male,Veterinary,1.0,0.0,0.0,0.0,1.0,1.0
+"Hensel, R. H.",2.0,2.0,0.0,0.0,1913,Male,Forestry,1.0,0.0,0.0,1.0,1.0,0.0
+"Hess, Arthur W.",4.0,6.0,1.0,1.0,1913,Male,Mining Engineering,1.0,0.0,1.0,1.0,0.0,0.0
+"Hicken, R. H.",2.0,4.0,0.0,0.0,1913,Male,Animal Husbandry,1.0,0.0,1.0,1.0,1.0,0.0
+"Hill, Carlos V.",0.0,2.0,0.0,0.0,1913,Male,Agricultural Engineering,0.0,0.0,0.0,1.0,0.0,0.0
+"Hoff, Carl R.",0.0,1.0,0.0,0.0,1913,Male,Agricultural Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Hoot, Denver W.",3.0,5.0,3.0,2.0,1913,Male,Electrical Engineering,3.0,1.0,3.0,2.0,0.0,1.0
+"Hopkins, A. L.",0.0,2.0,0.0,0.0,1913,Male,Electrical Engineering,0.0,0.0,0.0,0.0,1.0,0.0
+"Hopkins, Blanche",3.0,3.0,2.0,0.0,1913,Female,Home Economics,2.0,2.0,0.0,0.0,0.0,0.0
+"Hopkins, Ruby",2.0,3.0,1.0,0.0,1913,Female,Science,2.0,0.0,2.0,1.0,0.0,1.0
+"Horton, Floyd V.",0.0,0.0,1.0,0.0,1913,Male,Forestry,0.0,0.0,0.0,0.0,0.0,0.0
+"Horton, Guy",0.0,3.0,0.0,0.0,1913,Male,Mining Engineering,1.0,0.0,0.0,3.0,0.0,0.0
+"House, Harry M.",1.0,3.0,3.0,0.0,1913,Male,Civil Engineering,1.0,0.0,0.0,1.0,0.0,0.0
+"House, Wilbur M.",1.0,2.0,0.0,0.0,1913,Male,Electrical Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Howland, Paul R.",4.0,2.0,3.0,1.0,1913,Male,Electrical Engineering,2.0,1.0,2.0,3.0,0.0,0.0
+"Hudson, William J.",2.0,3.0,0.0,0.0,1913,Male,Mechanical Engineering,1.0,0.0,0.0,2.0,0.0,0.0
+"Huebsch, Leila H.",2.0,4.0,0.0,1.0,1913,Female,Economics,3.0,1.0,0.0,1.0,0.0,0.0
+"Hunt, Donald A.",3.0,5.0,0.0,1.0,1913,Male,Agronomy,3.0,1.0,0.0,1.0,0.0,0.0
+"Hunter, Clyde H.",1.0,0.0,2.0,0.0,1913,Male,Civil Engineering,0.0,1.0,0.0,1.0,0.0,0.0
+"Illeman, John A.",1.0,6.0,0.0,1.0,1913,Male,Civil Engineering,2.0,1.0,1.0,2.0,1.0,0.0
+"Johnson, Earl H.",1.0,2.0,0.0,0.0,1913,Male,Animal Husbandry,1.0,0.0,0.0,1.0,0.0,0.0
+"Johnson, Howard C.",2.0,3.0,1.0,1.0,1913,Male,Veterinary,1.0,1.0,1.0,3.0,1.0,0.0
+"Johnson, J. B.",2.0,1.0,0.0,0.0,1913,Male,Animal Husbandry,1.0,0.0,1.0,2.0,0.0,0.0
+"Johnson, Paul",0.0,2.0,0.0,0.0,1913,Male,Animal Husbandry,1.0,0.0,0.0,0.0,1.0,0.0
+"Johnston, Harold E.",4.0,5.0,0.0,1.0,1913,Male,Veterinary,1.0,0.0,1.0,2.0,1.0,0.0
+"Johnston, J. R.",0.0,2.0,0.0,0.0,1913,Male,Civil Engineering,1.0,0.0,1.0,1.0,0.0,0.0
+"Jonker, Herman H.",2.0,3.0,1.0,0.0,1913,Male,Veterinary,1.0,0.0,1.0,2.0,1.0,0.0
+"Jordan, Hugo G.",2.0,3.0,1.0,0.0,1913,Male,Agronomy,2.0,0.0,1.0,2.0,0.0,0.0
+"Joy, O. H.",3.0,3.0,3.0,2.0,1913,Male,Animal Husbandry,3.0,2.0,1.0,1.0,3.0,0.0
+"Juhl, Chris",1.0,3.0,0.0,1.0,1913,Male,Veterinary,2.0,0.0,0.0,2.0,0.0,0.0
+"Kerr, Harry A.",2.0,2.0,1.0,0.0,1913,Male,Civil Engineering,2.0,0.0,3.0,1.0,1.0,0.0
+"Kilby, Don H.",4.0,7.0,1.0,1.0,1913,Male,Electrical Engineering,1.0,1.0,1.0,1.0,0.0,0.0
+"Kriethe, Paul F.",3.0,4.0,0.0,0.0,1913,Male,Animal Husbandry,2.0,0.0,0.0,1.0,1.0,0.0
+"Laird, Ralph J.",3.0,3.0,0.0,0.0,1913,Male,Veterinary,0.0,1.0,0.0,0.0,1.0,0.0
+"Lawton, J. A.",3.0,4.0,0.0,0.0,1913,Male,Mechanical Engineering,1.0,0.0,0.0,3.0,0.0,0.0
+"Leedham, Tom W.",2.0,5.0,0.0,0.0,1913,Male,Mechanical Engineering,3.0,0.0,3.0,2.0,0.0,0.0
+"Lebsen, Paul C.",2.0,2.0,0.0,0.0,1913,Male,Animal Husbandry,2.0,0.0,1.0,1.0,0.0,0.0
+"List, Theodore S.",0.0,2.0,1.0,0.0,1913,Male,Veterinary,0.0,1.0,0.0,1.0,1.0,0.0
+"Lissenden, Clyde H.",3.0,2.0,1.0,1.0,1913,Male,Science,0.0,0.0,0.0,1.0,0.0,0.0
+"Lynch, Ruby",2.0,2.0,0.0,1.0,1913,Female,Science,2.0,0.0,1.0,1.0,0.0,0.0
+"McBride, F. W.",0.0,1.0,0.0,0.0,1913,Male,Animal Husbandry,0.0,0.0,0.0,0.0,0.0,0.0
+"McChord, Robert C.",1.0,3.0,0.0,0.0,1913,Male,Animal Husbandry,1.0,0.0,1.0,1.0,2.0,1.0
+"McClintock, Ruth",3.0,8.0,1.0,0.0,1913,Female,Home Economics,5.0,0.0,4.0,3.0,1.0,0.0
+"McDonald, John R.",1.0,3.0,1.0,0.0,1913,Male,Veterinary,2.0,1.0,2.0,2.0,0.0,1.0
+"McDonald, Myrtle",0.0,1.0,0.0,0.0,1913,Female,Science,0.0,0.0,0.0,0.0,1.0,0.0
+"McDonald, Roy",1.0,7.0,1.0,0.0,1913,Male,Animal Husbandry,4.0,1.0,0.0,3.0,1.0,0.0
+"McKim, Elizabeth",1.0,2.0,0.0,0.0,1913,Female,Science,2.0,0.0,0.0,2.0,0.0,0.0
+"McKitterick, Robert N.",2.0,4.0,1.0,0.0,1913,Male,Mechanical Engineering,1.0,1.0,1.0,1.0,0.0,1.0
+"McMicheal, Harry A.",0.0,1.0,0.0,0.0,1913,Male,Animal Husbandry,0.0,0.0,0.0,1.0,0.0,0.0
+"McMillan, Ralph O.",2.0,3.0,2.0,1.0,1913,Male,Animal Husbandry,2.0,0.0,2.0,2.0,1.0,0.0
+"Macklin, William E.",3.0,4.0,1.0,0.0,1913,Male,Veterinary,3.0,0.0,1.0,1.0,0.0,0.0
+"Martin, Edgar E.",3.0,3.0,1.0,1.0,1913,Male,Electrical Engineering,1.0,2.0,0.0,1.0,0.0,1.0
+"Melberg, Amos",1.0,3.0,1.0,1.0,1913,Male,Civil Engineering,1.0,1.0,0.0,0.0,1.0,1.0
+"Meltzer, William",0.0,0.0,2.0,1.0,1913,Male,Dairy,0.0,1.0,0.0,0.0,1.0,0.0
+"Miller, George J.",1.0,1.0,1.0,0.0,1913,Male,Dairy,1.0,0.0,1.0,0.0,0.0,0.0
+"Miller, Herbert",4.0,4.0,1.0,0.0,1913,Male,Civil Engineering,1.0,1.0,0.0,2.0,0.0,0.0
+"Miller, Virgil C.",0.0,3.0,0.0,0.0,1913,Male,Agronomy,1.0,0.0,0.0,1.0,0.0,0.0
+"Milligan, Harry W.",1.0,1.0,0.0,0.0,1913,Male,Animal Husbandry,1.0,0.0,0.0,0.0,0.0,0.0
+"Mitchell, Jennie",1.0,2.0,2.0,2.0,1913,Female,Home Economics,1.0,2.0,2.0,0.0,2.0,1.0
+"Moore, Robert G.",1.0,1.0,1.0,1.0,1913,Male,Veterinary,0.0,1.0,1.0,0.0,1.0,2.0
+"Mosher, Frank A.",3.0,4.0,0.0,0.0,1913,Male,Civil Engineering,1.0,0.0,0.0,1.0,0.0,0.0
+"Mott, Claude H.",1.0,3.0,0.0,0.0,1913,Male,Electrical Engineering,0.0,0.0,0.0,0.0,1.0,0.0
+"Myers, Bernard F.",1.0,1.0,0.0,1.0,1913,Male,Animal Husbandry,0.0,0.0,0.0,0.0,0.0,0.0
+"Nagle, Clarence F.",4.0,4.0,0.0,2.0,1913,Male,Electrical Engineering,4.0,0.0,2.0,2.0,0.0,0.0
+"Neis, Carl F.",0.0,1.0,0.0,0.0,1913,Male,Veterinary,0.0,0.0,0.0,0.0,0.0,0.0
+"Nelson, S. O.",2.0,7.0,1.0,0.0,1913,Male,Mechanical Engineering,3.0,0.0,2.0,3.0,1.0,0.0
+"Newburger, Lessing B.",0.0,4.0,1.0,1.0,1913,Male,Dairy,0.0,1.0,0.0,1.0,1.0,0.0
+"Nordstrom, Royal F.",2.0,2.0,1.0,1.0,1913,Male,Veterinary,1.0,0.0,1.0,1.0,1.0,0.0
+"Nordstrom, Harry M.",3.0,3.0,1.0,2.0,1913,Male,Animal Husbandry,2.0,1.0,4.0,1.0,1.0,1.0
+"Nutty, Nathaniel S.",2.0,2.0,1.0,1.0,1913,Male,Veterinary,2.0,1.0,0.0,3.0,0.0,0.0
+"Odendahl, Irve E.",0.0,2.0,1.0,1.0,1913,Male,Civil Engineering,0.0,0.0,0.0,1.0,2.0,0.0
+"Olsen, James C.",0.0,2.0,0.0,0.0,1913,Male,Agricultural Engineering,0.0,0.0,1.0,2.0,1.0,0.0
+"Olsen, Edward S.",2.0,3.0,1.0,0.0,1913,Male,Animal Husbandry,1.0,1.0,1.0,1.0,0.0,0.0
+"Paine, Harry C.",2.0,2.0,1.0,0.0,1913,Male,Veterinary,1.0,0.0,1.0,0.0,0.0,0.0
+"Patterson, Nellie R.",1.0,1.0,2.0,0.0,1913,Female,Home Economics,0.0,0.0,0.0,0.0,0.0,0.0
+"Perry, Thomas R.",2.0,3.0,1.0,1.0,1913,Male,Civil Engineering,0.0,1.0,1.0,0.0,0.0,0.0
+"Peshak, Leona",2.0,4.0,0.0,0.0,1913,Female,Home Economics,2.0,0.0,0.0,0.0,0.0,0.0
+"Peters, Mabel",1.0,1.0,0.0,0.0,1913,Female,Home Economics,1.0,0.0,1.0,1.0,0.0,0.0
+"Pfeffer, C. J.",2.0,5.0,2.0,0.0,1913,Male,Electrical Engineering,1.0,0.0,1.0,1.0,0.0,0.0
+"Pfund, Hans C.",2.0,4.0,1.0,0.0,1913,Male,Ceramics,2.0,0.0,1.0,2.0,0.0,0.0
+"Pickus, Joseph",0.0,2.0,0.0,0.0,1913,Male,Civil Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Pitts, Ilma",0.0,1.0,0.0,0.0,1913,Female,Home Economics,1.0,0.0,0.0,0.0,0.0,0.0
+"Preston, Perry J.",2.0,6.0,0.0,0.0,1913,Male,Civil Engineering,2.0,0.0,1.0,1.0,0.0,0.0
+"Prine, Edna",3.0,3.0,0.0,0.0,1913,Female,Home Economics,2.0,0.0,1.0,1.0,0.0,0.0
+"Quint, Bryce A.",2.0,4.0,1.0,0.0,1913,Male,Animal Husbandry,1.0,0.0,1.0,2.0,1.0,1.0
+"Reese, Joseph M.",2.0,4.0,2.0,1.0,1913,Male,Agronomy,3.0,0.0,3.0,2.0,1.0,0.0
+"Reis, Raymond B.",1.0,1.0,1.0,0.0,1913,Male,Mechanical Engineering,1.0,0.0,1.0,1.0,0.0,0.0
+"Rice, Charles D.",2.0,4.0,1.0,1.0,1913,Male,Veterinary,1.0,1.0,0.0,2.0,1.0,1.0
+"Richardson, Willa",0.0,2.0,0.0,0.0,1913,Female,Home Economics,1.0,0.0,0.0,2.0,0.0,0.0
+"Ringheim, Horace J.",0.0,1.0,0.0,0.0,1913,Male,Forestry,1.0,0.0,0.0,2.0,0.0,0.0
+"Roberson, Frank",2.0,4.0,0.0,0.0,1913,Male,Electrical Engineering,3.0,0.0,1.0,0.0,0.0,0.0
+"Rogers, Raymond R.",1.0,1.0,1.0,1.0,1913,Male,Mechanical Engineering,1.0,0.0,0.0,2.0,1.0,0.0
+"Ross, Roy G.",4.0,4.0,1.0,1.0,1913,Male,Veterinary,3.0,0.0,1.0,3.0,1.0,0.0
+"Rush, Fern",0.0,2.0,0.0,0.0,1913,Female,Home Economics,0.0,0.0,0.0,0.0,0.0,0.0
+"Sar, Martin E.",1.0,2.0,0.0,0.0,1913,Male,Agronomy,1.0,0.0,1.0,1.0,0.0,0.0
+"Sarvis, Fred",1.0,1.0,0.0,0.0,1913,Male,Civil Engineering,1.0,0.0,2.0,2.0,0.0,0.0
+"Sauerberg, Julia",0.0,3.0,0.0,0.0,1913,Female,Home Economics,0.0,0.0,0.0,0.0,1.0,1.0
+"Schmidt, Ferdinand C.",1.0,1.0,0.0,0.0,1913,Male,Mechanical Engineering,1.0,0.0,0.0,0.0,1.0,0.0
+"Schreck, Robert G.",0.0,1.0,0.0,0.0,1913,Male,Forestry,0.0,0.0,0.0,0.0,0.0,0.0
+"Schwab, John W.",1.0,1.0,0.0,0.0,1913,Male,Animal Husbandry,0.0,0.0,1.0,2.0,0.0,0.0
+"Schwertley, John H.",2.0,2.0,0.0,1.0,1913,Male,Animal Husbandry,2.0,0.0,2.0,2.0,0.0,0.0
+"Floyd, Scott A.",4.0,5.0,1.0,1.0,1913,Male,Agricultural Education,3.0,1.0,1.0,2.0,0.0,0.0
+"Seba, J. Henry",1.0,5.0,0.0,0.0,1913,Male,Dairy,1.0,0.0,0.0,1.0,1.0,0.0
+"Secor, Manly",2.0,3.0,0.0,0.0,1913,Male,Horticulture,3.0,1.0,3.0,2.0,0.0,1.0
+"Shaffer, Lloyd P.",2.0,3.0,0.0,0.0,1913,Male,Dairy,1.0,0.0,1.0,2.0,0.0,0.0
+"Shallenberger, James K.",1.0,2.0,1.0,0.0,1913,Male,Mechanical Engineering,0.0,1.0,0.0,1.0,1.0,0.0
+"Shaw, George C.",1.0,2.0,0.0,0.0,1913,Male,Electrical Engineering,1.0,0.0,1.0,2.0,0.0,0.0
+"Shearer, Arthur B.",4.0,6.0,0.0,0.0,1913,Male,Veterinary,3.0,0.0,2.0,2.0,0.0,0.0
+"Shoemaker, Joseph J.",2.0,2.0,1.0,1.0,1913,Male,Electrical Engineering,1.0,0.0,1.0,2.0,0.0,0.0
+"Simpson, Arthur R.",3.0,4.0,0.0,0.0,1913,Male,Animal Husbandry,4.0,0.0,2.0,2.0,1.0,0.0
+"Smith, Milton O.",3.0,3.0,2.0,1.0,1913,Male,Agronomy,0.0,1.0,0.0,1.0,1.0,0.0
+"Snyder, L. D.",4.0,3.0,2.0,0.0,1913,Male,Civil Engineering,1.0,0.0,1.0,1.0,0.0,1.0
+"Steffen, Edwin H.",1.0,2.0,0.0,0.0,1913,Male,Forestry,1.0,0.0,1.0,0.0,0.0,0.0
+"Sterrett, J. C.",0.0,0.0,0.0,0.0,1913,Male,Forestry,0.0,0.0,1.0,0.0,0.0,0.0
+"Stookey, Carl W.",1.0,2.0,1.0,1.0,1913,Male,Mechanical Engineering,2.0,0.0,1.0,2.0,0.0,0.0
+"Stork, V. H.",1.0,1.0,1.0,1.0,1913,Male,Dairy,0.0,1.0,0.0,1.0,0.0,1.0
+"Strickler, Omar M.",3.0,4.0,0.0,0.0,1913,Male,Dairy,2.0,0.0,2.0,2.0,0.0,0.0
+"Sullivan, J. Butler",3.0,5.0,1.0,0.0,1913,Male,Civil Engineering,1.0,0.0,1.0,2.0,0.0,1.0
+"Summers, Walter G.",2.0,3.0,1.0,1.0,1913,Male,Electrical Engineering,1.0,1.0,0.0,2.0,0.0,0.0
+"Swanson, Arthur C.",3.0,4.0,2.0,2.0,1913,Male,Veterinary,2.0,2.0,1.0,1.0,2.0,2.0
+"Taff, Paul C.",1.0,2.0,0.0,0.0,1913,Male,Agronomy,0.0,0.0,0.0,2.0,0.0,0.0
+"Terrall, A. Jay",3.0,7.0,1.0,2.0,1913,Male,Animal Husbandry,4.0,1.0,3.0,5.0,0.0,0.0
+"Thompson, Lena",1.0,1.0,1.0,0.0,1913,Female,Home Economics,0.0,0.0,0.0,0.0,0.0,0.0
+"Tong, Boyd H.",1.0,2.0,1.0,1.0,1913,Male,Civil Engineering,0.0,0.0,0.0,0.0,1.0,0.0
+"Torres, Ambrosio O.",1.0,4.0,1.0,2.0,1913,Male,Mechanical Engineering,2.0,2.0,1.0,2.0,0.0,1.0
+"Triggs, Fred E.",3.0,1.0,1.0,0.0,1913,Male,Mechanical Engineering,1.0,1.0,1.0,3.0,0.0,0.0
+"Trottnow, Ivan C.",1.0,3.0,2.0,2.0,1913,Male,Civil Engineering,1.0,1.0,1.0,2.0,2.0,1.0
+"Tuttle, Louise E.",3.0,3.0,0.0,0.0,1913,Female,Home Economics,1.0,0.0,0.0,1.0,0.0,0.0
+"Tuttle, Randall M.",4.0,4.0,0.0,0.0,1913,Male,Agronomy,2.0,0.0,2.0,2.0,0.0,0.0
+"Tydeman, Will",2.0,3.0,1.0,2.0,1913,Male,Science,3.0,1.0,1.0,4.0,1.0,1.0
+"Tyler, Merle C.",0.0,1.0,1.0,0.0,1913,Male,Civil Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Ufford, Orville C.",1.0,4.0,0.0,0.0,1913,Male,Animal Husbandry,2.0,0.0,1.0,2.0,1.0,0.0
+"Vader, Leo C.",4.0,4.0,2.0,0.0,1913,Male,Civil Engineering,1.0,1.0,1.0,1.0,0.0,0.0
+"Vale, Bruce R.",2.0,2.0,1.0,0.0,1913,Male,Animal Husbandry,1.0,0.0,1.0,1.0,0.0,0.0
+"Van Keuren, Ralph H.",0.0,1.0,3.0,0.0,1913,Male,Animal Husbandry,1.0,3.0,0.0,0.0,0.0,1.0
+"Vaughn, Edward",2.0,4.0,2.0,1.0,1913,Male,Animal Husbandry,4.0,1.0,2.0,2.0,0.0,0.0
+"Vincent, Clarice",1.0,1.0,0.0,0.0,1913,Female,Horticulture,1.0,0.0,0.0,1.0,0.0,0.0
+"Vincent, Ralph T.",2.0,3.0,1.0,1.0,1913,Male,Agricultural Engineering,1.0,0.0,0.0,2.0,0.0,0.0
+"Vondracek, Lumir J.",3.0,4.0,0.0,0.0,1913,Male,Agronomy,2.0,0.0,1.0,2.0,0.0,0.0
+"Voss, Lilla",1.0,2.0,0.0,0.0,1913,Female,Home Economics,2.0,0.0,0.0,1.0,0.0,0.0
+"Walker, Ben H.",6.0,6.0,0.0,1.0,1913,Male,Agronomy,5.0,1.0,2.0,3.0,0.0,0.0
+"Wallace, Adelbert C.",1.0,2.0,1.0,0.0,1913,Male,Civil Engineering,0.0,1.0,0.0,1.0,1.0,0.0
+"Walls, Mildred",2.0,3.0,1.0,0.0,1913,Female,Science,2.0,0.0,0.0,2.0,0.0,0.0
+"Walton, Joseph N.",2.0,2.0,0.0,0.0,1913,Male,Electrical Engineering,2.0,0.0,1.0,1.0,0.0,0.0
+"Ward, Harry E.",2.0,5.0,0.0,0.0,1913,Male,Animal Husbandry,3.0,0.0,3.0,4.0,0.0,0.0
+"Warner, Jerub H.",1.0,2.0,4.0,1.0,1913,Male,Animal Husbandry,1.0,3.0,1.0,1.0,1.0,1.0
+"Warren, Elgin S.",2.0,3.0,0.0,1.0,1913,Male,Dairy,3.0,0.0,1.0,3.0,0.0,0.0
+"Warsaw, Wesley W.",3.0,3.0,2.0,0.0,1913,Male,Agricultural Engineering,2.0,0.0,1.0,2.0,0.0,0.0
+"Watson, James G.",1.0,2.0,0.0,0.0,1913,Male,Dairy,1.0,0.0,0.0,1.0,0.0,0.0
+"Watts, Everett",0.0,1.0,0.0,0.0,1913,Male,Agronomy,0.0,0.0,0.0,1.0,0.0,0.0
+"Watts, Lyle F.",0.0,1.0,0.0,0.0,1913,Male,Forestry,0.0,0.0,0.0,1.0,0.0,0.0
+"Weirick, Laura",2.0,3.0,1.0,1.0,1913,Female,Home Economics,2.0,1.0,0.0,1.0,0.0,0.0
+"Weller, Curtis D.",1.0,2.0,0.0,0.0,1913,Male,Civil Engineering,1.0,0.0,1.0,1.0,0.0,0.0
+"Welles, Edward S.",2.0,1.0,1.0,0.0,1913,Male,Science,0.0,0.0,0.0,0.0,0.0,0.0
+"Welle, Leon J.",1.0,3.0,1.0,0.0,1913,Male,Mechanical Engineering,1.0,0.0,0.0,0.0,0.0,0.0
+"Westbrook, Edwin M.",2.0,4.0,0.0,0.0,1913,Male,Civil Engineering,1.0,0.0,1.0,1.0,0.0,0.0
+"Weyrauch, Edward A.",1.0,1.0,2.0,1.0,1913,Male,Animal Husbandry,1.0,1.0,0.0,2.0,2.0,0.0
+"Wheatley, Charles E.",2.0,4.0,0.0,1.0,1913,Male,Animal Husbandry,1.0,1.0,0.0,0.0,0.0,0.0
+"Wheatley, Ray A.",2.0,3.0,1.0,0.0,1913,Male,Agronomy,1.0,0.0,0.0,1.0,0.0,0.0
+"Whitaker, D. G.",2.0,2.0,1.0,0.0,1913,Male,Animal Husbandry,2.0,0.0,1.0,3.0,0.0,0.0
+"White, H. X.",2.0,8.0,0.0,0.0,1913,Male,Civil Engineering,1.0,0.0,1.0,3.0,1.0,0.0
+"Whiting, Fred T.",3.0,4.0,0.0,1.0,1913,Male,Mechanical Engineering,2.0,0.0,1.0,2.0,0.0,0.0
+"Wilder, Morris B.",2.0,5.0,0.0,0.0,1913,Male,Mechanical Engineering,3.0,0.0,1.0,2.0,0.0,0.0
+"Wills, Miriam H.",0.0,2.0,1.0,1.0,1913,Female,Economics,1.0,0.0,1.0,1.0,0.0,1.0
+"Wilson, Charles P.",2.0,3.0,0.0,0.0,1913,Male,Veterinary,2.0,0.0,1.0,2.0,0.0,0.0
+"Wilson, David B.",3.0,3.0,1.0,0.0,1913,Male,Veterinary,2.0,0.0,2.0,1.0,0.0,0.0
+"Wilson, Foster W.",2.0,1.0,1.0,1.0,1913,Male,Animal Husbandry,1.0,0.0,1.0,2.0,1.0,0.0
+"Wilson, Wayne",5.0,4.0,2.0,1.0,1913,Male,Civil Engineering,1.0,2.0,1.0,1.0,1.0,0.0
+"Wise, Leslie O.",1.0,3.0,0.0,0.0,1913,Male,Animal Husbandry,1.0,0.0,0.0,1.0,1.0,1.0
+"Wolfe, Anna M.",1.0,2.0,0.0,0.0,1913,Female,Science,1.0,0.0,1.0,1.0,0.0,0.0
+"Woody, Ethel",0.0,1.0,0.0,0.0,1913,Female,Home Economics,1.0,0.0,1.0,0.0,0.0,0.0
+"Worley, Floyd E.",2.0,3.0,1.0,1.0,1913,Male,Mechanical Engineering,2.0,0.0,2.0,2.0,0.0,0.0
+"Wormley, Burton H.",1.0,2.0,0.0,0.0,1913,Male,Animal Husbandry,1.0,0.0,0.0,1.0,0.0,0.0
+"Wray, G. Edward",1.0,2.0,1.0,2.0,1913,Male,Mechanical Engineering,1.0,1.0,2.0,0.0,0.0,0.0
+"Wright, Thomas H.",1.0,1.0,0.0,0.0,1913,Male,Dairy,1.0,0.0,1.0,1.0,0.0,0.0
+"Wygle, Lila",1.0,0.0,0.0,0.0,1913,Female,Home Economics,0.0,0.0,0.0,0.0,0.0,0.0
+"Zentmire, Zelma",2.0,4.0,0.0,0.0,1913,Female,Home Economics,2.0,0.0,0.0,1.0,0.0,0.0
+"Aldrich, Leon E.",1.0,1.0,1.0,1.0,1914,Male,Agronomy,0.0,1.0,1.0,2.0,1.0,0.0
+"Allen, Ami L.",2.0,2.0,0.0,0.0,1914,Female,Dairy,1.0,0.0,1.0,0.0,0.0,0.0
+"Almquist, Elmer",0.0,2.0,0.0,0.0,1914,Male,Mining Engineering,1.0,0.0,1.0,0.0,0.0,0.0
+"Aulmann, Theodore",0.0,2.0,1.0,0.0,1914,Male,Mechanical & Electrical Engineering,2.0,0.0,0.0,0.0,0.0,0.0
+"Anthony, Fred H.",0.0,2.0,1.0,0.0,1914,Male,Chemistry Engineering,1.0,0.0,1.0,1.0,1.0,0.0
+"Baker, G. W.",1.0,3.0,0.0,0.0,1914,Male,Science,0.0,0.0,0.0,0.0,1.0,0.0
+"Barry, Donald S.",6.0,7.0,1.0,0.0,1914,Male,Mechanical Enginnering,3.0,0.0,3.0,3.0,0.0,0.0
+"Bashford, L. G.",0.0,2.0,2.0,1.0,1914,Male,Agricultural Engineering,1.0,1.0,0.0,2.0,1.0,1.0
+"Bauder, Ernest",3.0,3.0,2.0,1.0,1914,Male,Mechanical Enginnering,1.0,1.0,1.0,1.0,1.0,1.0
+"Beardshear, James H.",1.0,2.0,0.0,0.0,1914,Male,Chemistry Engineering,1.0,0.0,0.0,2.0,1.0,0.0
+"Beese, Charles W.",1.0,2.0,0.0,0.0,1914,Male,Mechanical Enginnering,2.0,0.0,0.0,0.0,0.0,0.0
+"Bennet, Louis K.",0.0,2.0,0.0,0.0,1914,Male,Agricultural Education,0.0,0.0,0.0,2.0,0.0,0.0
+"Bradley, Paul",1.0,1.0,3.0,1.0,1914,Male,Animal Husbandry,0.0,2.0,0.0,0.0,1.0,0.0
+"Bragg, E. F.",1.0,4.0,0.0,1.0,1914,Male,Mechanical Enginnering,2.0,0.0,0.0,3.0,0.0,0.0
+"Brand, William",2.0,2.0,1.0,1.0,1914,Male,Animal Husbandry,1.0,0.0,1.0,1.0,1.0,0.0
+"Brennan, William M.",0.0,3.0,2.0,1.0,1914,Male,Animal Husbandry,1.0,1.0,0.0,1.0,1.0,0.0
+"Borg, Elmer H.",3.0,4.0,2.0,1.0,1914,Male,Mechanical Enginnering,3.0,2.0,3.0,3.0,0.0,0.0
+"Buland, Raymond F.",3.0,5.0,0.0,0.0,1914,Male,Chemistry Engineering,2.0,0.0,0.0,2.0,1.0,0.0
+"Burgess, J. A.",3.0,5.0,1.0,1.0,1914,Male,Animal Husbandry,1.0,1.0,1.0,3.0,1.0,1.0
+"Burnham, Dwelle L.",1.0,4.0,0.0,0.0,1914,Male,Chemistry Engineering,2.0,0.0,1.0,1.0,0.0,0.0
+"Calderwood, Errett B.",1.0,2.0,2.0,0.0,1914,Male,Animal Husbandry,2.0,0.0,1.0,3.0,0.0,0.0
+"Campbell, Jessie",3.0,6.0,0.0,1.0,1914,Female,Home Economics,2.0,0.0,0.0,0.0,1.0,0.0
+"Campbell, Maude",2.0,5.0,0.0,0.0,1914,Female,Home Economics,3.0,0.0,0.0,1.0,0.0,0.0
+"Campbell, Robert C.",0.0,1.0,1.0,1.0,1914,Male,Mechanical Enginnering,0.0,0.0,1.0,1.0,0.0,0.0
+"Camburn, H. H.",4.0,3.0,3.0,2.0,1914,Male,Animal Husbandry,2.0,1.0,3.0,2.0,2.0,0.0
+"Capel, Earl C.",0.0,1.0,2.0,2.0,1914,Male,Chemistry Engineering,0.0,0.0,1.0,0.0,1.0,0.0
+"Carl, Leslie M.",2.0,2.0,0.0,0.0,1914,Male,Animal Husbandry,1.0,0.0,0.0,1.0,0.0,0.0
+"Carlson, Arthur F.",1.0,3.0,0.0,1.0,1914,Male,Dairy,1.0,1.0,0.0,0.0,1.0,1.0
+"Cave, Harry W.",2.0,3.0,3.0,0.0,1914,Male,Science,2.0,2.0,1.0,2.0,2.0,0.0
+"Cessna, Ruth",1.0,2.0,1.0,1.0,1914,Female,Home Economics,1.0,1.0,1.0,1.0,1.0,0.0
+"Church, L. D.",2.0,3.0,0.0,0.0,1914,Male,Agronomy,2.0,0.0,2.0,0.0,0.0,0.0
+"Clark, Charles W.",0.0,2.0,1.0,0.0,1914,Male,Horticulture,0.0,0.0,0.0,0.0,0.0,1.0
+"Clark, George",1.0,2.0,0.0,0.0,1914,Male,Agronomy,1.0,0.0,0.0,1.0,0.0,0.0
+"Clark, Ross L.",2.0,3.0,1.0,0.0,1914,Male,Agronomy,0.0,0.0,0.0,0.0,0.0,0.0
+"Cole, Harold F.",0.0,3.0,0.0,1.0,1914,Male,Animal Husbandry,2.0,1.0,1.0,2.0,0.0,0.0
+"Conlon, Grace Marie",1.0,3.0,1.0,1.0,1914,Female,Home Economics,1.0,0.0,1.0,1.0,1.0,1.0
+"Connolly, A. H.",2.0,1.0,1.0,0.0,1914,Male,Chemistry Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Corlette, Dean H.",0.0,2.0,0.0,0.0,1914,Male,Animal Husbandry,0.0,0.0,0.0,0.0,0.0,0.0
+"Cort, Joseph C.",1.0,2.0,0.0,0.0,1914,Male,Animal Husbandry,1.0,0.0,1.0,1.0,0.0,0.0
+"Corwin, Elsie M.",1.0,3.0,1.0,1.0,1914,Female,Home Economics,2.0,1.0,0.0,1.0,1.0,0.0
+"Cowan, Lynn H.",0.0,2.0,2.0,0.0,1914,Male,Animal Husbandry,0.0,1.0,0.0,0.0,1.0,0.0
+"Crider, Clayton L.",6.0,6.0,1.0,0.0,1914,Male,Veterinary,2.0,0.0,1.0,2.0,0.0,0.0
+"Davis, Harry E.",2.0,1.0,2.0,1.0,1914,Male,Electrical Engineering,0.0,1.0,0.0,1.0,0.0,0.0
+"Davis, Harry K.",0.0,7.0,1.0,1.0,1914,Male,Electrical Engineering,2.0,1.0,1.0,1.0,0.0,1.0
+"Day, Grace",2.0,3.0,0.0,1.0,1914,Female,Science,3.0,0.0,1.0,1.0,0.0,0.0
+"De Butts, W. H.",1.0,1.0,2.0,0.0,1914,Male,Chemistry Engineering,0.0,1.0,0.0,0.0,1.0,0.0
+"Dominguez, Ezequiel E.",3.0,5.0,0.0,0.0,1914,Male,Agronomy,1.0,0.0,0.0,0.0,1.0,0.0
+"Donahue, Maude",1.0,3.0,2.0,1.0,1914,Female,Science,1.0,1.0,1.0,2.0,2.0,0.0
+"Downing, Wayne W.",1.0,1.0,0.0,1.0,1914,Male,Horticulture,0.0,0.0,0.0,0.0,0.0,0.0
+"Dysart, Rowan W.",3.0,4.0,0.0,0.0,1914,Male,Animal Husbandry,2.0,0.0,2.0,2.0,0.0,0.0
+"Eastman, Eric E.",5.0,2.0,0.0,0.0,1914,Male,Agronomy,0.0,0.0,1.0,0.0,0.0,0.0
+"Albrecht, Elijah Earl",4.0,4.0,0.0,1.0,1914,Male,Animal Husbandry,1.0,1.0,0.0,0.0,0.0,0.0
+"Elliot, Madge H.",1.0,2.0,0.0,1.0,1914,Female,Economics,2.0,1.0,1.0,1.0,0.0,0.0
+"Ellis, Glen A.",3.0,3.0,0.0,0.0,1914,Male,Animal Husbandry,2.0,0.0,1.0,2.0,0.0,0.0
+"Espe, Knute",4.0,8.0,0.0,0.0,1914,Male,Agronomy,4.0,0.0,3.0,4.0,0.0,0.0
+"Essig, Thearl",2.0,2.0,1.0,0.0,1914,Male,Electrical Engineering,1.0,0.0,0.0,1.0,0.0,0.0
+"Evans, Marguerita",5.0,6.0,1.0,1.0,1914,Female,Home Economics,4.0,0.0,1.0,1.0,0.0,0.0
+"Fahey, W. L.",1.0,3.0,1.0,1.0,1914,Male,Chemistry Engineering,2.0,0.0,0.0,1.0,0.0,2.0
+"Farnum, Annie",0.0,5.0,1.0,0.0,1914,Female,Science,0.0,1.0,0.0,0.0,1.0,0.0
+"Farr, Frank V.",3.0,3.0,0.0,0.0,1914,Male,Animal Husbandry,0.0,0.0,0.0,0.0,0.0,0.0
+"Farquharson, R. J.",1.0,2.0,0.0,1.0,1914,Male,Electrical Engineering,1.0,0.0,1.0,0.0,0.0,0.0
+"Fenton, Fred C.",1.0,6.0,0.0,0.0,1914,Male,Agricultural Engineering,2.0,0.0,2.0,3.0,0.0,0.0
+"Flint, Helen",7.0,8.0,0.0,0.0,1914,Female,Home Economics,6.0,0.0,4.0,4.0,1.0,0.0
+"Fogleman, Lura Mae",0.0,2.0,0.0,0.0,1914,Female,Home Economics,0.0,0.0,0.0,0.0,0.0,0.0
+"Forbes, Field B.",1.0,4.0,2.0,1.0,1914,Male,Chemistry Engineering,1.0,0.0,0.0,0.0,0.0,0.0
+"French, Fred L.",1.0,3.0,1.0,1.0,1914,Male,Animal Husbandry,1.0,1.0,0.0,1.0,1.0,1.0
+"Freund, H. E.",2.0,2.0,0.0,0.0,1914,Male,Mechanical Enginnering,2.0,0.0,0.0,1.0,0.0,0.0
+"Frink, Helen",1.0,3.0,0.0,0.0,1914,Female,Home Economics,0.0,0.0,0.0,0.0,0.0,0.0
+"Frudden, William E.",2.0,2.0,0.0,0.0,1914,Male,Agronomy,2.0,0.0,1.0,2.0,0.0,0.0
+"Gallivan, Dorothy",4.0,4.0,0.0,1.0,1914,Female,Home Economics,4.0,1.0,2.0,4.0,1.0,0.0
+"Gamrath, Harry",2.0,1.0,0.0,0.0,1914,Male,Veterinary,0.0,0.0,0.0,0.0,0.0,0.0
+"Garvin, Edna",1.0,3.0,2.0,1.0,1914,Female,Home Economics,2.0,1.0,0.0,1.0,0.0,1.0
+"Garza, Policarpo",1.0,3.0,0.0,0.0,1914,Male,Agronomy,1.0,0.0,0.0,2.0,0.0,0.0
+"George, Frances",1.0,1.0,2.0,1.0,1914,Female,Science,1.0,1.0,1.0,1.0,0.0,0.0
+"Gilchrist, David H.",0.0,1.0,1.0,1.0,1914,Male,Chemistry Engineering,1.0,1.0,0.0,2.0,0.0,0.0
+"Glassburner, Fred R.",2.0,3.0,1.0,1.0,1914,Male,Animal Husbandry,1.0,1.0,1.0,1.0,1.0,1.0
+"Gonzalez, Luis",1.0,2.0,1.0,1.0,1914,Male,Animal Husbandry,1.0,0.0,0.0,1.0,0.0,0.0
+"Goodbarn, J. A.",2.0,5.0,1.0,0.0,1914,Male,Chemistry Engineering,1.0,0.0,1.0,1.0,0.0,0.0
+"Gould, John M.",2.0,2.0,1.0,1.0,1914,Male,Veterinary,1.0,0.0,0.0,1.0,1.0,0.0
+"Graham, H. O.",2.0,4.0,1.0,0.0,1914,Male,Chemistry Engineering,3.0,0.0,2.0,3.0,0.0,0.0
+"Grand Pre, Lionel L.",0.0,2.0,1.0,1.0,1914,Male,Chemistry Engineering,1.0,0.0,0.0,1.0,2.0,0.0
+"Grass, J. Fernand",1.0,5.0,2.0,1.0,1914,Male,Animal Husbandry,0.0,0.0,0.0,0.0,1.0,1.0
+"Gridley, Ross M.",2.0,2.0,2.0,1.0,1914,Male,Animal Husbandry,2.0,0.0,1.0,1.0,0.0,0.0
+"Griffin, J. P.",2.0,2.0,0.0,0.0,1914,Male,Chemistry Engineering,0.0,1.0,1.0,1.0,1.0,0.0
+"Griffith, Clyde A. E.",2.0,2.0,1.0,0.0,1914,Male,Agricultural Engineering,1.0,1.0,1.0,1.0,0.0,0.0
+"Haggard, Charles H.",1.0,1.0,2.0,0.0,1914,Male,Veterinary,1.0,0.0,1.0,1.0,0.0,0.0
+"Hagglund, Irene",0.0,3.0,2.0,0.0,1914,Female,Science,0.0,0.0,0.0,0.0,1.0,0.0
+"Hall, Margaret",0.0,3.0,0.0,0.0,1914,Female,Music,1.0,0.0,0.0,0.0,0.0,0.0
+"Hallock, Eleanor",4.0,6.0,0.0,1.0,1914,Female,Home Economics,4.0,0.0,1.0,3.0,1.0,0.0
+"Hammans, C. Wayne",0.0,2.0,0.0,0.0,1914,Male,Animal Husbandry,1.0,0.0,0.0,0.0,0.0,0.0
+"Hancock, Guy E.",0.0,2.0,0.0,0.0,1914,Male,Electrical Engineering,2.0,0.0,1.0,1.0,1.0,0.0
+"Hanscom, Roger L.",2.0,3.0,0.0,0.0,1914,Male,Animal Husbandry,0.0,0.0,0.0,1.0,3.0,0.0
+"Hansel, Harry",1.0,4.0,2.0,2.0,1914,Male,Forestry,0.0,0.0,0.0,2.0,2.0,0.0
+"Hanson, Peter",3.0,4.0,0.0,2.0,1914,Male,Agronomy,2.0,2.0,0.0,0.0,1.0,1.0
+"Hartnell, Charles H.",0.0,3.0,0.0,1.0,1914,Male,Mechanical Enginnering,0.0,0.0,0.0,0.0,0.0,0.0
+"Haseltine, Earl S.",1.0,2.0,2.0,0.0,1914,Male,Animal Husbandry,1.0,0.0,0.0,1.0,0.0,0.0
+"Hathaway, A. N.",3.0,4.0,0.0,0.0,1914,Male,Dairy,2.0,0.0,1.0,3.0,0.0,0.0
+"Hawthorne, H. B.",1.0,3.0,2.0,0.0,1914,Male,Agricultural Education,0.0,0.0,0.0,0.0,0.0,0.0
+"Hayes, Ralph W.",0.0,0.0,0.0,0.0,1914,Male,Forestry,0.0,0.0,0.0,0.0,0.0,0.0
+"Hemlick, Ben C.",1.0,2.0,1.0,1.0,1914,Male,Agronomy,0.0,1.0,0.0,0.0,0.0,0.0
+"Herm, O. G.",1.0,0.0,1.0,2.0,1914,Male,Chemistry Engineering,0.0,0.0,0.0,2.0,1.0,0.0
+"Hicks, Lowell E.",1.0,0.0,1.0,2.0,1914,Male,Chemistry Engineering,0.0,0.0,1.0,1.0,0.0,0.0
+"Hill, E. W.",0.0,1.0,0.0,0.0,1914,Male,Mechanical Enginnering,0.0,0.0,0.0,0.0,0.0,0.0
+"Hodson, Floyd G.",0.0,0.0,0.0,0.0,1914,Male,Agricultural Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Hoffman, M. H.",1.0,3.0,1.0,0.0,1914,Male,Agricultural Engineering,2.0,0.0,1.0,0.0,0.0,0.0
+"Hoskins, Glenn G.",1.0,1.0,0.0,0.0,1914,Male,Electrical Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Hostetter, Hugh C.",1.0,2.0,0.0,0.0,1914,Male,Animal Husbandry,1.0,0.0,1.0,2.0,0.0,0.0
+"Howard, Alva L.",4.0,4.0,1.0,0.0,1914,Male,Veterinary,4.0,0.0,4.0,3.0,1.0,0.0
+"Hull, Edwin J.",1.0,2.0,0.0,0.0,1914,Male,Chemistry,0.0,0.0,0.0,0.0,0.0,0.0
+"Hulse, L. Everett",0.0,1.0,0.0,0.0,1914,Male,Electrical Engineering,1.0,0.0,0.0,0.0,1.0,0.0
+"Hutchinson, Charles N.",1.0,3.0,1.0,1.0,1914,Male,Electrical Engineering,0.0,1.0,0.0,0.0,0.0,0.0
+"Ide, Charles",1.0,2.0,0.0,0.0,1914,Male,Electrical Engineering,1.0,0.0,1.0,1.0,0.0,0.0
+"Iverson, George",1.0,0.0,2.0,0.0,1914,Male,Agricultural Engineering,0.0,0.0,1.0,1.0,1.0,0.0
+"Jensen, Florence",4.0,5.0,1.0,2.0,1914,Female,Home Economics,4.0,1.0,3.0,2.0,1.0,0.0
+"Johnson, Harlan W.",1.0,2.0,1.0,1.0,1914,Male,Agronomy,2.0,0.0,1.0,2.0,0.0,0.0
+"Johnson, Robert S.",0.0,1.0,0.0,0.0,1914,Male,Chemistry Engineering,1.0,0.0,0.0,0.0,0.0,0.0
+"Johnson, Robert T.",2.0,3.0,0.0,0.0,1914,Male,Chemistry Engineering,1.0,0.0,1.0,1.0,0.0,0.0
+"Johnson, Virgil P.",0.0,1.0,2.0,0.0,1914,Male,Horticulture,0.0,0.0,0.0,0.0,1.0,0.0
+"Jones, Laura L.",3.0,2.0,1.0,0.0,1914,Female,Home Economics,2.0,0.0,1.0,1.0,1.0,0.0
+"Kaiser, William G.",1.0,2.0,0.0,0.0,1914,Male,Agricultural Engineering,1.0,0.0,0.0,0.0,0.0,0.0
+"Karr, Arthur R.",1.0,4.0,0.0,0.0,1914,Male,Animal Husbandry,2.0,0.0,2.0,1.0,0.0,0.0
+"Kerr, Kate",5.0,8.0,0.0,0.0,1914,Female,Home Economics,4.0,0.0,0.0,0.0,0.0,0.0
+"Kimball, Lucy",0.0,1.0,0.0,1.0,1914,Female,Home Economics,2.0,0.0,0.0,1.0,0.0,0.0
+"Kingsbury, Mabel",2.0,5.0,1.0,0.0,1914,Female,Home Economics,1.0,0.0,1.0,1.0,2.0,1.0
+"Kirkpatrick, Ellis L.",4.0,2.0,1.0,0.0,1914,Male,Horticulture,0.0,1.0,0.0,0.0,1.0,0.0
+"Kirkpatrick, Mayme",1.0,4.0,1.0,1.0,1914,Female,Home Economics,1.0,1.0,0.0,1.0,1.0,0.0
+"Knapp, Hermine",6.0,8.0,0.0,1.0,1914,Female,Home Economics,6.0,0.0,1.0,1.0,0.0,0.0
+"Kratoska, Emil",2.0,3.0,1.0,0.0,1914,Male,Mining Engineering,0.0,0.0,0.0,0.0,1.0,1.0
+"Kriechbaum, C. V.",3.0,4.0,2.0,1.0,1914,Male,Electrical Engineering,0.0,1.0,1.0,1.0,0.0,0.0
+"Kube, Llewellyn W.",3.0,3.0,0.0,0.0,1914,Male,Animal Husbandry,0.0,0.0,0.0,0.0,0.0,0.0
+"Laffer, Frances",2.0,2.0,0.0,0.0,1914,Female,Home Economics,1.0,0.0,1.0,1.0,0.0,0.0
+"Larson, Melvin C.",1.0,4.0,1.0,0.0,1914,Male,Animal Husbandry,0.0,0.0,1.0,0.0,0.0,0.0
+"Lafrentz, George S.",0.0,3.0,0.0,0.0,1914,Male,Mechanical Enginnering,0.0,0.0,0.0,2.0,0.0,0.0
+"Lawrence, Vernon S.",1.0,1.0,1.0,1.0,1914,Male,Chemistry Engineering,1.0,0.0,1.0,3.0,1.0,0.0
+"Lee, Willoughby A.",1.0,2.0,2.0,2.0,1914,Male,Dairy,2.0,2.0,1.0,1.0,2.0,0.0
+"Keigley, Claire",0.0,2.0,0.0,0.0,1914,Female,Electrical Engineering,0.0,0.0,0.0,1.0,0.0,0.0
+"Leith, Thomas S.",3.0,3.0,0.0,0.0,1914,Male,Veterinary,2.0,0.0,1.0,3.0,0.0,0.0
+"Lenning, O. B.",1.0,4.0,0.0,0.0,1914,Male,Mechanical Enginnering,0.0,0.0,0.0,0.0,1.0,0.0
+"Linn, Hugh M.",0.0,1.0,1.0,1.0,1914,Male,Dairy,0.0,1.0,0.0,1.0,0.0,0.0
+"Longer, Fred J.",0.0,2.0,1.0,1.0,1914,Male,Chemistry Engineering,1.0,0.0,0.0,2.0,0.0,0.0
+"Loveland, Irving E.",0.0,4.0,3.0,0.0,1914,Male,Electrical Engineering,0.0,1.0,1.0,1.0,1.0,0.0
+"Luithly, John",1.0,3.0,1.0,1.0,1914,Male,Dairy,1.0,1.0,0.0,1.0,0.0,1.0
+"Madison, Walter G.",2.0,4.0,1.0,0.0,1914,Male,Mechanical Enginnering,2.0,1.0,0.0,1.0,1.0,0.0
+"Manning, Merrill M.",2.0,2.0,1.0,1.0,1914,Male,Science,1.0,1.0,1.0,2.0,1.0,0.0
+"Marchant, Lloyd R.",2.0,5.0,0.0,0.0,1914,Male,Animal Husbandry,3.0,0.0,1.0,3.0,0.0,0.0
+"Martfield, Grace",0.0,2.0,0.0,0.0,1914,Female,Home Economics,0.0,0.0,0.0,0.0,0.0,0.0
+"Mighell, Halbert",3.0,3.0,1.0,0.0,1914,Male,Electrical Engineering,2.0,0.0,1.0,1.0,0.0,0.0
+"Miles, Earl S.",3.0,4.0,2.0,1.0,1914,Male,Agronomy,1.0,0.0,1.0,3.0,1.0,1.0
+"Miller, Arthur",0.0,0.0,1.0,2.0,1914,Male,Science,0.0,1.0,1.0,1.0,1.0,0.0
+"Millar, F. Drew",1.0,1.0,0.0,0.0,1914,Male,Horticulture,1.0,0.0,0.0,1.0,0.0,0.0
+"Miller, Paul V.",1.0,3.0,1.0,1.0,1914,Male,Mechanical Enginnering,1.0,1.0,0.0,0.0,1.0,1.0
+"Milner, Robert H.",1.0,3.0,3.0,2.0,1914,Male,Electrical Engineering,2.0,1.0,2.0,1.0,1.0,0.0
+"McBride, Clarence R.",2.0,5.0,0.0,0.0,1914,Male,Animal Husbandry,3.0,0.0,0.0,1.0,0.0,0.0
+"McClenahan, Thos. D.",4.0,2.0,5.0,3.0,1914,Male,Agronomy,2.0,1.0,1.0,2.0,2.0,1.0
+"McClure, Alice",1.0,3.0,0.0,0.0,1914,Female,Music,3.0,0.0,2.0,1.0,1.0,0.0
+"McIntosh, Marjorie",0.0,2.0,0.0,0.0,1914,Female,Home Economics,1.0,0.0,0.0,0.0,0.0,0.0
+"McKee, Ryle S.",4.0,3.0,0.0,0.0,1914,Male,Animal Husbandry,0.0,0.0,0.0,0.0,0.0,0.0
+"McKee, T. Bonar",0.0,1.0,0.0,0.0,1914,Male,Animal Husbandry,0.0,0.0,0.0,0.0,0.0,0.0
+"McLean, Paul F.",1.0,5.0,0.0,0.0,1914,Male,Animal Husbandry,1.0,0.0,0.0,2.0,0.0,0.0
+"Moad, Byron G.",5.0,7.0,1.0,1.0,1914,Male,Animal Husbandry,5.0,1.0,2.0,4.0,0.0,0.0
+"Moore, Ora B.",4.0,4.0,4.0,2.0,1914,Male,Animal Husbandry,2.0,2.0,1.0,0.0,1.0,0.0
+"Mullen, Bert R.",4.0,4.0,2.0,1.0,1914,Male,Agricultural Engineering,0.0,0.0,0.0,1.0,1.0,0.0
+"Mullinix, Merrill",3.0,3.0,1.0,0.0,1914,Male,Chemistry Engineering,1.0,0.0,0.0,2.0,1.0,0.0
+"Murray, Roy J.",3.0,5.0,0.0,0.0,1914,Male,Animal Husbandry,3.0,0.0,1.0,1.0,0.0,0.0
+"Nagle, William M.",0.0,0.0,0.0,1.0,1914,Male,Forestry,0.0,0.0,0.0,0.0,0.0,0.0
+"Nichols, Earl G.",4.0,4.0,2.0,1.0,1914,Male,Electrical Engineering,3.0,1.0,4.0,3.0,0.0,0.0
+"Nicholson, Lisle H.",0.0,1.0,1.0,0.0,1914,Male,Home Economics,1.0,1.0,1.0,1.0,0.0,0.0
+"Niles, Margaret",1.0,2.0,0.0,0.0,1914,Female,Home Economics,2.0,0.0,2.0,1.0,0.0,0.0
+"Noel, Henry M.",0.0,1.0,1.0,1.0,1914,Male,Chemistry Engineering,1.0,0.0,0.0,0.0,0.0,0.0
+"Nordstrom, Mary",0.0,1.0,0.0,0.0,1914,Female,Home Economics,1.0,0.0,0.0,1.0,0.0,0.0
+"Norman, Charles A.",1.0,2.0,0.0,1.0,1914,Male,Agricultural Engineering,2.0,1.0,0.0,1.0,1.0,0.0
+"Norton, J. Edgar",4.0,4.0,2.0,2.0,1914,Male,Animal Husbandry,2.0,1.0,0.0,4.0,1.0,1.0
+"Olson, Marion E.",3.0,5.0,0.0,0.0,1914,Male,Agronomy,3.0,0.0,2.0,1.0,0.0,0.0
+"Osler, Helen",0.0,3.0,0.0,0.0,1914,Female,Science,1.0,0.0,1.0,0.0,0.0,0.0
+"Packman, Lee S.",3.0,4.0,1.0,1.0,1914,Male,Chemistry Engineering,3.0,0.0,4.0,4.0,0.0,0.0
+"Palda, Lidmil L.",1.0,3.0,0.0,0.0,1914,Male,Chemistry,2.0,0.0,1.0,1.0,0.0,0.0
+"Parsons, Mabel",1.0,3.0,3.0,3.0,1914,Female,Home Economics,2.0,0.0,2.0,1.0,2.0,0.0
+"Patterson, J. B.",2.0,4.0,1.0,0.0,1914,Male,Electrical Engineering,0.0,0.0,0.0,2.0,1.0,1.0
+"Paxton, Harry W.",0.0,2.0,1.0,1.0,1914,Male,Veterinary,0.0,0.0,0.0,1.0,0.0,0.0
+"Pearce, F. D.",1.0,2.0,0.0,0.0,1914,Male,Chemistry Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Peterson, Elmer M.",1.0,3.0,0.0,0.0,1914,Male,Animal Husbandry,1.0,0.0,0.0,0.0,0.0,0.0
+"Pittman, Don W.",4.0,6.0,2.0,0.0,1914,Male,Agronomy,1.0,1.0,0.0,1.0,0.0,1.0
+"Poage, Blythe",6.0,5.0,0.0,0.0,1914,Female,Science,4.0,0.0,3.0,2.0,1.0,0.0
+"Porter, Harry",2.0,3.0,3.0,0.0,1914,Male,Electrical Engineering,2.0,1.0,0.0,0.0,1.0,0.0
+"Pritchett, George P.",2.0,7.0,1.0,1.0,1914,Male,Electrical Engineering,3.0,0.0,0.0,1.0,0.0,1.0
+"Pryor, Elizabeth",3.0,5.0,3.0,2.0,1914,Female,Home Economics,1.0,3.0,3.0,1.0,2.0,0.0
+"Rait, Donald D.",2.0,3.0,1.0,1.0,1914,Male,Chemistry Engineering,2.0,0.0,1.0,3.0,1.0,0.0
+"Reeves, W. A.",1.0,4.0,0.0,0.0,1914,Male,Chemistry Engineering,2.0,0.0,0.0,1.0,0.0,0.0
+"Reid, Harold W.",1.0,2.0,0.0,0.0,1914,Male,Agronomy,1.0,0.0,0.0,1.0,0.0,0.0
+"Reis, Paul B.",0.0,1.0,0.0,0.0,1914,Male,Chemistry Engineering,0.0,0.0,0.0,1.0,0.0,0.0
+"Renkin, Harry J.",0.0,2.0,3.0,1.0,1914,Male,Mechanical Enginnering,0.0,2.0,1.0,1.0,2.0,0.0
+"Reno, Emma",4.0,9.0,0.0,1.0,1914,Female,Home Economics,3.0,0.0,2.0,2.0,1.0,0.0
+"Reynolds, Mildred V.",1.0,2.0,0.0,0.0,1914,Female,Home Economics,1.0,0.0,1.0,0.0,2.0,0.0
+"Reynolds, Wallace W.",4.0,6.0,0.0,1.0,1914,Male,Animal Husbandry,5.0,1.0,3.0,4.0,0.0,0.0
+"Richmond, Ernest E.",2.0,5.0,2.0,0.0,1914,Male,Electrical Engineering,0.0,0.0,1.0,1.0,1.0,0.0
+"Rider, Ola E.",2.0,4.0,0.0,0.0,1914,Female,Animal Husbandry,2.0,0.0,0.0,0.0,0.0,0.0
+"Ritter, Harry E.",1.0,2.0,1.0,1.0,1914,Male,Dairy,0.0,0.0,0.0,0.0,0.0,0.0
+"Robilliard, Harold S.",2.0,2.0,2.0,0.0,1914,Male,Agronomy,1.0,1.0,1.0,1.0,1.0,0.0
+"Rodger, Frank S.",0.0,1.0,2.0,0.0,1914,Male,Agricultural Engineering,0.0,0.0,0.0,1.0,1.0,0.0
+"Roller, Vernon H.",0.0,1.0,0.0,0.0,1914,Male,Chemistry Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Ross, Crittenden",0.0,0.0,2.0,2.0,1914,Male,Veterinary,0.0,2.0,1.0,0.0,2.0,1.0
+"Rudolph, Ernest G.",1.0,2.0,0.0,0.0,1914,Male,Agronomy,1.0,0.0,1.0,2.0,0.0,0.0
+"Sage, Harley H.",1.0,3.0,0.0,0.0,1914,Male,Forestry,2.0,0.0,1.0,3.0,0.0,0.0
+"Scandrett, M. E.",1.0,3.0,0.0,0.0,1914,Male,Agricultural Education,0.0,0.0,0.0,0.0,0.0,0.0
+"Schaeffer, Roscoe",2.0,2.0,0.0,0.0,1914,Male,Electrical Engineering,1.0,0.0,0.0,1.0,0.0,0.0
+"Schalk, Karl W.",0.0,3.0,0.0,0.0,1914,Male,Veterinary,0.0,0.0,0.0,1.0,0.0,0.0
+"Schultz, Arthur",2.0,1.0,0.0,0.0,1914,Male,Agricultural Engineering,1.0,0.0,1.0,1.0,0.0,0.0
+"Schreiber, Raymond A.",1.0,3.0,1.0,0.0,1914,Male,Mechanical Enginnering,0.0,1.0,0.0,0.0,1.0,0.0
+"Seidell, Fred M.",4.0,4.0,1.0,1.0,1914,Male,Animal Husbandry,3.0,0.0,2.0,3.0,1.0,0.0
+"Selindh, Herbert",1.0,2.0,0.0,0.0,1914,Male,Mechanical Enginnering,1.0,0.0,0.0,0.0,0.0,1.0
+"Sewell, Luman P.",1.0,2.0,1.0,1.0,1914,Male,Animal Husbandry,0.0,1.0,1.0,0.0,0.0,0.0
+"Shima, E. J.",1.0,6.0,0.0,0.0,1914,Male,Dairy,2.0,1.0,2.0,2.0,0.0,0.0
+"Shinkle, Clara",0.0,2.0,1.0,0.0,1914,Female,Home Economics,1.0,0.0,0.0,1.0,0.0,0.0
+"Shinn, Fred W.",4.0,4.0,1.0,1.0,1914,Male,Veterinary,2.0,0.0,0.0,1.0,1.0,0.0
+"Shoemaker, Leroy L.",4.0,4.0,1.0,1.0,1914,Male,Animal Husbandry,3.0,0.0,2.0,1.0,0.0,0.0
+"Skegg, Ellen",0.0,5.0,1.0,0.0,1914,Female,Home Economics,2.0,0.0,0.0,3.0,0.0,0.0
+"Smith, A. Lee",3.0,2.0,0.0,1.0,1914,Male,Animal Husbandry,1.0,1.0,0.0,0.0,0.0,0.0
+"Smith, Edward E.",1.0,4.0,0.0,1.0,1914,Male,Horticulture,2.0,1.0,0.0,2.0,1.0,0.0
+"Smith, Russell A.",0.0,0.0,1.0,1.0,1914,Male,Chemistry Engineering,0.0,1.0,1.0,1.0,1.0,0.0
+"Snyder, S. Drew",2.0,4.0,1.0,0.0,1914,Male,Agricultural Engineering,2.0,0.0,0.0,3.0,0.0,0.0
+"Speaker, Mark",2.0,2.0,2.0,0.0,1914,Male,Veterinary,0.0,0.0,0.0,3.0,0.0,0.0
+"Spencer, Robert N.",1.0,1.0,2.0,0.0,1914,Male,Animal Husbandry,0.0,0.0,0.0,1.0,1.0,0.0
+"Stafford, Clay W.",2.0,3.0,1.0,1.0,1914,Male,Animal Husbandry,0.0,0.0,0.0,1.0,1.0,0.0
+"Statler, May B.",2.0,2.0,2.0,1.0,1914,Female,Home Economics,2.0,1.0,2.0,2.0,2.0,1.0
+"Steen, Herman",2.0,6.0,0.0,0.0,1914,Male,Animal Husbandry,0.0,0.0,0.0,0.0,0.0,0.0
+"Stephenson, Maisie",0.0,1.0,1.0,0.0,1914,Female,Home Economics,0.0,1.0,0.0,0.0,0.0,0.0
+"Stevens, Charles C.",1.0,3.0,0.0,0.0,1914,Male,Mining Engineering,1.0,0.0,1.0,1.0,0.0,0.0
+"Studebaker, M.D.",1.0,2.0,0.0,0.0,1914,Male,Veterinary,1.0,0.0,0.0,0.0,0.0,0.0
+"Stone, Harold E.",2.0,2.0,0.0,0.0,1914,Male,Animal Husbandry,1.0,0.0,0.0,2.0,0.0,0.0
+"Sunderlin, Ralph J.",1.0,3.0,1.0,1.0,1914,Male,Animal Husbandry,2.0,0.0,2.0,1.0,2.0,0.0
+"Swanson, Lloyd G.",3.0,6.0,2.0,1.0,1914,Male,Electrical Engineering,3.0,1.0,2.0,1.0,1.0,1.0
+"Swift, Aubrey J.",3.0,6.0,0.0,0.0,1914,Female,Animal Husbandry,0.0,0.0,0.0,1.0,0.0,0.0
+"Tellier, John K.",0.0,1.0,1.0,1.0,1914,Male,Dairy,0.0,0.0,0.0,1.0,0.0,0.0
+"Thomas, Rollin M.",4.0,1.0,3.0,2.0,1914,Male,Veterinary,1.0,1.0,1.0,2.0,1.0,0.0
+"Thompson, George L.",1.0,2.0,2.0,0.0,1914,Male,Animal Husbandry,0.0,0.0,0.0,0.0,0.0,0.0
+"Thompson, Elmer J.",1.0,1.0,1.0,0.0,1914,Male,Electrical Engineering,1.0,1.0,1.0,1.0,0.0,0.0
+"Thompson, Lora K.",2.0,4.0,0.0,0.0,1914,Female,Home Economics,0.0,0.0,0.0,2.0,0.0,0.0
+"Thompson, Vail E.",4.0,4.0,0.0,0.0,1914,Male,Chemistry Engineering,1.0,0.0,0.0,1.0,0.0,0.0
+"Thornburg, Theron A.",1.0,1.0,1.0,0.0,1914,Male,Animal Husbandry,1.0,0.0,1.0,1.0,0.0,0.0
+"Tracy, H. E.",0.0,6.0,1.0,0.0,1914,Male,Mechanical Enginnering,1.0,0.0,0.0,1.0,2.0,0.0
+"Ufford, Gladys",1.0,2.0,0.0,0.0,1914,Female,Music,2.0,1.0,1.0,2.0,2.0,0.0
+"Van Boskirk, Serrin S.",2.0,3.0,0.0,1.0,1914,Male,Forestry,2.0,0.0,1.0,1.0,0.0,0.0
+"Vaughn, Mary E.",1.0,2.0,1.0,0.0,1914,Female,Home Economics,0.0,0.0,0.0,0.0,0.0,0.0
+"Venning, Harry J.",0.0,4.0,1.0,0.0,1914,Male,Animal Husbandry,1.0,1.0,0.0,1.0,1.0,0.0
+"Vincent, Ruth",2.0,4.0,0.0,0.0,1914,Female,Home Economics,1.0,0.0,1.0,2.0,0.0,0.0
+"Walker, Harley",1.0,3.0,2.0,2.0,1914,Male,Animal Husbandry,1.0,1.0,1.0,0.0,1.0,0.0
+"Wambeam, C. Floyd",2.0,1.0,0.0,0.0,1914,Male,Science,1.0,0.0,1.0,1.0,0.0,1.0
+"Warburton, John H.",0.0,3.0,1.0,0.0,1914,Male,Animal Husbandry,1.0,0.0,0.0,1.0,0.0,1.0
+"Wasser, Verne E.",0.0,2.0,1.0,1.0,1914,Male,Science,0.0,0.0,0.0,1.0,2.0,2.0
+"Watsabaugh, E. Harry",1.0,3.0,2.0,0.0,1914,Male,Animal Husbandry,1.0,1.0,1.0,1.0,2.0,0.0
+"Webb, Russell",4.0,1.0,3.0,0.0,1914,Male,Animal Husbandry,1.0,2.0,0.0,2.0,1.0,0.0
+"Webster, Claire H.",1.0,1.0,0.0,0.0,1914,Male,Electrical Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Welch, Earl G.",1.0,3.0,1.0,0.0,1914,Male,Agricultural Engineering,0.0,1.0,0.0,0.0,1.0,0.0
+"Wentworth, Helen",3.0,4.0,1.0,1.0,1914,Female,Home Economics,3.0,1.0,2.0,2.0,0.0,0.0
+"Wetherbee, Edwin C.",0.0,0.0,1.0,0.0,1914,Male,Animal Husbandry,0.0,0.0,0.0,0.0,1.0,1.0
+"Weston, William B.",1.0,2.0,0.0,0.0,1914,Male,Agricultural Engineering,1.0,0.0,1.0,1.0,0.0,0.0
+"White, Calvin J.",2.0,3.0,0.0,0.0,1914,Male,Chemistry Engineering,0.0,0.0,0.0,0.0,1.0,0.0
+"White, Logan A.",0.0,0.0,0.0,0.0,1914,Male,Veterinary,0.0,0.0,0.0,0.0,0.0,0.0
+"White, Ross P.",0.0,2.0,1.0,0.0,1914,Male,Agricultural Education,0.0,0.0,0.0,0.0,0.0,0.0
+"Wilcox, A. C.",1.0,3.0,0.0,0.0,1914,Male,Agricultural Education,1.0,0.0,1.0,1.0,0.0,0.0
+"Wilson, Irl D.",1.0,2.0,1.0,1.0,1914,Male,Veterinary,1.0,1.0,2.0,2.0,1.0,0.0
+"Witmer, Jessie",3.0,5.0,1.0,0.0,1914,Female,Home Economics,1.0,0.0,0.0,0.0,1.0,0.0
+"Wolfe, Ernest T.",1.0,2.0,2.0,2.0,1914,Male,Forestry,2.0,1.0,1.0,1.0,1.0,0.0
+"Wolven, Ray",1.0,2.0,0.0,0.0,1914,Male,Forestry,1.0,0.0,0.0,0.0,0.0,0.0
+"Wonderlich, Nina May",0.0,0.0,0.0,0.0,1914,Female,Home Economics,0.0,0.0,0.0,0.0,0.0,0.0
+"Woodbury, Brown C.",2.0,2.0,0.0,0.0,1914,Male,Animal Husbandry,0.0,0.0,0.0,0.0,0.0,0.0
+"Wright, George T.",0.0,1.0,0.0,1.0,1914,Male,Mining Engineering,1.0,0.0,0.0,2.0,0.0,0.0
+"Ackerman, Norman W.",4.0,7.0,3.0,2.0,1915,Male,Veterinary,3.0,2.0,2.0,2.0,1.0,0.0
+"Albrook, Frank P.",2.0,4.0,0.0,0.0,1915,Male,Electrical Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Alden, Harold B.",1.0,4.0,1.0,1.0,1915,Male,Electrical Engineering,3.0,2.0,1.0,2.0,0.0,0.0
+"Allen, Grace L.",1.0,1.0,1.0,0.0,1915,Female,Home Economics,1.0,0.0,0.0,1.0,0.0,0.0
+"Allen, N. R.",0.0,2.0,0.0,0.0,1915,Male,Veterinary,1.0,0.0,0.0,1.0,0.0,0.0
+"Allison, J. H.",4.0,6.0,0.0,0.0,1915,Male,Horticulture,1.0,0.0,0.0,0.0,1.0,1.0
+"Althaus, Robert",3.0,6.0,1.0,2.0,1915,Male,Mechanical Enginnering,1.0,1.0,0.0,1.0,1.0,0.0
+"Anderson, Earl G.",1.0,3.0,2.0,1.0,1915,Male,Electrical Engineering,0.0,1.0,0.0,1.0,2.0,1.0
+"Armour, Chas. R.",1.0,3.0,1.0,0.0,1915,Male,Agricultural Engineering,3.0,0.0,1.0,2.0,0.0,0.0
+"Aull, R. H.",2.0,3.0,1.0,0.0,1915,Male,Veterinary,1.0,0.0,0.0,1.0,0.0,0.0
+"Avery, Geo. W.",0.0,1.0,0.0,0.0,1915,Male,Animal Husbandry,0.0,0.0,0.0,1.0,0.0,0.0
+"Avery, Ruth",3.0,4.0,2.0,2.0,1915,Female,Home Economics,1.0,3.0,0.0,0.0,0.0,0.0
+"Bangham, Bayard C.",3.0,7.0,2.0,2.0,1915,Male,Electrical Engineering,4.0,1.0,0.0,3.0,1.0,0.0
+"Barnhart, Etta",2.0,3.0,3.0,1.0,1915,Female,Home Economics,1.0,0.0,1.0,3.0,2.0,2.0
+"Barnum, Edwin F.",1.0,2.0,2.0,2.0,1915,Male,Chemistry Engineering,1.0,1.0,2.0,2.0,1.0,1.0
+"Beach, Frank H.",2.0,1.0,0.0,0.0,1915,Male,Horticulture,0.0,0.0,2.0,2.0,0.0,0.0
+"Beardshear, Constance",5.0,7.0,2.0,2.0,1915,Female,Home Economics,6.0,2.0,4.0,3.0,2.0,0.0
+"Beck, Geo. E.",2.0,4.0,1.0,1.0,1915,Male,Electrical Engineering,2.0,1.0,1.0,3.0,1.0,0.0
+"Berry, R. B.",3.0,2.0,3.0,0.0,1915,Male,,2.0,0.0,2.0,1.0,2.0,2.0
+"Berry, R. W.",5.0,5.0,0.0,1.0,1915,Male,,1.0,0.0,0.0,0.0,0.0,0.0
+"Bittman, E. S.",1.0,1.0,3.0,1.0,1915,Male,Dairy,1.0,2.0,0.0,1.0,2.0,1.0
+"Black, Paul M.",0.0,1.0,2.0,0.0,1915,Male,Chemistry Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Blake, James E.",1.0,6.0,2.0,0.0,1915,Male,Electrical Engineering,3.0,0.0,1.0,2.0,2.0,0.0
+"Bliss, Edith C.",1.0,2.0,0.0,0.0,1915,Female,Home Economics,1.0,0.0,1.0,0.0,0.0,0.0
+"Bliss, Frank H.",3.0,4.0,3.0,1.0,1915,Male,Animal Husbandry,2.0,1.0,0.0,0.0,2.0,1.0
+"Blythe, George",2.0,1.0,1.0,0.0,1915,Male,Animal Husbandry,1.0,0.0,0.0,1.0,1.0,1.0
+"Bode, Irwin T.",1.0,2.0,0.0,0.0,1915,Male,Forestry,0.0,0.0,0.0,0.0,1.0,0.0
+"Bohning, Harry J.",1.0,2.0,0.0,0.0,1915,Male,Chemistry Engineering,1.0,0.0,2.0,1.0,0.0,0.0
+"Bolles, D. C.",1.0,0.0,0.0,0.0,1915,Male,Agricultural Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Bonnewell, Chester A.",4.0,6.0,0.0,0.0,1915,Male,Animal Husbandry,4.0,0.0,2.0,2.0,1.0,0.0
+"Borman, A. P.",0.0,3.0,1.0,3.0,1915,Male,Chemistry Engineering,2.0,1.0,0.0,3.0,2.0,0.0
+"Breakenridge, Will J.",1.0,2.0,1.0,2.0,1915,Male,Animal Husbandry,1.0,2.0,0.0,1.0,0.0,0.0
+"Brimmer, Clifford",4.0,5.0,0.0,0.0,1915,Male,Agronomy,3.0,0.0,1.0,2.0,0.0,0.0
+"Brown, Thomas M.",0.0,3.0,0.0,0.0,1915,Male,Agricultural Education,0.0,0.0,1.0,1.0,0.0,0.0
+"Brown, W. E.",1.0,1.0,2.0,1.0,1915,Male,Agronomy,0.0,1.0,0.0,0.0,0.0,0.0
+"Brownell, Edith",6.0,6.0,0.0,0.0,1915,Female,Home Economics,3.0,0.0,0.0,1.0,0.0,0.0
+"Buchanan, Louise",1.0,3.0,1.0,1.0,1915,Female,Home Economics,2.0,1.0,1.0,2.0,1.0,0.0
+"Buffington, Beula",1.0,3.0,0.0,0.0,1915,Female,Home Economics,0.0,1.0,0.0,0.0,0.0,0.0
+"Burke, Edmund",3.0,4.0,1.0,1.0,1915,Male,Veterinary,3.0,1.0,1.0,3.0,1.0,1.0
+"Burnstedt, H. C.",0.0,1.0,1.0,0.0,1915,Male,Animal Husbandry,0.0,0.0,0.0,2.0,1.0,0.0
+"Bushnell, J. A.",4.0,5.0,0.0,0.0,1915,Male,Electrical Engineering,3.0,0.0,2.0,2.0,0.0,0.0
+"Butcher, Charles A.",2.0,2.0,1.0,0.0,1915,Male,Electrical Engineering,1.0,0.0,0.0,2.0,1.0,0.0
+"Camburn, O. M.",1.0,1.0,2.0,0.0,1915,Male,Animal Husbandry,1.0,0.0,0.0,0.0,2.0,0.0
+"Campbell, Glenn H.",2.0,2.0,0.0,0.0,1915,Male,Animal Husbandry,1.0,1.0,0.0,1.0,0.0,0.0
+"Campbell, Neal",5.0,9.0,1.0,0.0,1915,Male,Animal Husbandry,2.0,0.0,1.0,2.0,2.0,0.0
+"Canady, Elizabeth B.",0.0,2.0,0.0,0.0,1915,Female,Science,0.0,0.0,0.0,0.0,0.0,0.0
+"Carter, Dean G.",2.0,2.0,1.0,0.0,1915,Male,Agricultural Engineering,1.0,0.0,1.0,1.0,1.0,0.0
+"Cessna, Gladys",1.0,2.0,0.0,0.0,1915,Female,Home Economics,1.0,0.0,0.0,1.0,1.0,0.0
+"Cessna, Hazel Rebecca",1.0,4.0,2.0,1.0,1915,Female,Home Economics,2.0,0.0,1.0,1.0,0.0,1.0
+"Chaves, David",0.0,1.0,2.0,0.0,1915,Male,Animal Husbandry,0.0,1.0,0.0,1.0,0.0,0.0
+"Clark, H. M.",2.0,4.0,1.0,0.0,1915,Male,Animal Husbandry,2.0,0.0,1.0,1.0,0.0,1.0
+"Clark, Lucy",1.0,3.0,1.0,0.0,1915,Female,Home Economics,2.0,0.0,1.0,2.0,1.0,0.0
+"Clark, Robert M.",0.0,2.0,0.0,0.0,1915,Male,Horticulture,0.0,0.0,0.0,0.0,1.0,0.0
+"Clyde, A. W.",0.0,2.0,1.0,1.0,1915,Male,Agricultural Engineering,1.0,1.0,0.0,0.0,0.0,0.0
+"Cole, Edith F.",1.0,3.0,0.0,0.0,1915,Female,Home Economics,0.0,0.0,0.0,2.0,0.0,0.0
+"Coles, Jessie V.",2.0,5.0,0.0,0.0,1915,Female,Home Economics,2.0,0.0,0.0,1.0,0.0,0.0
+"Colquhoun, Ezra",2.0,3.0,0.0,0.0,1915,Male,Agricultural Education,1.0,0.0,0.0,1.0,0.0,0.0
+"Combs, Roy",3.0,4.0,0.0,0.0,1915,Male,Agricultural Education,1.0,0.0,1.0,1.0,0.0,0.0
+"Conrad, Ruth",3.0,3.0,1.0,1.0,1915,Female,Home Economics,3.0,0.0,1.0,1.0,0.0,0.0
+"Cool, W. O.",3.0,4.0,0.0,0.0,1915,Male,Chemistry Engineering,3.0,0.0,3.0,3.0,0.0,0.0
+"Cordiner, W. S.",1.0,3.0,0.0,1.0,1915,Male,Chemistry Engineering,1.0,0.0,1.0,1.0,0.0,1.0
+"Corson, Geo. E.",5.0,6.0,0.0,1.0,1915,Male,Agronomy,3.0,1.0,1.0,2.0,0.0,0.0
+"Cretsinger, Elsie M.",2.0,4.0,2.0,0.0,1915,Female,Home Economics,1.0,0.0,1.0,2.0,1.0,0.0
+"Cunningham, C. W.",0.0,1.0,0.0,0.0,1915,Male,Chemistry Engineering,0.0,0.0,0.0,0.0,1.0,0.0
+"Davidson, O. D.",2.0,3.0,2.0,1.0,1915,Male,Mechanical Enginnering,1.0,0.0,0.0,0.0,1.0,0.0
+"Deacon, Anna May",4.0,7.0,1.0,0.0,1915,Female,Home Economics,4.0,0.0,2.0,3.0,0.0,0.0
+"Deischer, Margaret",3.0,4.0,0.0,1.0,1915,Female,Home Economics,3.0,0.0,2.0,2.0,0.0,0.0
+"Dew, Martha",1.0,3.0,0.0,0.0,1915,Female,Home Economics,2.0,0.0,1.0,3.0,0.0,0.0
+"Dickinson, R. L.",1.0,3.0,1.0,1.0,1915,Male,Chemistry Engineering,1.0,0.0,0.0,1.0,1.0,0.0
+"Diedrich, Jacob",0.0,0.0,1.0,0.0,1915,Male,Agronomy,0.0,0.0,0.0,0.0,0.0,0.0
+"Diserens, Albert J.",2.0,3.0,0.0,0.0,1915,Male,Horticulture,0.0,0.0,0.0,0.0,0.0,0.0
+"Dixon, O. H.",3.0,5.0,0.0,0.0,1915,Male,Veterinary,0.0,0.0,1.0,0.0,1.0,0.0
+"Dobbin, Henry F.",1.0,1.0,2.0,0.0,1915,Male,Animal Husbandry,0.0,0.0,0.0,0.0,1.0,0.0
+"Dowell, A. A.",2.0,5.0,0.0,0.0,1915,Male,Animal Husbandry,2.0,0.0,1.0,2.0,0.0,0.0
+"Dowell, J. M.",2.0,4.0,1.0,0.0,1915,Male,Animal Husbandry,2.0,0.0,1.0,2.0,1.0,0.0
+"Dudley, Albert E.",0.0,0.0,0.0,0.0,1915,Male,Electrical Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Duncan, Henry R.",4.0,7.0,0.0,0.0,1915,Male,Animal Husbandry,5.0,0.0,2.0,3.0,0.0,0.0
+"Dyer, Isabel",2.0,4.0,1.0,1.0,1915,Female,Home Economics,1.0,0.0,0.0,1.0,1.0,0.0
+"Edwards, Earl",2.0,2.0,2.0,1.0,1915,Male,Animal Husbandry,2.0,0.0,0.0,1.0,2.0,0.0
+"Edwards, R. M.",1.0,3.0,0.0,0.0,1915,Male,Animal Husbandry,0.0,0.0,0.0,0.0,1.0,0.0
+"Edwards, R. T.",4.0,4.0,0.0,0.0,1915,Male,Mechanical Enginnering,3.0,0.0,2.0,5.0,0.0,0.0
+"Ellis, P. W.",1.0,3.0,0.0,0.0,1915,Male,Mechanical Enginnering,2.0,0.0,1.0,2.0,0.0,0.0
+"Eldredge, John C.",3.0,3.0,2.0,0.0,1915,Male,Agronomy,2.0,0.0,1.0,4.0,1.0,0.0
+"Ellis, J. V.",1.0,0.0,1.0,1.0,1915,Male,Agricultural Education,0.0,0.0,0.0,0.0,1.0,0.0
+"Enslow, V. W.",0.0,0.0,0.0,0.0,1915,Male,Chemistry Engineering,0.0,0.0,0.0,1.0,0.0,0.0
+"Farmer, W. H.",1.0,3.0,0.0,0.0,1915,Male,Animal Husbandry,0.0,0.0,0.0,0.0,0.0,0.0
+"Fidlar, John B.",0.0,0.0,1.0,1.0,1915,Male,Mining Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Field, Mable",1.0,3.0,2.0,2.0,1915,Female,Science,0.0,1.0,2.0,0.0,1.0,0.0
+"Field, Sarah",1.0,4.0,2.0,1.0,1915,Female,Home Economics,4.0,0.0,2.0,3.0,1.0,2.0
+"Fletcher, L. J.",5.0,8.0,0.0,0.0,1915,Male,Agricultural Engineering,4.0,0.0,2.0,4.0,0.0,0.0
+"Flint, Allan T.",1.0,2.0,1.0,1.0,1915,Male,Animal Husbandry,1.0,0.0,0.0,1.0,1.0,0.0
+"Fox, Elmer",1.0,3.0,2.0,1.0,1915,Male,Animal Husbandry,0.0,2.0,0.0,1.0,3.0,1.0
+"Frevert, A. A.",1.0,1.0,2.0,1.0,1915,Male,Animal Husbandry,0.0,1.0,0.0,3.0,2.0,0.0
+"Frink, Gale K.",1.0,3.0,1.0,0.0,1915,Male,Animal Husbandry,1.0,0.0,0.0,0.0,1.0,1.0
+"Fry, Edna B.",2.0,2.0,5.0,3.0,1915,Female,Home Economics,1.0,2.0,0.0,0.0,1.0,0.0
+"Furry, Genevieve",1.0,2.0,1.0,1.0,1915,Female,Home Economics,0.0,1.0,0.0,0.0,1.0,0.0
+"Garretson, O. A.",3.0,3.0,1.0,1.0,1915,Male,Animal Husbandry,1.0,0.0,0.0,1.0,1.0,0.0
+"Garst, M. C.",1.0,1.0,0.0,0.0,1915,Male,Animal Husbandry,1.0,0.0,0.0,2.0,0.0,0.0
+"Garton, Gladys",3.0,4.0,0.0,0.0,1915,Female,Music,2.0,0.0,0.0,2.0,0.0,0.0
+"Gaylord, Sidney W.",1.0,2.0,4.0,2.0,1915,Male,Chemistry Engineering,0.0,1.0,0.0,3.0,1.0,0.0
+"Gholson, H. E.",0.0,3.0,2.0,1.0,1915,Male,Animal Husbandry,2.0,1.0,1.0,1.0,1.0,1.0
+"Gifford, Gladys",0.0,1.0,0.0,0.0,1915,Female,Agronomy,0.0,0.0,0.0,0.0,0.0,0.0
+"Gilbert, C. A.",2.0,4.0,0.0,2.0,1915,Male,Animal Husbandry,2.0,0.0,1.0,0.0,0.0,0.0
+"Gilbert, Winifred",0.0,1.0,0.0,0.0,1915,Female,Home Economics,1.0,0.0,0.0,0.0,0.0,0.0
+"Giles, Frank A.",2.0,2.0,1.0,0.0,1915,Male,Animal Husbandry,0.0,1.0,0.0,1.0,0.0,0.0
+"Goldenstar, Arthur",1.0,4.0,2.0,1.0,1915,Male,Chemistry Engineering,3.0,1.0,1.0,2.0,1.0,0.0
+"Goldschmidt, Adlai",0.0,0.0,0.0,1.0,1915,Male,Agronomy,0.0,0.0,0.0,1.0,0.0,0.0
+"Gonzalez, Raul",1.0,3.0,1.0,0.0,1915,Male,Agronomy,0.0,0.0,0.0,0.0,0.0,1.0
+"Gordon, D. V.",0.0,0.0,2.0,0.0,1915,Male,Agricultural Engineering,0.0,1.0,0.0,0.0,1.0,1.0
+"Goss, G. A.",0.0,2.0,1.0,1.0,1915,Male,Dairy,0.0,1.0,0.0,1.0,0.0,0.0
+"Goss, E. F.",2.0,4.0,1.0,0.0,1915,Male,Dairy,1.0,1.0,1.0,1.0,1.0,0.0
+"Greer, Chloe",2.0,1.0,3.0,2.0,1915,Female,Home Economics,1.0,1.0,2.0,2.0,2.0,0.0
+"Gregg, Paul F.",1.0,3.0,1.0,1.0,1915,Male,Electrical Engineering,1.0,0.0,0.0,0.0,2.0,0.0
+"Griggs, Muriel K.",3.0,4.0,1.0,0.0,1915,Female,Science,1.0,0.0,1.0,3.0,1.0,0.0
+"Grover, Chas. B.",4.0,3.0,0.0,0.0,1915,Male,Chemistry Engineering,1.0,0.0,1.0,3.0,0.0,0.0
+"Gunsaulus, A. C.",0.0,2.0,2.0,1.0,1915,Male,Mechanical Enginnering,0.0,1.0,0.0,0.0,0.0,0.0
+"Guthrie, Maude Lilian",0.0,3.0,0.0,0.0,1915,Female,Home Economics,0.0,0.0,0.0,1.0,1.0,0.0
+"Hanson, Sigurd",1.0,4.0,4.0,1.0,1915,Male,Agronomy,0.0,0.0,1.0,1.0,5.0,3.0
+"Hargrove, M. R.",2.0,2.0,0.0,0.0,1915,Male,Animal Husbandry,1.0,0.0,1.0,1.0,0.0,0.0
+"Harley, Wm.",0.0,1.0,0.0,0.0,1915,Male,Forestry,1.0,0.0,0.0,0.0,0.0,0.0
+"Harpel, Gates",0.0,0.0,1.0,1.0,1915,Male,Electrical Engineering,0.0,1.0,1.0,0.0,1.0,0.0
+"Harrison, Roscoe F.",1.0,3.0,0.0,1.0,1915,Male,Animal Husbandry,2.0,0.0,2.0,2.0,0.0,0.0
+"Hawkins, J. R.",0.0,2.0,0.0,0.0,1915,Male,Animal Husbandry,0.0,0.0,0.0,0.0,0.0,0.0
+"Helmick, Jas. D.",0.0,1.0,0.0,0.0,1915,Male,Animal Husbandry,1.0,0.0,0.0,1.0,0.0,0.0
+"Helmick, Mabel J.",4.0,5.0,1.0,0.0,1915,Female,Home Economics,3.0,0.0,0.0,2.0,0.0,0.0
+"Helmick, Valona F.",1.0,1.0,3.0,2.0,1915,Female,Home Economics,1.0,1.0,1.0,1.0,3.0,1.0
+"Henderson, Blanche",2.0,2.0,0.0,0.0,1915,Female,Home Economics,2.0,0.0,0.0,0.0,0.0,0.0
+"Henss, A. D.",2.0,2.0,1.0,1.0,1915,Male,Dairy,1.0,1.0,0.0,1.0,0.0,1.0
+"Hewitt, Henry M.",0.0,1.0,1.0,0.0,1915,Male,Animal Husbandry,0.0,0.0,0.0,0.0,1.0,0.0
+"Hinkson, Nellie",1.0,4.0,0.0,0.0,1915,Female,Home Economics,2.0,0.0,0.0,0.0,0.0,0.0
+"Holm, Florence",2.0,5.0,3.0,1.0,1915,Female,Home Economics,3.0,2.0,1.0,2.0,1.0,1.0
+"Hood, Clarence K.",1.0,3.0,3.0,2.0,1915,Male,Electrical Engineering,0.0,1.0,0.0,0.0,2.0,1.0
+"Hopkins, Karl H.",3.0,5.0,0.0,0.0,1915,Male,Animal Husbandry,3.0,1.0,0.0,1.0,1.0,0.0
+"Hopkins, R. M.",4.0,6.0,0.0,0.0,1915,Male,Animal Husbandry,3.0,0.0,1.0,2.0,0.0,0.0
+"Horne, R. J.",2.0,3.0,2.0,1.0,1915,Male,Mechanical Enginnering,1.0,1.0,0.0,1.0,0.0,0.0
+"Hoyt, T. V.",3.0,6.0,3.0,2.0,1915,Male,Electrical Engineering,1.0,2.0,3.0,2.0,2.0,0.0
+"Hoyt, R. S.",1.0,0.0,0.0,0.0,1915,Male,Horticulture,0.0,0.0,1.0,0.0,0.0,0.0
+"Hubbard, Reuben",0.0,1.0,0.0,0.0,1915,Male,Animal Husbandry,0.0,0.0,0.0,0.0,1.0,0.0
+"Hudson, W. F.",1.0,1.0,1.0,0.0,1915,Male,Electrical Engineering,1.0,0.0,0.0,0.0,0.0,0.0
+"Hunefeld, F. H.",0.0,3.0,0.0,0.0,1915,Male,Mechanical Enginnering,1.0,0.0,0.0,2.0,0.0,0.0
+"Hunter, J. Marshall",1.0,1.0,1.0,1.0,1915,Male,Animal Husbandry,0.0,1.0,1.0,1.0,1.0,0.0
+"Irvine, Mae",2.0,4.0,1.0,1.0,1915,Female,Home Economics,3.0,0.0,1.0,1.0,1.0,0.0
+"Isch, D. H.",1.0,0.0,1.0,0.0,1915,Male,Forestry,0.0,0.0,0.0,1.0,0.0,0.0
+"Iverson, Jennie",2.0,3.0,0.0,0.0,1915,Female,Home Economics,3.0,0.0,1.0,2.0,0.0,0.0
+"Jansen, Peter C.",1.0,2.0,1.0,0.0,1915,Male,Electrical Engineering,1.0,1.0,0.0,0.0,1.0,0.0
+"Jenson, J. C.",1.0,1.0,1.0,1.0,1915,Male,Animal Husbandry,0.0,0.0,0.0,1.0,1.0,0.0
+"Johnson, C. G.",2.0,2.0,0.0,0.0,1915,Male,Agronomy,2.0,0.0,2.0,2.0,0.0,0.0
+"Johnson, Glenn W.",2.0,3.0,0.0,1.0,1915,Male,Agricultural Engineering,2.0,0.0,1.0,2.0,0.0,0.0
+"Johnson, Merle E.",1.0,1.0,1.0,0.0,1915,Male,Chemistry Engineering,1.0,1.0,0.0,3.0,1.0,0.0
+"Jones, Glenn",1.0,2.0,1.0,0.0,1915,Male,Forestry,0.0,0.0,0.0,1.0,0.0,0.0
+"Joy, A. W.",0.0,0.0,1.0,0.0,1915,Male,Dairy,0.0,0.0,0.0,0.0,0.0,0.0
+"Kaiser, Elmer L.",3.0,5.0,0.0,2.0,1915,Male,Chemistry Engineering,3.0,1.0,0.0,2.0,1.0,1.0
+"Kelly, Mary C.",3.0,4.0,2.0,3.0,1915,Female,Home Economics,4.0,1.0,3.0,3.0,1.0,0.0
+"Kenneally, Marion H.",2.0,3.0,2.0,2.0,1915,Female,Electrical Engineering,2.0,2.0,2.0,2.0,0.0,0.0
+"Kerwin, F. N.",1.0,2.0,0.0,0.0,1915,Male,Electrical Engineering,1.0,0.0,1.0,2.0,0.0,0.0
+"Ketchum, Marjorie",1.0,2.0,0.0,0.0,1915,Female,Home Economics,1.0,0.0,0.0,0.0,1.0,0.0
+"Key, Florence",1.0,1.0,4.0,1.0,1915,Female,Music,1.0,1.0,1.0,1.0,3.0,1.0
+"King, R. C.",0.0,1.0,1.0,1.0,1915,Male,Animal Husbandry,0.0,0.0,0.0,1.0,1.0,0.0
+"King, Leone C.",1.0,5.0,1.0,0.0,1915,Female,Home Economics,1.0,0.0,0.0,2.0,0.0,0.0
+"Kirk, R. H.",6.0,7.0,0.0,1.0,1915,Male,Mechanical Enginnering,5.0,0.0,2.0,1.0,0.0,0.0
+"Koenig, Fred",1.0,4.0,1.0,0.0,1915,Male,Agronomy,3.0,0.0,0.0,2.0,0.0,0.0
+"Lackie, H. M.",2.0,4.0,0.0,0.0,1915,Male,Agricultural Education,3.0,0.0,3.0,1.0,0.0,0.0
+"Laird, Daisy",1.0,3.0,2.0,2.0,1915,Female,Home Economics,1.0,0.0,0.0,1.0,1.0,0.0
+"Lake, Sebastian",1.0,1.0,1.0,0.0,1915,Male,Horticulture,0.0,0.0,0.0,1.0,0.0,0.0
+"Lamson, Bertha",1.0,3.0,0.0,0.0,1915,Female,Home Economics,1.0,0.0,1.0,1.0,0.0,0.0
+"Lemley, Mary E.",3.0,5.0,0.0,0.0,1915,Female,Home Economics,2.0,0.0,0.0,0.0,0.0,0.0
+"Lewis, Flossie May",3.0,5.0,0.0,1.0,1915,Female,Home Economics,1.0,1.0,0.0,1.0,1.0,1.0
+"Lewis, George",1.0,3.0,0.0,0.0,1915,Male,Agronomy,0.0,0.0,0.0,0.0,0.0,0.0
+"Lewis, Maude E.",1.0,6.0,1.0,1.0,1915,Female,Home Economics,2.0,1.0,1.0,2.0,0.0,0.0
+"Likely, C. W.",1.0,5.0,0.0,0.0,1915,Male,Veterinary,2.0,0.0,0.0,1.0,1.0,0.0
+"Lindauer, John W.",1.0,2.0,0.0,0.0,1915,Male,Agricultural Engineering,1.0,0.0,0.0,0.0,0.0,0.0
+"Ingle, Thomas",0.0,1.0,1.0,1.0,1915,Male,Animal Husbandry,0.0,1.0,0.0,0.0,1.0,1.0
+"Linse, Vivian",1.0,4.0,2.0,0.0,1915,Female,Home Economics,3.0,1.0,0.0,1.0,0.0,1.0
+"Little, Mary Ruth",1.0,4.0,1.0,1.0,1915,Female,Home Economics,1.0,0.0,2.0,1.0,1.0,0.0
+"Lloyd, J. M.",3.0,4.0,1.0,0.0,1915,Male,Veterinary,3.0,0.0,3.0,2.0,0.0,0.0
+"Loveland, F. J.",3.0,5.0,0.0,0.0,1915,Male,Special,2.0,0.0,0.0,2.0,1.0,0.0
+"McClary, J.",6.0,5.0,1.0,0.0,1915,Male,Animal Husbandry,3.0,0.0,2.0,2.0,0.0,0.0
+"McDonald, Chas. B.",2.0,3.0,0.0,1.0,1915,Male,Animal Husbandry,2.0,0.0,2.0,2.0,0.0,0.0
+"McGovern, S. A.",1.0,2.0,1.0,1.0,1915,Male,Chemistry Engineering,0.0,0.0,0.0,2.0,0.0,0.0
+"McGhee, J. D.",1.0,2.0,2.0,1.0,1915,Male,Animal Husbandry,1.0,0.0,0.0,1.0,1.0,0.0
+"McHose, Winifred",4.0,6.0,1.0,1.0,1915,Female,Home Economics,3.0,1.0,1.0,3.0,0.0,0.0
+"McKinsey, Shirley N.",1.0,2.0,1.0,0.0,1915,Female,Agricultural Education,0.0,1.0,0.0,0.0,0.0,0.0
+"McLaughlin, M. L.",3.0,4.0,2.0,0.0,1915,Male,Veterinary,3.0,1.0,0.0,2.0,0.0,0.0
+"McMahon, G. D.",0.0,6.0,2.0,1.0,1915,Male,Agricultural Engineering,1.0,0.0,0.0,0.0,0.0,1.0
+"McMahon, W. S.",1.0,3.0,1.0,0.0,1915,Male,Animal Husbandry,2.0,0.0,1.0,4.0,0.0,0.0
+"McMillan, H. L.",4.0,7.0,1.0,0.0,1915,Male,Veterinary,3.0,1.0,1.0,3.0,1.0,0.0
+"McWhorter, Ray S.",0.0,2.0,5.0,0.0,1915,Male,Animal Husbandry,0.0,1.0,1.0,0.0,0.0,0.0
+"MacGibbon, W. M.",3.0,5.0,0.0,0.0,1915,Male,Chemistry Engineering,4.0,0.0,3.0,2.0,0.0,0.0
+"Mack, Fay",3.0,4.0,0.0,0.0,1915,Female,Home Economics,3.0,0.0,1.0,0.0,0.0,0.0
+"Macvicar, John",2.0,3.0,1.0,0.0,1915,Male,Chemistry Engineering,1.0,0.0,1.0,1.0,1.0,0.0
+"Madson, Luella E.",4.0,5.0,0.0,0.0,1915,Female,Home Economics,2.0,0.0,1.0,3.0,0.0,0.0
+"Mattison, H. H.",1.0,3.0,1.0,1.0,1915,Male,Animal Husbandry,2.0,0.0,1.0,2.0,1.0,1.0
+"Meiggs, L. W.",1.0,1.0,2.0,0.0,1915,Male,Dairy,1.0,1.0,1.0,2.0,1.0,1.0
+"Meltzer, Chas.",2.0,3.0,0.0,0.0,1915,Male,Animal Husbandry,2.0,0.0,1.0,1.0,0.0,0.0
+"Merritt, Worth",1.0,4.0,1.0,1.0,1915,Male,Animal Husbandry,2.0,0.0,0.0,3.0,1.0,0.0
+"Middleton, Amy L.",2.0,2.0,0.0,0.0,1915,Female,Home Economics,0.0,0.0,0.0,0.0,1.0,0.0
+"Miller, Harold",2.0,4.0,1.0,1.0,1915,Male,Animal Husbandry,2.0,0.0,0.0,2.0,0.0,0.0
+"Miller, M. P.",1.0,3.0,0.0,0.0,1915,Male,Agronomy,1.0,0.0,0.0,0.0,0.0,0.0
+"Miller, Robert J.",1.0,2.0,1.0,0.0,1915,Male,Agronomy,0.0,0.0,0.0,1.0,1.0,1.0
+"Minges, George A.",0.0,3.0,1.0,2.0,1915,Male,Science,1.0,1.0,1.0,1.0,1.0,0.0
+"Minnis, C. Floyd",2.0,1.0,1.0,0.0,1915,Male,Chemistry Engineering,1.0,2.0,1.0,1.0,0.0,0.0
+"Montgomery, Mary E.",2.0,5.0,1.0,1.0,1915,Female,Home Economics,2.0,0.0,1.0,4.0,0.0,0.0
+"Moore, Susie B.",1.0,3.0,1.0,0.0,1915,Female,Home Economics,0.0,0.0,0.0,0.0,0.0,0.0
+"Murphy, Mabel",0.0,4.0,0.0,0.0,1915,Female,Home Economics,2.0,0.0,1.0,1.0,0.0,0.0
+"Nielson, W. R.",2.0,3.0,0.0,0.0,1915,Male,Dairy,0.0,0.0,0.0,1.0,0.0,0.0
+"Niles, Laura",0.0,0.0,2.0,0.0,1915,Female,Science,0.0,0.0,0.0,1.0,0.0,0.0
+"Noble, Nellie",4.0,5.0,0.0,1.0,1915,Female,Science,2.0,0.0,2.0,0.0,1.0,0.0
+"O'Connor, Mildred",1.0,3.0,0.0,0.0,1915,Female,Science,3.0,0.0,0.0,2.0,0.0,0.0
+"Ogilvie, Victor A.",2.0,2.0,1.0,1.0,1915,Male,Electrical Engineering,1.0,1.0,1.0,0.0,0.0,0.0
+"Olson, Norman E.",1.0,1.0,3.0,2.0,1915,Male,Dairy,1.0,2.0,0.0,1.0,1.0,1.0
+"O'Rourke, John B.",3.0,3.0,1.0,1.0,1915,Male,Electrical Engineering,0.0,0.0,0.0,1.0,1.0,0.0
+"Pammel, Doris",3.0,6.0,2.0,2.0,1915,Female,Home Economics,4.0,1.0,1.0,1.0,1.0,0.0
+"Parle, Harry V.",0.0,1.0,0.0,0.0,1915,Male,Electrical Engineering,0.0,0.0,0.0,1.0,0.0,0.0
+"Paxon, P. B.",1.0,3.0,0.0,0.0,1915,Male,Animal Husbandry,1.0,0.0,0.0,0.0,0.0,0.0
+"Pearce, G. T.",2.0,3.0,3.0,1.0,1915,Male,Electrical Engineering,2.0,0.0,1.0,2.0,0.0,0.0
+"Peaslee, O. M.",0.0,2.0,0.0,0.0,1915,Male,Electrical Engineering,1.0,0.0,0.0,3.0,0.0,0.0
+"Penick, Margaret",3.0,4.0,0.0,0.0,1915,Female,Home Economics,3.0,0.0,0.0,2.0,0.0,0.0
+"Perdue, H. S.",2.0,2.0,1.0,0.0,1915,Male,Veterinary,1.0,0.0,1.0,1.0,0.0,0.0
+"Perry, Winifred",1.0,2.0,0.0,0.0,1915,Female,Science,1.0,0.0,1.0,1.0,0.0,0.0
+"Peters, J. H.",1.0,3.0,0.0,0.0,1915,Male,Science,2.0,0.0,0.0,1.0,2.0,0.0
+"Peters, Eunice",1.0,4.0,2.0,2.0,1915,Female,Home Economics,2.0,0.0,1.0,1.0,1.0,0.0
+"Peterson, Ward",3.0,3.0,1.0,0.0,1915,Male,Agricultural Engineering,2.0,0.0,0.0,2.0,0.0,0.0
+"Peterson, Van D.",0.0,1.0,1.0,0.0,1915,Male,Animal Husbandry,0.0,0.0,0.0,0.0,0.0,0.0
+"Phillips, Wilma A.",1.0,2.0,0.0,1.0,1915,Female,Home Economics,1.0,1.0,0.0,0.0,0.0,0.0
+"Pickford, A. H.",0.0,4.0,1.0,0.0,1915,Male,Animal Husbandry,1.0,0.0,0.0,0.0,0.0,0.0
+"Pierce, Jessie",1.0,3.0,0.0,0.0,1915,Female,Home Economics,2.0,0.0,2.0,2.0,2.0,1.0
+"Pittman, P. W.",0.0,1.0,1.0,1.0,1915,Male,Mechanical Enginnering,1.0,0.0,1.0,1.0,1.0,1.0
+"Porterfield, J. S.",3.0,2.0,1.0,0.0,1915,Male,Animal Husbandry,0.0,0.0,0.0,0.0,1.0,0.0
+"Portlock, Kineta",0.0,2.0,0.0,0.0,1915,Female,Home Economics,1.0,0.0,0.0,0.0,1.0,0.0
+"Potter, E. G.",1.0,3.0,1.0,0.0,1915,Male,Animal Husbandry,1.0,0.0,0.0,3.0,0.0,0.0
+"Potter, L. D.",0.0,0.0,1.0,0.0,1915,Male,Veterinary,0.0,0.0,0.0,0.0,0.0,0.0
+"Potter, L. P.",5.0,8.0,0.0,1.0,1915,Male,Veterinary,3.0,0.0,2.0,3.0,0.0,0.0
+"Powell, Lester D.",3.0,4.0,1.0,0.0,1915,Male,Animal Husbandry,1.0,1.0,1.0,1.0,1.0,2.0
+"Price, Mary E.",2.0,4.0,0.0,0.0,1915,Female,,1.0,0.0,0.0,0.0,0.0,0.0
+"Rackliffe, Arthur",2.0,5.0,1.0,0.0,1915,Male,Dairy,1.0,1.0,1.0,1.0,2.0,0.0
+"Raeder, J. M.",0.0,1.0,0.0,0.0,1915,Male,Agronomy,0.0,0.0,0.0,0.0,0.0,0.0
+"Ramirez, Hipolito",2.0,2.0,1.0,0.0,1915,Male,Agronomy,2.0,0.0,1.0,2.0,0.0,0.0
+"Rath, R. A.",0.0,2.0,4.0,3.0,1915,Male,Electrical Engineering,0.0,1.0,0.0,0.0,3.0,0.0
+"Reep, R. W.",2.0,4.0,0.0,0.0,1915,Male,Agronomy,2.0,0.0,1.0,2.0,0.0,0.0
+"Reese, Vincent M.",2.0,2.0,3.0,2.0,1915,Male,Chemistry Engineering,1.0,1.0,0.0,3.0,2.0,0.0
+"Reeve, Lew",1.0,2.0,1.0,0.0,1915,Male,Animal Husbandry,0.0,1.0,1.0,0.0,1.0,1.0
+"Reeve, Myra R.",4.0,5.0,0.0,0.0,1915,Female,Home Economics,2.0,0.0,3.0,2.0,0.0,0.0
+"Renne, Lysle W.",1.0,1.0,1.0,0.0,1915,Male,Animal Husbandry,1.0,0.0,1.0,1.0,0.0,0.0
+"Reynard, Chas R.",3.0,7.0,2.0,2.0,1915,Male,Veterinary,3.0,0.0,2.0,1.0,0.0,1.0
+"Rickey, Lacey F.",3.0,0.0,1.0,0.0,1915,Female,Animal Husbandry,0.0,1.0,0.0,1.0,0.0,0.0
+"Ringheim, Irene",1.0,4.0,1.0,0.0,1915,Female,Home Economics,1.0,1.0,2.0,1.0,1.0,0.0
+"Rogers, W. L.",0.0,3.0,1.0,0.0,1915,Male,Animal Husbandry,0.0,0.0,0.0,0.0,1.0,0.0
+"Rudnick, Marie",0.0,2.0,2.0,0.0,1915,Female,Music,0.0,0.0,0.0,0.0,0.0,0.0
+"Russell, Willard E.",0.0,2.0,2.0,0.0,1915,Male,Mechanical Enginnering,1.0,0.0,0.0,0.0,0.0,0.0
+"Ryan, Ada Claire",5.0,7.0,0.0,0.0,1915,Female,Home Economics,5.0,0.0,3.0,4.0,0.0,0.0
+"Scarborough, Hugh",2.0,5.0,1.0,0.0,1915,Male,Electrical Engineering,2.0,0.0,1.0,0.0,0.0,1.0
+"Schloeman, Henry O.",1.0,2.0,0.0,0.0,1915,Male,Animal Husbandry,1.0,0.0,0.0,2.0,0.0,0.0
+"Schultz, Orville C.",0.0,0.0,1.0,1.0,1915,Male,Industrial Science,0.0,1.0,0.0,0.0,1.0,0.0
+"Seeds, Edward",2.0,2.0,2.0,0.0,1915,Male,Electrical Engineering,2.0,1.0,1.0,2.0,1.0,0.0
+"Seiler, Elmer",0.0,1.0,4.0,1.0,1915,Male,Dairy,1.0,1.0,1.0,1.0,1.0,1.0
+"Ernstrom, Carl Y.",1.0,3.0,0.0,0.0,1915,Male,Chemistry Engineering,0.0,0.0,0.0,2.0,0.0,0.0
+"Seymour, J. H.",3.0,2.0,2.0,1.0,1915,Male,Agricultural Education,2.0,2.0,2.0,1.0,1.0,0.0
+"Shumway, Abigail",1.0,3.0,0.0,0.0,1915,Female,Home Economics,0.0,0.0,0.0,0.0,0.0,0.0
+"Simpson, Chas. O.",1.0,0.0,0.0,0.0,1915,Male,Mining Engineering,0.0,0.0,0.0,1.0,0.0,0.0
+"Sims, Marjorie",0.0,2.0,1.0,2.0,1915,Female,Home Economics,1.0,0.0,0.0,2.0,1.0,0.0
+"Smith, Allan M.",1.0,1.0,0.0,1.0,1915,Male,Agronomy,1.0,1.0,0.0,0.0,1.0,1.0
+"Smith, Cecil",2.0,2.0,0.0,0.0,1915,Male,Agronomy,1.0,1.0,2.0,1.0,0.0,0.0
+"Smith, F. R.",4.0,4.0,0.0,0.0,1915,Male,Agricultural Engineering,2.0,0.0,1.0,4.0,1.0,0.0
+"Snyder, Lloyd B.",1.0,3.0,2.0,1.0,1915,Male,Agronomy,0.0,1.0,0.0,1.0,2.0,0.0
+"Spencer, Harold",0.0,1.0,1.0,1.0,1915,Male,Animal Husbandry,0.0,0.0,0.0,2.0,1.0,0.0
+"Stacy, B. F.",0.0,0.0,1.0,1.0,1915,Male,Animal Husbandry,0.0,0.0,0.0,2.0,0.0,0.0
+"Steen, Clara",1.0,3.0,2.0,1.0,1915,Female,Home Economics,1.0,0.0,2.0,1.0,1.0,0.0
+"Storey, Katie Marie",2.0,3.0,1.0,0.0,1915,Female,Home Economics,2.0,0.0,1.0,1.0,0.0,0.0
+"Strandberg, Fred W.",0.0,1.0,0.0,0.0,1915,Male,Mining Engineering,0.0,0.0,1.0,0.0,0.0,0.0
+"Stuckenbruck, Harold C.",2.0,2.0,1.0,1.0,1915,Male,Mechanical Enginnering,2.0,1.0,2.0,3.0,1.0,1.0
+"Summers, Glenn H.",0.0,6.0,1.0,1.0,1915,Male,Animal Husbandry,1.0,2.0,1.0,1.0,2.0,0.0
+"Summers, R. J.",1.0,1.0,0.0,0.0,1915,Male,Chemistry Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Sunderland, H. H.",1.0,1.0,0.0,0.0,1915,Male,Agricultural Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Sunderlin, Howard L.",0.0,1.0,1.0,0.0,1915,Male,Science,0.0,0.0,0.0,0.0,0.0,0.0
+"Swan, J. H.",2.0,2.0,0.0,0.0,1915,Male,Animal Husbandry,1.0,0.0,1.0,1.0,0.0,0.0
+"Swaney, Gilmore D.",3.0,3.0,2.0,1.0,1915,Male,Agricultural Education,2.0,1.0,1.0,1.0,2.0,1.0
+"Swift, Harvey M.",0.0,3.0,1.0,1.0,1915,Male,Agricultural Education,1.0,0.0,0.0,0.0,0.0,0.0
+"Taff, Lillian C.",0.0,1.0,1.0,0.0,1915,Female,Home Economics,1.0,0.0,0.0,2.0,1.0,0.0
+"Thomas, J. Fred",2.0,2.0,0.0,1.0,1915,Male,Dairy,1.0,0.0,1.0,1.0,0.0,0.0
+"Thompson, Stephen C.",2.0,2.0,0.0,1.0,1915,Male,Agronomy,1.0,0.0,1.0,0.0,0.0,0.0
+"Thorson, Theo.",1.0,2.0,0.0,0.0,1915,Male,Dairy,1.0,0.0,1.0,1.0,0.0,0.0
+"Thurman, A. G.",2.0,3.0,0.0,0.0,1915,Male,Animal Husbandry,2.0,1.0,1.0,1.0,0.0,0.0
+"Foenies, T. A.",3.0,6.0,1.0,0.0,1915,Male,Agricultural Engineering,2.0,0.0,2.0,2.0,1.0,0.0
+"Tomlinson, Paul",1.0,3.0,1.0,1.0,1915,Male,Animal Husbandry,1.0,1.0,0.0,0.0,1.0,1.0
+"Truax, Earl R.",0.0,1.0,0.0,0.0,1915,Male,Veterinary,0.0,0.0,0.0,0.0,0.0,0.0
+"Stephenson, A. R.",2.0,2.0,1.0,1.0,1915,Male,Animal Husbandry,1.0,1.0,0.0,0.0,0.0,1.0
+"Stevenson, R. S.",0.0,1.0,0.0,0.0,1915,Male,Animal Husbandry,0.0,0.0,0.0,0.0,0.0,0.0
+"Stewart, F. Lee",5.0,7.0,1.0,0.0,1915,Male,Animal Husbandry,3.0,0.0,1.0,1.0,1.0,0.0
+"True, R. H.",7.0,7.0,0.0,0.0,1915,Male,Animal Husbandry,1.0,0.0,0.0,1.0,0.0,0.0
+"Valdez, J.",0.0,2.0,2.0,0.0,1915,Male,Agricultural Engineering,1.0,1.0,1.0,1.0,1.0,0.0
+"Van Anda, John L.",2.0,3.0,1.0,0.0,1915,Male,Animal Husbandry,0.0,1.0,0.0,0.0,0.0,0.0
+"Vickerstaff, S. G.",0.0,0.0,0.0,0.0,1915,Male,Animal Husbandry,0.0,0.0,0.0,0.0,0.0,0.0
+"Walker, Van B.",1.0,5.0,1.0,2.0,1915,Male,Chemistry Engineering,2.0,1.0,2.0,3.0,1.0,0.0
+"Ward, Lottie E.",0.0,1.0,0.0,0.0,1915,Female,Home Economics,1.0,0.0,0.0,2.0,0.0,0.0
+"Warden, Robt. P.",1.0,0.0,0.0,0.0,1915,Male,Animal Husbandry,0.0,0.0,0.0,3.0,0.0,0.0
+"Watson, Besse",0.0,1.0,0.0,0.0,1915,Female,Home Economics,0.0,0.0,0.0,0.0,0.0,0.0
+"Wenger, Joe",2.0,3.0,0.0,0.0,1915,Male,Dairy,2.0,0.0,1.0,2.0,2.0,0.0
+"Wentworth, Marion",1.0,3.0,1.0,0.0,1915,Female,Home Economics,3.0,0.0,1.0,1.0,1.0,0.0
+"Westley, Roy O.",2.0,2.0,0.0,1.0,1915,Male,Agronomy,2.0,0.0,2.0,1.0,0.0,0.0
+"White, Mary",1.0,3.0,4.0,2.0,1915,Female,Home Economics,2.0,1.0,1.0,1.0,2.0,1.0
+"Whitney, O. R.",1.0,2.0,1.0,1.0,1915,Male,Veterinary,2.0,0.0,0.0,1.0,1.0,0.0
+"Wiley, Chas. E.",1.0,3.0,1.0,0.0,1915,Male,,0.0,1.0,0.0,0.0,1.0,0.0
+"Willey, Florence",1.0,6.0,0.0,0.0,1915,Female,Science,1.0,0.0,0.0,0.0,0.0,0.0
+"Wilson, Edwin J.",3.0,3.0,1.0,0.0,1915,Male,Electrical Engineering,0.0,0.0,0.0,1.0,0.0,0.0
+"Wilson, Emma Lou",2.0,2.0,1.0,0.0,1915,Female,Home Economics,2.0,0.0,1.0,2.0,0.0,0.0
+"Wilson, Annie Faye",4.0,10.0,1.0,2.0,1915,Female,Home Economics,8.0,0.0,6.0,2.0,1.0,0.0
+"Wilson, Harrison B.",0.0,0.0,0.0,0.0,1915,Male,Dairy,0.0,0.0,0.0,0.0,1.0,1.0
+"Wind, Hortense E.",4.0,6.0,0.0,0.0,1915,Female,Home Economics,4.0,0.0,2.0,2.0,0.0,0.0
+"Winter, Leon A.",3.0,5.0,0.0,1.0,1915,Male,Electrical Engineering,3.0,1.0,2.0,2.0,1.0,0.0
+"Wood, P. E.",1.0,3.0,0.0,0.0,1915,Male,Animal Husbandry,0.0,0.0,0.0,0.0,1.0,0.0
+"Woodroffe, H. B.",0.0,1.0,5.0,2.0,1915,Male,Animal Husbandry,0.0,2.0,1.0,2.0,2.0,1.0
+"Yockey, Rex",2.0,3.0,2.0,0.0,1915,Male,Animal Husbandry,0.0,0.0,0.0,0.0,0.0,0.0
+"York, Ethel",2.0,4.0,1.0,0.0,1915,Female,Home Economics,3.0,0.0,1.0,2.0,1.0,0.0
+"Zimmer, Leah R.",1.0,3.0,0.0,0.0,1915,Female,Home Economics,3.0,0.0,1.0,2.0,0.0,0.0
+"Ahrens, Ida",5.0,6.0,0.0,0.0,1916,Female,Home Economics,4.0,0.0,2.0,2.0,0.0,0.0
+"Anderson, J. L.",0.0,1.0,0.0,0.0,1916,Male,Chemistry Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Anderson, J. P.",1.0,2.0,0.0,0.0,1916,Male,Mechanical Enginnering,1.0,0.0,0.0,1.0,0.0,0.0
+"Anderson, Lancelot S.",1.0,2.0,0.0,0.0,1916,Male,Chemistry Engineering,0.0,0.0,1.0,1.0,1.0,0.0
+"Anderson, Walter L.",1.0,2.0,0.0,0.0,1916,Male,Chemistry Engineering,0.0,0.0,0.0,0.0,1.0,0.0
+"Arthur, Ira W.",2.0,2.0,0.0,0.0,1916,Male,Animal Husbandry,1.0,1.0,1.0,1.0,0.0,0.0
+"Atwood, Guy H.",2.0,2.0,1.0,0.0,1916,Male,Agronomy,1.0,0.0,0.0,0.0,0.0,0.0
+"Axthelm, Edward E.",1.0,2.0,1.0,0.0,1916,Male,Mechanical Enginnering,1.0,0.0,1.0,1.0,0.0,0.0
+"Aydlette, H. P.",0.0,0.0,0.0,0.0,1916,Male,Animal Husbandry,0.0,0.0,0.0,0.0,0.0,0.0
+"Baie, Emma A.",1.0,1.0,0.0,0.0,1916,Female,Home Economics,1.0,0.0,1.0,1.0,0.0,0.0
+"Bakewell, Adela",0.0,2.0,0.0,0.0,1916,Female,Home Economics,1.0,0.0,0.0,1.0,0.0,0.0
+"Barker, Frank F.",1.0,1.0,0.0,0.0,1916,Male,Animal Husbandry,1.0,0.0,1.0,1.0,0.0,0.0
+"Barker, Leland H.",0.0,0.0,0.0,0.0,1916,Male,Chemistry Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Barnhart, Sadie",2.0,3.0,0.0,0.0,1916,Female,Home Economics,2.0,0.0,1.0,1.0,1.0,0.0
+"Bass, Helen",3.0,4.0,0.0,0.0,1916,Female,Home Economics,1.0,0.0,1.0,2.0,1.0,1.0
+"Baustian, Alfred A.",3.0,4.0,0.0,0.0,1916,Male,Chemistry Engineering,3.0,0.0,2.0,2.0,0.0,0.0
+"Baxter, Howard A.",0.0,1.0,0.0,0.0,1916,Male,Electrical Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Bean, Ward",0.0,0.0,0.0,0.0,1916,Male,Science,0.0,0.0,0.0,0.0,0.0,0.0
+"Beach, Walker C.",0.0,2.0,0.0,0.0,1916,Male,Animal Husbandry,0.0,0.0,0.0,0.0,1.0,0.0
+"Becker, Joseph Philip",1.0,1.0,1.0,0.0,1916,Male,Mechanical Enginnering,1.0,0.0,1.0,1.0,0.0,0.0
+"Becker, Raymond B.",2.0,2.0,0.0,0.0,1916,Male,Animal Husbandry,2.0,0.0,1.0,1.0,0.0,0.0
+"Benson, Donald J.",0.0,0.0,0.0,0.0,1916,Male,Electrical Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Bentley, Russell",0.0,0.0,0.0,0.0,1916,Male,Agronomy,0.0,0.0,0.0,0.0,0.0,0.0
+"Bilderback, Charles M.",1.0,2.0,0.0,0.0,1916,Male,Animal Husbandry,2.0,1.0,0.0,2.0,0.0,0.0
+"Birlingmair, Robert H.",1.0,1.0,0.0,0.0,1916,Male,Agronomy,0.0,0.0,0.0,0.0,0.0,0.0
+"Bird, Albert R.",2.0,4.0,0.0,0.0,1916,Male,Animal Husbandry,1.0,0.0,0.0,0.0,1.0,1.0
+"Blakeslee, Ralph O.",0.0,1.0,1.0,0.0,1916,Male,Electrical Engineering,1.0,0.0,0.0,0.0,1.0,0.0
+"Bliss, Fred G.",0.0,0.0,0.0,0.0,1916,Male,Dairy,0.0,0.0,0.0,0.0,0.0,0.0
+"Boileau, Harl",1.0,0.0,0.0,0.0,1916,Male,Mechanical Enginnering,0.0,0.0,0.0,0.0,0.0,0.0
+"Booker, George F.",1.0,4.0,0.0,0.0,1916,Male,Agronomy,2.0,0.0,1.0,1.0,1.0,0.0
+"Bourland, C. Curtice",1.0,2.0,0.0,0.0,1916,Male,Veterinary,0.0,0.0,0.0,1.0,0.0,0.0
+"Boltz, Joe",1.0,1.0,1.0,1.0,1916,Male,Mechanical Enginnering,0.0,0.0,0.0,1.0,1.0,0.0
+"Brady, R. A.",2.0,3.0,0.0,0.0,1916,Male,Electrical Engineering,0.0,0.0,0.0,0.0,1.0,0.0
+"Brasted, Dea J.",3.0,4.0,1.0,0.0,1916,Male,Dairy Husbandry-Animal Husbandry,2.0,0.0,2.0,2.0,1.0,0.0
+"Brekke, Julia E.",0.0,1.0,1.0,0.0,1916,Female,Home Economics,0.0,0.0,0.0,0.0,0.0,0.0
+"Brown, Andrew J.",0.0,1.0,0.0,0.0,1916,Male,Animal Husbandry,0.0,0.0,0.0,0.0,1.0,0.0
+"Brown, Eugenia",0.0,1.0,1.0,0.0,1916,Female,Home Economics,0.0,0.0,0.0,0.0,0.0,1.0
+"Brownell, Fred",0.0,2.0,1.0,0.0,1916,Male,Animal Husbandry,1.0,0.0,1.0,1.0,0.0,0.0
+"Bruner, D. L.",1.0,2.0,0.0,0.0,1916,Male,Electrical Engineering,0.0,0.0,0.0,3.0,0.0,0.0
+"Buehler, Charles L.",2.0,1.0,1.0,1.0,1916,Male,Electrical Engineering,0.0,1.0,1.0,0.0,0.0,0.0
+"Buffington, Estella",1.0,2.0,1.0,0.0,1916,Female,Home Economics,2.0,0.0,2.0,0.0,0.0,0.0
+"Burhans, N. C.",0.0,1.0,0.0,0.0,1916,Male,Animal Husbandry,0.0,0.0,0.0,0.0,0.0,0.0
+"Burnquist, Eleanor E.",3.0,3.0,0.0,0.0,1916,Female,Home Economics,3.0,0.0,3.0,3.0,0.0,0.0
+"Burrus, Norman",0.0,1.0,0.0,0.0,1916,Male,Agronomy,0.0,0.0,0.0,1.0,0.0,0.0
+"Burrill, Percy",2.0,2.0,0.0,1.0,1916,Male,Electrical Engineering,1.0,0.0,1.0,1.0,0.0,0.0
+"Bussey, Ella L.",1.0,2.0,0.0,1.0,1916,Female,Home Economics,1.0,0.0,1.0,0.0,0.0,0.0
+"Butler, A. I.",1.0,1.0,0.0,0.0,1916,Male,Electrical Engineering,1.0,0.0,1.0,1.0,0.0,0.0
+"Cameron, Ada E.",2.0,2.0,3.0,1.0,1916,Female,Home Economics,2.0,1.0,1.0,2.0,0.0,0.0
+"Cambre, Robert G.",1.0,1.0,1.0,0.0,1916,Male,Agronomy,1.0,0.0,1.0,2.0,1.0,0.0
+"Capper, Howard M.",1.0,1.0,0.0,0.0,1916,Male,Chemistry Engineering,1.0,0.0,0.0,1.0,0.0,0.0
+"Carson, Gladys S.",1.0,1.0,0.0,0.0,1916,Female,Home Economics,1.0,0.0,0.0,1.0,0.0,0.0
+"Carhart, A. H.",1.0,2.0,0.0,0.0,1916,Male,Horticulture,2.0,1.0,0.0,0.0,1.0,0.0
+"Cash, H. W.",2.0,3.0,0.0,0.0,1916,Male,Electrical Engineering,1.0,0.0,1.0,1.0,1.0,0.0
+"Cassidy, Hugh O.",0.0,0.0,0.0,0.0,1916,Male,Forestry,0.0,0.0,0.0,1.0,0.0,0.0
+"Caywood, G. C.",0.0,1.0,0.0,0.0,1916,Male,Str. Des,1.0,0.0,0.0,0.0,0.0,0.0
+"Clark, Fred",0.0,0.0,1.0,1.0,1916,Male,Animal Husbandry,0.0,0.0,0.0,1.0,1.0,0.0
+"Clarke, Ruth Harriet",1.0,2.0,0.0,1.0,1916,Female,Home Economics,2.0,1.0,0.0,1.0,0.0,0.0
+"Clayton, J. W.",2.0,1.0,0.0,0.0,1916,Male,Animal Husbandry,1.0,0.0,1.0,1.0,0.0,0.0
+"Collins, Chauncey M.",1.0,2.0,2.0,1.0,1916,Male,Veterinary,1.0,1.0,1.0,1.0,2.0,1.0
+"Collins, D. R.",0.0,0.0,1.0,1.0,1916,Male,Veterinary,0.0,1.0,1.0,1.0,1.0,0.0
+"Conrad, Harold N.",5.0,5.0,0.0,1.0,1916,Male,Mechanical Enginnering,4.0,1.0,2.0,2.0,0.0,0.0
+"Cook, J. Neel",2.0,2.0,0.0,1.0,1916,Male,Chemistry Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Cordiner, R. P.",1.0,0.0,1.0,0.0,1916,Male,Chemistry Engineering,0.0,0.0,1.0,0.0,0.0,0.0
+"Cornell, Harvey H.",5.0,6.0,0.0,0.0,1916,Male,Forestry,2.0,0.0,1.0,1.0,0.0,0.0
+"Covey, Ellis",0.0,0.0,0.0,0.0,1916,Male,Mechanical Enginnering,0.0,0.0,0.0,0.0,0.0,0.0
+"Cox, Eva",1.0,1.0,0.0,0.0,1916,Female,Home Economics,1.0,0.0,1.0,1.0,0.0,0.0
+"Cramer, Earnest Faville",2.0,4.0,0.0,0.0,1916,Male,Agricultural Education,1.0,0.0,0.0,2.0,0.0,0.0
+"Crane, Harlan B.",1.0,1.0,0.0,0.0,1916,Male,Chemistry Engineering,1.0,0.0,1.0,2.0,0.0,0.0
+"Crittenden, Cecile",0.0,3.0,0.0,0.0,1916,Female,Home Economics,2.0,0.0,0.0,3.0,0.0,0.0
+"Crouse, Floyd L.",0.0,0.0,0.0,0.0,1916,Male,Animal Husbandry,0.0,0.0,0.0,1.0,0.0,0.0
+"Curtiss, Ruth",2.0,2.0,0.0,0.0,1916,Female,Home Economics,2.0,0.0,1.0,2.0,0.0,0.0
+"Davis, Bernice",3.0,3.0,0.0,0.0,1916,Female,Home Economics,2.0,0.0,1.0,2.0,0.0,0.0
+"Davis, Clarence J.",1.0,1.0,0.0,0.0,1916,Male,Agronomy,1.0,0.0,1.0,0.0,0.0,0.0
+"Davis, Willis H.",2.0,3.0,0.0,0.0,1916,Male,Agronomy,2.0,0.0,2.0,2.0,0.0,0.0
+"Dean, James W. M.",1.0,1.0,0.0,0.0,1916,Male,Chemistry Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"De Bar, Harold J.",1.0,2.0,0.0,0.0,1916,Male,Electrical Engineering,1.0,0.0,1.0,1.0,0.0,0.0
+"Delaney, F. J.",1.0,1.0,0.0,0.0,1916,Male,Electrical Engineering,1.0,0.0,0.0,1.0,0.0,0.0
+"Devine, Mary Helen",2.0,2.0,0.0,0.0,1916,Female,Home Economics,1.0,0.0,0.0,1.0,0.0,0.0
+"Dexter, Willis E.",1.0,2.0,0.0,0.0,1916,Male,Mechanical Enginnering,0.0,0.0,0.0,1.0,0.0,0.0
+"De Wet, Louis R.",2.0,2.0,1.0,0.0,1916,Male,Agronomy,0.0,0.0,1.0,0.0,0.0,0.0
+"Dewey, Grace",1.0,4.0,2.0,0.0,1916,Female,Home Economics,1.0,0.0,0.0,1.0,1.0,1.0
+"Diehl, Grace V.",3.0,4.0,0.0,0.0,1916,Female,Industrial Science,3.0,0.0,1.0,4.0,0.0,0.0
+"Dool, Lawrence E.",2.0,3.0,1.0,0.0,1916,Male,Animal Husbandry,3.0,0.0,2.0,1.0,0.0,0.0
+"Drake, Wilbur",0.0,1.0,0.0,0.0,1916,Male,Agricultural Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Drain, Harry E.",0.0,0.0,1.0,0.0,1916,Male,Mechanical Enginnering,0.0,1.0,0.0,0.0,1.0,0.0
+"Dunlap, Howard P.",2.0,5.0,1.0,1.0,1916,Male,Animal Husbandry,1.0,0.0,0.0,2.0,1.0,0.0
+"Eales, Howard C.",2.0,1.0,1.0,0.0,1916,Male,Agronomy,0.0,0.0,0.0,0.0,0.0,0.0
+"Earl, Lorne T.",3.0,3.0,1.0,0.0,1916,Male,Animal Husbandry,0.0,0.0,0.0,0.0,0.0,0.0
+"Eddy, Lilian R.",3.0,4.0,0.0,0.0,1916,Female,Home Economics,2.0,0.0,1.0,2.0,0.0,0.0
+"Edgar, Mary T.",2.0,2.0,1.0,0.0,1916,Female,Science,1.0,0.0,1.0,1.0,0.0,0.0
+"Edwards, Lois A.",1.0,1.0,0.0,0.0,1916,Female,Home Economics,0.0,0.0,0.0,0.0,0.0,0.0
+"Ekstrand, Walter L.",3.0,4.0,0.0,0.0,1916,Male,Agronomy,2.0,0.0,0.0,1.0,0.0,0.0
+"Eldridge, Joe M.",0.0,0.0,0.0,0.0,1916,Male,Dairy,0.0,0.0,0.0,0.0,0.0,0.0
+"Engberg, Russell",1.0,2.0,0.0,0.0,1916,Male,Agronomy,1.0,0.0,0.0,0.0,0.0,0.0
+"Englar, Daniel S.",1.0,3.0,1.0,1.0,1916,Male,Chemistry Engineering,0.0,0.0,0.0,0.0,1.0,0.0
+"English, Ruth G.",0.0,1.0,1.0,2.0,1916,Female,Home Economics,0.0,0.0,0.0,0.0,0.0,0.0
+"Englund, Carl V.",0.0,0.0,3.0,2.0,1916,Male,Agricultural Engineering,0.0,1.0,0.0,0.0,1.0,0.0
+"Ender, L. R.",5.0,4.0,0.0,0.0,1916,Male,Animal Husbandry,1.0,0.0,0.0,1.0,0.0,0.0
+"Evans, Valney L.",0.0,1.0,0.0,0.0,1916,Male,Animal Husbandry,0.0,0.0,0.0,0.0,0.0,0.0
+"Eves, Jay Parvin",2.0,2.0,0.0,0.0,1916,Male,Colonials,2.0,0.0,1.0,3.0,0.0,0.0
+"Fahnestock, Ludlow S.",0.0,1.0,0.0,0.0,1916,Male,Animal Husbandry,0.0,0.0,0.0,0.0,0.0,0.0
+"Fitch, Ernest L.",0.0,4.0,1.0,0.0,1916,Male,Veterinary,0.0,0.0,0.0,2.0,0.0,0.0
+"Flint, Pauline A.",0.0,1.0,1.0,1.0,1916,Female,Science,0.0,0.0,0.0,0.0,0.0,0.0
+"Forman, Mary M.",3.0,7.0,1.0,0.0,1916,Female,Home Economics,4.0,0.0,2.0,2.0,0.0,0.0
+"Forest, Ida Gertrude",2.0,2.0,1.0,1.0,1916,Female,Home Economics,1.0,0.0,1.0,1.0,0.0,0.0
+"Fox, Lloyd W.",2.0,3.0,2.0,1.0,1916,Male,Veterinary,2.0,1.0,0.0,2.0,0.0,0.0
+"Fraseur, G. L.",1.0,1.0,0.0,0.0,1916,Male,Special,1.0,0.0,0.0,1.0,0.0,0.0
+"Freshour, Ralph J.",0.0,0.0,0.0,0.0,1916,Male,Chemistry Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Galloway, J. Carleton",1.0,3.0,1.0,0.0,1916,Male,Animal Husbandry,0.0,0.0,0.0,0.0,0.0,0.0
+"Gaylord, Bennie E.",1.0,1.0,0.0,0.0,1916,Male,Agricultural Engineering,1.0,0.0,1.0,1.0,0.0,0.0
+"Geasey, Sylvester",1.0,2.0,0.0,0.0,1916,Male,Animal Husbandry,1.0,0.0,0.0,1.0,2.0,0.0
+"Geisler, Max",2.0,3.0,1.0,1.0,1916,Male,Forestry,2.0,2.0,1.0,1.0,0.0,0.0
+"Gibbs, R. C.",2.0,2.0,1.0,0.0,1916,Male,Agronomy,1.0,1.0,1.0,1.0,0.0,0.0
+"Gibson, Vernon C.",3.0,6.0,1.0,0.0,1916,Male,Agricultural Education,2.0,0.0,0.0,1.0,0.0,0.0
+"Glidden, Warren C.",2.0,2.0,0.0,0.0,1916,Male,Dairy,2.0,0.0,0.0,2.0,0.0,0.0
+"Gordon, William A.",0.0,0.0,0.0,0.0,1916,Male,Dairy,0.0,0.0,0.0,1.0,0.0,0.0
+"Goede, M. H.",2.0,3.0,0.0,0.0,1916,Male,Agricultural Engineering,2.0,0.0,1.0,1.0,1.0,0.0
+"Graham, Lorraine",1.0,2.0,0.0,0.0,1916,Female,Home Economics,0.0,0.0,0.0,0.0,1.0,0.0
+"Gray, Lulu",1.0,1.0,1.0,0.0,1916,Female,Home Economics,1.0,0.0,0.0,0.0,0.0,0.0
+"Gregg, W. S.",0.0,0.0,0.0,0.0,1916,Male,Agronomy,0.0,0.0,0.0,0.0,0.0,0.0
+"Griffith, Ora M.",2.0,3.0,0.0,0.0,1916,Female,Home Economics,1.0,0.0,1.0,2.0,1.0,1.0
+"Grimes, Hazel A.",2.0,2.0,0.0,0.0,1916,Female,Home Economics,1.0,0.0,1.0,2.0,0.0,0.0
+"Gude, A. J.",0.0,0.0,0.0,0.0,1916,Male,Dairy,0.0,0.0,0.0,0.0,0.0,0.0
+"Hamilton, Riley A.",0.0,0.0,1.0,1.0,1916,Male,Science,0.0,1.0,1.0,0.0,1.0,1.0
+"Hamlin, Herbert M.",1.0,2.0,0.0,0.0,1916,Male,Agricultural Education,1.0,0.0,1.0,1.0,0.0,0.0
+"Handy, Harry Carlton",1.0,1.0,1.0,0.0,1916,Male,Animal Husbandry,1.0,1.0,1.0,1.0,1.0,0.0
+"Hardy, Gladys N.",4.0,4.0,0.0,0.0,1916,Female,Home Economics,3.0,0.0,2.0,2.0,0.0,0.0
+"Harrington, Mary Elizabeth",2.0,5.0,0.0,0.0,1916,Female,Home Economics,2.0,0.0,0.0,0.0,1.0,0.0
+"Harris, Margaret B.",2.0,4.0,0.0,0.0,1916,Female,Home Economics,2.0,0.0,1.0,1.0,0.0,0.0
+"Harris, Nell",1.0,0.0,1.0,1.0,1916,Female,Home Economics,0.0,0.0,0.0,0.0,0.0,0.0
+"Hartmann, Anna E.",0.0,4.0,3.0,0.0,1916,Female,,2.0,2.0,1.0,1.0,3.0,0.0
+"Harvey, Nelle",2.0,3.0,0.0,0.0,1916,Female,Home Economics,0.0,0.0,1.0,1.0,0.0,0.0
+"Hawk, Lura Alice",0.0,2.0,0.0,0.0,1916,Female,Home Economics,1.0,0.0,0.0,1.0,0.0,0.0
+"Hawks, Joseph W.",3.0,4.0,0.0,0.0,1916,Male,Science,2.0,0.0,1.0,2.0,1.0,1.0
+"Hawthorne, Fred W.",1.0,1.0,0.0,0.0,1916,Male,Agricultural Engineering,0.0,0.0,0.0,1.0,0.0,0.0
+"Hayward, E. G.",4.0,4.0,0.0,0.0,1916,Male,Agronomy,2.0,0.0,1.0,3.0,0.0,0.0
+"Heise, Linda",2.0,3.0,0.0,0.0,1916,Female,Home Economics,1.0,0.0,1.0,1.0,0.0,0.0
+"Heise, R. W.",0.0,0.0,1.0,1.0,1916,Male,Veterinary,0.0,1.0,0.0,0.0,1.0,0.0
+"Hendriks, John Albert",2.0,2.0,1.0,0.0,1916,Male,Agronomy,1.0,1.0,1.0,1.0,0.0,0.0
+"Henderson, Divida H.",0.0,2.0,0.0,0.0,1916,Female,Home Economics,0.0,0.0,0.0,0.0,1.0,0.0
+"Herner, Eleonora",3.0,3.0,0.0,1.0,1916,Female,Home Economics,2.0,0.0,1.0,0.0,0.0,0.0
+"Hewitt, Leland H.",0.0,2.0,1.0,0.0,1916,Male,Electrical Engineering,0.0,0.0,0.0,0.0,1.0,0.0
+"Hilleary, Harry",2.0,2.0,3.0,1.0,1916,Male,Mechanical Enginnering,1.0,3.0,1.0,1.0,3.0,1.0
+"Hibben, Robert C.",1.0,1.0,0.0,0.0,1916,Male,Dairy,1.0,0.0,1.0,0.0,0.0,0.0
+"Hodgson, J. O.",0.0,0.0,0.0,0.0,1916,Male,Animal Husbandry,0.0,0.0,0.0,1.0,0.0,0.0
+"Hoffman, O. A.",1.0,1.0,0.0,0.0,1916,Male,Electrical Engineering,1.0,1.0,1.0,1.0,0.0,1.0
+"Holbrook, Russell Merten",1.0,2.0,0.0,0.0,1916,Male,Animal Husbandry,0.0,0.0,0.0,0.0,0.0,0.0
+"Hollister, E. H.",0.0,0.0,0.0,0.0,1916,Male,Electrical Engineering,0.0,0.0,0.0,1.0,0.0,0.0
+"Hopkins, P. F.",0.0,3.0,0.0,0.0,1916,Male,Chemistry Engineering,0.0,0.0,0.0,1.0,0.0,0.0
+"Hoover, Bert E.",3.0,4.0,0.0,0.0,1916,Male,Mechanical Enginnering,3.0,0.0,1.0,1.0,1.0,0.0
+"Houghton, Earle",2.0,2.0,0.0,0.0,1916,Male,Science,0.0,0.0,0.0,0.0,0.0,0.0
+"Hoyt, Harold A.",1.0,2.0,1.0,1.0,1916,Male,Electrical Engineering,0.0,1.0,1.0,0.0,2.0,0.0
+"Hultz, Fred S.",1.0,3.0,0.0,0.0,1916,Male,Animal Husbandry,2.0,1.0,1.0,1.0,0.0,0.0
+"Hutton, Ethel M.",0.0,0.0,0.0,0.0,1916,Female,Home Economics,0.0,0.0,1.0,0.0,0.0,0.0
+"Huxtable, G. S.",2.0,1.0,1.0,1.0,1916,Male,Chemistry Engineering,0.0,1.0,0.0,0.0,1.0,0.0
+"Hall, Harry",1.0,2.0,0.0,0.0,1916,Male,Agricultural Engineering,0.0,0.0,0.0,2.0,0.0,0.0
+"Ineck, C. H.",2.0,1.0,0.0,0.0,1916,Male,Forestry,1.0,0.0,1.0,1.0,0.0,0.0
+"Jackson, Millard F.",0.0,1.0,1.0,0.0,1916,Male,Animal Husbandry,0.0,0.0,0.0,0.0,0.0,0.0
+"Jensen, Lucile M.",0.0,0.0,1.0,1.0,1916,Female,Home Economics,0.0,0.0,0.0,0.0,1.0,0.0
+"Johnson, Ava L.",4.0,6.0,1.0,0.0,1916,Female,Home Economics,4.0,0.0,4.0,2.0,1.0,0.0
+"John, Edward T.",3.0,4.0,2.0,2.0,1916,Male,Mechanical Enginnering,3.0,1.0,1.0,3.0,0.0,1.0
+"Johnson, Cora B.",1.0,0.0,0.0,0.0,1916,Female,Home Economics,0.0,0.0,0.0,2.0,0.0,0.0
+"Johnson, W. DeWeese",1.0,1.0,1.0,1.0,1916,Male,Animal Husbandry,1.0,0.0,1.0,1.0,1.0,1.0
+"Johnson, J. Clarke",4.0,6.0,0.0,0.0,1916,Male,Agronomy,3.0,0.0,1.0,3.0,0.0,0.0
+"Johnston, J. Carl",5.0,4.0,0.0,0.0,1916,Male,Agronomy,3.0,0.0,3.0,3.0,0.0,0.0
+"Jones, B. B.",2.0,1.0,0.0,0.0,1916,Male,Horticulture,1.0,0.0,1.0,1.0,0.0,0.0
+"Jones, Edward P.",1.0,4.0,1.0,0.0,1916,Male,Horticulture,1.0,0.0,1.0,1.0,0.0,0.0
+"Josselyn, H. E.",1.0,0.0,2.0,1.0,1916,Male,Agricultural Engineering,0.0,1.0,0.0,1.0,1.0,0.0
+"Juzek, Harry J.",0.0,0.0,1.0,1.0,1916,Male,Veterinary,0.0,1.0,0.0,1.0,1.0,0.0
+"Karr, Arthur I.",2.0,1.0,1.0,0.0,1916,Male,Agronomy,1.0,0.0,0.0,1.0,1.0,0.0
+"Kelly, Raymond C.",0.0,2.0,0.0,0.0,1916,Male,Agronomy,0.0,0.0,1.0,2.0,0.0,0.0
+"Kellogg, Lee A.",0.0,2.0,0.0,0.0,1916,Male,Agronomy,1.0,0.0,0.0,1.0,0.0,0.0
+"Kerrigan, Frank R.",1.0,0.0,0.0,0.0,1916,Male,Agronomy,0.0,0.0,0.0,0.0,0.0,0.0
+"Keating, Zoa M.",1.0,3.0,0.0,0.0,1916,Female,Home Economics,1.0,0.0,1.0,1.0,0.0,0.0
+"Kimball, Earl H.",2.0,2.0,1.0,1.0,1916,Male,Mechanical Enginnering,1.0,0.0,1.0,2.0,1.0,0.0
+"Kinnick, Nile C.",1.0,0.0,0.0,0.0,1916,Male,,0.0,1.0,0.0,0.0,0.0,0.0
+"Kintzley, Harriet May",0.0,0.0,1.0,0.0,1916,Female,Science,0.0,0.0,0.0,0.0,0.0,0.0
+"Kirk, Ivan M.",2.0,4.0,1.0,0.0,1916,Male,Electrical Engineering,1.0,0.0,0.0,0.0,0.0,0.0
+"Kirk, Ralph H.",4.0,4.0,1.0,0.0,1916,Male,Mechanical Enginnering,3.0,0.0,2.0,3.0,1.0,1.0
+"Kivell, Wayne Allen",3.0,2.0,0.0,0.0,1916,Male,Chemistry Engineering,0.0,0.0,0.0,1.0,0.0,0.0
+"Knupp, Rachel",0.0,1.0,2.0,2.0,1916,Female,Home Economics,0.0,1.0,0.0,1.0,1.0,1.0
+"Krantz, Earl B.",1.0,1.0,1.0,1.0,1916,Male,Animal Husbandry,0.0,0.0,0.0,0.0,0.0,0.0
+"Kriege, Caroline C.",2.0,2.0,0.0,0.0,1916,Female,Home Economics,1.0,0.0,0.0,2.0,0.0,0.0
+"La Crosse, Howard C.",0.0,1.0,2.0,0.0,1916,Male,Animal Husbandry,0.0,1.0,0.0,1.0,0.0,0.0
+"Lamson, Charles S.",1.0,2.0,0.0,0.0,1916,Male,Agronomy,1.0,0.0,1.0,2.0,0.0,0.0
+"Landman, S. J.",0.0,3.0,1.0,1.0,1916,Male,Electrical Engineering,1.0,0.0,0.0,1.0,0.0,0.0
+"Langdon, Edgar",2.0,3.0,0.0,0.0,1916,Male,Mechanical Enginnering,3.0,0.0,2.0,2.0,0.0,0.0
+"Laubenfels, C. R.",0.0,1.0,0.0,0.0,1916,Male,Mechanical Enginnering,0.0,0.0,0.0,0.0,0.0,0.0
+"Leffler, Robert W.",0.0,0.0,0.0,0.0,1916,Male,Dairy,0.0,0.0,0.0,0.0,0.0,0.0
+"Lemen, Beth",0.0,0.0,1.0,1.0,1916,Female,Home Economics,0.0,0.0,0.0,0.0,0.0,0.0
+"Levi, Alexander James",1.0,3.0,0.0,1.0,1916,Male,Agronomy,1.0,0.0,1.0,1.0,0.0,0.0
+"Lewison, Edward K.",4.0,4.0,0.0,0.0,1916,Male,Electrical Engineering,4.0,0.0,3.0,3.0,0.0,0.0
+"Li, Young Bing",0.0,0.0,0.0,0.0,1916,Male,Horticulture,0.0,0.0,0.0,0.0,0.0,0.0
+"Lilliard, J. Myrl",2.0,2.0,3.0,1.0,1916,Male,Home Economics,0.0,0.0,0.0,0.0,0.0,1.0
+"Lovelace, O. H.",0.0,1.0,0.0,0.0,1916,Male,Agricultural Engineering,0.0,1.0,0.0,0.0,0.0,0.0
+"Tregilgus, Chester V.",0.0,0.0,1.0,1.0,1916,Male,Veterinary Medicine,0.0,1.0,0.0,0.0,1.0,1.0
+"Longworth, Harral A.",2.0,2.0,0.0,1.0,1916,Male,Agronomy,1.0,0.0,0.0,0.0,0.0,0.0
+"Lyford, Reid B.",1.0,2.0,0.0,0.0,1916,Male,Agronomy,1.0,0.0,1.0,1.0,0.0,0.0
+"Maakestad, W. T.",0.0,0.0,2.0,2.0,1916,Male,Agronomy,0.0,2.0,0.0,0.0,2.0,0.0
+"Manhardt, Clara",0.0,2.0,0.0,0.0,1916,Female,Home Economics,0.0,0.0,0.0,0.0,0.0,0.0
+"Mason, Clair G.",0.0,3.0,0.0,0.0,1916,Male,Animal Husbandry,0.0,0.0,0.0,0.0,0.0,0.0
+"Matson, T. F.",0.0,0.0,0.0,0.0,1916,Male,Chemistry Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"McCarthy, Carrell C.",0.0,0.0,0.0,0.0,1916,Male,Forestry,0.0,0.0,0.0,0.0,0.0,0.0
+"McCausland, Robert J.",0.0,2.0,0.0,0.0,1916,Male,Animal Husbandry,1.0,0.0,0.0,1.0,0.0,0.0
+"McClung, V. W.",1.0,1.0,0.0,0.0,1916,Male,Agricultural Engineering,1.0,0.0,0.0,0.0,0.0,0.0
+"McCoy, Marjorie",1.0,2.0,1.0,1.0,1916,Female,Home Economics,1.0,0.0,0.0,1.0,1.0,0.0
+"McCrae, Floyd E.",2.0,2.0,0.0,0.0,1916,Male,Agronomy,1.0,0.0,0.0,2.0,0.0,0.0
+"McCurdy, R. E.",2.0,4.0,1.0,0.0,1916,Male,Chemistry Engineering,3.0,0.0,2.0,3.0,1.0,0.0
+"McDonald, C. E.",2.0,2.0,0.0,0.0,1916,Male,Agronomy,1.0,0.0,1.0,1.0,0.0,0.0
+"McElroy, R. C.",1.0,1.0,0.0,0.0,1916,Male,Mechanical Enginnering,1.0,0.0,0.0,2.0,0.0,1.0
+"McKinley, Harold L.",1.0,2.0,1.0,1.0,1916,Male,Animal Husbandry,1.0,1.0,1.0,1.0,0.0,0.0
+"McNee, Lawrence",1.0,0.0,0.0,0.0,1916,Male,Electrical Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"McNutt, Phil",4.0,4.0,1.0,0.0,1916,Male,Forestry,3.0,0.0,1.0,1.0,1.0,0.0
+"McTavish, H. G.",1.0,1.0,1.0,0.0,1916,Male,Animal Husbandry,1.0,0.0,1.0,1.0,0.0,0.0
+"Meeker, Homer C.",1.0,2.0,1.0,0.0,1916,Male,Electrical Engineering,0.0,1.0,0.0,0.0,0.0,0.0
+"Merrick, C. I.",4.0,3.0,0.0,0.0,1916,Male,Electrical Engineering,2.0,0.0,1.0,2.0,0.0,0.0
+"Merten, E. L.",0.0,1.0,0.0,0.0,1916,Male,Agricultural Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Meeteer, Ellwood J.",0.0,3.0,0.0,0.0,1916,Male,Horticulture,1.0,0.0,0.0,1.0,0.0,0.0
+"Middleton, H. E.",0.0,2.0,1.0,0.0,1916,Male,Agricultural Engineering,2.0,1.0,0.0,0.0,1.0,0.0
+"Mildensten, E. J.",3.0,4.0,0.0,0.0,1916,Male,Agronomy,2.0,0.0,1.0,0.0,1.0,1.0
+"Miller, Richard C.",5.0,4.0,1.0,0.0,1916,Male,Agricultural Engineering,2.0,0.0,2.0,3.0,0.0,0.0
+"Minteer, C. C.",1.0,4.0,0.0,0.0,1916,Male,Agricultural Education,1.0,0.0,1.0,1.0,1.0,1.0
+"Moffat, Alex R.",0.0,1.0,0.0,0.0,1916,Male,Agronomy,1.0,0.0,0.0,0.0,0.0,0.0
+"Moore, Eugene Ralph",4.0,5.0,0.0,0.0,1916,Male,Animal Husbandry,3.0,0.0,3.0,3.0,0.0,0.0
+"Moore, George G.",1.0,2.0,1.0,1.0,1916,Male,Horticulture,1.0,0.0,0.0,2.0,2.0,0.0
+"Moore, Glen.",2.0,2.0,1.0,0.0,1916,Male,Chemistry Engineering,1.0,0.0,1.0,1.0,0.0,0.0
+"Morris, R. D.",0.0,0.0,1.0,1.0,1916,Male,Forestry,0.0,1.0,0.0,0.0,0.0,1.0
+"Moyer, Ralph H.",0.0,1.0,1.0,1.0,1916,Male,Animal Husbandry,0.0,1.0,0.0,0.0,1.0,1.0
+"Mueller, Paul M.",0.0,1.0,0.0,0.0,1916,Male,Mechanical Enginnering,0.0,0.0,0.0,0.0,0.0,0.0
+"McMullin, R. S.",1.0,1.0,0.0,0.0,1916,Male,Chemistry Engineering,1.0,0.0,1.0,1.0,0.0,0.0
+"Mulky, Mina M.",2.0,2.0,1.0,1.0,1916,Female,Home Economics,0.0,1.0,0.0,1.0,1.0,0.0
+"Munger, George H.",1.0,2.0,1.0,0.0,1916,Male,Agricultural Education,1.0,0.0,0.0,1.0,0.0,0.0
+"Noble, David A.",0.0,1.0,0.0,0.0,1916,Male,,0.0,0.0,0.0,0.0,0.0,0.0
+"Noble, Mont C.",3.0,3.0,0.0,0.0,1916,Male,Chemistry Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Nye, Maurine",2.0,1.0,0.0,0.0,1916,Female,Home Economics,1.0,0.0,0.0,1.0,0.0,0.0
+"Obye, Charles H.",0.0,2.0,1.0,1.0,1916,Male,Agricultural Education,0.0,1.0,0.0,1.0,0.0,0.0
+"Okey, M. Robert",1.0,4.0,1.0,1.0,1916,Male,Animal Husbandry,1.0,1.0,0.0,2.0,0.0,0.0
+"Parks, Laura",1.0,3.0,0.0,0.0,1916,Female,Home Economics,1.0,0.0,0.0,0.0,1.0,0.0
+"Parsons, Leslie L.",0.0,1.0,0.0,0.0,1916,Male,Animal Husbandry,0.0,0.0,0.0,1.0,0.0,0.0
+"Patterson, C. C.",2.0,4.0,0.0,0.0,1916,Male,Animal Husbandry,2.0,0.0,1.0,1.0,0.0,1.0
+"Patterson, Ralph E.",1.0,0.0,2.0,2.0,1916,Male,Agricultural Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Patty, Ralph L.",0.0,0.0,0.0,0.0,1916,Male,Agricultural Engineering,0.0,0.0,0.0,0.0,1.0,0.0
+"Pearson, Arthur R.",0.0,1.0,0.0,0.0,1916,Male,Agronomy,0.0,0.0,1.0,0.0,0.0,0.0
+"Peek, Alice Marion",2.0,2.0,0.0,0.0,1916,Female,Home Economics,2.0,0.0,1.0,1.0,0.0,0.0
+"Penningroth, Edward W.",1.0,2.0,0.0,0.0,1916,Male,Animal Husbandry,1.0,0.0,0.0,1.0,0.0,0.0
+"Perkins, Juanita",1.0,3.0,0.0,0.0,1916,Female,Home Economics,2.0,0.0,2.0,2.0,1.0,0.0
+"Pervier, Norville C.",2.0,4.0,0.0,0.0,1916,Male,Industrial Science,2.0,0.0,1.0,1.0,0.0,0.0
+"Petersen, R. W.",1.0,1.0,0.0,0.0,1916,Male,Agronomy,1.0,0.0,1.0,1.0,1.0,0.0
+"Plagge, Homer H.",3.0,4.0,1.0,0.0,1916,Male,Forestry,2.0,1.0,0.0,0.0,0.0,0.0
+"Plagge, Newton O.",1.0,5.0,1.0,1.0,1916,Male,Forestry,2.0,0.0,2.0,3.0,0.0,0.0
+"Pownall, Paul C.",2.0,1.0,1.0,0.0,1916,Male,Agronomy,0.0,1.0,0.0,0.0,1.0,0.0
+"Rath, H. Earl",2.0,2.0,0.0,0.0,1916,Male,Animal Husbandry,1.0,0.0,1.0,1.0,0.0,0.0
+"Rath, Lois Myrtle",2.0,3.0,0.0,0.0,1916,Female,Home Economics,2.0,0.0,1.0,2.0,0.0,0.0
+"Rawlings, J. B.",1.0,0.0,0.0,0.0,1916,Male,Electrical Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Reed, Merle K.",1.0,3.0,2.0,2.0,1916,Male,Agricultural Engineering,2.0,1.0,0.0,2.0,0.0,0.0
+"Reynolds, A. W.",1.0,1.0,0.0,0.0,1916,Male,Dairy,1.0,0.0,0.0,1.0,0.0,0.0
+"Riedesel, P. Wayne",1.0,1.0,0.0,1.0,1916,Male,Chemistry Engineering,1.0,0.0,1.0,1.0,0.0,0.0
+"Riemenschneider, Alma",0.0,0.0,0.0,0.0,1916,Female,Home Economics,0.0,0.0,0.0,0.0,0.0,0.0
+"Richardson, H. R.",0.0,1.0,0.0,0.0,1916,Male,Agronomy,0.0,0.0,0.0,0.0,0.0,0.0
+"Richardson, Lewis E.",1.0,1.0,0.0,0.0,1916,Male,Chemistry Engineering,1.0,0.0,1.0,1.0,0.0,0.0
+"Roberts, Harold P.",2.0,2.0,0.0,0.0,1916,Male,Chemistry Engineering,1.0,0.0,1.0,1.0,0.0,0.0
+"Roberts, T. H.",3.0,5.0,0.0,0.0,1916,Male,Animal Husbandry,2.0,0.0,2.0,2.0,0.0,0.0
+"Rodgers, Helen",0.0,0.0,0.0,0.0,1916,Female,Home Economics,0.0,0.0,0.0,0.0,0.0,0.0
+"Rogers, Bruce A.",1.0,2.0,0.0,0.0,1916,Male,Electrical Engineering,1.0,0.0,1.0,1.0,0.0,0.0
+"Ross, Merle",1.0,1.0,0.0,0.0,1916,Female,Home Economics,1.0,0.0,1.0,2.0,0.0,0.0
+"Rossing, Tedmar M.",1.0,4.0,1.0,1.0,1916,Male,Veterinary,1.0,0.0,2.0,0.0,0.0,0.0
+"Rue, Nelson B.",1.0,2.0,0.0,1.0,1916,Male,Agronomy,1.0,0.0,1.0,3.0,0.0,0.0
+"Ruesink, Edward",0.0,2.0,0.0,0.0,1916,Male,Animal Husbandry,0.0,0.0,0.0,0.0,1.0,0.0
+"Rush, I. L.",3.0,3.0,0.0,0.0,1916,Male,Mechanical Enginnering,1.0,0.0,1.0,1.0,0.0,0.0
+"Rumbaugh, W. R.",0.0,1.0,0.0,0.0,1916,Male,Forestry,0.0,0.0,0.0,0.0,0.0,0.0
+"Ryan, Madge Clair",1.0,1.0,0.0,0.0,1916,Female,Home Economics,0.0,0.0,0.0,1.0,0.0,0.0
+"Scott, C. C.",4.0,3.0,0.0,0.0,1916,Male,Agricultural Education,3.0,0.0,3.0,2.0,0.0,0.0
+"Scott, Milton H.",2.0,2.0,0.0,0.0,1916,Male,Animal Husbandry,1.0,0.0,1.0,0.0,0.0,0.0
+"Searle, Wellington",4.0,6.0,0.0,0.0,1916,Male,Agricultural Engineering,2.0,0.0,1.0,2.0,1.0,0.0
+"Seder, Merlin L.",1.0,0.0,2.0,2.0,1916,Male,Agricultural Education,0.0,2.0,0.0,0.0,1.0,0.0
+"Shideler, Charles J.",2.0,2.0,0.0,0.0,1916,Male,Agricultural Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Skott, Hans E.",1.0,2.0,1.0,0.0,1916,Male,Agronomy,1.0,0.0,1.0,1.0,0.0,0.0
+"Slingerland, Don E.",4.0,5.0,1.0,0.0,1916,Male,Animal Husbandry,4.0,0.0,4.0,5.0,0.0,0.0
+"Smillie, E. W.",1.0,3.0,1.0,0.0,1916,Male,Veterinary,1.0,0.0,2.0,1.0,0.0,0.0
+"Smith, Andrew N.",0.0,1.0,1.0,0.0,1916,Male,Animal Husbandry and Agicultural Education,0.0,0.0,0.0,0.0,1.0,0.0
+"Smith, Earl W.",0.0,4.0,1.0,1.0,1916,Male,Agricultural Engineering,1.0,0.0,1.0,1.0,1.0,0.0
+"Smith, Fred Dean",2.0,2.0,1.0,0.0,1916,Male,Chemistry Engineering,1.0,1.0,0.0,0.0,0.0,1.0
+"Smith, Glenn M.",1.0,0.0,0.0,0.0,1916,Male,Horticulture,0.0,0.0,0.0,0.0,0.0,0.0
+"Smith, John B.",1.0,3.0,0.0,0.0,1916,Male,Agronomy,1.0,0.0,0.0,1.0,0.0,0.0
+"Squire, E. G.",2.0,1.0,0.0,0.0,1916,Male,Dairy,0.0,0.0,0.0,0.0,0.0,0.0
+"Steigerwalt, Frank",2.0,2.0,0.0,0.0,1916,Male,Agricultural Engineering,1.0,0.0,1.0,1.0,0.0,0.0
+"Stewart, Margaret B.",2.0,3.0,0.0,0.0,1916,Female,Home Economics,2.0,0.0,2.0,3.0,0.0,0.0
+"Stewart, Olive Mae",5.0,7.0,0.0,0.0,1916,Female,Home Economics,5.0,0.0,1.0,2.0,0.0,0.0
+"Stoddard, Erling",2.0,3.0,2.0,1.0,1916,Male,Chemistry Engineering,3.0,2.0,2.0,2.0,1.0,1.0
+"Stokes, R. R.",3.0,2.0,0.0,0.0,1916,Male,Forestry,1.0,0.0,1.0,2.0,0.0,0.0
+"Stover, Fern H.",3.0,1.0,0.0,0.0,1916,Female,Home Economics,1.0,0.0,1.0,3.0,0.0,0.0
+"Stuewe, Erich F.",2.0,3.0,0.0,0.0,1916,Male,Animal Husbandry,2.0,0.0,2.0,1.0,1.0,1.0
+"Surring, R. E.",2.0,2.0,0.0,1.0,1916,Male,Veterinary,1.0,0.0,1.0,1.0,0.0,0.0
+"Susong, Homer D.",2.0,3.0,1.0,0.0,1916,Male,Chemistry Engineering,3.0,0.0,1.0,4.0,0.0,0.0
+"Swiney, John D.",2.0,4.0,2.0,1.0,1916,Male,Agronomy,3.0,1.0,1.0,1.0,0.0,0.0
+"Symonds, Harold H.",0.0,2.0,0.0,0.0,1916,Male,Chemistry Engineering,0.0,0.0,0.0,0.0,1.0,0.0
+"Syverud, A. O.",1.0,1.0,0.0,0.0,1916,Male,Agronomy,1.0,0.0,1.0,0.0,0.0,0.0
+"Taintor, Elmer J.",0.0,1.0,0.0,0.0,1916,Male,Agricultural Education,1.0,0.0,0.0,1.0,0.0,0.0
+"Talcott, James P.",2.0,4.0,0.0,0.0,1916,Male,Animal Husbandry,2.0,0.0,2.0,4.0,0.0,0.0
+"Tallman, J. Glen",0.0,0.0,1.0,0.0,1916,Male,Animal Husbandry,0.0,0.0,0.0,0.0,0.0,0.0
+"Taylor, Ferne",0.0,4.0,0.0,0.0,1916,Female,Home Economics,0.0,0.0,1.0,0.0,0.0,0.0
+"Temple, William M.",1.0,1.0,2.0,2.0,1916,Male,Animal Husbandry,0.0,2.0,1.0,1.0,1.0,0.0
+"Thiel, William L.",0.0,2.0,1.0,0.0,1916,Male,Mechanical Enginnering,2.0,0.0,0.0,2.0,0.0,0.0
+"Thomas, Merton G.",2.0,2.0,0.0,1.0,1916,Male,Animal Husbandry,2.0,0.0,2.0,2.0,0.0,0.0
+"Thornburg, Herbert W.",0.0,0.0,1.0,1.0,1916,Male,Mechanical Enginnering,0.0,0.0,1.0,1.0,0.0,1.0
+"Tillie, Robert S.",0.0,1.0,3.0,3.0,1916,Male,Veterinary,0.0,2.0,1.0,0.0,1.0,1.0
+"Tippie, John M.",1.0,3.0,1.0,0.0,1916,Male,Chemistry Engineering,0.0,0.0,0.0,0.0,2.0,0.0
+"Tonsfeldt, Alma",5.0,6.0,0.0,0.0,1916,Female,Home Economics,4.0,0.0,3.0,4.0,0.0,0.0
+"Torblaa, Erling M.",0.0,0.0,1.0,1.0,1916,Male,Animal Husbandry,0.0,1.0,0.0,1.0,0.0,1.0
+"Turpin, H. W.",2.0,2.0,0.0,0.0,1916,Male,Agronomy,1.0,0.0,0.0,1.0,0.0,0.0
+"Tuttle, Otis H.",3.0,3.0,0.0,0.0,1916,Male,Animal Husbandry,1.0,0.0,1.0,1.0,0.0,0.0
+"Tucker, Fred Raymond",1.0,1.0,0.0,0.0,1916,Male,Animal Husbandry,0.0,0.0,0.0,0.0,0.0,0.0
+"Ufford, Glen R.",1.0,2.0,0.0,0.0,1916,Male,Dairy,1.0,0.0,1.0,0.0,0.0,0.0
+"Uhl, Edwin J.",1.0,3.0,0.0,1.0,1916,Male,Agricultural Engineering,2.0,1.0,0.0,2.0,0.0,1.0
+"Van Anda, Carmi Housten",4.0,2.0,1.0,0.0,1916,Male,Animal Husbandry,1.0,0.0,0.0,1.0,0.0,1.0
+"Van Fossen, John R.",0.0,0.0,2.0,0.0,1916,Male,Horticulture,0.0,0.0,1.0,1.0,1.0,0.0
+"Van Vlack, Claud H.",2.0,3.0,1.0,2.0,1916,Male,Agricultural Engineering,1.0,1.0,1.0,0.0,2.0,0.0
+"Veach, Claude",2.0,2.0,0.0,0.0,1916,Male,Forestry,2.0,0.0,1.0,1.0,0.0,0.0
+"Vorhes, C. A.",1.0,3.0,0.0,0.0,1916,Male,Dairy,2.0,0.0,1.0,3.0,0.0,0.0
+"Walker, Dessie",2.0,2.0,0.0,0.0,1916,Female,Home Economics,2.0,0.0,0.0,1.0,0.0,0.0
+"Walter, Elmer V.",1.0,2.0,0.0,0.0,1916,Male,Animal Husbandry,1.0,0.0,0.0,0.0,0.0,0.0
+"Warden, A. W.",1.0,2.0,0.0,0.0,1916,Male,Animal Husbandry,2.0,0.0,0.0,2.0,0.0,0.0
+"Wallace, James J.",0.0,2.0,0.0,0.0,1916,Male,Animal Husbandry,0.0,0.0,0.0,0.0,0.0,0.0
+"Watson, M. R.",2.0,3.0,0.0,0.0,1916,Male,Agricultural Engineering,1.0,0.0,1.0,1.0,0.0,0.0
+"Watkins, Florence",0.0,0.0,0.0,0.0,1916,Female,Home Economics,0.0,0.0,0.0,0.0,0.0,0.0
+"Wenholz, Alfred M.",0.0,1.0,2.0,0.0,1916,Male,Dairy,0.0,1.0,0.0,0.0,0.0,1.0
+"Whitney, Verne E.",0.0,0.0,0.0,0.0,1916,Male,Science,0.0,0.0,0.0,0.0,0.0,0.0
+"Whitson, Jay",2.0,2.0,0.0,0.0,1916,Male,Agronomy,0.0,1.0,0.0,1.0,0.0,0.0
+"Whittemore, Osgood J.",1.0,2.0,0.0,0.0,1916,Male,Ceramics,0.0,0.0,0.0,0.0,0.0,0.0
+"Winchester, Harry B.",2.0,4.0,1.0,0.0,1916,Male,Animal Husbandry,2.0,0.0,1.0,3.0,0.0,0.0
+"Wingerson, Vera",2.0,3.0,1.0,0.0,1916,Female,Home Economics,1.0,1.0,0.0,1.0,2.0,1.0
+"Wilcox, Fred A.",1.0,0.0,0.0,0.0,1916,Male,Animal Husbandry,0.0,0.0,0.0,0.0,0.0,0.0
+"Wilkinson, H. E.",1.0,1.0,0.0,0.0,1916,Male,Animal Husbandry,1.0,0.0,1.0,2.0,0.0,0.0
+"Williams, Harold J.",1.0,3.0,0.0,0.0,1916,Male,Animal Husbandry,2.0,0.0,1.0,2.0,0.0,0.0
+"Wilson, Ellanor",1.0,1.0,0.0,0.0,1916,Female,Home Economics,1.0,0.0,0.0,1.0,1.0,0.0
+"Wilson, Eva Rose",2.0,1.0,0.0,0.0,1916,Female,Home Economics,1.0,0.0,1.0,2.0,0.0,0.0
+"Wilson, Helen",1.0,1.0,0.0,0.0,1916,Female,Home Economics,1.0,0.0,0.0,1.0,0.0,0.0
+"Wilson, Ray S.",0.0,0.0,1.0,0.0,1916,Male,Mechanical Enginnering,0.0,1.0,0.0,0.0,0.0,0.0
+"Woodroffe, Clara",2.0,2.0,0.0,0.0,1916,Female,Home Economics,2.0,0.0,0.0,1.0,0.0,0.0
+"Woodworth, Robert M.",0.0,2.0,0.0,0.0,1916,Male,Mechanical Enginnering,0.0,0.0,0.0,0.0,0.0,0.0
+"Woolley, John C.",0.0,1.0,0.0,0.0,1916,Male,Agricultural Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Wolf, Paul M.",1.0,2.0,0.0,0.0,1916,Male,Agronomy,1.0,0.0,0.0,1.0,0.0,0.0
+"Workman, Nora E.",0.0,1.0,1.0,0.0,1916,Female,Home Economics,0.0,1.0,0.0,0.0,1.0,1.0
+"Wyckoff, Marjorie May",0.0,0.0,0.0,0.0,1916,Female,Home Economics,0.0,0.0,0.0,0.0,0.0,0.0
+"Weise, Raymond J.",1.0,1.0,0.0,0.0,1916,Male,Dairy Husbandry,1.0,0.0,0.0,0.0,0.0,0.0
+"Yungclas, James A.",0.0,1.0,0.0,0.0,1916,Male,Mechanical Enginnering,1.0,0.0,0.0,2.0,0.0,0.0
+"Young, Ellsworth",2.0,3.0,0.0,0.0,1916,Male,Chemistry Engineering,1.0,0.0,1.0,2.0,0.0,0.0
+"Young, Marie D.",0.0,0.0,0.0,0.0,1916,Female,Home Economics,0.0,0.0,0.0,0.0,0.0,0.0
+"Benge, Berenice",2.0,2.0,0.0,0.0,1916,Female,Industrial Science,1.0,0.0,2.0,0.0,0.0,0.0
+"Dawson, Richard Ancil",4.0,5.0,0.0,0.0,1916,Male,Mechanical Enginnering,0.0,0.0,0.0,1.0,1.0,0.0
+"Dunnigan, Lenora",1.0,1.0,0.0,0.0,1916,Female,Home Economics,1.0,0.0,0.0,1.0,0.0,0.0
+"Lovelace, H. Houston",1.0,1.0,0.0,0.0,1916,Male,Agronomy,1.0,0.0,1.0,0.0,0.0,0.0
+"Myers, Bert",1.0,2.0,0.0,0.0,1916,Male,Chemistry Engineering,1.0,0.0,1.0,2.0,0.0,0.0
+"Nichols, Harry E.",1.0,3.0,1.0,1.0,1916,Male,Horticulture,2.0,1.0,0.0,0.0,0.0,0.0
+"Pearson, Earnest E.",3.0,4.0,1.0,1.0,1916,Male,Animal Husbandry,3.0,1.0,3.0,5.0,1.0,1.0
+"Scurlock, Clarence P.",1.0,1.0,1.0,0.0,1916,Male,Agronomy,1.0,0.0,1.0,2.0,0.0,0.0
+"Shivers, E. D.",2.0,4.0,0.0,0.0,1916,Male,Agronomy,1.0,0.0,1.0,1.0,1.0,0.0
+"Stewart, Minnie H.",1.0,1.0,0.0,0.0,1916,Female,Home Economics,1.0,0.0,0.0,0.0,1.0,0.0
+"Taake, Margaret",2.0,3.0,0.0,0.0,1916,Female,Home Economics,3.0,0.0,1.0,1.0,0.0,0.0
+"Waggoner, Charles J.",1.0,1.0,0.0,0.0,1916,Male,Animal Husbandry,1.0,0.0,0.0,1.0,0.0,0.0
+"Walker, Scott Allan",0.0,4.0,0.0,0.0,1916,Male,Agronomy,0.0,0.0,0.0,1.0,0.0,0.0
+"Zimmerman, John C.",2.0,1.0,0.0,0.0,1916,Male,Agricultural Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Agne, Glen L.",1.0,2.0,2.0,2.0,1909,Male,Animal Husbandry,0.0,2.0,1.0,1.0,2.0,0.0
+"Amesbury, Henry Clyde",3.0,8.0,0.0,1.0,1909,Male,Civil Engineering,4.0,0.0,2.0,3.0,1.0,0.0
+"Anderson, Arthur Lyman",1.0,2.0,3.0,0.0,1909,Male,Agronomy,0.0,0.0,1.0,0.0,0.0,0.0
+"Allen, Shirley Walter",3.0,4.0,1.0,1.0,1909,Male,Forestry,3.0,1.0,3.0,1.0,1.0,0.0
+"Archer, Dorothy Anna",4.0,4.0,0.0,1.0,1909,Female,General and Domestic Science,3.0,0.0,3.0,2.0,0.0,0.0
+"Baker, H. Ream",2.0,4.0,1.0,0.0,1909,Male,Mining Engineering,2.0,0.0,0.0,2.0,1.0,0.0
+"Bakke, Arthur Laurence",3.0,3.0,3.0,3.0,1909,Male,Science,1.0,2.0,1.0,1.0,3.0,1.0
+"Beard, Vivian Dangerfield",1.0,2.0,3.0,0.0,1909,Male,Civil Engineering,2.0,0.0,2.0,1.0,2.0,1.0
+"Beaty, John",3.0,6.0,1.0,2.0,1909,Male,Animal Husbandry,2.0,1.0,1.0,2.0,1.0,1.0
+"Bek, Hugh E.",2.0,3.0,3.0,2.0,1909,Male,Electrical Engineering,1.0,2.0,0.0,1.0,1.0,1.0
+"Belles, B. B.",0.0,3.0,2.0,2.0,1909,Male,Civil Engineering,1.0,2.0,1.0,2.0,2.0,1.0
+"Bernick, Fritz",2.0,3.0,2.0,1.0,1909,Male,Electrical Engineering,2.0,1.0,2.0,3.0,1.0,0.0
+"Billedo, Mariano",0.0,3.0,3.0,1.0,1909,Male,Agronomy,1.0,1.0,0.0,1.0,3.0,0.0
+"Black, Elmer E.",1.0,3.0,2.0,1.0,1909,Male,Veterinary,2.0,0.0,2.0,2.0,1.0,0.0
+"Boardman, Lois Knight",5.0,4.0,1.0,1.0,1909,Female,Science,2.0,1.0,2.0,2.0,0.0,0.0
+"Bodwell, Ross Edward",1.0,1.0,1.0,0.0,1909,Male,Electrical Engineering,1.0,0.0,1.0,1.0,0.0,0.0
+"Booth, James Francis",1.0,1.0,2.0,1.0,1909,Male,Civil Engineering,1.0,0.0,1.0,1.0,2.0,1.0
+"Boyd, Lee Robinson",1.0,1.0,0.0,0.0,1909,Male,Civil Engineering,1.0,0.0,1.0,3.0,0.0,0.0
+"Broadie, Ray Wesley",3.0,1.0,2.0,1.0,1909,Male,Civil Engineering,0.0,0.0,0.0,1.0,1.0,0.0
+"Burkhart, Roy F.",0.0,3.0,1.0,0.0,1909,Male,Electrical Engineering,2.0,1.0,1.0,1.0,0.0,0.0
+"Burris, John Arthur",3.0,6.0,2.0,1.0,1909,Male,Civil Engineering,3.0,1.0,2.0,5.0,1.0,0.0
+"Bush, Charles Randall",4.0,7.0,2.0,2.0,1909,Male,Animal Husbandry,1.0,2.0,2.0,4.0,1.0,1.0
+"Bielenburg, Carl Frederick",1.0,4.0,1.0,0.0,1909,Male,Electrical Engineering,1.0,0.0,1.0,4.0,1.0,0.0
+"Campbell, Paul Caldwell",0.0,1.0,3.0,3.0,1909,Male,Civil Engineering,0.0,3.0,2.0,2.0,2.0,0.0
+"Carlisle, Campbell",0.0,1.0,0.0,1.0,1909,Male,Dairy,0.0,0.0,0.0,0.0,1.0,0.0
+"Campbell, John Roy",4.0,6.0,2.0,0.0,1909,Male,Horticulture,2.0,1.0,0.0,1.0,0.0,0.0
+"Carlson, Walter Roy",0.0,0.0,2.0,0.0,1909,Male,Civil Engineering,0.0,1.0,0.0,0.0,1.0,0.0
+"Carr, Elza B.",1.0,8.0,0.0,0.0,1909,Male,Electrical Engineering,1.0,0.0,2.0,2.0,0.0,0.0
+"Case, Harold Mortimer",2.0,2.0,0.0,1.0,1909,Male,Horticulture,2.0,0.0,1.0,2.0,0.0,0.0
+"Chappel, Milford Edward",2.0,1.0,4.0,2.0,1909,Male,Civil Engineering,0.0,2.0,0.0,0.0,3.0,1.0
+"Clarke, Perry Benjamin",2.0,2.0,1.0,0.0,1909,Male,Mechanical Engineering,2.0,0.0,2.0,3.0,0.0,0.0
+"Clayton, Daniel W.",3.0,5.0,3.0,1.0,1909,Male,Mechanical Engineering,2.0,1.0,1.0,2.0,1.0,0.0
+"Cockfield, Joseph Henry",1.0,2.0,0.0,0.0,1909,Male,Mechanical Engineering,0.0,0.0,0.0,1.0,0.0,0.0
+"Collins, Edgar V.",2.0,3.0,2.0,0.0,1909,Male,Agronomy,2.0,1.0,0.0,2.0,2.0,0.0
+"Cooper, Clifford William",1.0,1.0,0.0,0.0,1909,Male,Electrical Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Cowan, Lynn Freeman",3.0,7.0,1.0,0.0,1909,Male,Civil Engineering,4.0,1.0,0.0,3.0,0.0,0.0
+"Cox, Paul Ira Franklin",2.0,1.0,4.0,2.0,1909,Male,Animal Husbandry,0.0,1.0,0.0,1.0,3.0,2.0
+"Craig, Dan S.",2.0,3.0,1.0,2.0,1909,Male,Civil Engineering,1.0,1.0,2.0,0.0,1.0,0.0
+"Crawford, Mathew Oliver",0.0,4.0,0.0,0.0,1909,Male,Mechanical Engineering,2.0,0.0,1.0,2.0,0.0,0.0
+"Crawford, Nate N.",0.0,2.0,2.0,0.0,1909,Male,Veterinary,1.0,0.0,1.0,1.0,0.0,0.0
+"Crouse, Ralph Clinton",1.0,1.0,4.0,2.0,1909,Male,Electrical Engineering,1.0,2.0,1.0,1.0,2.0,1.0
+"Cunningham, Albert Henry",1.0,1.0,4.0,2.0,1909,Male,Civil Engineering,0.0,3.0,0.0,1.0,2.0,1.0
+"Darling, Eugene",2.0,6.0,1.0,1.0,1909,Male,Animal Husbandry,2.0,0.0,0.0,0.0,2.0,0.0
+"Davis, Joseph Walter",0.0,5.0,1.0,0.0,1909,Male,Animal Husbandry,1.0,1.0,0.0,3.0,1.0,1.0
+"Davis, Harry Kimball",2.0,3.0,2.0,0.0,1909,Male,Civil Engineering,2.0,0.0,2.0,2.0,2.0,0.0
+"Davis, Grace",0.0,4.0,2.0,0.0,1909,Female,Science,0.0,0.0,0.0,2.0,1.0,1.0
+"Day, Georgia Elmira",2.0,1.0,1.0,0.0,1909,Female,Science,1.0,0.0,1.0,2.0,0.0,1.0
+"Dengler, Harold D.",4.0,8.0,0.0,0.0,1909,Male,Mechanical Engineering,3.0,0.0,0.0,1.0,0.0,0.0
+"Dorman, Bertram Levere",2.0,4.0,3.0,1.0,1909,Male,Civil Engineering,2.0,2.0,1.0,5.0,1.0,1.0
+"Dyer, Ruth",0.0,0.0,2.0,2.0,1909,Female,Science,0.0,0.0,1.0,0.0,1.0,2.0
+"Dragoun, Frank",3.0,4.0,2.0,0.0,1909,Male,Civil Engineering,2.0,0.0,1.0,1.0,0.0,0.0
+"Eby, Valentine Vincent",1.0,2.0,0.0,0.0,1909,Male,Civil Engineering,0.0,1.0,0.0,0.0,1.0,0.0
+"Edwards, Lyman Oscar",0.0,3.0,1.0,0.0,1909,Male,Electrical Engineering,0.0,1.0,0.0,0.0,1.0,0.0
+"Ellis, W. V.",0.0,0.0,0.0,0.0,1909,Male,Veterinary,0.0,0.0,0.0,0.0,0.0,0.0
+"Ewers, Ruth Bradley May",0.0,1.0,2.0,2.0,1909,Female,General and Domestic Science,0.0,1.0,0.0,0.0,1.0,1.0
+"Farmer, George Eddy",0.0,3.0,0.0,0.0,1909,Male,Science,0.0,0.0,0.0,1.0,0.0,0.0
+"Farnsworth, Fordyce Barker",3.0,3.0,1.0,1.0,1909,Male,Mechanical Engineering,0.0,1.0,0.0,3.0,0.0,1.0
+"Farnum, Eugenia Fae",2.0,2.0,0.0,0.0,1909,Female,Science,0.0,0.0,0.0,1.0,0.0,0.0
+"Forman, I. F. W.",5.0,4.0,1.0,1.0,1909,Male,Agronomy,2.0,1.0,1.0,2.0,0.0,0.0
+"French, Franklin F.",4.0,5.0,1.0,0.0,1909,Male,General and Domestic Science,3.0,1.0,2.0,3.0,0.0,0.0
+"French, Leslie Roy",4.0,6.0,1.0,1.0,1909,Male,Civil Engineering,3.0,0.0,1.0,3.0,1.0,0.0
+"Fuchs, Osboe C.",2.0,1.0,0.0,0.0,1909,Male,Animal Husbandry,1.0,0.0,1.0,1.0,0.0,0.0
+"Gamrath, Carl",2.0,5.0,2.0,1.0,1909,Male,Veterinary,1.0,1.0,0.0,0.0,1.0,1.0
+"Garner, Della May",1.0,3.0,0.0,0.0,1909,Female,Science,0.0,0.0,0.0,0.0,1.0,0.0
+"Gillette, Millie",0.0,1.0,6.0,5.0,1909,Female,Science,1.0,2.0,0.0,1.0,5.0,3.0
+"Gilmore, William Jones",0.0,3.0,1.0,0.0,1909,Male,Civil Engineering,0.0,0.0,0.0,0.0,0.0,2.0
+"Godfrey, George W.",2.0,4.0,0.0,0.0,1909,Male,Animal Husbandry,0.0,0.0,1.0,0.0,0.0,0.0
+"Gordon, Bert Earl",3.0,5.0,1.0,2.0,1909,Male,Electrical Engineering,2.0,1.0,1.0,1.0,1.0,0.0
+"Marshall, Louis Graham",0.0,5.0,2.0,0.0,1909,Male,Mining Engineering,2.0,1.0,0.0,1.0,0.0,0.0
+"Gray, Roy B.",4.0,3.0,2.0,2.0,1909,Male,Electrical Engineering,2.0,2.0,3.0,2.0,2.0,1.0
+"Green, William M.",5.0,6.0,4.0,2.0,1909,Male,Civil Engineering,3.0,2.0,1.0,1.0,1.0,1.0
+"Gregory, Clifford Verne",4.0,5.0,0.0,1.0,1909,Male,Animal Husbandry,3.0,1.0,1.0,4.0,0.0,0.0
+"Griswold, Donald Thomas",3.0,4.0,2.0,1.0,1909,Male,Animal Husbandry,1.0,2.0,0.0,0.0,1.0,0.0
+"Hanssen, Daniel Webster",3.0,3.0,0.0,0.0,1909,Male,Electrical Engineering,1.0,0.0,1.0,0.0,0.0,0.0
+"Hall, Herman",2.0,2.0,2.0,1.0,1909,Male,Mechanical Engineering,1.0,1.0,1.0,2.0,0.0,1.0
+"Harris, Carl Elmore",5.0,6.0,3.0,1.0,1909,Male,Civil Engineering,4.0,0.0,2.0,2.0,0.0,0.0
+"Haskin, Walter A.",4.0,6.0,0.0,0.0,1909,Male,Agronomy,1.0,0.0,1.0,2.0,1.0,0.0
+"Hauser, Bonner B.",2.0,4.0,1.0,2.0,1909,Male,Civil Engineering,0.0,2.0,1.0,2.0,0.0,0.0
+"Hawk, Fred Derward",2.0,4.0,1.0,1.0,1909,Male,Animal Husbandry,4.0,1.0,3.0,3.0,1.0,0.0
+"Hazen, Hervey H.",1.0,3.0,3.0,0.0,1909,Male,Animal Husbandry,1.0,1.0,0.0,3.0,1.0,0.0
+"Heath, Royce",3.0,5.0,2.0,1.0,1909,Male,Civil Engineering,2.0,0.0,1.0,1.0,0.0,0.0
+"Heaton, Edward Bamford",5.0,5.0,1.0,1.0,1909,Male,Animal Husbandry,3.0,0.0,2.0,1.0,0.0,0.0
+"Hewitt, Cecil Melmott",1.0,2.0,2.0,1.0,1909,Male,Mechanical Engineering,0.0,1.0,0.0,1.0,2.0,0.0
+"Hitchcock, Rex Brenner",3.0,4.0,3.0,1.0,1909,Male,Mechanical Engineering,2.0,2.0,1.0,2.0,1.0,0.0
+"Hites, Lisle V.",1.0,1.0,7.0,2.0,1909,Male,Civil Engineering,0.0,4.0,3.0,0.0,3.0,3.0
+"Hopkins, Ella R.",1.0,2.0,0.0,0.0,1909,Female,General and Domestic Science,1.0,0.0,0.0,0.0,0.0,0.0
+"Hopkins, Mary Francis",2.0,2.0,1.0,1.0,1909,Female,Domestic Science,1.0,0.0,1.0,0.0,1.0,0.0
+"Horton, Maud",3.0,3.0,1.0,0.0,1909,Female,General and Domestic Science,0.0,0.0,0.0,0.0,0.0,0.0
+"Hubbard, Homer Colcord",5.0,7.0,5.0,1.0,1909,Male,Mechanical Engineer,2.0,1.0,2.0,4.0,2.0,0.0
+"Huffman, Oscar Lee",1.0,5.0,3.0,0.0,1909,Male,Civil Engineering,1.0,0.0,0.0,0.0,1.0,0.0
+"Humphrey, Mark T.",3.0,6.0,1.0,1.0,1909,Male,Electrical Engineering,2.0,0.0,1.0,2.0,0.0,0.0
+"Hutchinson, L. Shelley",5.0,5.0,0.0,0.0,1909,Male,Mining Engineering,3.0,0.0,3.0,1.0,0.0,0.0
+"Hutchison, Bryce",3.0,2.0,2.0,1.0,1909,Male,Mining Engineering,2.0,1.0,2.0,2.0,1.0,0.0
+"Hugg, John",3.0,5.0,3.0,1.0,1909,Male,Mechanical Engineering,2.0,2.0,2.0,4.0,2.0,3.0
+"Ineson, Maurice Wood",1.0,1.0,4.0,1.0,1909,Male,Civil Engineering,1.0,1.0,2.0,1.0,2.0,3.0
+"Iverson, Wood Cornelius",1.0,3.0,0.0,0.0,1909,Male,Animal Husbandry,0.0,0.0,0.0,1.0,0.0,0.0
+"Jepson, Magnus Soren",1.0,1.0,1.0,0.0,1909,Male,Animal Husbandry,1.0,0.0,0.0,0.0,0.0,0.0
+"Johnson, Oscar W.",1.0,3.0,1.0,2.0,1909,Male,Animal Husbandry,0.0,1.0,0.0,0.0,1.0,1.0
+"Jones, Floyd Duren",1.0,5.0,1.0,0.0,1909,Male,Civil Engineering,3.0,0.0,2.0,1.0,1.0,0.0
+"Jones, Ralph Henry",1.0,0.0,2.0,0.0,1909,Male,Civil Engineering,0.0,0.0,0.0,1.0,0.0,0.0
+"Jones, Gertrude",4.0,4.0,0.0,0.0,1909,Female,Domestic Science,1.0,0.0,0.0,2.0,0.0,0.0
+"Jongewaard, Neal",1.0,1.0,2.0,1.0,1909,Male,Veterinary,0.0,1.0,1.0,2.0,2.0,1.0
+"Kadel, Orpha Estella",1.0,3.0,1.0,0.0,1909,Female,Science,0.0,0.0,3.0,1.0,0.0,0.0
+"Kalb, Harry N.",3.0,4.0,2.0,0.0,1909,Male,Electrical Engineering,3.0,1.0,1.0,4.0,2.0,1.0
+"Kelley, Earl Foster",2.0,3.0,3.0,1.0,1909,Male,Civil Engineering,2.0,1.0,2.0,3.0,2.0,2.0
+"Keerr, Francis Lambert",2.0,2.0,3.0,1.0,1909,Male,Animal Husbandry,1.0,1.0,0.0,2.0,1.0,0.0
+"King, Joe E.",5.0,7.0,3.0,2.0,1909,Male,Electrical Engineering,3.0,3.0,1.0,4.0,1.0,1.0
+"King, Harry W.",2.0,2.0,1.0,0.0,1909,Male,Electrical Engineering,2.0,0.0,1.0,2.0,0.0,0.0
+"Kirkpatrick, John G.",2.0,4.0,0.0,0.0,1909,Male,Electrical Engineering,3.0,0.0,2.0,1.0,1.0,0.0
+"Kirkpatrick, Kemper Austin",0.0,3.0,3.0,0.0,1909,Male,Horticulture,2.0,2.0,1.0,1.0,0.0,1.0
+"Knapp, Seaman A.",0.0,3.0,0.0,0.0,1909,Male,Civil Engineering,1.0,0.0,0.0,0.0,0.0,0.0
+"Knowles, Frank C.",2.0,3.0,3.0,0.0,1909,Male,Mining Engineering,2.0,2.0,0.0,2.0,1.0,1.0
+"Alexander, B. Knox",2.0,4.0,3.0,3.0,1909,Male,Mechanical Engineering,2.0,1.0,1.0,2.0,2.0,1.0
+"Allen, I. Kulp",1.0,2.0,2.0,0.0,1909,Male,Veterinary,0.0,0.0,0.0,1.0,0.0,0.0
+"Lambert, Guy Merton",0.0,4.0,2.0,1.0,1909,Male,Dairy,1.0,1.0,1.0,2.0,2.0,1.0
+"Lambert, Everett Wesley",1.0,2.0,1.0,1.0,1909,Male,Mining Engineering,1.0,1.0,1.0,1.0,1.0,1.0
+"Lane, Eduardo F.",1.0,3.0,1.0,0.0,1909,Male,Veterinary,2.0,0.0,0.0,2.0,1.0,0.0
+"Lane, Wilfred G.",1.0,3.0,2.0,2.0,1909,Male,Electrical Engineering,0.0,0.0,0.0,1.0,0.0,0.0
+"Larson, Frank Walter",4.0,2.0,4.0,0.0,1909,Male,Veterinary,1.0,0.0,1.0,4.0,1.0,1.0
+"Law, Frederick W.",2.0,3.0,3.0,2.0,1909,Male,Veterinary,0.0,2.0,1.0,0.0,1.0,0.0
+"Leckliter, Walter Harlan",2.0,1.0,1.0,0.0,1909,Male,Civil Engineering,1.0,0.0,0.0,0.0,0.0,0.0
+"Lister, James A.",2.0,5.0,3.0,1.0,1909,Male,Mechanical Engineering,2.0,0.0,0.0,1.0,4.0,0.0
+"Lockwood, Ray L.",1.0,2.0,2.0,1.0,1909,Male,Civil Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Leibrock, Laroy I.",0.0,3.0,0.0,1.0,1909,Male,Mining Engineering,0.0,1.0,0.0,2.0,0.0,0.0
+"Lidvall, Edward R.",3.0,3.0,1.0,2.0,1909,Male,Mining Engineering,1.0,0.0,1.0,1.0,0.0,0.0
+"Luick, Harold Frederick",0.0,4.0,0.0,0.0,1909,Male,Animal Husbandry,1.0,0.0,0.0,0.0,0.0,0.0
+"McCain, George Leverett",4.0,4.0,0.0,0.0,1909,Male,Mechanical Engineering,3.0,0.0,3.0,2.0,0.0,0.0
+"McCulla, Alma Bessie",4.0,6.0,4.0,2.0,1909,Female,General and Domestic Science,2.0,1.0,2.0,2.0,3.0,1.0
+"Thomas, E. Mccullough",3.0,2.0,0.0,0.0,1909,Male,Civil Engineering,2.0,0.0,0.0,1.0,0.0,0.0
+"Ralph, Max Mcelhinney",1.0,2.0,3.0,2.0,1909,Male,Animal Husbandry,0.0,1.0,0.0,1.0,1.0,0.0
+"Harley, Boone Mcelyea",3.0,6.0,4.0,1.0,1909,Male,Electrical Engineering,3.0,3.0,1.0,3.0,2.0,0.0
+"Jesse, M. Mckeene",3.0,5.0,0.0,0.0,1909,Male,Science,1.0,0.0,0.0,1.0,0.0,0.0
+"Maine, Kenneth",0.0,1.0,0.0,0.0,1909,Male,Mechanical Engineering,1.0,0.0,1.0,0.0,0.0,0.0
+"Manson, Frank Rodney",3.0,5.0,4.0,2.0,1909,Male,Electrical Engineering,4.0,0.0,2.0,4.0,3.0,0.0
+"Martin, Helen",3.0,7.0,5.0,2.0,1909,Female,General and Domestic Science,3.0,1.0,0.0,2.0,2.0,1.0
+"Martin, Charles W.",3.0,6.0,1.0,1.0,1909,Male,Animal Husbandry,4.0,0.0,4.0,2.0,1.0,0.0
+"Matter, Otto E.",1.0,3.0,2.0,1.0,1909,Male,Electrical Engineering,2.0,0.0,0.0,1.0,4.0,1.0
+"Mason, Ralph Jay",3.0,9.0,1.0,1.0,1909,Male,Animal Husbandry,7.0,1.0,4.0,3.0,1.0,0.0
+"Maxwell, Mildred May",2.0,1.0,0.0,0.0,1909,Female,General and Domestic Science,1.0,0.0,0.0,0.0,0.0,0.0
+"Merrill, Jesse W.",1.0,4.0,0.0,0.0,1909,Male,Animal Husbandry,2.0,0.0,2.0,3.0,0.0,0.0
+"Miller, Robert Ballantine",5.0,8.0,0.0,1.0,1909,Male,Civil Engineering,6.0,0.0,4.0,4.0,0.0,0.0
+"Mills, George Arthur",2.0,3.0,0.0,0.0,1909,Male,Electrical Engineering,2.0,1.0,1.0,1.0,0.0,0.0
+"Milton, Ivan Leslie",3.0,2.0,1.0,0.0,1909,Male,Electrical Engineering,0.0,0.0,0.0,2.0,0.0,0.0
+"Miner, Ward R.",1.0,4.0,1.0,1.0,1909,Male,Animal Husbandry,1.0,1.0,1.0,1.0,1.0,1.0
+"Minert, Jessie",1.0,3.0,0.0,0.0,1909,Female,General and Domestic Science,0.0,0.0,0.0,0.0,0.0,0.0
+"Mondonedo, Mariano Martinez",2.0,1.0,2.0,0.0,1909,Male,Animal Husbandry,1.0,0.0,1.0,1.0,0.0,0.0
+"Murphy, William Buckingham",1.0,2.0,0.0,0.0,1909,Male,Agronomy,1.0,0.0,1.0,2.0,0.0,0.0
+"Naiden, Fred Sauks",0.0,4.0,2.0,1.0,1909,Male,Civil Engineering,1.0,0.0,0.0,2.0,0.0,0.0
+"Nazarene, Elton G.",4.0,7.0,2.0,1.0,1909,Male,Mechanical Engineering,6.0,2.0,0.0,1.0,4.0,0.0
+"Nelson, Lawrence A.",2.0,2.0,1.0,0.0,1909,Male,Animal Husbandry,1.0,0.0,0.0,0.0,0.0,0.0
+"Nichols, Charles S.",1.0,0.0,1.0,0.0,1909,Male,Civil Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Okey, Charles William",2.0,3.0,1.0,0.0,1909,Male,Civil Engineering,0.0,0.0,0.0,1.0,0.0,0.0
+"Orcutt, Louis E.",4.0,6.0,1.0,1.0,1909,Male,Mechanical Engineering,1.0,1.0,0.0,1.0,0.0,1.0
+"Orr, Harry O.",2.0,2.0,1.0,0.0,1909,Male,Civil Engineering,2.0,1.0,2.0,2.0,0.0,1.0
+"Paine, Frank D.",0.0,8.0,0.0,0.0,1909,Male,Electrical Engineering,2.0,0.0,1.0,1.0,0.0,0.0
+"Patterson, George William",4.0,5.0,4.0,0.0,1909,Male,Agronomy,2.0,1.0,1.0,1.0,0.0,0.0
+"Patterson, Howard Fraser",1.0,2.0,0.0,1.0,1909,Male,Agronomy,1.0,0.0,0.0,0.0,0.0,0.0
+"Paulsen, Fred",2.0,5.0,4.0,0.0,1909,Male,Electrical Engineering,2.0,0.0,0.0,1.0,1.0,0.0
+"Pechstein, John Henry",3.0,5.0,1.0,2.0,1909,Male,Mechanical Engineering,1.0,2.0,0.0,2.0,1.0,0.0
+"Platt, Seymour Guy",4.0,11.0,1.0,1.0,1909,Male,Horticulture,3.0,1.0,3.0,4.0,0.0,0.0
+"Quaife, Arthur Edward",2.0,3.0,2.0,2.0,1909,Male,Agronomy,0.0,0.0,0.0,0.0,1.0,0.0
+"Reppert, Philip L.",5.0,5.0,4.0,3.0,1909,Male,Electrical Engineering,3.0,2.0,3.0,4.0,1.0,2.0
+"Rhine, Ernest Burr",3.0,5.0,0.0,0.0,1909,Male,Civil Engineering,1.0,0.0,0.0,1.0,0.0,0.0
+"Rhoades, William Julius",2.0,2.0,2.0,0.0,1909,Male,Agronomy,0.0,1.0,0.0,0.0,0.0,0.0
+"Riedesel, R. C.",4.0,4.0,6.0,3.0,1909,Male,Mechanical Engineering,3.0,3.0,4.0,4.0,5.0,3.0
+"Rightmire, John",3.0,5.0,4.0,2.0,1909,Male,Civil Engineering,3.0,2.0,2.0,3.0,2.0,1.0
+"Rowat, J. Frederick",1.0,1.0,1.0,3.0,1909,Male,Civil Engineering,1.0,1.0,1.0,0.0,1.0,1.0
+"Ruppel, Albert Cleland",4.0,6.0,1.0,0.0,1909,Male,Animal Husbandry,2.0,0.0,0.0,2.0,0.0,0.0
+"Russell, Harry Monroe",4.0,8.0,1.0,1.0,1909,Male,Animal Husbandry,4.0,1.0,1.0,1.0,1.0,0.0
+"Rutledge, Irving Coffin",1.0,3.0,1.0,1.0,1909,Male,Animal Husbandry,1.0,2.0,1.0,1.0,1.0,0.0
+"Sanders, Gilbert",0.0,3.0,2.0,0.0,1909,Male,Civil Engineering,1.0,0.0,0.0,0.0,0.0,0.0
+"Schaeffer, Lloyd Lawrence",0.0,4.0,1.0,0.0,1909,Male,Horticulture,2.0,1.0,1.0,0.0,0.0,0.0
+"Schenk, Ernest Eugene",1.0,1.0,0.0,0.0,1909,Male,Civil Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Schjedahl, Theodore",2.0,2.0,1.0,0.0,1909,Male,Civil Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Schlick, William Jophia",2.0,2.0,2.0,1.0,1909,Male,Civil Engineering,1.0,0.0,0.0,1.0,0.0,1.0
+"Schmidt, Will",1.0,2.0,2.0,2.0,1909,Male,Civil Engineering,1.0,1.0,1.0,2.0,0.0,1.0
+"Schreiber, Fred",4.0,5.0,3.0,1.0,1909,Male,Civil Engineering,2.0,2.0,0.0,1.0,2.0,1.0
+"Schulte, Louise",2.0,1.0,1.0,1.0,1909,Female,General and Domestic Science,1.0,0.0,1.0,2.0,1.0,0.0
+"Schworm, Fred G.",3.0,5.0,4.0,0.0,1909,Male,Civil Engineering,2.0,0.0,2.0,5.0,1.0,0.0
+"Sexauer, Theodore",4.0,4.0,2.0,1.0,1909,Male,Agronomy,2.0,0.0,0.0,5.0,1.0,0.0
+"Sexsmith, Perle A.",0.0,1.0,2.0,2.0,1909,Male,Electrical Engineering,0.0,1.0,0.0,2.0,1.0,1.0
+"Shannon, J. Lionel",4.0,4.0,1.0,1.0,1909,Male,Veterinary,3.0,0.0,2.0,1.0,1.0,0.0
+"Shannon, Cecil Wesley",2.0,4.0,1.0,1.0,1909,Male,Mining Engineering,2.0,1.0,1.0,1.0,0.0,0.0
+"Shoales, Johnston William",3.0,4.0,2.0,0.0,1909,Male,Agronomy,2.0,0.0,2.0,0.0,1.0,1.0
+"Leslie, E. Smith",2.0,4.0,0.0,1.0,1909,Male,Veterinary,2.0,0.0,1.0,2.0,0.0,0.0
+"Wilbur, Smith",2.0,1.0,4.0,2.0,1909,Male,Veterinary,1.0,0.0,1.0,4.0,2.0,0.0
+"Roy, Eugene Smith",1.0,4.0,2.0,1.0,1909,Male,Agronomy,1.0,1.0,1.0,1.0,1.0,0.0
+"Harold, Chester Smith",1.0,4.0,3.0,2.0,1909,Male,Electrical Engineering,1.0,0.0,1.0,2.0,2.0,0.0
+"Smith, Roy R.",2.0,6.0,4.0,4.0,1909,Male,Civil Engineering,3.0,3.0,4.0,1.0,2.0,1.0
+"Snyder, Carl J.",3.0,4.0,2.0,0.0,1909,Male,Electrical Engineering,2.0,0.0,1.0,5.0,0.0,1.0
+"Sonner, Gussie",2.0,3.0,2.0,0.0,1909,Female,Science,2.0,1.0,0.0,2.0,3.0,1.0
+"Stafford, Harris Adelbert",3.0,6.0,3.0,3.0,1909,Male,Animal Husbandry,3.0,3.0,2.0,2.0,3.0,3.0
+"Stewart, Everett L.",3.0,3.0,0.0,2.0,1909,Male,Agronomy,1.0,1.0,0.0,0.0,1.0,0.0
+"Stong, Grover C.",4.0,5.0,3.0,1.0,1909,Male,Veterinary,3.0,3.0,0.0,3.0,0.0,0.0
+"Street, Alfred B.",3.0,5.0,0.0,0.0,1909,Male,Electrical Engineering,3.0,0.0,1.0,2.0,0.0,0.0
+"Strother, Ralph Rollen",1.0,4.0,2.0,1.0,1909,Male,Civil Engineering,2.0,0.0,3.0,2.0,1.0,0.0
+"Summers, John F.",0.0,2.0,1.0,1.0,1909,Male,Animal Husbandry,1.0,1.0,0.0,2.0,1.0,1.0
+"Troutner, Edith",1.0,7.0,1.0,0.0,1909,Female,Science,3.0,0.0,2.0,2.0,1.0,0.0
+"Tusant, W. Edgar",3.0,5.0,3.0,0.0,1909,Male,Civil Engineering,2.0,0.0,2.0,2.0,1.0,0.0
+"Underwood, Jean R.",5.0,5.0,2.0,2.0,1909,Female,Veterinary,3.0,3.0,2.0,4.0,2.0,1.0
+"Upton, Louisa",2.0,7.0,1.0,1.0,1909,Female,Science,3.0,0.0,2.0,1.0,1.0,0.0
+"Van De Waa, Henry John",2.0,5.0,4.0,4.0,1909,Male,Veterinary,1.0,0.0,1.0,4.0,0.0,0.0
+"Van Duzer, Pearl",1.0,1.0,0.0,0.0,1909,Female,General and Domestic Science,1.0,0.0,0.0,0.0,0.0,0.0
+"Van De Steeg, Gerritt J.",0.0,1.0,1.0,0.0,1909,Male,Electrical Engineering,0.0,1.0,0.0,1.0,0.0,0.0
+"Velander, Verner R.",4.0,5.0,0.0,0.0,1909,Male,Mechanical Engineering,1.0,0.0,0.0,1.0,0.0,0.0
+"Vincent, Frank C.",1.0,4.0,3.0,1.0,1909,Male,Mechanical Engineering,0.0,2.0,1.0,0.0,1.0,1.0
+"Wagner, Herbert W.",2.0,3.0,1.0,1.0,1909,Male,Electrical Engineering,1.0,1.0,1.0,1.0,0.0,0.0
+"Wambeam, Harry I.",1.0,2.0,3.0,1.0,1909,Male,Electrical Engineering,1.0,1.0,1.0,3.0,2.0,1.0
+"Ware, Stephen H.",2.0,3.0,1.0,1.0,1909,Male,Civil Engineering,1.0,0.0,1.0,1.0,1.0,1.0
+"Warsaw, Charles E.",1.0,2.0,1.0,1.0,1909,Male,Electrical Engineering,1.0,1.0,1.0,1.0,1.0,1.0
+"Watts, Ruth Rachel",2.0,3.0,1.0,1.0,1909,Female,General and Domestic Science,3.0,1.0,1.0,1.0,0.0,0.0
+"Waugh, Erick Nicoli",1.0,3.0,2.0,0.0,1909,Male,Animal Husbandry,0.0,1.0,0.0,1.0,1.0,0.0
+"Wells, Walter T.",3.0,4.0,0.0,0.0,1909,Male,Electrical Engineering,2.0,0.0,0.0,2.0,0.0,0.0
+"Weirick, Ray Floyd",1.0,2.0,0.0,0.0,1909,Male,Civil Engineering,1.0,0.0,1.0,0.0,0.0,0.0
+"Whalen, William T.",5.0,7.0,1.0,0.0,1909,Male,Electrical Engineering,3.0,2.0,3.0,4.0,0.0,0.0
+"White, Raymond E.",0.0,4.0,1.0,1.0,1909,Male,Mechanical Engineering,0.0,0.0,0.0,0.0,1.0,0.0
+"White, Paul Homer",2.0,5.0,1.0,2.0,1909,Male,Mechanical Engineering,0.0,0.0,0.0,1.0,0.0,0.0
+"Williams, Chester M.",2.0,4.0,1.0,0.0,1909,Male,Mechanical Engineering,2.0,0.0,1.0,5.0,0.0,0.0
+"Williams, Lawrence A.",0.0,2.0,4.0,2.0,1909,Male,Electrical Engineering,0.0,1.0,0.0,3.0,2.0,2.0
+"Willets, Thomas K.",1.0,2.0,2.0,1.0,1909,Male,Mining Engineering,1.0,1.0,1.0,3.0,1.0,0.0
+"Winslow, L. Melvin",2.0,4.0,2.0,0.0,1909,Male,Animal Husbandry,0.0,0.0,0.0,2.0,1.0,0.0
+"Witmer, Stewart",2.0,5.0,3.0,0.0,1909,Male,Civil Engineering,0.0,2.0,0.0,1.0,2.0,1.0
+"Young, Clifton Richard",0.0,2.0,1.0,0.0,1909,Male,Animal Husbandry,0.0,0.0,0.0,1.0,0.0,0.0
+"Zornig, Heman H.",2.0,4.0,1.0,0.0,1909,Male,Electrical Engineering,2.0,0.0,1.0,3.0,1.0,0.0
+"Bacchus, James Edward",3.0,4.0,0.0,0.0,1906,Male,Animal Husbandry,2.0,0.0,1.0,2.0,0.0,0.0
+"Earle, P. Brintnall",2.0,3.0,0.0,0.0,1906,Male,Dairy,1.0,0.0,0.0,2.0,0.0,0.0
+"Buckman, Harry O.",0.0,0.0,3.0,1.0,1906,Male,Agronomy,0.0,1.0,0.0,1.0,0.0,2.0
+"Foster, Campbell",3.0,6.0,0.0,1.0,1906,Male,Animal Husbandry,2.0,1.0,0.0,0.0,2.0,1.0
+"Roy Albert, Cave",4.0,4.0,1.0,1.0,1906,Male,Animal Husbandry,2.0,0.0,2.0,2.0,1.0,0.0
+"Chalupnik, John Charles",4.0,4.0,1.0,0.0,1906,Male,Animal Husbandry,1.0,0.0,2.0,1.0,1.0,0.0
+"Crossley, Bruce William",4.0,4.0,0.0,0.0,1906,Male,Animal Husbandry,2.0,0.0,1.0,3.0,1.0,1.0
+"Crouse, Ralph Waldo",3.0,5.0,1.0,0.0,1906,Male,Animal Husbandry,2.0,0.0,1.0,1.0,0.0,0.0
+"Cutler, Francis Gage",3.0,3.0,3.0,0.0,1906,Male,Animal Husbandry,2.0,0.0,0.0,2.0,0.0,0.0
+"Eastman, William Raymond",2.0,2.0,2.0,1.0,1906,Male,Horticulture,1.0,0.0,1.0,1.0,1.0,1.0
+"Farnum, Roswell Abner",3.0,4.0,3.0,1.0,1906,Male,Animal Husbandry,2.0,2.0,0.0,2.0,2.0,2.0
+"Fish, Don Ellsworth",1.0,3.0,2.0,0.0,1906,Male,Agronomy,1.0,0.0,0.0,1.0,0.0,0.0
+"Samuel, A. Fry",2.0,3.0,1.0,1.0,1906,Male,Animal Husbandry,1.0,1.0,0.0,1.0,1.0,0.0
+"Heisey, Charles Jesse",0.0,1.0,0.0,0.0,1906,Male,Animal Husbandry,0.0,0.0,0.0,0.0,0.0,0.0
+"Humbert, Eugene Peter",2.0,6.0,0.0,1.0,1906,Male,Agronomy,5.0,1.0,4.0,3.0,0.0,0.0
+"Hutchins, Irving W.",0.0,2.0,0.0,0.0,1906,Male,Animal Husbandry,0.0,0.0,0.0,1.0,0.0,0.0
+"Ingels, James Frederick",1.0,2.0,1.0,1.0,1906,Male,Animal Husbandry,1.0,1.0,0.0,2.0,0.0,1.0
+"Jeffs, Royal Edgar",2.0,4.0,3.0,0.0,1906,Male,Horticulture,2.0,1.0,1.0,1.0,1.0,0.0
+"Carl, Jenkins",2.0,1.0,1.0,0.0,1906,Male,Animal Husbandry,1.0,0.0,0.0,0.0,0.0,0.0
+"Lewis, Eldon Kelsey",1.0,1.0,1.0,0.0,1906,Male,Agronomy,0.0,0.0,0.0,0.0,0.0,0.0
+"Kohler, Alfred R.",1.0,2.0,3.0,1.0,1906,Male,Horticulture,2.0,1.0,2.0,0.0,2.0,1.0
+"Clark, Wilson Lawrence",2.0,3.0,0.0,0.0,1906,Male,Animal Husbandry,2.0,0.0,0.0,1.0,1.0,1.0
+"Lundeen, Leonard Henry",2.0,3.0,4.0,3.0,1906,Male,Animal Husbandry,2.0,2.0,2.0,3.0,3.0,1.0
+"Madson, Ben Adolph",4.0,8.0,0.0,0.0,1906,Male,Animal Husbandry,5.0,0.0,2.0,2.0,1.0,0.0
+"Frank, Meiser",0.0,1.0,0.0,0.0,1906,Male,Dairy,0.0,0.0,0.0,0.0,0.0,0.0
+"Norman, Alvah J.",3.0,6.0,7.0,4.0,1906,Male,Horticulture,1.0,2.0,1.0,3.0,3.0,0.0
+"Pechstein, Paul Theodore",2.0,3.0,0.0,0.0,1906,Male,Animal Husbandry,1.0,0.0,0.0,0.0,0.0,0.0
+"Powell, Archie Lee",1.0,2.0,1.0,0.0,1906,Male,Animal Husbandry,1.0,1.0,0.0,0.0,0.0,0.0
+"Rieke, Fred C.",2.0,4.0,1.0,0.0,1906,Male,Animal Husbandry,1.0,0.0,0.0,2.0,0.0,1.0
+"Roberts, George Arthur",1.0,2.0,0.0,1.0,1906,Male,Animal Husbandry,2.0,1.0,0.0,1.0,1.0,1.0
+"Schiele, Arthur Fred",2.0,2.0,2.0,2.0,1906,Male,Agronomy,1.0,2.0,1.0,1.0,0.0,0.0
+"Smith, William Howard",4.0,9.0,2.0,1.0,1906,Male,Agronomy,3.0,1.0,1.0,3.0,0.0,0.0
+"Leroy, Stuart",1.0,4.0,3.0,1.0,1906,Male,Horticulture,3.0,1.0,0.0,3.0,1.0,0.0
+"Thompson, Theodore",2.0,4.0,2.0,1.0,1906,Male,Animal Husbandry,2.0,1.0,0.0,1.0,2.0,0.0
+"Troeger, Leslie E.",0.0,2.0,1.0,0.0,1906,Male,Animal Husbandry,1.0,0.0,1.0,0.0,1.0,0.0
+"Trostel, George William",2.0,2.0,5.0,2.0,1906,Male,Animal Husbandry,0.0,1.0,0.0,0.0,2.0,0.0
+"Anderson, John L.",2.0,4.0,0.0,1.0,1906,Male,Electrical Engineering,1.0,0.0,1.0,2.0,1.0,0.0
+"Austin, Harry Chester",4.0,4.0,0.0,0.0,1906,Male,Mining Engineering,2.0,0.0,2.0,2.0,0.0,0.0
+"Babbitt, Henry Keepers",3.0,5.0,0.0,0.0,1906,Male,Civil Engineering,0.0,0.0,0.0,0.0,1.0,0.0
+"Baker, Ralph Lee",1.0,3.0,2.0,2.0,1906,Male,Mechanical Engineering,1.0,2.0,0.0,0.0,2.0,2.0
+"Bechtleheimer, Albert Elvin",0.0,0.0,0.0,0.0,1906,Male,Civil Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Beisell, William Dee",3.0,4.0,0.0,0.0,1906,Male,Civil Engineering,1.0,1.0,0.0,2.0,0.0,0.0
+"Boyd, George Ray",5.0,5.0,1.0,3.0,1906,Male,Civil Engineering,2.0,2.0,1.0,1.0,0.0,0.0
+"Bridges, Earl Franklin",0.0,0.0,2.0,1.0,1906,Male,Civil Engineering,0.0,0.0,0.0,1.0,0.0,2.0
+"Brown, Frank Ferdinand Emil",2.0,4.0,0.0,0.0,1906,Male,Civil Engineering,3.0,0.0,1.0,3.0,1.0,0.0
+"Campbell, Guy Randolph",3.0,5.0,3.0,1.0,1906,Male,Civil Engineering,1.0,1.0,0.0,1.0,2.0,1.0
+"Chiles, George Scott",0.0,2.0,0.0,0.0,1906,Male,Mechanical Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Clements, Carl William",3.0,5.0,0.0,0.0,1906,Male,Mechanical Engineer,2.0,0.0,0.0,3.0,0.0,0.0
+"Coates, E.",1.0,3.0,5.0,4.0,1906,Male,Electrical Engineering,1.0,2.0,1.0,5.0,3.0,0.0
+"Cogswell, Don Harry",2.0,2.0,1.0,0.0,1906,Male,Electrical Engineering,2.0,0.0,1.0,0.0,1.0,0.0
+Walter Belt Cole,0.0,3.0,3.0,4.0,1906,Male,Mining Engineering,2.0,0.0,0.0,0.0,4.0,0.0
+"Cotton, Harry Edmond",4.0,5.0,1.0,0.0,1906,Male,Civil Engineering,2.0,1.0,0.0,2.0,1.0,0.0
+"William, Drennan Elwood",4.0,4.0,0.0,0.0,1906,Male,Electrical Engineering,0.0,0.0,0.0,1.0,0.0,0.0
+"Morris, Irwin Evinger",4.0,7.0,1.0,2.0,1906,Male,Civil Engineering,5.0,1.0,3.0,1.0,2.0,1.0
+"Ford, Clarence Henry",4.0,3.0,0.0,0.0,1906,Male,Civil Engineering,3.0,0.0,3.0,2.0,0.0,0.0
+"Foster, Walter Louis",2.0,4.0,4.0,3.0,1906,Male,Civil Engineering,3.0,3.0,2.0,4.0,1.0,3.0
+"Fulton, Wilbur Leigh",3.0,4.0,1.0,0.0,1906,Male,Civil Engineering,2.0,1.0,2.0,2.0,0.0,1.0
+"Furrow, Harry Leslie",2.0,5.0,2.0,0.0,1906,Male,Civil Engineering,3.0,0.0,1.0,4.0,1.0,1.0
+"Furrow, Ray Archie",1.0,2.0,1.0,0.0,1906,Male,Civil Engineering,2.0,0.0,0.0,0.0,0.0,1.0
+"Gould, Harley Joseph",1.0,2.0,1.0,0.0,1906,Male,Civil Engineering,1.0,0.0,1.0,4.0,0.0,1.0
+"Goulden, Robert Sheridan",0.0,2.0,0.0,0.0,1906,Male,Mechanical Engineering,1.0,0.0,1.0,0.0,0.0,0.0
+"Gray, Harry Woy",3.0,4.0,4.0,1.0,1906,Male,Civil Engineering,2.0,1.0,0.0,0.0,3.0,1.0
+"Guibert, Oscar Eugene",2.0,3.0,1.0,0.0,1906,Male,Civil Engineering,2.0,1.0,0.0,0.0,0.0,0.0
+"Hansen, Harry B.",2.0,3.0,3.0,1.0,1906,Male,Mechanical Engineering,3.0,1.0,0.0,3.0,0.0,0.0
+"Henry, M. Hanssen",7.0,8.0,2.0,0.0,1906,Male,Civil Engineering,5.0,1.0,5.0,4.0,2.0,0.0
+"Harris, Ernest Nye",4.0,5.0,0.0,0.0,1906,Male,Mechanical Engineer,4.0,0.0,1.0,1.0,1.0,0.0
+"Heberling, Clyde Andrew",3.0,2.0,2.0,0.0,1906,Male,Civil Engineering,2.0,2.0,2.0,2.0,0.0,0.0
+"Hidinger, Leroy Lemayne",2.0,5.0,1.0,2.0,1906,Male,Civil Engineering,3.0,0.0,1.0,1.0,1.0,0.0
+"Lynn, S. Ickis",2.0,5.0,0.0,0.0,1906,Male,Electrical Engineering,1.0,0.0,0.0,0.0,0.0,0.0
+"Johnston, John William",4.0,4.0,3.0,2.0,1906,Male,Civil Engineering,4.0,4.0,4.0,6.0,2.0,3.0
+Frank Arthur Johnson,3.0,4.0,1.0,0.0,1906,Male,Electrical Engineering,1.0,0.0,1.0,1.0,1.0,0.0
+"Jory, Edwin Nicholas",3.0,4.0,1.0,0.0,1906,Male,Electrical Engineering,1.0,0.0,0.0,0.0,1.0,0.0
+"Guy, R. Kenny",1.0,5.0,0.0,0.0,1906,Male,Electrical Engineering,3.0,0.0,1.0,2.0,0.0,0.0
+"Kimball, George W.",1.0,1.0,1.0,0.0,1906,Male,Mechanical Engineering,0.0,1.0,0.0,1.0,1.0,1.0
+"King, Matthew Leander",3.0,4.0,1.0,0.0,1906,Male,Mechanical Engineering,1.0,0.0,0.0,2.0,0.0,0.0
+"Knox, Walter Henry",4.0,2.0,3.0,3.0,1906,Male,Mechanical Engineering,0.0,0.0,0.0,0.0,1.0,0.0
+"Le Fever, Orlando Leslie",1.0,1.0,0.0,0.0,1906,Male,Electrical Engineering,1.0,0.0,1.0,1.0,0.0,0.0
+"Lathrop, Herbert Austin",3.0,4.0,0.0,0.0,1906,Male,Civil Engineering,3.0,0.0,2.0,2.0,0.0,0.0
+"Lungren, Oscar Edwin",2.0,9.0,4.0,2.0,1906,Male,Mechanical Engineering,5.0,0.0,3.0,5.0,1.0,0.0
+"Lyman, Ray A.",4.0,4.0,1.0,0.0,1906,Male,Civil Engineering,1.0,0.0,0.0,1.0,0.0,0.0
+"Mabie, Ira Peter",2.0,5.0,0.0,0.0,1906,Male,Mechanical Engineering,2.0,0.0,1.0,3.0,0.0,0.0
+"Marsden, William Archie",1.0,3.0,1.0,1.0,1906,Male,Electrical Engineering,3.0,0.0,1.0,3.0,2.0,0.0
+"Dickson, Wayne Maxwell",4.0,10.0,2.0,2.0,1906,Male,Civil Engineering,3.0,0.0,2.0,4.0,2.0,1.0
+"McConnell, Earl Knox",2.0,3.0,3.0,1.0,1906,Male,Civil Engineering,1.0,2.0,1.0,1.0,1.0,1.0
+"McCormick, Charles Mechlin",6.0,6.0,1.0,0.0,1906,Male,Electrical Engineering,5.0,0.0,4.0,6.0,0.0,0.0
+"McCune, Herbert Austin",1.0,4.0,2.0,2.0,1906,Male,Electrical Engineering,4.0,2.0,1.0,2.0,1.0,1.0
+"McEwen, George Francis",2.0,3.0,1.0,1.0,1906,Male,Civil Engineering,1.0,2.0,2.0,1.0,1.0,1.0
+"McGregor, Andrew H.",0.0,0.0,0.0,0.0,1906,Male,Mechanical Engineering,0.0,0.0,0.0,1.0,0.0,0.0
+"McPherson, Robert W.",2.0,4.0,2.0,0.0,1906,Male,Civil Engineering,2.0,0.0,1.0,1.0,1.0,1.0
+"Miller, Harry Maynard",0.0,0.0,1.0,1.0,1906,Male,Mechanical Engineering,0.0,1.0,0.0,1.0,1.0,0.0
+"Miller, Paul Bertolet",4.0,6.0,2.0,1.0,1906,Male,Civil Engineering,3.0,1.0,1.0,2.0,4.0,1.0
+"McHenry, Mosier",5.0,5.0,3.0,0.0,1906,Male,Mining Engineering,4.0,1.0,1.0,3.0,1.0,1.0
+"Fredrick, Bixby Money",4.0,6.0,1.0,1.0,1906,Male,Civil Engineering,4.0,3.0,3.0,5.0,1.0,1.0
+"Moore, Harry Irvin",0.0,0.0,1.0,1.0,1906,Male,Civil Engineering,0.0,0.0,0.0,1.0,0.0,0.0
+"Nelson, Maximilian",4.0,6.0,2.0,0.0,1906,Male,Electrical Engineering,3.0,0.0,2.0,3.0,3.0,0.0
+"Nye, Henry Vinton",0.0,2.0,1.0,0.0,1906,Male,Mechanical Engineering,0.0,0.0,0.0,0.0,0.0,0.0
+"Ogden, Karl Randall",1.0,1.0,1.0,1.0,1906,Male,Electrical Engineering,1.0,0.0,2.0,2.0,1.0,1.0
+"Palmer, Ray R.",2.0,3.0,0.0,1.0,1906,Male,Civil Engineering,3.0,1.0,1.0,2.0,0.0,0.0
+"Patch, James William",2.0,4.0,2.0,0.0,1906,Male,Electrical Engineering,2.0,0.0,1.0,1.0,0.0,0.0
+"Peterson, Carl August",1.0,2.0,0.0,0.0,1906,Male,Electrical Engineering,1.0,1.0,2.0,0.0,0.0,0.0
+"Albert, Max",3.0,3.0,2.0,0.0,1906,Male,Mining Engineering,2.0,2.0,0.0,1.0,0.0,0.0
+"Plitt, John Henry",1.0,4.0,1.0,1.0,1906,Male,Civil Engineering,0.0,1.0,0.0,1.0,1.0,0.0
+"Reuling, Walter Edward",1.0,2.0,0.0,0.0,1906,Male,Mechanical Engineering,0.0,0.0,1.0,1.0,0.0,0.0
+"Rowat, Frank Thomas",1.0,4.0,0.0,0.0,1906,Male,Electrical Engineering,2.0,0.0,1.0,1.0,1.0,0.0
+"Rubel, Walter Guy",0.0,2.0,0.0,0.0,1906,Male,Electrical Engineering,2.0,0.0,0.0,1.0,0.0,0.0
+"Agnew, Edward Sayre",2.0,3.0,0.0,0.0,1906,Male,Mining Engineering,1.0,0.0,0.0,0.0,0.0,0.0
+"Secor, Ernest Louis",4.0,4.0,0.0,0.0,1906,Male,Electrical Engineering,1.0,0.0,1.0,2.0,0.0,0.0
+"Sloane, Fred M.",2.0,4.0,0.0,0.0,1906,Male,Civil Engineering,2.0,0.0,0.0,1.0,1.0,0.0
+"Stewart, George Harold",0.0,1.0,0.0,0.0,1906,Male,Civil Engineering,0.0,0.0,0.0,2.0,0.0,0.0
+"Throckmorton, Charley Gross",3.0,7.0,1.0,1.0,1906,Male,Electrical Engineering,3.0,0.0,3.0,1.0,1.0,0.0
+"Tinsley, George Warren",2.0,4.0,0.0,0.0,1906,Male,Mechanical Engineering,3.0,0.0,1.0,1.0,0.0,0.0
+"Tracy, Paul Britten",2.0,3.0,1.0,1.0,1906,Male,Mining Engineering,3.0,0.0,1.0,2.0,0.0,0.0
+"Carroll, Ingraham Warren",3.0,4.0,0.0,0.0,1906,Male,Civil Engineering,2.0,0.0,1.0,2.0,1.0,0.0
+"Way, Leo Carl",1.0,5.0,0.0,0.0,1906,Male,Mechanical Engineering,2.0,0.0,0.0,1.0,0.0,0.0
+"Weise, Alfred Miles",4.0,7.0,1.0,1.0,1906,Male,Electrical Engineering,4.0,0.0,1.0,2.0,0.0,0.0
+"Wichmann, John",3.0,5.0,1.0,0.0,1906,Male,Electrical Engineering,0.0,0.0,0.0,0.0,1.0,1.0
+"Wilkinson, Laurence John",5.0,7.0,1.0,0.0,1906,Male,Mechanical Engineering,2.0,1.0,0.0,4.0,0.0,0.0
+"Williams, Thomas Rice",0.0,2.0,2.0,0.0,1906,Male,Electrical Engineering,1.0,0.0,2.0,0.0,2.0,0.0
+"Wilson, Lawrence Wayne",1.0,1.0,1.0,1.0,1906,Male,Mechanical Engineering,2.0,0.0,0.0,1.0,1.0,0.0
+"Wright, Lucian George",4.0,7.0,5.0,3.0,1906,Male,Civil Engineering,3.0,1.0,2.0,3.0,1.0,3.0
+"Wyman, Arthur Hatch",2.0,4.0,0.0,1.0,1906,Male,Mechanical Engineering,3.0,0.0,1.0,2.0,1.0,0.0
+"Doty, Harlem Linn",1.0,4.0,1.0,2.0,1906,Male,,3.0,0.0,2.0,3.0,0.0,0.0
+"Fedson, Jennie Christene",0.0,5.0,1.0,1.0,1906,Female,General and Domestic Science,1.0,1.0,1.0,2.0,1.0,0.0
+"Flynn, Melissa Genevieve",1.0,3.0,2.0,0.0,1906,Female,Science,2.0,0.0,2.0,1.0,2.0,0.0
+"Fraseur, Edith Alberta",1.0,10.0,0.0,0.0,1906,Female,General and Domestic Science,5.0,0.0,1.0,3.0,1.0,1.0
+"George, Mary Edith",2.0,3.0,0.0,0.0,1906,Female,General and Domestic Science,2.0,0.0,1.0,2.0,1.0,0.0
+"Floy, Ethel Greer",0.0,1.0,0.0,0.0,1906,Female,General and Domestic Science,1.0,0.0,2.0,2.0,1.0,0.0
+"Guthrie, George Boardman",1.0,5.0,0.0,0.0,1906,Male,Science,3.0,0.0,1.0,1.0,0.0,0.0
+"Jackson, Mae Lydia",4.0,5.0,1.0,1.0,1906,Female,Science,3.0,0.0,1.0,3.0,0.0,0.0
+"Johnson, Olla Victoria",1.0,4.0,1.0,0.0,1906,Female,General and Domestic Science,2.0,0.0,1.0,1.0,1.0,0.0
+"Melhus, Irving Ener",2.0,3.0,2.0,0.0,1906,Male,Science,1.0,0.0,0.0,2.0,0.0,0.0
+"Shaw, Genevieve Welch",0.0,0.0,2.0,0.0,1906,Female,General and Domestic Science,0.0,0.0,0.0,0.0,0.0,0.0
+"Shaw, Winifred Anna",3.0,4.0,1.0,1.0,1906,Female,General and Domestic Science,2.0,0.0,1.0,1.0,0.0,0.0
+"Walker, Ruth",4.0,7.0,2.0,1.0,1906,Female,Domestic Science,4.0,1.0,3.0,3.0,2.0,0.0
+"Williams, Loretta Florence",0.0,2.0,0.0,0.0,1906,Female,General and Domestic Science,1.0,0.0,0.0,1.0,1.0,0.0
+"Wilson, Mary Mitchell",4.0,6.0,2.0,1.0,1906,Female,Science,3.0,1.0,1.0,2.0,2.0,1.0
+"Cole, Clarence G.",3.0,5.0,3.0,2.0,1906,Male,Veterinary,2.0,2.0,1.0,2.0,2.0,2.0
+"Collison, Frederick Paul",3.0,3.0,1.0,1.0,1906,Male,Veterinary,2.0,1.0,3.0,2.0,1.0,1.0
+"Johnson, James Peter",1.0,0.0,1.0,1.0,1906,Male,Veterinary,0.0,1.0,1.0,1.0,1.0,1.0
+"Ray, Jolls",2.0,2.0,0.0,0.0,1906,Male,Veterinary,2.0,0.0,2.0,2.0,0.0,0.0
+"Washburn, Leo",1.0,4.0,3.0,2.0,1906,Male,Veterinary,2.0,1.0,0.0,2.0,4.0,1.0
