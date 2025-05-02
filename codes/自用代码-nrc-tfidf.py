@@ -1,7 +1,6 @@
 import pandas as pd
 import json
 import nltk
-from nltk.tokenize import word_tokenize
 from sklearn.feature_extraction.text import TfidfVectorizer
 from collections import defaultdict
 import matplotlib.pyplot as plt

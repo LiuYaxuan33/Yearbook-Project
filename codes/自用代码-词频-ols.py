@@ -4,7 +4,6 @@ import pandas as pd
 from sklearn.feature_extraction.text import CountVectorizer
 import statsmodels.api as sm
 import matplotlib.pyplot as plt
-import matplotlib.pyplot as plt
 
 nlp = spacy.load("en_core_web_sm")
 

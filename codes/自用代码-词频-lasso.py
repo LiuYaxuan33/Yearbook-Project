@@ -14,7 +14,7 @@ def custom_tokenizer(text):
     return [token.text for token in doc if token.pos_ in ('ADJ', 'ADV')]  # 形容词 (ADJ) 和副词 (ADV)
 
 # 1. 从 JSON 文件中加载数据
-with open('/Users/liuyaxuan/Desktop/25Spring/25Spring/RA_YilingZhao/1906_1909_1911-1916_clean.json', 'r', encoding='utf-8') as f:
+with open('all_data_use.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
 df = pd.DataFrame(data)
 
@@ -48,7 +48,7 @@ result_df = pd.DataFrame({
 }).sort_values('coefficient', ascending=False)  # 按系数从大到小排序
 
 # 输出表格到CSV文件
-result_df.to_csv("/Users/liuyaxuan/Desktop/25Spring/25Spring/RA_YilingZhao/lasso_selected_features.csv", index=False)
+result_df.to_csv("lasso_selected_features.csv", index=False)
 
 # 控制台打印结果
 print("\n非零系数特征列表：")
@@ -73,7 +73,7 @@ df_sorted = result_df.sort_values('coefficient')
 n_items = len(df_sorted)
 fig_height = max(8, n_items * 0.3)
 
-save_dir = '/Users/liuyaxuan/Desktop/25Spring/25Spring/RA_YilingZhao'
+save_dir = '.'
 os.makedirs(save_dir, exist_ok=True)
 save_path = os.path.join(save_dir, f'lasso_coeffs_alpha_{best_alpha:.4f}.png')
 
