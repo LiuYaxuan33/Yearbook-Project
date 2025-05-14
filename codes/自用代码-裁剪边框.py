@@ -1,7 +1,6 @@
 import cv2
 import os
 import glob
-
 input_dir = '/Users/liuyaxuan/Desktop/25Spring/25Spring/RA_YilingZhao/refined_yearbook/pics/1916'  # 输入图片目录
 output_dir = '/Users/liuyaxuan/Desktop/25Spring/25Spring/RA_YilingZhao/refined_yearbook/pics/1916-cropped'  # 输出目录
 
