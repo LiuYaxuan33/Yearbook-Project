@@ -10,12 +10,12 @@ import matplotlib.pyplot as plt
 nlp = spacy.load("en_core_web_sm")
 BLACKLIST = {}  # 自定义黑名单词
 USE_1GRAM = False
-MIN_DF = 6  # 最小文档频率阈值
+MIN_DF = 5  # 最小文档频率阈值
 print(1)
 # 1. 预处理函数：直接生成有效2-gram
 
 
-def generate_features(texts):
+def old_generate_features(texts):
     for doc in nlp.pipe(texts, batch_size=50):
         tokens = []
         pos_tags = []
@@ -43,6 +43,42 @@ def generate_features(texts):
                 valid_terms.append(f"{tokens[i]}_{tokens[i+1]}")  # 2-gram格式
         
         yield ' '.join(valid_terms)
+
+def generate_features(texts):
+    for doc in nlp.pipe(texts, batch_size=50):
+        # 先构造一个布尔数组，标记每个 token 是否“有效”
+        valid_mask = [
+            (not token.is_stop
+             and not token.is_punct
+             and token.text.lower() not in BLACKLIST)
+            for token in doc
+        ]
+        
+        # 构造 tokens_lower 与 pos_tags 两个列表，仅用于 1-gram
+        tokens_lower = [token.text.lower() for token, valid in zip(doc, valid_mask) if valid]
+        pos_tags =       [token.pos_       for token, valid in zip(doc, valid_mask) if valid]
+        
+        # 第一步：生成1-gram（仅 ADJ/ADV）
+        valid_terms = []
+        if USE_1GRAM:
+            for tok, pos in zip(tokens_lower, pos_tags):
+                if pos in {'ADJ', 'ADV'}:
+                    valid_terms.append(tok)
+        
+        # 第二步：生成2-gram
+        # 基于原始 doc 中的相邻 token 对
+        for i in range(len(doc) - 1):
+            t1, t2 = doc[i], doc[i+1]
+            # 两个词必须都是“有效”的
+            if not (valid_mask[i] and valid_mask[i+1]):
+                continue
+            # 至少一个是 ADJ/ADV/NOUN
+            if t1.pos_ in {'ADJ', 'ADV', 'NOUN'} or t2.pos_ in {'ADJ', 'ADV', 'NOUN'}:
+                bigram = f"{t1.text.lower()}_{t2.text.lower()}"
+                valid_terms.append(bigram)
+        
+        yield ' '.join(valid_terms)
+
 
 print(2)
 # 2. 加载数据

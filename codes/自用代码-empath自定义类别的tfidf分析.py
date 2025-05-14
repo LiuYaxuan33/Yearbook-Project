@@ -10,7 +10,7 @@ import os
 # —— 可切换：是否使用所有 Empath 类别 ——
 USE_ALL_CATEGORIES = True  # True: 全量类别, False: 自定义子集
 CUSTOM_CATEGORIES = [
-    "ability","grindstone","research","standout","teaching","Citizenship","Recuitment Prospects"
+    "ability","grindstone","schoolwork","standout","Citizenship","positive-emotions"
 ]
 NONE_CATEGORIES = [
     "ability","grindstone","research","standout","teaching","Citizenship","Recuitment Prospects"
@@ -18,7 +18,7 @@ NONE_CATEGORIES = [
 
 
 # 文件路径
-DATA_PATH = '/Users/liuyaxuan/Desktop/25Spring/25Spring/RA_YilingZhao/all_data_use.json'
+DATA_PATH = 'all_data_use.json'
 SAVE_PATH = 'empath_tfidf_emotion_scores.csv'
 
 # 1️⃣ 读取数据
