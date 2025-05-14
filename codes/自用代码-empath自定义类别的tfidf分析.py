@@ -8,18 +8,27 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 import os
 
 # —— 可切换：是否使用所有 Empath 类别 ——
-USE_ALL_CATEGORIES = True  # True: 全量类别, False: 自定义子集
+USE_ALL_CATEGORIES = False  # True: 全量类别, False: 自定义子集
 CUSTOM_CATEGORIES = [
-    "ability","grindstone","schoolwork","standout","Citizenship","positive-emotions"
+    "ability","grindstone","school","standout","citizenship","positive_emotion","college","shape_and_size","friends","trust","appearance","work"
 ]
-NONE_CATEGORIES = [
-    "ability","grindstone","research","standout","teaching","Citizenship","Recuitment Prospects"
+EJ_REFERENCE_CATEGORIES = [
+    "ability","grindstone","research","standout","teaching&Citizenship","Recuitment Prospects"
 ]
+NEW_WORDS = {
+    "ability": ["briliant", "intelligent", "talented", "gifted", "creative"],
+    "grindstone": ["hardworking", "diligent", "conscientious", "persevering", "persistent", "determined"],
+    "standout": ["excellent", "outstanding", "superb", "exceptional", "top", "rising_star", "among_the_best", "truly_exceptional"],
+    "citizenship": ["citizenship", "community", "society"],
+    "appearance": ["appearance", "looks", "physical_appearance", "beauty", "handsome", "pretty","beautiful", "attractive", "gorgeous", "cute","winsome"]
+}
+MODEL = "fiction"
+
 
 
 # 文件路径
 DATA_PATH = 'all_data_use.json'
-SAVE_PATH = 'empath_tfidf_emotion_scores.csv'
+SAVE_PATH = 'new_empath_tfidf_emotion_scores.csv'
 
 # 1️⃣ 读取数据
 with open(DATA_PATH, 'r', encoding='utf-8') as f:
@@ -36,6 +45,9 @@ if USE_ALL_CATEGORIES:
     empath_categories = all_categories
 else:
     empath_categories = CUSTOM_CATEGORIES
+for category in CUSTOM_CATEGORIES:
+    if category not in all_categories:
+        lexicon.create_category(category, NEW_WORDS[category], model = MODEL)
 
 # 构建类别—词集合映射
 category_words = {cat: set(lexicon.cats.get(cat, [])) for cat in empath_categories}
