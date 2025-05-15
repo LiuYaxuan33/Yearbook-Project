@@ -1,0 +1,157 @@
+[
+  {
+    "name": "Shoemaker, Joseph J.",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "nicknames": [
+      "Joe"
+    ],
+    "hometown": "Albia, Iowa",
+    "clubs": [
+      "Bachelor",
+      "Class Vice President",
+      "Captain Cadets",
+      "Delta Xi",
+      "A.I.E.E."
+    ],
+    "comment": "\"We could write volumes about Joe, But don't dare to tell all we know.\" Joe is a big man with a big heart. Whether in the classroom, leading a St. Patrick's parade, or acting the part of Rastus at a Margaret Hall Colonial party, he is a master hand.",
+    "name_gender": "Male",
+    "pic_gender": "Male",
+    "year": 1913
+  },
+  {
+    "name": "Campbell, John Roy",
+    "gender": "Male",
+    "major": "Horticulture",
+    "nicknames": [
+      "J. R."
+    ],
+    "hometown": "Ames, Iowa",
+    "clubs": [
+      "Welch",
+      "Hort. and Forestry Seminar",
+      "A. Z."
+    ],
+    "comment": "\"A wit with dunces and a dunce with wits.\" J. R. will crack wise in spite of fuzz and fair weather. Claims to have a stand in with the Botany Department, but that can hardly be true. He is now in the employ of the State Pure Food Commission. Query: Is this the cause or the result of his being a radical Prohibitionist?",
+    "year": 1909
+  },
+  {
+    "name": "Karr, Arthur R.",
+    "gender": "Male",
+    "major": "Animal Husbandry",
+    "highschool": "Indianola '10",
+    "hometown": "Indianola, Iowa",
+    "clubs": [
+      "Delta Tau Delta",
+      "Alpha Zeta",
+      "Crescent",
+      "Class Treasurer",
+      "Bus. Mgr. Junior Class Play"
+    ],
+    "comment": "\"His laugh is all his own\" Evidently Shorty was not fed a balanced ration when young, for his growth was directed heavenward, rather than east and west. A rare combination of a good boxer, blacksmith, and stock judge.",
+    "year": 1914
+  },
+  {
+    "name": "Taff, Lillian C.",
+    "gender": "Female",
+    "hometown": "Panora, Iowa",
+    "nicknames": [
+      "Babe",
+      "Taffy"
+    ],
+    "major": "Home Economics",
+    "clubs": [
+      "Phileleutheroi",
+      "Sophomore Play"
+    ],
+    "comment": "\"So womanly, so benign, and so meek.\" Works hard but will, at any time, take time to forget it.",
+    "year": 1915
+  },
+  {
+    "name": "Lundeen, Leonard Henry",
+    "gender": "Male",
+    "hometown": "Paullina, Iowa",
+    "nicknames": [
+      "Lundy"
+    ],
+    "major": "Animal Husbandry",
+    "clubs": [
+      "Phileleutheroi"
+    ],
+    "comment": "\"Where more is meant than meets the ear--Il Penseroso.\" An ideal student. Never gets below 3.75. Never late or misses a class. Speaks more with his eyes than with his mouth. Never has a kick coming. Came here to study and is living up to it. Too bad the \"good die young,\" for his life is almost over. Here's hoping he may change and yet enjoy life.",
+    "year": 1906
+  },
+  {
+    "name": "Mabie, Ira Peter",
+    "gender": "Male",
+    "hometown": "Mason City, Iowa",
+    "nicknames": [
+      "Ike"
+    ],
+    "major": "Mechanical Engineering",
+    "clubs": [
+      "Varsity Football",
+      "Sigma Nu",
+      "Bomb Board"
+    ],
+    "comment": "\"Who mixed reason with pleasure and wisdom with mirth.\"—Goldsmith. One of the prominent men in the Football squad. Known by all and liked by all who know him. Being in the downtown fraternity, he enjoys a good time along with the rest.",
+    "year": 1906
+  },
+  {
+    "name": "Bliss, Edith C.",
+    "gender": "Female",
+    "hometown": "Diagonal, Iowa",
+    "nicknames": [],
+    "major": "Home Economics",
+    "clubs": [
+      "Quill",
+      "Forensic League",
+      "President Geneva Club"
+    ],
+    "comment": "\"Look cheerful upon me, Thou seest how diligent I am.\" She is the only one of the Junior girls who thinks Fowler \"almost\" equals Coover and is the only one who dares correct Scullen or Miss Adzit. Is competent to do anything from teaching Chem. to judging corn.",
+    "year": 1915
+  },
+  {
+    "name": "Mighell, Halbert",
+    "gender": "Male",
+    "major": "Electrical Engineering",
+    "highschool": "Lake City '10",
+    "hometown": "Lake City, Iowa",
+    "clubs": [
+      "Phi Gamma Delta"
+    ],
+    "comment": "His name has caused the faculty no small amount of trouble in attempting its correct pronunciation. Mighell, however, is a perfectly good boy whose dancing has made him quite a favorite among the coeds.",
+    "year": 1914
+  },
+  {
+    "name": "Taake, Margaret",
+    "gender": "Female",
+    "hometown": "Des Moines, Iowa",
+    "nicknames": [],
+    "major": "Home Economics",
+    "clubs": [
+      "Delta Delta Delta",
+      "Jack o' Lantern"
+    ],
+    "comment": "Tried two schools before she found the right one. Said to have been born under a lucky star, especially when playing cards.",
+    "year": 1916
+  },
+  {
+    "name": "Cochran, Clyde F.",
+    "gender": "Male",
+    "major": "Horticulture",
+    "nicknames": [
+      "Banty"
+    ],
+    "hometown": "Lamoni, Iowa",
+    "clubs": [
+      "Alamo",
+      "Fruit Judging Team",
+      "Quo Vadis"
+    ],
+    "comment": "\"Banty\" can always be counted on when there is anything doing in any line. Has a keen sense of humor and remarkable ingenuity. Travels at the railroad's expense.",
+    "name_gender": "Male",
+    "pic_gender": "Male",
+    "year": 1913
+  }
+]

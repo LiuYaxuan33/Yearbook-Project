@@ -13,10 +13,8 @@ client = openai.OpenAI(
 )
 
 # 分析维度
-dimensions = [
-    "achievement", "work", "hard_working", "leadership", "social",
-    "positive_emotion", "negative_emotion", "affection", "trust",
-    "independence", "help", "discipline", "education"
+CUSTOM_CATEGORIES = [
+    "ability","grindstone","school","standout","citizenship","positive_emotion","college","shape_and_size","friends","trust","appearance","work"
 ]
 
 # Prompt 构建
@@ -31,7 +29,7 @@ Please rate the presence of each of the following dimensions on a scale from 0 t
 Output JSON with format: {{'dimension_name': score, ...}}
 
 Dimensions:
-{', '.join(dimensions)}
+{', '.join(CUSTOM_CATEGORIES)}
 
 provide json only, without markdown citations(for example, '```json' or '```') or extra notes
 """
@@ -52,10 +50,10 @@ def analyze_comment(comment):
         return json.loads(text)
     except json.JSONDecodeError:
         print(f"JSON 解析失败，原始响应内容: {text}")
-        return {dim: 0 for dim in dimensions}
+        return {dim: 0 for dim in CUSTOM_CATEGORIES}
     except Exception as e:
         print(f"[Error] {e}")
-        return {dim: 0 for dim in dimensions}
+        return {dim: 0 for dim in CUSTOM_CATEGORIES}
 
 # 🔄 处理批次
 def process_batch(students, processed_names, batch_size=100, save_path="deepseek_emotion_scores.csv"):
