@@ -54,6 +54,8 @@ Customly created categories and root words:
         - brilliant_presentation
     - the result seems quite reasonable
 
+\"I like above all things in the world to be loved.\" This fair maiden hails from Gotch’s town. Has many strings to her beau. Sometimes keeps her Romeo in suspense. However, only true worth attracts admiration.
+
 ### llm consistency: 10*10 repeat experiment
 
     consistency problem is more about person/comment, not categories
