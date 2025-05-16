@@ -34,7 +34,7 @@ Customly created categories and root words:
 
     adding or deleting one category won't affect analysis on other categories.
 
-new 2-grams: 
+### new 2-grams: 
 
 1. higher min-DF: not effective, "man_big" appears for more than 10 times
 2. no stop-words: not effective, lots of meaningless results
@@ -54,11 +54,11 @@ new 2-grams:
         - brilliant_presentation
     - the result seems quite reasonable
 
-llm consistency: 10*10 repeat experiment
+### llm consistency: 10*10 repeat experiment
 
     consistency problem is more about person/comment, not categories
 
-majors:
+### majors:
     [
     "",(yearbook didn't give his major)
     "Agricultural Education",
@@ -130,7 +130,7 @@ and Veterinary:
     Veterinary Medicine
     Veterinary and Animal Husbandry
 
-about regression:
+### about regression:
 
     1. lasso with control variables?
     2. (logical) dependant variables: sentiment score or words?
