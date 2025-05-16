@@ -11,22 +11,22 @@ EJ_REFERENCE_CATEGORIES = [
 ]
 
 CUSTOM_CATEGORIES = [
-    "ability","grindstone","school","standout","citizenship","positive_emotion","college","shape_and_size","friends","trust","appearance","work"
+    "ability","grindstone","school","standout","citizenship","positive_emotion","friends","trust","appearance"
 ]
 
-Empath has: "school", "positive_emotion", "college", "shape_and_size", "friends", "trust", "work"
+Empath has: "school", "positive_emotion", "friends", "trust"
 
 Customly created categories and root words:
     "ability": 
-        ["briliant", "intelligent", "talented", "gifted", "creative"],
+        ["ability", "briliant", "intelligent", "talented", "gifted", "creative"],
     "grindstone": 
-        ["hardworking", "diligent", "conscientious", "persevering", "persistent", "determined"],
+        ["grindstone","hardworking", "diligent", "conscientious", "persevering", "persistent", "determined"],
     "standout": 
-        ["excellent", "outstanding", "superb", "exceptional", "top", "rising_star", "among_the_best", "truly_exceptional"],
+        ["standout", "excellent", "outstanding", "superb", "exceptional", "top", "rising_star", "among_the_best", "truly_exceptional"],
     "citizenship": 
         ["citizenship", "community", "society", "supportive", "strong communicator", "dedicated", "a_pleasure_to_work_with"],
     "appearance": 
-        ["appearance", "looks", "physical_appearance", "beauty", "handsome", "pretty","beautiful", "attractive", "gorgeous", "cute","winsome"]
+        ["appearance", "looks", "physical_appearance", "beauty", "handsome", "pretty","beautiful", "attractive", "gorgeous", "cute","winsome", "eye", "eyes", "cheek", "cheeks", "nose", "lips"]
     
     the first four categories' root words come from Eberhardt et al.(2023), unfortunately they didn't give out complete lexicon in their paper. for "appearnce", chatGPT gave the rootwords above.
 

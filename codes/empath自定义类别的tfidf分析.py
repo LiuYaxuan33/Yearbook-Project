@@ -10,18 +10,23 @@ import os
 # —— 可切换：是否使用所有 Empath 类别 ——
 USE_ALL_CATEGORIES = False  # True: 全量类别, False: 自定义子集
 CUSTOM_CATEGORIES = [
-    "ability","grindstone","school","standout","citizenship","positive_emotion","college","shape_and_size","friends","trust","appearance","work"
+    "ability","grindstone","school","standout","citizenship","positive_emotion","friends","trust","appearance"
 ]
 EJ_REFERENCE_CATEGORIES = [
     "ability","grindstone","research","standout","teaching&Citizenship","Recuitment Prospects"
 ]
 NEW_WORDS = {
-    "ability": ["briliant", "intelligent", "talented", "gifted", "creative"],
-    "grindstone": ["hardworking", "diligent", "conscientious", "persevering", "persistent", "determined"],
-    "standout": ["excellent", "outstanding", "superb", "exceptional", "top", "rising_star", "among_the_best", "truly_exceptional"],
-    "citizenship": ["citizenship", "community", "society"],
-    "appearance": ["appearance", "looks", "physical_appearance", "beauty", "handsome", "pretty","beautiful", "attractive", "gorgeous", "cute","winsome"]
-}
+    "ability": 
+        ["ability", "briliant", "intelligent", "talented", "gifted", "creative"],
+    "grindstone": 
+        ["grindstone","hardworking", "diligent", "conscientious", "persevering", "persistent", "determined"],
+    "standout": 
+        ["standout", "excellent", "outstanding", "superb", "exceptional", "top", "rising_star", "among_the_best", "truly_exceptional"],
+    "citizenship": 
+        ["citizenship", "community", "society", "supportive", "strong communicator", "dedicated", "a_pleasure_to_work_with"],
+    "appearance": 
+        ["appearance", "looks", "physical_appearance", "beauty", "handsome", "pretty","beautiful", "attractive", "gorgeous", "cute","winsome", "eye", "eyes", "cheek", "cheeks", "nose", "lips"]
+        }
 MODEL = "fiction"
 
 
