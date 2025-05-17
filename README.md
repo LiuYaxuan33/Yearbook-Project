@@ -138,4 +138,24 @@ and Veterinary:
     2. (logical) dependant variables: sentiment score or words?
     3. factors other than gender: major, hometown, and year
     4. technical detail: linear or logistic?
+    5. what can we do with lasso-selected features? classify with categories above?
+
+### partial-lasso
+
+majors are too strong as controls, so the residuals left for word selection are small, given that control variables are not panelized, regression coefficients will be focused on controls
+
+hometown as control: how to cluster? about 1850/2120 samples are from Iowa.
+
+is partial-lasso effective? this may destroy some fine properties of lasso loss function.
+
+can we just add control, and panelize them as what we did to word features?
+
+### about feature selection: SVM (support vector machine)
+
+explanable: lagrange multiplier
+
+s~l~o~w~s~o~s~l~o~w~
+
+mathematically more elegant, and effective
+
 

@@ -1,6 +1,6 @@
 import json
 
-with open('all_data_use.json', 'r') as f1:
+with open('all_data_use.json', 'r', encoding='utf-8') as f1:
     data2 = json.load(f1)
 
 all_clubs = []
@@ -24,5 +24,5 @@ all_clubs = sorted(all_clubs)
 all_majors = sorted(all_majors)
 all_hometowns = sorted(all_hometowns)
 datas = [all_clubs, all_hometowns, all_majors, all_genders]
-with open('data_profile.json', 'w') as out_file:
+with open('data_profile.json', 'w', encoding='utf-8') as out_file:
     json.dump(datas, out_file, ensure_ascii=False, indent=2)
