@@ -61,6 +61,13 @@ Customly created categories and root words:
     consistency problem is more about person/comment, not categories
 
 ### majors:
+agriculture
+home ec
+science
+engineering
+music
+education
+veterinary
     [
     "",(yearbook didn't give his major)
     "Agricultural Education",
