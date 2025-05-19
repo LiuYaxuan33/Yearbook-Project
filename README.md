@@ -1,5 +1,9 @@
 # Yearbook-Project
 
+## To those who are interested:
+
+This project is based on yearbook of year 1906, 1909 and 1911-1916 of Iowa State's University. We hope to, using some NLP algorithms, find language of stereotype used in graduates' personal comments. Such comments are typically made by a committe of students, thus are made from peer's perspective. The method we are applying include LASSO regression, tf-idf-based and llm-based sentiment analysis (with lexicon Empath and llm Deepseek-v3)
+
 ## 250516
 
 ### sentiment dimensions
