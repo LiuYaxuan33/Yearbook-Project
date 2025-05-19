@@ -1,9 +1,10 @@
 from paddleocr import PaddleOCR
 import requests
 import json
+from dotenv import load_dotenv
 import os
 from datetime import datetime
-
+load_dotenv()
 # 初始化 OCR
 ocr = PaddleOCR(
     use_angle_cls=True,
@@ -15,7 +16,7 @@ ocr = PaddleOCR(
 
 # DeepSeek API配置
 DEEPSEEK_API_URL = "https://api.deepseek.com/v1/chat/completions"
-DEEPSEEK_API_KEY = "sk-e5faf4be216d4396b8db95c40d88f574"  # 替换为你的实际API密钥
+DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY")  # 从环境变量中获取API密钥
 MODEL_NAME = "deepseek-chat"
 
 def process_image_folder(folder_path, output_file):

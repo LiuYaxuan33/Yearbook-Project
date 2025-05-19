@@ -11,17 +11,18 @@ import random
 from collections import defaultdict
 import matplotlib.pyplot as plt
 import seaborn as sns
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # ✅ 初始化客户端（新版本API修改点1）
 client = openai.OpenAI(
-    api_key="sk-e5faf4be216d4396b8db95c40d88f574",
+    api_key=os.getenv("DEEPSEEK_API_KEY"),
     base_url="https://api.deepseek.com/v1"  # DeepSeek专属端点
 )
 
 # 分析维度
-CUSTOM_CATEGORIES = [
-    "ability","grindstone","school","standout","citizenship","positive_emotion","college","shape_and_size","friends","trust","appearance","work"
-]
+CUSTOM_CATEGORIES = [item for sublist in json.loads(os.getenv("SENTIMENT_CATEGORIES")).values() for item in sublist]  # 从环境变量获取自定义维度
 
 # Prompt 构建
 def make_prompt(comment):
@@ -102,10 +103,10 @@ if os.path.exists(save_file):
 
 # 稳定性测试参数配置
 STABILITY_CONFIG = {
-    "num_samples": 10,      # 随机抽取样本数量
+    "num_samples": 100,      # 随机抽取样本数量
     "num_runs": 10,        # 每个样本重复次数
-    "results_file": "stability_results.csv",  # 结果存储文件
-    "samples_file": "stability_samples.json", # 抽样记录文件
+    "results_file": "0519_stability_results.csv",  # 结果存储文件
+    "samples_file": "0519_stability_samples.json", # 抽样记录文件
     "sleep_time": 1.2       # API调用间隔
 }
 

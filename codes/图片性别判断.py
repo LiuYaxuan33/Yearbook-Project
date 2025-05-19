@@ -1,11 +1,14 @@
 from openai import OpenAI
 import json
 import base64
-import os
 import re
 import time
+from dotenv import load_dotenv
+import os
 
-QWEN_API_KEY = 'sk-2b1d01e7d476419bb27fa43f3fe17d22'
+load_dotenv()
+
+QWEN_API_KEY = os.getenv("QWEN_API_KEY")
 
 # 初始化OpenAI客户端（请替换为您的实际API信息）
 client = OpenAI(

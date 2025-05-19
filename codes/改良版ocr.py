@@ -4,9 +4,13 @@ import requests
 from openai import OpenAI
 import json
 import base64
-import os
 import re
 from datetime import datetime
+from dotenv import load_dotenv
+import os
+
+load_dotenv()  # 加载.env文件中的环境变量
+
 
 # 初始化 OCR
 ocr = PaddleOCR(
@@ -17,9 +21,9 @@ ocr = PaddleOCR(
     cls_model_dir='ch_ppocr_mobile_v2.0_cls'
 )
 
-QWEN_API_KEY = 'sk-2b1d01e7d476419bb27fa43f3fe17d22'
+QWEN_API_KEY = os.getenv("QWEN_API_KEY")
 DEEPSEEK_API_URL = "https://api.deepseek.com/v1/chat/completions"
-DEEPSEEK_API_KEY = "sk-e5faf4be216d4396b8db95c40d88f574"
+DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY")  
 MODEL_NAME = "deepseek-chat"
 
 client = OpenAI(

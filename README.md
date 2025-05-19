@@ -62,7 +62,7 @@ Customly created categories and root words:
 
 ### majors:
 agriculture
-home ec
+home economics
 science
 engineering
 music
@@ -164,5 +164,100 @@ explanable: lagrange multiplier
 s~l~o~w~s~o~s~l~o~w~
 
 mathematically more elegant, and effective
+
+## 250519
+
+### about dimensions
+
+CUSTOM_CATEGORIES = [
+    "ability","grindstone","school","standout","citizenship","positive_emotion","friends","trust","appearance"
+]
+optimism
+sports
+
+here I give out the label structured dimensions of comment sentiment:
+
+OVERALL_EMOTIONS
+    positive_emotion
+CHARACTER & MORALITY
+    trust
+    citizenship
+    optimism
+ABILITY & PERSONAL TRAITS
+    ability
+    grindstone
+    standout
+SOCIAL RELATIONSHIPS
+    friends
+    trust
+PARTICIPATION & ENGAGEMENT
+    school
+    sports
+APPEARANCE
+    subjective_appearance
+    physical_features
+
+**ATTENTION: MORE LITERATURE WORK IS NEEDED!**
+
+### llm consistency
+larger sample
+you'll need to list some examples, as testimony to the limitation of usage of llm in your research
+
+### majors
+agriculture
+    "Agronomy",
+    "Animal Husbandry",
+    "Animal Husbandry and Agricultural Education",
+    "Dairy",
+    "Dairy Husbandry",
+    "Dairy Husbandry-Animal Husbandry",
+    "Science and Agronomy",
+    "Veterinary and Animal Husbandry"
+    "Forestry",
+    "Horticulture",
+    "Horticulture and Forestry",
+home economics
+    "Domestic Science",
+    "General and Domestic Science",
+    "Home Economics",
+    "Economics",
+science
+    "Chemistry",
+    "Science",
+    "Science and Agronomy",
+    "General Science",
+    "General and Domestic Science",
+    "Industrial Chemistry",
+    "Industrial Science",
+engineering
+    "Chemistry Engineering",
+    "Civil Engineering",
+    "Agricultural Engineering",
+    "Ceramics",
+    "Electrical Engineering",
+    "Mechanical & Electrical Engineering",
+    "Mechanical Engineering",
+    "Mining Engineering",
+music
+    "Music",
+education
+    "Animal Husbandry and Agricultural Education",
+    "Agricultural Education",
+veterinary
+    "Veterinary",
+    "Veterinary Medicine",
+    "Veterinary and Animal Husbandry"
+
+### lasso
+
+regression by group
+
+### other
+do clubs matter? specially, does whether one student is among the bomb committe matter?
+
+it seems meaningless to consider hometown...
+
+do year of graduation matter? the Great War?
+
 
 

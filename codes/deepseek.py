@@ -5,10 +5,16 @@ import os
 import re
 import time
 from tqdm import tqdm
+from dotenv import load_dotenv
+import os
+
+load_dotenv()  # 加载.env文件中的环境变量
+
+
 
 # ✅ 初始化客户端（新版本API修改点1）
 client = openai.OpenAI(
-    api_key="sk-e5faf4be216d4396b8db95c40d88f574",
+    api_key = os.getenv("DEEPSEEK_API_KEY"),
     base_url="https://api.deepseek.com/v1"  # DeepSeek专属端点
 )
 
