@@ -1,0 +1,138 @@
+[
+{
+   "Ability & Competence":
+      ["intelligence", "grindstone", "creativity", "leader", "achiebement"],
+   "Character/Morality":
+      ["honesty", "royalty", "justice", "trust", "sympathy", "dominant_personality", "politeness"],
+   "Appearance":
+      ["attractive", "neatness", "strength", "body", "physical_features", "beauty"],
+   "Social Relations":
+      ["friends", "outgoing", "cooperativeness", "humor", "communication"],
+   "Activities Engagement":
+      ["sports", "art", "music", "school", "clubs"]
+}
+,
+{
+  "intelligence": [
+    "intelligent", "clever", "bright", "smart", "astute", "perceptive",
+    "insightful", "sharp", "brainy", "knowledgeable", "intelligence",
+    "insight", "knowledge", "wisdom", "acumen", "aptitude", "savvy",
+    "proficiency", "erudition", "cognition"
+  ],
+  "grindstone": [
+    "diligent", "hardworking", "industrious", "meticulous", "thorough",
+    "persistent", "dedicated", "organized", "disciplined", "responsible",
+    "diligence", "perseverance", "discipline", "effort", "dedication",
+    "industriousness", "work ethic", "stamina", "tenacity", "rigor"
+  ],
+  "creativity": [
+    "creative", "imaginative", "innovative", "original", "artistic",
+    "resourceful", "inventive", "ingenious", "visionary", "inspired",
+    "creativity", "imagination", "innovation", "originality", "artistry",
+    "ingenuity", "inspiration", "vision", "resourcefulness", "flair"
+  ],
+  "leadership": [
+    "leader", "assertive", "confident", "decisive", "ambitious",
+    "charismatic", "inspiring", "authoritative", "strategic", "commanding",
+    "leadership", "authority", "initiative", "ambition", "charisma",
+    "decisiveness", "strategy", "drive", "governance", "stewardship"
+  ],
+  "honesty": [
+    "honest", "truthful", "sincere", "trustworthy", "genuine", "ethical",
+    "principled", "honorable", "upright", "fair-minded", "honesty",
+    "integrity", "sincerity", "trustworthiness", "ethics", "honor",
+    "principle", "transparency", "virtue", "fairness"
+  ],
+  "kindness": [
+    "kind", "caring", "compassionate", "generous", "empathetic",
+    "considerate", "gentle", "supportive", "charitable", "warm-hearted",
+    "kindness", "compassion", "empathy", "generosity", "mercy", "charity",
+    "benevolence", "sympathy", "goodwill", "understanding"
+  ],
+  "dependability": [
+    "loyal", "faithful", "devoted", "steadfast", "committed", "reliable",
+    "supportive", "dedicated", "unwavering", "constant", "loyalty",
+    "fidelity", "devotion", "reliability", "commitment", "steadfastness",
+    "faithfulness", "trust", "support", "allegiance"
+  ],
+  "justice": [
+    "fair", "just", "impartial", "equitable", "unbiased", "objective",
+    "righteous", "principled", "moderate", "balanced", "justice",
+    "fairness", "impartiality", "equity", "objectivity", "righteousness",
+    "balance", "moderation", "rule of law", "judiciary"
+  ],
+  "attractiveness": [
+    "handsome", "beautiful", "attractive", "pretty", "charming", "elegant",
+    "graceful", "lovely", "radiant", "gorgeous", "beauty", "charm",
+    "elegance", "grace", "allure", "glamour", "radiance", "appeal",
+    "poise", "presence"
+  ],
+  "neatness": [
+    "neat", "tidy", "well-groomed", "clean", "polished", "well-dressed",
+    "organized", "presentable", "trim", "spotless", "neatness", "tidiness",
+    "grooming", "polish", "orderliness", "cleanliness", "presentation",
+    "refinement", "sharpness", "crispness"
+  ],
+  "strength": [
+    "strong", "athletic", "fit", "robust", "sturdy", "healthy", "muscular",
+    "vigorous", "energetic", "resilient", "big", "hard", "strength",
+    "fitness", "vigor", "stamina", "robustness", "health", "resilience",
+    "power", "endurance", "musculature"
+  ],
+  "physical_features": [
+    "physical_appearance", "looks", "visage", "features", "complexion",
+    "hair", "eyes", "eyebrows", "cheekbones", "jawline", "posture",
+    "physique", "eye", "cheek", "nose", "lips", "blue", "brown", "black",
+    "blonde"
+  ],
+  "friends": [
+    "friendly", "amiable", "warm", "approachable", "congenial", "pleasant",
+    "affable", "genial", "kindhearted", "sociable", "friendliness", "amity",
+    "warmth", "approachability", "geniality", "cordiality", "hospitality",
+    "camaraderie", "rapport", "kindness"
+  ],
+  "outgoing": [
+    "outgoing", "energetic", "lively", "enthusiastic", "animated", "vibrant",
+    "vivacious", "spirited", "bubbly", "dynamic", "energy", "enthusiasm",
+    "vivacity", "vibrancy", "dynamism", "zest", "gaiety", "exuberance",
+    "animation", "zestfulness"
+  ],
+  "cooperativeness": [
+    "cooperative", "helpful", "supportive", "collaborative", "considerate",
+    "accommodating", "flexible", "team-oriented", "empathetic",
+    "understanding", "cooperation", "teamwork", "collaboration", "support",
+    "flexibility", "accommodation", "empathy", "coordination", "synergy",
+    "unity"
+  ],
+  "humor": [
+    "humorous", "witty", "funny", "jovial", "entertaining", "amusing",
+    "lighthearted", "playful", "comical", "cheerful", "laugh", "giggle",
+    "joke", "humor", "wit", "levity", "jocularity", "whimsy", "playfulness",
+    "banter", "hilarity", "satire", "quip"
+  ],
+  "sports": [
+    "athletic", "sporty", "agile", "fit", "strong", "robust", "vigorous",
+    "active", "nimble", "competitive", "athletics", "sports", "competition",
+    "training", "fitness", "endurance", "agility", "marathon", "sprint",
+    "match"
+  ],
+  "arts_and_culture": [
+    "artistic", "musical", "creative", "talented", "expressive", "cultured",
+    "aesthetic", "inventive", "imaginative", "visionary", "painting",
+    "music", "dance", "theatre", "sculpture", "literature", "exhibition",
+    "concert", "festival", "gallery"
+  ],
+  "school": [
+    "studious", "scholarly", "intellectual", "educated", "knowledgeable",
+    "analytical", "learned", "erudite", "literate", "bookish", "research",
+    "scholarship", "lecture", "seminar", "dissertation", "analysis",
+    "journal", "conference", "thesis", "coursework"
+  ],
+  "clubs": [
+    "involved", "engaged", "active", "committed", "enthusiastic", "volunteer",
+    "service-oriented", "civic-minded", "helpful", "debate", "committee",
+    "volunteer", "outreach", "fundraiser", "workshop", "council", "society",
+    "association", "club"
+  ]
+}
+]
