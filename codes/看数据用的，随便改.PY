@@ -1,18 +1,29 @@
 import json
 
-with open('all_data_use.json', 'r', encoding='utf-8') as f:
+with open('all_data_use_labeled.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
 
 
+ALL_LABELS = [
+    "is_agriculture",
+    "is_home economics",
+    "is_science",
+    "is_engineering",
+    "is_music",
+    "is_education",
+    "is_veterinary"]
 
-a = 0
-b = 0
-# 处理每个人员信息
-for i, person in enumerate(data):
-    if person['major'] == "Economics":
-        if person['gender'] == "Male":
-            a += 1
-        else:   
-            b += 1
-print("经济学专业男生人数：", a)
-print("经济学专业女生人数：", b)
+MAJOR_TO_ANALYZE = ALL_LABELS[0] 
+
+for labels in ALL_LABELS:
+    man = 0
+    woman = 0
+    for person in data:
+        if person[labels] == 1:
+            if person['gender'] == 'Male':      
+                man += 1
+            else:  
+                woman += 1
+    print(f"{labels}: man has {man} and woman has {woman}")
+
+

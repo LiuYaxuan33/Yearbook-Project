@@ -264,4 +264,99 @@ it seems meaningless to consider hometown...
 do year of graduation matter? the Great War?
 
 
+## 250520
 
+### regression by group
+seems impossible:
+agriculture: man has 705 and woman has 6
+home economics: man has 3 and woman has 284
+science: man has 41 and woman has 78
+engineering: man has 834 and woman has 2
+music: man has 0 and woman has 9
+education: man has 25 and woman has 1
+veterinary: man has 142 and woman has 1
+
+either extremely imbalance or too few samples
+
+science major can generate (to the least extent) reasonable results, but doesn't seem meaningful...
+
+can we do case analysis?
+
+### stereotype of majors
+
+something puzzling seems to go wrong when running on agriculture major...there are no feature selected...i dont know why
+
+I KNOW! sometimes the selected alpha goes larger than 0.001, and that panalizes coefficients too much.
+
+DeepResearch give a sentiment dimension system:
+
+能力 (Ability/Competence)
+
+智力 (Intelligence) (理论来源：大五人格–开放性/智力因素)
+：intelligent, clever, bright, smart, astute, perceptive, insightful, sharp, brainy, knowledgeable
+
+勤奋 (Diligence) (理论来源：大五人格–尽责性)
+：diligent, hardworking, industrious, meticulous, thorough, persistent, dedicated, organized, disciplined, responsible
+
+创造力 (Creativity) (理论来源：大五人格–开放性)
+：creative, imaginative, innovative, original, artistic, resourceful, inventive, ingenious, visionary, inspired
+
+领导力 (Leadership/Agency) (理论来源：大五人格–外向性；刻板印象模型–能力维度)
+：leader, assertive, confident, decisive, ambitious, charismatic, inspiring, authoritative, strategic, commanding
+
+
+品格 (Character/Morality)
+
+诚实 (Honesty/Integrity) (理论来源：HEXACO 模型–诚实-谦逊维度)
+：honest, truthful, sincere, trustworthy, genuine, ethical, principled, honorable, upright, fair-minded
+
+善良 (Kindness/Compassion) (理论来源：道德基础理论–关怀/损害)
+：kind, caring, compassionate, generous, empathetic, considerate, gentle, supportive, charitable, warm-hearted
+
+忠诚 (Loyalty/Dependability) (理论来源：道德基础理论–忠诚/背叛)
+：loyal, faithful, devoted, steadfast, committed, reliable, supportive, dedicated, unwavering, constant
+
+公平 (Fairness/Justice) (理论来源：道德基础理论–公平/欺骗)
+：fair, just, impartial, equitable, unbiased, objective, righteous, principled, moderate, balanced
+
+
+外貌 (Appearance)
+
+吸引力 (Attractiveness) (理论来源：社会心理学–光环效应)
+：handsome, beautiful, attractive, pretty, charming, elegant, graceful, lovely, radiant, gorgeous
+
+整洁 (Neatness/Grooming) (理论来源：身体形象研究)
+：neat, tidy, well-groomed, clean, polished, well-dressed, organized, presentable, trim, spotless
+
+体格 (Physique/Strength) (理论来源：身体形象研究)
+：strong, athletic, fit, robust, sturdy, healthy, muscular, vigorous, energetic, resilient
+
+
+社交关系 (Social Relations/Warmth)
+
+友好 (Friendliness) (理论来源：大五人格–宜人性；刻板印象模型–温暖维度)
+：friendly, amiable, warm, approachable, congenial, pleasant, affable, genial, kindhearted, sociable
+
+热情 (Energetic/Outgoing) (理论来源：大五人格–外向性)
+：outgoing, energetic, lively, enthusiastic, animated, vibrant, vivacious, spirited, bubbly, dynamic
+
+合作 (Cooperativeness) (理论来源：大五人格–宜人性)
+：cooperative, helpful, supportive, collaborative, considerate, accommodating, flexible, team-oriented, empathetic, understanding
+
+幽默 (Humor) (理论来源：社会心理学–社交沟通)
+：humorous, witty, funny, jovial, entertaining, amusing, lighthearted, playful, comical, cheerful
+
+
+活动参与 (Activities/Engagement)
+
+运动 (Athletic Participation) (理论来源：社会心理学–体能参与)
+：athletic, sporty, agile, fit, strong, robust, vigorous, active, nimble, competitive
+
+文艺 (Arts/Cultural Activities) (理论来源：社会心理学–艺术参与)
+：artistic, musical, creative, talented, expressive, cultured, aesthetic, inventive, imaginative, visionary
+
+学术 (Academic Involvement) (理论来源：教育心理学–学术成就)
+：studious, scholarly, intellectual, educated, knowledgeable, analytical, learned, erudite, literate, bookish
+
+社团 (Club/Service Participation) (理论来源：社会心理学–社区参与)
+：involved, engaged, active, committed, dedicated, enthusiastic, volunteer, service-oriented, civic-minded, helpful
