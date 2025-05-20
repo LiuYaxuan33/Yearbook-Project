@@ -21,8 +21,20 @@ client = openai.OpenAI(
     base_url="https://api.deepseek.com/v1"  # DeepSeek专属端点
 )
 
+with open("dimensions.json", "r", encoding="utf-8") as f0:
+    dimension_all = json.load(f0)
+
+framework = dimension_all[0]
+root_words = dimension_all[1]
+
+CUSTOM_CATEGORIES = []
+
+for key, value in framework.items():
+    CUSTOM_CATEGORIES.extend(value)
+
+print(CUSTOM_CATEGORIES)
+
 # 分析维度
-CUSTOM_CATEGORIES = [item for sublist in json.loads(os.getenv("SENTIMENT_CATEGORIES")).values() for item in sublist]  # 从环境变量获取自定义维度
 
 # Prompt 构建
 def make_prompt(comment):
@@ -89,9 +101,6 @@ def process_batch(students, processed_names, batch_size=100, save_path="deepseek
         time.sleep(1.2)
 
 
-# 📥 读取数据
-with open("all_data_use.json", "r", encoding="utf-8") as f:
-    students = json.load(f)
 
 # 📂 已完成记录
 processed_names = set()
@@ -105,15 +114,15 @@ if os.path.exists(save_file):
 STABILITY_CONFIG = {
     "num_samples": 100,      # 随机抽取样本数量
     "num_runs": 10,        # 每个样本重复次数
-    "results_file": "0519_stability_results.csv",  # 结果存储文件
-    "samples_file": "0519_stability_samples.json", # 抽样记录文件
+    "results_file": "0520_stability_results.csv",  # 结果存储文件
+    "samples_file": "0520_stability_samples.json", # 抽样记录文件
     "sleep_time": 1.2       # API调用间隔
 }
 
 def run_stability_test():
     """执行稳定性测试主函数"""
     # 加载所有学生数据
-    with open("all_data_use.json", "r", encoding="utf-8") as f:
+    with open("all_data_use_labeled.json", "r", encoding="utf-8") as f:
         all_students = json.load(f)
     
     # 获取或创建抽样样本

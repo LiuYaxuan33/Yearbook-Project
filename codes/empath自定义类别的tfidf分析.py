@@ -9,30 +9,27 @@ import os
 
 # —— 可切换：是否使用所有 Empath 类别 ——
 USE_ALL_CATEGORIES = False  # True: 全量类别, False: 自定义子集
-CUSTOM_CATEGORIES = [
-    "ability","grindstone","school","standout","citizenship","positive_emotion","friends","trust","appearance"
-]
+with open("dimensions.json", "r", encoding="utf-8") as f0:
+    dimension_all = json.load(f0)
+
+framework = dimension_all[0]
+NEW_WORDS = dimension_all[1]
+
+CUSTOM_CATEGORIES = []
+
+for key, value in framework.items():
+    CUSTOM_CATEGORIES.extend(value)
+
 EJ_REFERENCE_CATEGORIES = [
     "ability","grindstone","research","standout","teaching&Citizenship","Recuitment Prospects"
 ]
-NEW_WORDS = {
-    "ability": 
-        ["ability", "briliant", "intelligent", "talented", "gifted", "creative"],
-    "grindstone": 
-        ["grindstone","hardworking", "diligent", "conscientious", "persevering", "persistent", "determined"],
-    "standout": 
-        ["standout", "excellent", "outstanding", "superb", "exceptional", "top", "rising_star", "among_the_best", "truly_exceptional"],
-    "citizenship": 
-        ["citizenship", "community", "society", "supportive", "strong communicator", "dedicated", "a_pleasure_to_work_with"],
-    "appearance": 
-        ["appearance", "looks", "physical_appearance", "beauty", "handsome", "pretty","beautiful", "attractive", "gorgeous", "cute","winsome", "eye", "eyes", "cheek", "cheeks", "nose", "lips"]
-        }
+
 MODEL = "fiction"
 
 
 
 # 文件路径
-DATA_PATH = 'all_data_use.json'
+DATA_PATH = 'all_data_use_labeled.json'
 SAVE_PATH = 'new_empath_tfidf_emotion_scores.csv'
 
 # 1️⃣ 读取数据
@@ -72,7 +69,7 @@ for idx, entry in enumerate(data):
     scores = {}
     for cat in empath_categories:
         # 累加类别中所有词的 TF-IDF 值
-        scores[f'{cat}_tfidf'] = sum(
+        scores[f'{cat}_'] = sum(
             tfidf_scores.get(word, 0.0) for word in category_words[cat]
         )
     scores['name']   = name
@@ -85,7 +82,7 @@ df = pd.DataFrame(results).set_index('name')
 df.to_csv(SAVE_PATH)
 
 # 6️⃣ 按性别计算平均分
-emotion_cols = [c for c in df.columns if c.endswith('_tfidf')]
+emotion_cols = [c for c in df.columns if c.endswith('_')]
 gender_summary = df.groupby('gender')[emotion_cols].mean()
 print(gender_summary)
 
