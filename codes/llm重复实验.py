@@ -152,7 +152,7 @@ def run_stability_test():
 def _get_samples(all_students):
     """获取或创建抽样样本"""
     if os.path.exists(STABILITY_CONFIG["samples_file"]):
-        with open(STABILITY_CONFIG["samples_file"], "r") as f:
+        with open(STABILITY_CONFIG["samples_file"], "r", encoding='utf-8') as f:
             return json.load(f)
     
     selected = random.sample(all_students, STABILITY_CONFIG["num_samples"])
@@ -238,6 +238,11 @@ def analyze_stability_results():
     plt.xticks([], [])
     plt.yticks([], [])
     plt.show()
+
+    heatmap_values = stats.xs("std", axis=1, level=1).T
+
+    heatmap_values.to_csv("heatmap_values.csv")
+
 
 # 在原有代码后添加调用（确保原有流程被注释）
 # process_batch(students, processed_names, ...)  # 注释原有处理流程
