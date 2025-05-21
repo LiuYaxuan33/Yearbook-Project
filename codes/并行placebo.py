@@ -4,40 +4,40 @@ import spacy
 import pandas as pd
 import numpy as np
 from sklearn.feature_extraction.text import CountVectorizer
-from sklearn.linear_model import LassoCV
+from sklearn.linear_model import Lasso
 import matplotlib.pyplot as plt
 from tqdm import tqdm
 from joblib import Parallel, delayed
+import glob
 
 # ============ 参数配置 ============
 JSON_PATH = 'all_data_use_labeled.json'
 OUTPUT_DIR = 'output'
-B = 100  # Placebo 随机实验次数
+PLACEBO_CACHE_DIR = os.path.join(OUTPUT_DIR, 'placebo_cache')
+B = 10000  # Placebo 实验次数
 TAU_PCT = 95  # 阈值分位数
-CV_FOLDS = 5  # LassoCV 折数
 RANDOM_STATE = 42
 
 # ============ 初始化 ============
 os.makedirs(OUTPUT_DIR, exist_ok=True)
+os.makedirs(PLACEBO_CACHE_DIR, exist_ok=True)
 nlp = spacy.load("en_core_web_sm")
 
-# 自定义分词，只保留 ADJ 和 ADV
+# 自定义分词器，只保留 ADJ 和 ADV
 def custom_tokenizer(text):
     doc = nlp(text)
     return [token.text for token in doc if token.pos_ in ('ADJ', 'ADV')]
 
-# ============ 1. 加载原始标签与创建 Placebo 标签 ============
+# ============ 1. 加载原始标签与 Placebo 标签 ============
 with open(JSON_PATH, 'r', encoding='utf-8') as f:
     data = json.load(f)
 df = pd.DataFrame(data)
 
-# 提取真实标签列（例如 MAJOR_TO_ANALYZE 指定的专业）
+# 提取真实标签
 df['label_true'] = df['gender'].map({'Male': 0, 'Female': 1})
-
-# 随机打乱顺序（仅打乱数据行，保留原标签）
 df = df.sample(frac=1, random_state=RANDOM_STATE).reset_index(drop=True)
 
-# 创建 Placebo 标签，使用 iloc 避免 off-by-one
+# 创建 Placebo 标签
 half = int(df['label_true'].sum())
 df['label_placebo'] = 0
 df.iloc[:half, df.columns.get_loc('label_placebo')] = 1
@@ -53,71 +53,54 @@ vectorizer = CountVectorizer(
     tokenizer=custom_tokenizer,
     stop_words='english'
 )
-X = vectorizer.fit_transform(df['comment'])  # (n_samples, n_features)
+X = vectorizer.fit_transform(df['comment'])
 print(f"Feature matrix shape: {X.shape}")
 
-# ============ 3. Lasso 训练函数 ============
-def run_lasso_cv(X, y, cv=CV_FOLDS, random_state=RANDOM_STATE):
-    """使用 LassoCV 自动选 alpha，返回系数和最佳 alpha"""
-    lasso_cv = LassoCV(cv=cv, random_state=random_state, n_jobs=-1, max_iter=10000)
-    lasso_cv.fit(X, y)
-    return lasso_cv.coef_, lasso_cv.alpha_
+# ============ 3. Lasso 回归函数 ============
+def run_lasso(X, y):
+    lasso = Lasso(alpha=0.0008, max_iter=10000)
+    lasso.fit(X, y)
+    return lasso.coef_
 
-# ============ 4. Placebo 实验（支持断点续跑） ============
-def lasso_placebo_single_run_and_save(X, y_base, b):
-    """对一次打乱后的标签运行 LassoCV，并保存结果"""
-    filename = os.path.join(OUTPUT_DIR, f'placebo_coef_{b:03d}.npy')
-    if os.path.exists(filename):
-        return None  # 已存在，跳过
-    y_perm = np.random.permutation(y_base)
-    coef, alpha = run_lasso_cv(X, y_perm, random_state=RANDOM_STATE + b)
-    np.save(filename, coef)
-    return alpha
+# ============ 4. Placebo 并行任务 ============
+def run_and_save_placebo(b, X, y_placebo, save_dir):
+    save_path = os.path.join(save_dir, f'coef_placebo_{b}.npy')
+    if os.path.exists(save_path):
+        return
+    y_b = np.random.permutation(y_placebo)
+    coef_b = run_lasso(X, y_b)
+    np.save(save_path, coef_b)
 
-print("检查已完成的 Placebo 实验...")
+# 查找已完成任务
+existing_files = glob.glob(os.path.join(PLACEBO_CACHE_DIR, 'coef_placebo_*.npy'))
+existing_indices = set(int(os.path.basename(f).split('_')[-1].split('.')[0]) for f in existing_files)
+remaining_indices = [b for b in range(B) if b not in existing_indices]
 
-# 查看已有结果
-existing_files = set(f for f in os.listdir(OUTPUT_DIR) if f.startswith("placebo_coef_") and f.endswith(".npy"))
-finished_indices = {int(f.split('_')[-1].split('.')[0]) for f in existing_files}
-to_run = [b for b in range(B) if b not in finished_indices]
+print(f"Total placebo B={B}, done={len(existing_indices)}, remaining={len(remaining_indices)}")
 
-print(f"总共需要运行 {B} 次 Placebo，已完成 {len(finished_indices)} 次，剩余 {len(to_run)} 次")
+# 并行执行剩余任务
+Parallel(n_jobs=-1)(
+    delayed(run_and_save_placebo)(b, X, ny_placebo, PLACEBO_CACHE_DIR)
+    for b in tqdm(remaining_indices, desc="Running placebo Lasso in parallel")
+)
 
-# 并行运行剩余部分
-if len(to_run) > 0:
-    alphas_placebo_partial = Parallel(n_jobs=-1, verbose=10)(
-        delayed(lasso_placebo_single_run_and_save)(X, ny_placebo, b)
-        for b in to_run
-    )
-
-# 合并所有系数和 alpha
-coef_placebo_list = []
-alphas_placebo = []
+# 合并所有 Placebo 结果
+n_features = X.shape[1]
+coef_placebo = np.zeros((B, n_features))
 for b in range(B):
-    coef_path = os.path.join(OUTPUT_DIR, f'placebo_coef_{b:03d}.npy')
-    coef_b = np.load(coef_path)
-    coef_placebo_list.append(coef_b)
-    # alpha 可能部分缺失，重新估算或设为 NaN
-    alphas_placebo.append(np.nan)  # 或跳过记录
+    coef_placebo[b] = np.load(os.path.join(PLACEBO_CACHE_DIR, f'coef_placebo_{b}.npy'))
 
-coef_placebo = np.stack(coef_placebo_list)
-
-
-# ============ 5. 计算阈值 tau ============
+# ============ 5. 计算阈值 ============
 tau = np.percentile(np.abs(coef_placebo), TAU_PCT, axis=0)
 
-# 保存 Placebo alphas 分布
-pd.Series(alphas_placebo).to_csv(os.path.join(OUTPUT_DIR, 'placebo_alphas.csv'), index=False)
-
 # ============ 6. 真标签 Lasso ============
-coef_true, alpha_true = run_lasso_cv(X, y_true)
-print(f"真实数据最佳 alpha: {alpha_true:.6f}")
+coef_true = run_lasso(X, y_true)
 
-# ============ 7. 筛选超阈值特征 ============
+# ============ 7. 筛选重要特征 ============
 selected_idx = np.where(np.abs(coef_true) > tau)[0]
 print(f"超出 Placebo 阈值的特征数量: {len(selected_idx)}")
 
-# ============ 8. 输出结果表格 ============
+# ============ 8. 保存结果表格 ============
 features = vectorizer.get_feature_names_out()
 results_df = pd.DataFrame({
     'feature': features,
@@ -125,27 +108,51 @@ results_df = pd.DataFrame({
     'tau_placebo': tau
 })
 results_df['selected'] = np.abs(results_df['coef_true']) > results_df['tau_placebo']
+
 results_df.to_csv(os.path.join(OUTPUT_DIR, 'lasso_placebo_results.csv'), index=False)
-results_df[results_df['selected']].sort_values(by='coef_true', key=lambda s: np.abs(s), ascending=False).to_csv(os.path.join(OUTPUT_DIR, 'selected_features.csv'), index=False)
+results_df[results_df['selected']] \
+    .sort_values(by='coef_true', key=lambda s: np.abs(s), ascending=False) \
+    .to_csv(os.path.join(OUTPUT_DIR, 'selected_features.csv'), index=False)
 
 # ============ 9. 可视化示例 ============
 if len(selected_idx) > 0:
-    j = selected_idx[0]  # 示例第一个被选特征
-    plt.figure(figsize=(8, 4))
-    plt.hist(coef_placebo[:, j], bins=30, density=True)
-    plt.axvline(coef_true[j], color='red', linestyle='--',
-                label=f'True coef={coef_true[j]:.3f}')
-    plt.axvline(-tau[j], color='gray', linestyle=':', label=f'±{TAU_PCT}%阈值')
-    plt.axvline(tau[j], color='gray', linestyle=':')
-    plt.title(f"特征 '{features[j]}' Placebo vs 真系数对比")
-    plt.xlabel('Coefficient')
-    plt.ylabel('Density')
+    # 构建可视化数据
+    selected_features_df = results_df[results_df['selected']].copy()
+    selected_features_df['abs_coef'] = selected_features_df['coef_true'].abs()
+    selected_features_df = selected_features_df.sort_values(by='abs_coef', ascending=True)
+
+    # 可选：限制最多显示前N个（按绝对值排序）
+    N_SHOW = 30
+    if len(selected_features_df) > N_SHOW:
+        selected_features_df = selected_features_df.tail(N_SHOW)
+
+    fig_height = 0.35 * len(selected_features_df)
+    plt.figure(figsize=(8, fig_height))
+
+    # 绘制散点图
+    plt.scatter(selected_features_df['coef_true'], selected_features_df['feature'], s=60, color='dodgerblue', label='True Coef')
+
+    # 添加阈值区间线（上下）
+    plt.axvline(x=0, linestyle='--', color='black')
+    plt.axvline(x=+tau.max(), linestyle=':', color='gray', label=f'+{TAU_PCT}th placebo threshold')
+    plt.axvline(x=-tau.max(), linestyle=':', color='gray', label=f'-{TAU_PCT}th placebo threshold')
+
+    # 美化样式
+    plt.grid(axis='x', linestyle='--', linewidth=0.5, alpha=0.7)
+    plt.xlabel('Lasso Coefficient', fontsize=12)
+    plt.ylabel('Feature (adj/adv)', fontsize=12)
+    plt.title(f'Placebo-Filtered Features (Total Selected = {len(selected_idx)})', fontsize=14)
+    plt.yticks(fontsize=9)
     plt.legend()
     plt.tight_layout()
-    plt.savefig(os.path.join(OUTPUT_DIR, f'coef_compare_{features[j]}.png'), dpi=300)
+
+    # 保存图像
+    fig_path = os.path.join(OUTPUT_DIR, 'selected_features_plot.png')
+    plt.savefig(fig_path, dpi=300, bbox_inches='tight')
     plt.close()
-    print(f"可视化已保存：{os.path.join(OUTPUT_DIR, f'coef_compare_{features[j]}.png')}")
+    print(f"可视化已保存：{fig_path}")
 else:
     print("无特征超出阈值，无可视化展示。")
+     
 
 print("Placebo 检验全流程完成。所有输出保存在 output 文件夹中。")

@@ -36,6 +36,7 @@ venv/
 *.tar.gz
 *.mp4
 *.pdf
+output/placebo_cache/
 
 .vscode/
 
