@@ -230,10 +230,13 @@ def analyze_stability_results():
     plt.figure(figsize=(15, 8))
     sns.heatmap(
         stats.xs("std", axis=1, level=1).T,
-        annot=True, fmt=".2f",
-        cmap="YlGnBu"
+        annot=False,
+        cmap="YlGnBu",
+        cbar=True
     )
     plt.title("Standard Deviation Heatmap (Columns: Samples, Rows: Dimensions)")
+    plt.xticks([], [])
+    plt.yticks([], [])
     plt.show()
 
 # 在原有代码后添加调用（确保原有流程被注释）
