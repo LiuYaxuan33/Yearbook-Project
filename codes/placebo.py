@@ -4,14 +4,14 @@ import spacy
 import pandas as pd
 import numpy as np
 from sklearn.feature_extraction.text import CountVectorizer
-from sklearn.linear_model import LassoCV
+from sklearn.linear_model import Lasso
 import matplotlib.pyplot as plt
 from tqdm import tqdm
 
 # ============ 参数配置 ============
 JSON_PATH = 'all_data_use_labeled.json'
 OUTPUT_DIR = 'output'
-B = 100  # Placebo 随机实验次数
+B = 10  # Placebo 随机实验次数
 TAU_PCT = 95  # 阈值分位数
 CV_FOLDS = 5  # LassoCV 折数
 RANDOM_STATE = 42
@@ -56,32 +56,27 @@ X = vectorizer.fit_transform(df['comment'])  # (n_samples, n_features)
 print(f"Feature matrix shape: {X.shape}")
 
 # ============ 3. Lasso 训练函数 ============
-def run_lasso_cv(X, y, cv=CV_FOLDS, random_state=RANDOM_STATE):
+def run_lasso(X, y, cv=CV_FOLDS, random_state=RANDOM_STATE):
     """使用 LassoCV 自动选 alpha，返回系数和最佳 alpha"""
-    lasso_cv = LassoCV(cv=cv, random_state=random_state, n_jobs=-1, max_iter=10000)
-    lasso_cv.fit(X, y)
-    return lasso_cv.coef_, lasso_cv.alpha_
+    lasso = Lasso(alpha = 0.0008, max_iter=10000)
+    lasso.fit(X, y)
+    return lasso.coef_
 
 # ============ 4. Placebo 实验 ============
 n_samples, n_features = X.shape
 coef_placebo = np.zeros((B, n_features))
-alphas_placebo = []
 for b in tqdm(range(B), desc="Placebo Lasso runs"):
     # 随机打乱标签
     y_b = np.random.permutation(ny_placebo)
-    coef_b, alpha_b = run_lasso_cv(X, y_b)
+    coef_b= run_lasso(X, y_b)
     coef_placebo[b, :] = coef_b
-    alphas_placebo.append(alpha_b)
 
 # ============ 5. 计算阈值 tau ============
 tau = np.percentile(np.abs(coef_placebo), TAU_PCT, axis=0)
 
-# 保存 Placebo alphas 分布
-pd.Series(alphas_placebo).to_csv(os.path.join(OUTPUT_DIR, 'placebo_alphas.csv'), index=False)
 
 # ============ 6. 真标签 Lasso ============
-coef_true, alpha_true = run_lasso_cv(X, y_true)
-print(f"真实数据最佳 alpha: {alpha_true:.6f}")
+coef_true = run_lasso(X, y_true)
 
 # ============ 7. 筛选超阈值特征 ============
 selected_idx = np.where(np.abs(coef_true) > tau)[0]
@@ -107,7 +102,7 @@ if len(selected_idx) > 0:
                 label=f'True coef={coef_true[j]:.3f}')
     plt.axvline(-tau[j], color='gray', linestyle=':', label=f'±{TAU_PCT}%阈值')
     plt.axvline(tau[j], color='gray', linestyle=':')
-    plt.title(f"特征 '{features[j]}' Placebo vs 真系数对比")
+    plt.title(f"feature '{features[j]}' Placebo vs True coef comparison")
     plt.xlabel('Coefficient')
     plt.ylabel('Density')
     plt.legend()

@@ -63,22 +63,45 @@ def run_lasso_cv(X, y, cv=CV_FOLDS, random_state=RANDOM_STATE):
     lasso_cv.fit(X, y)
     return lasso_cv.coef_, lasso_cv.alpha_
 
-# ============ 4. Placebo 实验（并行加速） ============
-def lasso_placebo_single_run(X, y_base, seed_offset=0):
-    """对一次打乱后的标签运行 LassoCV"""
+# ============ 4. Placebo 实验（支持断点续跑） ============
+def lasso_placebo_single_run_and_save(X, y_base, b):
+    """对一次打乱后的标签运行 LassoCV，并保存结果"""
+    filename = os.path.join(OUTPUT_DIR, f'placebo_coef_{b:03d}.npy')
+    if os.path.exists(filename):
+        return None  # 已存在，跳过
     y_perm = np.random.permutation(y_base)
-    coef, alpha = run_lasso_cv(X, y_perm, random_state=RANDOM_STATE + seed_offset)
-    return coef, alpha
+    coef, alpha = run_lasso_cv(X, y_perm, random_state=RANDOM_STATE + b)
+    np.save(filename, coef)
+    return alpha
 
-print("开始并行运行 Placebo 实验...")
-results = Parallel(n_jobs=-1, verbose=10)(
-    delayed(lasso_placebo_single_run)(X, ny_placebo, seed_offset=b)
-    for b in range(B)
-)
+print("检查已完成的 Placebo 实验...")
 
-# 拆解结果
-coef_placebo = np.array([r[0] for r in results])
-alphas_placebo = [r[1] for r in results]
+# 查看已有结果
+existing_files = set(f for f in os.listdir(OUTPUT_DIR) if f.startswith("placebo_coef_") and f.endswith(".npy"))
+finished_indices = {int(f.split('_')[-1].split('.')[0]) for f in existing_files}
+to_run = [b for b in range(B) if b not in finished_indices]
+
+print(f"总共需要运行 {B} 次 Placebo，已完成 {len(finished_indices)} 次，剩余 {len(to_run)} 次")
+
+# 并行运行剩余部分
+if len(to_run) > 0:
+    alphas_placebo_partial = Parallel(n_jobs=-1, verbose=10)(
+        delayed(lasso_placebo_single_run_and_save)(X, ny_placebo, b)
+        for b in to_run
+    )
+
+# 合并所有系数和 alpha
+coef_placebo_list = []
+alphas_placebo = []
+for b in range(B):
+    coef_path = os.path.join(OUTPUT_DIR, f'placebo_coef_{b:03d}.npy')
+    coef_b = np.load(coef_path)
+    coef_placebo_list.append(coef_b)
+    # alpha 可能部分缺失，重新估算或设为 NaN
+    alphas_placebo.append(np.nan)  # 或跳过记录
+
+coef_placebo = np.stack(coef_placebo_list)
+
 
 # ============ 5. 计算阈值 tau ============
 tau = np.percentile(np.abs(coef_placebo), TAU_PCT, axis=0)
