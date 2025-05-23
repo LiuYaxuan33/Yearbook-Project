@@ -1,14 +1,14 @@
 [
 {
-   "Ability & Competence":
+   "Ability_and_Competence":
       ["intelligence", "grindstone", "creativity", "leader", "achievement"],
-   "Character/Morality":
+   "Character_or_Morality":
       ["honesty", "royalty", "justice", "trust", "sympathy", "dominant_personality", "politeness"],
    "Appearance":
       ["attractive", "neatness", "strength", "body", "physical_features", "beauty"],
-   "Social Relations":
+   "Social_Relations":
       ["friends", "outgoing", "cooperativeness", "humor", "communication"],
-   "Activities Engagement":
+   "Activities_Engagement":
       ["sports", "art", "music", "school", "clubs"]
 }
 ,

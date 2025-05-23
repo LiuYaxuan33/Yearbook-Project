@@ -6,6 +6,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.feature_extraction.text import TfidfVectorizer
 import os
+import statsmodels.api as sm
+import statsmodels.formula.api as smf
 
 # —— 可切换：是否使用所有 Empath 类别 ——
 USE_ALL_CATEGORIES = False  # True: 全量类别, False: 自定义子集
@@ -26,19 +28,25 @@ EJ_REFERENCE_CATEGORIES = [
 
 MODEL = "fiction"
 
-
+ALL_LABELS = [
+    "is_agriculture",
+    "is_home economics",
+    "is_science",
+    "is_engineering",
+    "is_music",
+    "is_education",
+    "is_veterinary"]
 
 # 文件路径
 DATA_PATH = 'all_data_use_labeled.json'
-SAVE_PATH = 'new_empath_tfidf_emotion_scores.csv'
+SAVE_PATH = '0523_empath_tfidf_emotion_scores.csv'
 
 # 1️⃣ 读取数据
 with open(DATA_PATH, 'r', encoding='utf-8') as f:
     data = json.load(f)
 
 comments = [entry['comment'].lower() for entry in data]
-names    = [entry['name'] for entry in data]
-genders  = [entry['gender'] for entry in data]
+
 
 # 2️⃣ Empath 初始化
 lexicon = Empath()
@@ -69,11 +77,26 @@ for idx, entry in enumerate(data):
     scores = {}
     for cat in empath_categories:
         # 累加类别中所有词的 TF-IDF 值
-        scores[f'{cat}_'] = sum(
+        scores[cat] = sum(
             tfidf_scores.get(word, 0.0) for word in category_words[cat]
         )
     scores['name']   = name
     scores['gender'] = gender
+    for labels in ALL_LABELS:
+        if entry[labels] == 1:
+            scores[labels.replace(" ", "_")] = 1
+        else:
+            scores[labels.replace(" ", "_")] = 0
+    if "Iowa" in entry['hometown']:
+        scores['hometown_Iowa'] = 1
+    else:
+        scores['hometown_Iowa'] = 0
+    for key, value in framework.items():
+        sum_value = 0
+        for cat in value:
+            sum_value += scores[cat]
+        scores[key + "_mean"] = sum_value/len(value)
+    # 计算 Empath 参考类别的 TF-IDF 加权得分
     results.append(scores)
 
 # 5️⃣ DataFrame
@@ -87,14 +110,17 @@ gender_summary = df.groupby('gender')[emotion_cols].mean()
 print(gender_summary)
 
 # 7️⃣ 可视化：条形图
-gender_summary.T.plot(
-    kind='bar', figsize=(12,6),
-    title='Empath TF-IDF Weighted Dimensions by Gender'
-)
-plt.ylabel('TF-IDF Weighted Sum')
-plt.xticks(rotation=45)
-plt.tight_layout()
-plt.show()
+def plot_bar(df_grouped, title):
+    df_grouped.plot(
+        kind='bar', figsize=(12,6),
+        title=title
+    )
+    plt.ylabel('TF-IDF Weighted Sum')
+    plt.xticks(rotation=45)
+    plt.tight_layout()
+    plt.show()
+
+#plot_bar(gender_summary, 'Empath TF-IDF Weighted Dimensions by Gender')
 
 # 8️⃣ 可视化：雷达图
 def plot_radar(df_grouped, title):
@@ -117,5 +143,63 @@ def plot_radar(df_grouped, title):
     plt.tight_layout()
     plt.show()
 
-plot_radar(gender_summary, 'Empath TF-IDF Weighted Dimensions by Gender')
+#plot_radar(gender_summary, 'Empath TF-IDF Weighted Dimensions by Gender')
+
+
+
+# ✅ 提取专业和籍贯变量名
+major_vars = [col for col in df.columns if col.startswith("is_") and col != "is_female"]  # 注意 gender 不以 is_ 开头
+hometown_vars = ["hometown_Iowa"]
+
+# ✅ 构造交互项：专业 × 性别
+for major in major_vars:
+    interaction_col = f"{major}_x_gender"
+    df[interaction_col] = df[major] * df["gender"]
+
+# ✅ 构建自变量列表
+independent_vars = major_vars + [f"{m}_x_gender" for m in major_vars] + ["gender"] + hometown_vars
+
+# ✅ 因变量（子类别得分 + 大类别均值得分）
+emotion_cols = CUSTOM_CATEGORIES
+major_cat_cols = [f"{cat}_mean" for cat in framework.keys()]
+
+# ✅ 拟合 OLS 回归并保存结果
+ols_results = {}
+
+for target in emotion_cols + major_cat_cols:
+    formula = f"{target} ~ " + " + ".join(independent_vars)
+    model = smf.ols(formula, data=df).fit()
+    ols_results[target] = model
+
+summary_data = []
+
+for target, model in ols_results.items():
+    for var in model.params.index:
+        coef = model.params[var]
+        std_err = model.bse[var]
+        p_val = model.pvalues[var]
+
+        if p_val < 0.01:
+            significance = '***'
+        elif p_val < 0.05:
+            significance = '**'
+        elif p_val < 0.1:
+            significance = '*'
+        else:
+            significance = ''
+
+        summary_data.append({
+            'Dependent Variable': target,
+            'Variable': var,
+            'Coefficient': coef,
+            'Std. Error': std_err,
+            'p-value': p_val,
+            'Significance': significance
+        })
+
+regression_summary_df = pd.DataFrame(summary_data)
+
+
+# 导出为 CSV
+regression_summary_df.to_csv("0523_tfidf_regression_detailed_summary.csv", index=False)
 
