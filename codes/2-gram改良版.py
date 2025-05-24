@@ -48,7 +48,8 @@ def generate_features(texts):
     for doc in nlp.pipe(texts, batch_size=50):
         # 先构造一个布尔数组，标记每个 token 是否“有效”
         valid_mask = [
-            (not token.is_punct
+            (not token.is_stop
+             and not token.is_punct
              and token.text.lower() not in BLACKLIST)
             for token in doc
         ]
@@ -81,7 +82,7 @@ def generate_features(texts):
 
 print(2)
 # 2. 加载数据
-with open('all_data_use.json', 'r', encoding='utf-8') as f:
+with open('all_data_use_labeled.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
 df = pd.DataFrame(data)
 df['F'] = df['gender'].map({'Male': 1, 'Female': 0})
