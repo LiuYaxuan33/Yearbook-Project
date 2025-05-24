@@ -7,6 +7,9 @@ import time
 from tqdm import tqdm
 from dotenv import load_dotenv
 import os
+import matplotlib.pyplot as plt
+import numpy as np
+
 
 load_dotenv()  # 加载.env文件中的环境变量
 
@@ -19,9 +22,18 @@ client = openai.OpenAI(
 )
 
 # 分析维度
-CUSTOM_CATEGORIES = [
-    "ability","grindstone","school","standout","citizenship","positive_emotion","college","shape_and_size","friends","trust","appearance","work"
-]
+with open("dimensions.json", "r", encoding="utf-8") as f0:
+    dimension_all = json.load(f0)
+
+framework = dimension_all[0]
+NEW_WORDS = dimension_all[1]
+
+CUSTOM_CATEGORIES = []
+
+for key, value in framework.items():
+    CUSTOM_CATEGORIES.extend(value)
+
+print(f"Using {len(CUSTOM_CATEGORIES)} custom categories for analysis.")
 
 # Prompt 构建
 def make_prompt(comment):
@@ -48,7 +60,7 @@ def analyze_comment(comment):
             messages=[
                 {"role": "user", "content": make_prompt(comment)}
             ],
-            temperature=0.2
+            temperature=0
         )
         text = response.choices[0].message.content  # 新属性访问方式
         text = re.sub(r'^```(?:json)?\s*', '', text)
@@ -62,7 +74,7 @@ def analyze_comment(comment):
         return {dim: 0 for dim in CUSTOM_CATEGORIES}
 
 # 🔄 处理批次
-def process_batch(students, processed_names, batch_size=100, save_path="deepseek_emotion_scores.csv"):
+def process_batch(students, processed_names, batch_size=100, save_path="output_/output_dpsk/deepseek.csv"):
     results = []
 
     for student in tqdm(students, desc="Processing comments"):
@@ -89,12 +101,12 @@ def process_batch(students, processed_names, batch_size=100, save_path="deepseek
 
 
 # 📥 读取数据
-with open("all_data_use.json", "r", encoding="utf-8") as f:
+with open("all_data_use_labeled.json", "r", encoding="utf-8") as f:
     students = json.load(f)
 
 # 📂 已完成记录
 processed_names = set()
-save_file = "deepseek_emotion_scores.csv"
+save_file = "output_/output_dpsk/deepseek.csv"
 if os.path.exists(save_file):
     processed = pd.read_csv(save_file)
     processed_names = set(processed["name"].unique())
@@ -102,37 +114,5 @@ if os.path.exists(save_file):
 # 🔁 开始处理
 process_batch(students, processed_names, batch_size=100, save_path=save_file)
 
-# 📊 汇总并绘制雷达图
-df = pd.read_csv(save_file)
-meta_cols = ['name', 'gender', 'year']
-emotion_cols = [col for col in df.columns if col not in meta_cols]
-gender_grouped = df.groupby("gender")[emotion_cols].mean()
-
-# 🎯 雷达图绘制
-import matplotlib.pyplot as plt
-import numpy as np
-
-def plot_radar(df_grouped, title):
-    labels = df_grouped.columns.tolist()
-    num_vars = len(labels)
-    angles = np.linspace(0, 2 * np.pi, num_vars, endpoint=False).tolist()
-    angles += angles[:1]
-
-    fig, ax = plt.subplots(figsize=(8, 6), subplot_kw=dict(polar=True))
-
-    for idx, (label, row) in enumerate(df_grouped.iterrows()):
-        values = row.tolist()
-        values += values[:1]
-        ax.plot(angles, values, label=label)
-        ax.fill(angles, values, alpha=0.1)
-
-    ax.set_theta_offset(np.pi / 2)
-    ax.set_theta_direction(-1)
-    ax.set_thetagrids(np.degrees(angles[:-1]), labels)
-    ax.set_title(title, fontsize=14)
-    ax.legend(loc='upper right', bbox_to_anchor=(1.3, 1.1))
-    plt.tight_layout()
-    plt.show()
-
-# 📈 绘图
-plot_radar(gender_grouped, "Gender-based Emotion Dimension Scores (DeepSeek-V3)")
+# ✅ 完成
+print("所有评论分析完成！结果已保存到", save_file)

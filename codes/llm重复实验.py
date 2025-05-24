@@ -114,8 +114,8 @@ if os.path.exists(save_file):
 STABILITY_CONFIG = {
     "num_samples": 100,      # 随机抽取样本数量
     "num_runs": 10,        # 每个样本重复次数
-    "results_file": "0520_stability_results.csv",  # 结果存储文件
-    "samples_file": "0520_stability_samples.json", # 抽样记录文件
+    "results_file": "output_/output_llm_repeat/0520_stability_results.csv",  # 结果存储文件
+    "samples_file": "output_/output_llm_repeat/0520_stability_samples.json", # 抽样记录文件
     "sleep_time": 1.2       # API调用间隔
 }
 
@@ -212,20 +212,8 @@ def analyze_stability_results():
     
     # 计算统计指标
     stats = df.groupby("name")[CUSTOM_CATEGORIES].agg(["mean", "std", "sem"])
-    
-    # 维度稳定性分析
-    plt.figure(figsize=(12, 6))
-    sns.boxplot(data=df[CUSTOM_CATEGORIES])
-    plt.title("Score Distribution Across All Runs")
-    plt.xticks(rotation=45)
-    plt.show()
-    
-    # 各维度变异系数分析
-    cv = stats.xs("std", axis=1, level=1).mean() / stats.xs("mean", axis=1, level=1).mean()
-    cv.plot(kind="bar", title="Coefficient of Variation by Dimension")
-    plt.ylabel("CV (std/mean)")
-    plt.show()
-    
+    stats.index.name = None
+
     # 样本稳定性热力图
     plt.figure(figsize=(15, 8))
     sns.heatmap(
@@ -239,9 +227,7 @@ def analyze_stability_results():
     plt.yticks([], [])
     plt.show()
 
-    heatmap_values = stats.xs("std", axis=1, level=1).T
 
-    heatmap_values.to_csv("heatmap_values.csv")
 
 
 # 在原有代码后添加调用（确保原有流程被注释）

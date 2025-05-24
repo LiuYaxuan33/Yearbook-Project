@@ -1,22 +1,37 @@
-
-
-
-
-
 import pandas as pd
 import numpy as np
 from scipy.stats import pearsonr, spearmanr, ttest_rel
 import matplotlib.pyplot as plt
+import json
 
 # 1) 读取 CSV
-df1 = pd.read_csv('/Users/liuyaxuan/Desktop/25Spring/25Spring/RA_YilingZhao/consistence-ds.csv')   # 第一种口径
-df2 = pd.read_csv('/Users/liuyaxuan/Desktop/25Spring/25Spring/RA_YilingZhao/refined-tfidf.csv')   # 第二种口径
+df1 = pd.read_csv('output_/output_dpsk/deepseek_final.csv')   # 第一种口径
+df2 = pd.read_csv('output_/output_sentiment_tfidf/tfidf.csv')   # 第二种口径
 
 # 2) 合并
 df = pd.merge(df1, df2, on=['name', 'gender'], suffixes=('_m1', '_m2'))
+print(df.keys())
+df = df.drop(columns=['name', 'year','gender','is_agriculture', 'is_home_economics',
+       'is_science', 'is_engineering', 'is_music', 'is_education',
+       'is_veterinary', 'hometown_Iowa'])
 
-dims = ['achievement','work','positive_emotion','negative_emotion',
-        'affection','trust','independence','help']
+df = (df-df.min())/(df.max()-df.min())  # 标准化处理
+
+df.to_csv('output_/output_agreement_analysis.csv', index=False, encoding='utf-8-sig')
+
+with open("dimensions.json", "r", encoding="utf-8") as f0:
+    dimension_all = json.load(f0)
+
+framework = dimension_all[0]
+NEW_WORDS = dimension_all[1]
+
+dims = []
+
+for key, value in framework.items():
+    dims.extend(value)
+    dims.append(key + "_mean")  # 添加大类别均值
+
+
 
 # 4) 保存结果的列表
 results = []

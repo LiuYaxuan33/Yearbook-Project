@@ -39,7 +39,7 @@ ALL_LABELS = [
 
 # 文件路径
 DATA_PATH = 'all_data_use_labeled.json'
-SAVE_PATH = '0523_empath_tfidf_emotion_scores.csv'
+SAVE_PATH = 'output_/output_sentiment_tfidf/tfidf.csv'
 
 # 1️⃣ 读取数据
 with open(DATA_PATH, 'r', encoding='utf-8') as f:
@@ -105,7 +105,7 @@ df = pd.DataFrame(results).set_index('name')
 df.to_csv(SAVE_PATH)
 
 # 6️⃣ 按性别计算平均分
-emotion_cols = [c for c in df.columns if c.endswith('_')]
+emotion_cols = [c for c in df.columns if c in CUSTOM_CATEGORIES]
 gender_summary = df.groupby('gender')[emotion_cols].mean()
 print(gender_summary)
 
@@ -146,18 +146,8 @@ def plot_radar(df_grouped, title):
 #plot_radar(gender_summary, 'Empath TF-IDF Weighted Dimensions by Gender')
 
 
-
-# ✅ 提取专业和籍贯变量名
-major_vars = [col for col in df.columns if col.startswith("is_") and col != "is_female"]  # 注意 gender 不以 is_ 开头
-hometown_vars = ["hometown_Iowa"]
-
-# ✅ 构造交互项：专业 × 性别
-for major in major_vars:
-    interaction_col = f"{major}_x_gender"
-    df[interaction_col] = df[major] * df["gender"]
-
 # ✅ 构建自变量列表
-independent_vars = major_vars + [f"{m}_x_gender" for m in major_vars] + ["gender"] + hometown_vars
+independent_vars = ["gender"]
 
 # ✅ 因变量（子类别得分 + 大类别均值得分）
 emotion_cols = CUSTOM_CATEGORIES
@@ -201,5 +191,5 @@ regression_summary_df = pd.DataFrame(summary_data)
 
 
 # 导出为 CSV
-regression_summary_df.to_csv("0523_tfidf_regression_detailed_summary.csv", index=False)
+regression_summary_df.to_csv("output_/output_sentiment_tfidf/no_control_tfidf-regression.csv", index=False)
 
