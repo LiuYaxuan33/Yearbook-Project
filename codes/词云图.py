@@ -20,7 +20,7 @@ def custom_color_func_red(word, font_size, position, orientation, random_state=N
 
 
 # 1. 读取数据
-df = pd.read_csv('/Users/liuyaxuan/Desktop/25Spring/25Spring/RA_YilingZhao/results/lasso-stopwords.csv')
+df = pd.read_csv('output_/output_basic/1-grams.csv')
 
 # 2. 根据系数正负分离词语
 pos_df = df[df['coefficient'] > 0]
@@ -28,7 +28,7 @@ neg_df = df[df['coefficient'] < 0]
 
 # 3. 构造词频字典（使用绝对系数值）
 pos_freq = dict(zip(pos_df['word'], pos_df['coefficient']))
-neg_freq = dict(zip(neg_df['word'], (-neg_df['coefficient'])))
+neg_freq = dict(zip(neg_df['word'], -(neg_df['coefficient'])))
 
 # 4. 配置并生成词云
 wc_pos = WordCloud(

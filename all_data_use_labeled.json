@@ -15689,7 +15689,7 @@
   },
   {
     "name": "Allen, Ami L.",
-    "gender": "Female",
+    "gender": "Male",
     "major": "Dairy",
     "hometown": "Ames, Iowa",
     "clubs": [
@@ -18316,7 +18316,7 @@
   },
   {
     "name": "Keigley, Claire",
-    "gender": "Female",
+    "gender": "Male",
     "major": "Electrical Engineering",
     "hometown": "Ames, Iowa",
     "clubs": [],
@@ -18914,15 +18914,15 @@
   {
     "name": "Nicholson, Lisle H.",
     "gender": "Male",
-    "major": "Home Economics",
+    "major": "Civil Engineering",
     "hometown": "",
     "clubs": [],
     "comment": "\"Nick\" is a noisy lad and likes excitement. He is always busy, either doing something or nothing.",
     "year": 1914,
     "is_agriculture": 0,
-    "is_home economics": 1,
+    "is_home economics": 0,
     "is_science": 0,
-    "is_engineering": 0,
+    "is_engineering": 1,
     "is_music": 0,
     "is_education": 0,
     "is_veterinary": 0
@@ -19481,7 +19481,7 @@
   },
   {
     "name": "Rider, Ola E.",
-    "gender": "Female",
+    "gender": "Male",
     "major": "Animal Husbandry",
     "hometown": "Farmington, Iowa",
     "clubs": [
@@ -20199,7 +20199,7 @@
   },
   {
     "name": "Swift, Aubrey J.",
-    "gender": "Female",
+    "gender": "Male",
     "major": "Animal Husbandry",
     "hometown": "Ridgeway, Pa.",
     "clubs": [
@@ -23945,7 +23945,7 @@
   },
   {
     "name": "Kenneally, Marion H.",
-    "gender": "Female",
+    "gender": "Male",
     "major": "Electrical Engineering",
     "hometown": "Jesup, Iowa",
     "clubs": [
@@ -24466,7 +24466,7 @@
   },
   {
     "name": "McKinsey, Shirley N.",
-    "gender": "Female",
+    "gender": "Male",
     "major": "Agricultural Education",
     "hometown": "Anamosa, Iowa",
     "clubs": [],
@@ -25665,7 +25665,7 @@
   },
   {
     "name": "Rickey, Lacey F.",
-    "gender": "Female",
+    "gender": "Male",
     "major": "Animal Husbandry",
     "hometown": "Oskaloosa, Iowa",
     "clubs": [
@@ -30687,7 +30687,7 @@
   },
   {
     "name": "Lilliard, J. Myrl",
-    "gender": "Male",
+    "gender": "Female",
     "major": "Home Economics",
     "hometown": "Earlham, Iowa",
     "clubs": [
@@ -35133,7 +35133,7 @@
   },
   {
     "name": "French, Franklin F.",
-    "gender": "Male",
+    "gender": "Female",
     "major": "General and Domestic Science",
     "hometown": "Humboldt, Iowa",
     "clubs": [
@@ -37842,7 +37842,7 @@
   },
   {
     "name": "Underwood, Jean R.",
-    "gender": "Female",
+    "gender": "Male",
     "major": "Veterinary",
     "hometown": "Ames, Iowa",
     "clubs": [

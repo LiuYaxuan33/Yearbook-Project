@@ -12,8 +12,8 @@ import glob
 
 # ============ 参数配置 ============
 JSON_PATH = 'all_data_use_labeled.json'
-OUTPUT_DIR = 'output'
-PLACEBO_CACHE_DIR = os.path.join(OUTPUT_DIR, 'placebo_cache')
+OUTPUT_DIR = 'output_/output_placebo/'
+PLACEBO_CACHE_DIR = os.path.join("output", 'placebo_cache')
 B = 10000  # Placebo 实验次数
 TAU_PCT = 95  # 阈值分位数
 RANDOM_STATE = 42
@@ -109,10 +109,10 @@ results_df = pd.DataFrame({
 })
 results_df['selected'] = np.abs(results_df['coef_true']) > results_df['tau_placebo']
 
-results_df.to_csv(os.path.join(OUTPUT_DIR, 'lasso_placebo_results.csv'), index=False)
+results_df.to_csv(os.path.join(OUTPUT_DIR, '1-grams-placebo.csv'), index=False)
 results_df[results_df['selected']] \
     .sort_values(by='coef_true', key=lambda s: np.abs(s), ascending=False) \
-    .to_csv(os.path.join(OUTPUT_DIR, 'selected_features.csv'), index=False)
+    .to_csv(os.path.join(OUTPUT_DIR, '1-grams-placebo-all.csv'), index=False)
 
 # ============ 9. 可视化示例 ============
 if len(selected_idx) > 0:
@@ -147,7 +147,7 @@ if len(selected_idx) > 0:
     plt.tight_layout()
 
     # 保存图像
-    fig_path = os.path.join(OUTPUT_DIR, 'selected_features_plot.png')
+    fig_path = os.path.join(OUTPUT_DIR, '1-grams-placebo.png')
     plt.savefig(fig_path, dpi=300, bbox_inches='tight')
     plt.close()
     print(f"可视化已保存：{fig_path}")

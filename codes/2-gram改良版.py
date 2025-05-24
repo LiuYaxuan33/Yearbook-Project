@@ -130,7 +130,7 @@ result_df = pd.DataFrame({
     'coefficient': coefs_selected
 }).sort_values('coefficient', ascending=False)  # 按系数从大到小排序
 # 输出表格到CSV文件
-result_df.to_csv("new_2-grams.csv", index=False)
+result_df.to_csv("2-grams.csv", index=False)
 
 # 控制台打印结果
 print("\n非零系数特征列表：")
@@ -155,10 +155,10 @@ df_sorted = result_df.sort_values('coefficient')
 n_items = len(df_sorted)
 fig_height = max(8, n_items * 0.3)
 
-save_dir = './figures'
+save_dir = './output_/output_basic/'
 # 确保目录存在
 os.makedirs(save_dir, exist_ok=True)
-save_path = os.path.join(save_dir, f'lasso_coeffs_alpha_{best_alpha:.4f}.png')
+save_path = os.path.join(save_dir, '2-grams.png')
 
 
 # 3. 绘图

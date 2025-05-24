@@ -78,4 +78,4 @@ plt.grid(True, axis='y', linestyle='--', alpha=0.6)
 
 # 展示图形
 plt.show()
-
+plt.savefig('output_/output_basic/descriptive_statistics.png', dpi=300, bbox_inches='tight')
