@@ -124,18 +124,10 @@ male_vals = pivot_df.loc[sorted_majors, 'Male']
 male_se = pivot_se.loc[sorted_majors, 'Male']
 male_n = pivot_count.loc[sorted_majors, 'Male']
 
-bars2 = ax.bar(x, -male_vals, width=width, color='skyblue', label='Male',
+bars2 = ax.bar(x+0.2, -male_vals, width=width, color='skyblue', label='Male',
                yerr=male_se, capsize=5)
 
-# 添加样本数标注
-for i in range(len(x)):
-    # 女生柱子上方
-    ax.text(x[i]+0.2, female_vals[i], f"n={int(female_n[i])}",
-            ha='center', va='bottom', fontsize=8)
-    
-    # 男生柱子下方
-    ax.text(x[i]+0.2, -male_vals[i], f"n={int(male_n[i])}",
-            ha='center', va='top', fontsize=8)
+
 
 # 图表样式
 ax.axhline(0, color='black', linewidth=0.8)

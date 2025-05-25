@@ -87,6 +87,9 @@ def get_major(row):
 
 output_df['major'] = output_df.apply(get_major, axis=1)
 
+
+
+
 # 1. 统计：按专业和性别分组，计算均值和标准误
 grouped_stats = (
     output_df
@@ -127,7 +130,7 @@ male_vals = pivot_df.loc[sorted_majors, 'Male']
 male_se = pivot_se.loc[sorted_majors, 'Male']
 male_n = pivot_count.loc[sorted_majors, 'Male']
 
-bars2 = ax.bar(x, -male_vals, width=width, color='skyblue', label='Male',
+bars2 = ax.bar(x+0.5, -male_vals, width=width, color='skyblue', label='Male',
                yerr=male_se, capsize=5)
 
 # 添加样本数标注
@@ -150,3 +153,4 @@ ax.legend()
 plt.tight_layout()
 plt.savefig("output_/output_bleemer/genderness in majors-median.png")
 plt.show()
+output_df.to_csv("output_/output_bleemer/genderness_in_majors-median.csv", index=False)

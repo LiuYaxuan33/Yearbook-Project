@@ -1,0 +1,2108 @@
+name,gender,predicted_gender_score,standardized_pred,is_agriculture,is_home economics,is_science,is_engineering,is_music,is_education,is_veterinary,major
+"Abramson, John",Male,0.0175651317970707,-0.1047036500541094,0,0,0,1,0,0,0,engineering
+"Ahlbrecht, Louise",Female,0.3577883258265679,0.1745249481643111,0,1,0,0,0,0,0,home economics
+"Amondson, Owen L.",Male,-0.015630348567958,-0.1319479050378259,0,0,0,1,0,0,0,engineering
+"Anderson, May",Female,0.2510909323143828,0.0869560694200135,0,1,0,0,0,0,0,home economics
+Apple Alfred B.,Male,0.1315985948139091,-0.0111138990113769,0,0,0,1,0,0,0,engineering
+Arnold Maude,Female,0.2960742582256415,0.1238748664268812,0,0,1,0,0,0,0,science
+Baker Guy A.,Male,0.0829399565502671,-0.0510491050526088,0,0,0,1,0,0,0,engineering
+Baker Osmon D.,Male,0.1326276939251063,-0.0102692949182694,1,0,0,0,0,0,0,agriculture
+Baldwin W. Howard,Male,0.1455535039565151,0.0003391993856048,0,0,0,1,0,0,0,engineering
+Ballard Fred S.,Male,-0.0123974458650578,-0.1292945912551415,0,0,0,0,0,0,1,veterinary
+Barrett Robert L.,Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+Barry Russell J.,Male,0.2928704445422007,0.1212454266371218,0,0,0,1,0,0,0,engineering
+"Bashford, L. G.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Baxter, R. B.",Male,0.1326276939251063,-0.0102692949182694,1,0,0,0,0,0,0,agriculture
+"Beardshear, Charles",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Beardshear, William",Male,0.1451402099776044,0.0,0,0,1,0,0,0,0,science
+"Beinhart, Ernest G.",Male,0.1185785046376215,-0.0217997710871267,1,0,0,0,0,0,0,agriculture
+"Beitel, Ashley H.",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Beiter, Grover C.",Male,0.0448308862815419,-0.082326050473387,0,0,0,1,0,0,0,engineering
+"Benbow, Fred M.",Male,0.0836179858359791,-0.0504926316248037,0,0,0,1,0,0,0,engineering
+"Benson, Arthur W.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Beresford, Rex",Male,0.1853055220120506,0.032964547900316,1,0,0,0,0,0,0,agriculture
+"Beverly, A. LEE",Male,0.1281219959913578,-0.0139672195163412,0,0,0,0,0,0,1,veterinary
+"Bevins, Noel O.",Male,0.1451402099776044,0.0,0,0,0,0,0,0,1,veterinary
+"Blair, James R.",Male,0.3369018649664977,0.1573829740424773,0,0,0,1,0,0,0,engineering
+"Blake, Fred",Male,0.1196306580423103,-0.0209362458323597,1,0,0,0,0,0,0,agriculture
+"Born, A. LEE",Male,0.1451402099776044,0.0,0,0,0,0,0,0,1,veterinary
+"Brennan, Regina",Female,0.0753993617785066,-0.0572378357000239,0,1,0,0,0,0,0,home economics
+"Bristol, Fred T.",Male,0.1071181419898122,-0.0312055407506291,0,0,0,1,0,0,0,engineering
+"Brown, Evelyn H.",Male,0.2960742582256415,0.1238748664268812,0,0,0,1,0,0,0,engineering
+"Brown, Florence",Female,0.1451402099776044,0.0,0,0,0,0,1,0,0,music
+"Brown, Joseph D.",Male,0.2446594493277339,0.0816776110128778,0,0,0,1,0,0,0,engineering
+"Brown, Roy E.",Male,0.1863346211232479,0.0338091519934235,0,0,0,0,0,0,1,veterinary
+"Brown, Seth A.",Male,0.1524018527446173,0.0059597886510351,0,0,0,1,0,0,0,engineering
+"Brush, George P.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Buck, Floyd L.",Male,0.0816031071889303,-0.0521462864904002,0,0,0,0,0,0,1,veterinary
+"Burgeson, J. Alvin",Male,0.0641186698556946,-0.066496145679524,0,0,0,1,0,0,0,engineering
+"Burkhalter, Carl S.",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Burling, Helen Alice",Female,0.3479644445751065,0.1664622744870075,0,0,1,0,0,0,0,science
+"Burlingame, J. Homer",Male,0.1454481088491756,0.0002526993215354,0,0,0,1,0,0,0,engineering
+"Cameron, Hurst M.",Male,0.1449766808696249,-0.0001342119067433,0,0,0,0,0,0,1,veterinary
+"Cameron, William D.",Male,0.0999743742293903,-0.0370685868119967,0,0,0,1,0,0,0,engineering
+"Capper, Charles",Male,0.1760194374297472,0.0253432556828622,0,0,0,1,0,0,0,engineering
+"Cassady, Edward M.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Chalmers, David J.",Male,0.0816031071889303,-0.0521462864904002,0,0,0,0,0,0,1,veterinary
+"Chapman, Evan A.",Male,0.2819177900029587,0.1122563440953301,0,0,1,0,0,0,0,science
+"Clapper, Lyle.",Male,0.1357035618642806,-0.0077448629923081,0,0,0,1,0,0,0,engineering
+"Clark, Clarissa A.",Female,0.2376319278485552,0.0759099708107498,0,0,1,0,0,0,0,science
+"Clark, Giles W.",Male,0.1232158472794539,-0.0179938028049494,0,0,0,1,0,0,0,engineering
+"Cockerell, B. Fred",Male,0.0575416521321944,-0.0718940476204229,0,0,0,1,0,0,0,engineering
+"Colvin, Robert C.",Male,0.3085867742781396,0.1341441613451506,0,0,0,1,0,0,0,engineering
+"Cooley, Clark H.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Cort, E. G.",Male,0.0889941755327129,-0.0460802754447452,1,0,0,0,0,0,0,agriculture
+Creel Salvador,Male,0.0889941755327129,-0.0460802754447452,1,0,0,0,0,0,0,agriculture
+Danger Harry C.,Male,0.05734340233404,-0.0720567555551175,1,0,0,0,0,0,0,agriculture
+Davenport William E.,Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Davidson, Rex J.",Male,0.1326276939251063,-0.0102692949182694,1,0,0,0,0,0,0,agriculture
+"Davis, E. C.",Male,0.2303322762473603,0.0699189874802371,1,0,0,0,0,0,0,agriculture
+"Davis, Orrin L.",Male,0.0889941755327129,-0.0460802754447452,0,0,0,1,0,0,0,engineering
+"Deacon, Elizabeth",Female,0.2446594493277339,0.0816776110128778,0,0,1,0,0,0,0,science
+"Dean, Myrtle D.",Female,0.3762609309370584,0.1896858182077494,0,1,0,0,0,0,0,home economics
+"Deemer, Elizabeth",Female,0.5391219211595307,0.3233493861311701,0,0,1,0,0,0,0,science
+Deemer Edward H.,Male,0.1326276939251063,-0.0102692949182694,1,0,0,0,0,0,0,agriculture
+Dickey Walter N.,Male,0.2833541473246417,0.1134351938872098,0,0,0,1,0,0,0,engineering
+"Dodds, John S.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Doerr, John",Male,0.0280435607698757,-0.0961037747811909,0,0,0,0,0,0,1,veterinary
+"Dornbach, William E.",Male,0.0583910412921252,-0.0711969354051727,0,0,0,1,0,0,0,engineering
+"Doughty, Lorin H.",Male,0.1196306580423103,-0.0209362458323597,0,0,0,1,0,0,0,engineering
+"Dowson, Harry R.",Male,0.0863427063525749,-0.0482563940497721,0,0,0,1,0,0,0,engineering
+"Duval, Eugene C.",Male,0.246403805164124,0.0831092419055885,0,0,0,1,0,0,0,engineering
+"Easter, Mary",Female,0.5423539425813281,0.3260019766272259,0,1,0,0,0,0,0,home economics
+"Eastwold, Oscar A.",Male,0.3708218677037061,0.1852218603444338,0,0,0,1,0,0,0,engineering
+"Edgecomb, Rex E.",Male,0.1552172686708703,0.0082704619275352,0,0,0,1,0,0,0,engineering
+"Elichling, Henry L.",Male,0.0660711116232557,-0.0648937341231504,1,0,0,0,0,0,0,agriculture
+"Elayda, Inocencio",Male,0.0916801658821961,-0.043875824562865,1,0,0,0,0,0,0,agriculture
+"Elliott, William Robert",Male,0.0879118778310047,-0.0469685407817545,0,0,0,0,0,0,1,veterinary
+"Evans, E. Loyd",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Farnsworth, Edwin P.",Male,0.1453384597757589,0.0001627079346946,1,0,0,0,0,0,0,agriculture
+"Ferm, John F.",Male,0.1196306580423103,-0.0209362458323597,0,0,0,1,0,0,0,engineering
+"Ferguson, Myrtle",Female,0.4011364467108793,0.2101016967291943,0,1,0,0,0,0,0,home economics
+"Fiester, Arch A.",Male,0.1540180309600689,0.0072862213737042,0,0,0,1,0,0,0,engineering
+"Fischer, Austin J.",Male,0.1251703204124269,-0.0163897240626626,0,0,0,1,0,0,0,engineering
+"Fleming, Mabel",Female,0.1451402099776044,0.0,0,0,1,0,0,0,0,science
+"Freed, Oscar F.",Male,0.1423655969991266,-0.0022771854070355,0,0,0,0,0,0,1,veterinary
+Freeman Frank G.,Male,0.087921802517154,-0.0469603953752982,1,0,0,0,0,0,0,agriculture
+Frevert Carl B.,Male,0.1882544426272402,0.0353847913877879,0,0,0,1,0,0,0,engineering
+Fuller John M.,Male,0.1028051296115024,-0.034745324109402,1,0,0,0,0,0,0,agriculture
+Gardner William M.,Male,0.1167698342838922,-0.0232841863074108,1,0,0,0,0,0,0,agriculture
+"Gibson, Earle P.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Gilchrist, Margaret L.",Female,0.3490021291495664,0.1673139248571295,0,0,1,0,0,0,0,science
+"Gilmore, Claude Bertrand",Male,0.3289295940113224,0.1508399573331637,0,0,0,1,0,0,0,engineering
+"Gobble, Carl F.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Goodin, Charles E.",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Goodrich, Ira E.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Greer, James R.",Male,0.1863346211232479,0.0338091519934235,0,0,0,1,0,0,0,engineering
+"Gregg, Roy M.",Male,0.1552172686708703,0.0082704619275352,1,0,0,0,0,0,0,agriculture
+"Haas, Franz",Male,0.1211794400504122,-0.019665126647491,1,0,0,0,0,0,0,agriculture
+"Hammond, F. B. Jr.",Male,0.2376319278485552,0.0759099708107498,1,0,0,0,0,0,0,agriculture
+"Hanchette, Ralph W.",Male,0.1281219959913578,-0.0139672195163412,0,0,0,1,0,0,0,engineering
+"Handy, Don J.",Male,0.0690905911364322,-0.0624155814086697,1,0,0,0,0,0,0,agriculture
+"Hanna, Harvey. E.",Male,0.1182287627061765,-0.0220868119208188,1,0,0,0,0,0,0,agriculture
+"Hanson, B. B.",Male,0.1043143004825499,-0.0335067146489367,0,0,0,1,0,0,0,engineering
+"Hardman, Charles J.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Harter, Ira H.",Male,0.0583910412921252,-0.0711969354051727,0,0,0,1,0,0,0,engineering
+"Hatch, F. E.",Male,0.0278126722952953,-0.0962932699897283,1,0,0,0,0,0,0,agriculture
+"Hatch, Harry C.",Male,0.080869510752689,-0.0527483650909906,0,0,0,1,0,0,0,engineering
+"Havner, Harry",Male,0.2948493026422916,0.1228695186539455,0,0,0,0,0,0,1,veterinary
+"Hill, Alvah F.",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Hill, Frank W.",Male,0.1357035618642806,-0.0077448629923081,0,0,0,1,0,0,0,engineering
+"Hintgen, Leo N.",Male,0.2116010397556642,0.0545458530195085,0,0,0,1,0,0,0,engineering
+"Hise, Fred H.",Male,0.0713625193876849,-0.0605509603246788,0,0,0,1,0,0,0,engineering
+"Hoffman, Arthur F.",Male,0.1043143004825499,-0.0335067146489367,1,0,0,0,0,0,0,agriculture
+"Holcombe, Frank L.",Male,0.2472108019611244,0.083771561783679,1,0,0,0,0,0,0,agriculture
+"Halloway, Gilbert N.",Male,0.0910681879938105,-0.0443780881677966,0,0,0,1,0,0,0,engineering
+"Horcasitas, Fernando",Male,0.0588500033351868,-0.0708202552429483,1,0,0,0,0,0,0,agriculture
+"Horcasitas, Pablo",Male,0.1453384597757589,0.0001627079346946,1,0,0,0,0,0,0,agriculture
+"Hough, Herbert S.",Male,0.1794216392284673,0.0281355169271983,1,0,0,0,0,0,0,agriculture
+"Householder, Harold W.",Male,0.0271160787707726,-0.0968649794933538,0,0,0,0,0,0,1,veterinary
+"Howd, Otto O.",Male,0.0816031071889303,-0.0521462864904002,0,0,0,1,0,0,0,engineering
+"Howe, John L.",Male,0.0879980723403767,-0.0468977990673492,1,0,0,0,0,0,0,agriculture
+"Howes, Ray L.",Male,0.1401682886968668,-0.0040805642708543,0,0,0,1,0,0,0,engineering
+"Hoyt, Edward L.",Male,0.1566651350099235,0.0094587574210706,0,0,0,1,0,0,0,engineering
+"Hungerford, Josephine",Female,0.1451402099776044,0.0,0,0,1,0,0,0,0,science
+"Hunt, Edith",Female,0.1326276939251063,-0.0102692949182694,0,1,0,0,0,0,0,home economics
+"Hurd, Ralph R.",Male,0.1357035618642806,-0.0077448629923081,0,0,0,1,0,0,0,engineering
+"Hutcheson, Charles R.",Male,0.1326276939251063,-0.0102692949182694,1,0,0,0,0,0,0,agriculture
+"Hynes, Bert C.",Male,0.0721664590756064,-0.0598911494827083,0,0,0,1,0,0,0,engineering
+"Jensen, Gene J.",Male,0.0816031071889303,-0.0521462864904002,0,0,0,1,0,0,0,engineering
+"Johnson, Floyd L.",Male,0.1231910458117825,-0.0180141579105776,1,0,0,0,0,0,0,agriculture
+"Jones, R. Glenn",Male,0.4631718286519726,0.2610154881559305,1,0,0,0,0,0,0,agriculture
+"Jones, Margaret",Female,0.1451402099776044,0.0,0,1,0,0,0,0,0,home economics
+"Kammerer, Nelson C.",Male,0.2384892366677943,0.0766135828631829,0,0,0,1,0,0,0,engineering
+"Kelley, James B.",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Kelley, Raymond",Male,0.2738513806886387,0.1056360659807865,0,0,0,1,0,0,0,engineering
+"Kierulff, W. Karl",Male,0.2839926235597362,0.1139592052634176,0,0,0,1,0,0,0,engineering
+"Killey, J. Walter",Male,0.1369998169738223,-0.006680998142637,0,0,0,1,0,0,0,engineering
+"Klippel, Frank H.",Male,0.4841617453446062,0.2782423707367147,0,0,0,1,0,0,0,engineering
+"Koepeke, William C.",Male,0.0583910412921252,-0.0711969354051727,1,0,0,0,0,0,0,agriculture
+"Krall, John A.",Male,0.1301317512894152,-0.0123177694950415,1,0,0,0,0,0,0,agriculture
+"Kyner, Roy E.",Male,0.008914307008059,-0.1118035706993182,0,0,0,0,0,0,1,veterinary
+"Laing, Frank O.",Male,0.0879118778310047,-0.0469685407817545,0,0,0,1,0,0,0,engineering
+"Laird, W. Ray",Male,0.1057162466536784,-0.0323561068390883,0,0,0,0,0,0,1,veterinary
+"Lamb, Eleanor",Female,0.4419850351069702,0.2436270244470124,0,1,0,0,0,0,0,home economics
+"Lamson, John B.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"LaSourd, Glenn M.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Lattimer, Bernard J.",Male,-0.0929428691401133,-0.1953999774506905,0,0,0,0,0,0,1,veterinary
+"Lee, La Verne",Male,0.1068134246279087,-0.0314556289377672,1,0,0,0,0,0,0,agriculture
+"Leerburg, Nis",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Leonard, Arthur C.",Male,0.1502801850851645,0.0042184897130709,0,0,0,1,0,0,0,engineering
+"Linse, Jesse F.",Male,0.1451402099776044,0.0,0,0,0,0,0,0,1,veterinary
+"Lippincott, W. A.",Male,0.0583910412921252,-0.0711969354051727,1,0,0,0,0,0,0,agriculture
+"Long, Fred R.",Male,0.1326276939251063,-0.0102692949182694,1,0,0,0,0,0,0,agriculture
+"Long, George J.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Lovesee, Rosco G.",Male,0.1043143004825499,-0.0335067146489367,0,0,0,0,0,0,1,veterinary
+"Luney, Edmund A.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"McCall, Frank E.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"McCartney, Herbert E.",Male,0.05734340233404,-0.0720567555551175,1,0,0,0,0,0,0,agriculture
+"McCormick, A. Glenn",Male,0.1863346211232479,0.0338091519934235,1,0,0,0,0,0,0,agriculture
+"McCoy, Edward",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"McCulloch, Harry I.",Male,0.0791676498296981,-0.0541451194811345,0,0,0,0,0,0,1,veterinary
+"McCune, Charles E.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"McDonald, Ethel",Female,0.3507592435815281,0.1687560270075886,0,1,0,0,0,0,0,home economics
+"McDonald, Murl",Male,0.0816031071889303,-0.0521462864904002,1,0,0,0,0,0,0,agriculture
+"McElyea, Lew W.",Male,0.1223871061238609,-0.018673968752548,0,0,0,0,0,0,1,veterinary
+"McMillan, J. Gifford",Male,0.1259914196844664,-0.0157158299756243,1,0,0,0,0,0,0,agriculture
+"Macklin, Theodore",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Madson, Sern",Male,0.1935038747629829,0.039693114871986,0,0,0,1,0,0,0,engineering
+"Maine, Harry E.",Male,0.1182918204008252,-0.0220350590950485,0,0,0,1,0,0,0,engineering
+"Malloy, John M.",Male,0.1129098078842131,-0.0264521941904215,0,0,0,1,0,0,0,engineering
+"Manautou, Gregorio",Male,0.1326276939251063,-0.0102692949182694,1,0,0,0,0,0,0,agriculture
+"Manning, Truman W.",Male,0.2098933422463754,0.0531443084156493,0,0,1,0,0,0,0,science
+"Marks, Wilford H.",Male,0.0682445666025847,-0.063109932201885,0,0,0,0,0,0,1,veterinary
+"Martin, Edwin R.",Male,0.0813400757573045,-0.0523621621250693,0,0,0,1,0,0,0,engineering
+"Mayhew, Harry",Male,0.0918017844300518,-0.0437760095672061,1,0,0,0,0,0,0,agriculture
+"Merrill, Andrew H.",Male,-0.0623397348995257,-0.170283317490263,0,0,0,1,0,0,0,engineering
+"Michaelson, T.",Male,0.1043143004825499,-0.0335067146489367,0,0,0,1,0,0,0,engineering
+"Miller, Paul E.",Male,0.1326276939251063,-0.0102692949182694,1,0,0,0,0,0,0,agriculture
+"Mills, Vera",Female,0.2689744749284199,0.1016334830206396,0,0,1,0,0,0,0,science
+"Mobley, Byers",Male,0.1196306580423103,-0.0209362458323597,0,0,0,1,0,0,0,engineering
+"Morris, Fred H.",Male,0.4523809526209984,0.2521591807655048,0,0,0,1,0,0,0,engineering
+"Mose, T.Rupert",Male,0.0662212233165045,-0.0647705341814133,1,0,0,0,0,0,0,agriculture
+"Mosher, Clark L.",Male,0.0753993617785066,-0.0572378357000239,0,0,0,1,0,0,0,engineering
+"Musgrove, Floyd B.",Male,0.1251703204124269,-0.0163897240626626,0,0,0,1,0,0,0,engineering
+"Narvis, C. Stewart",Male,0.1005332013602497,-0.0366099451933929,0,0,0,1,0,0,0,engineering
+"Taylor, Joseph S.",Male,0.0568996829678562,-0.0724209257198686,1,0,0,0,0,0,0,agriculture
+"Eil, James E.",Male,0.1360727570720888,-0.0074418564302795,1,0,0,0,0,0,0,agriculture
+"Nelson, N. Louis",Male,0.095475658852433,-0.0407607806733669,0,0,0,0,0,0,1,veterinary
+"Nichols, Niva G.",Female,0.0674204610273059,-0.0637862936275823,0,0,0,0,1,0,0,music
+"Overly, Frank L.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Palmer, Bert L.",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Palmer, Donald B.",Male,0.0831608531409053,-0.0508678104012224,0,0,0,0,0,0,1,veterinary
+"Palmer, Roy C.",Male,0.1231910458117825,-0.0180141579105776,1,0,0,0,0,0,0,agriculture
+"Parker, Benjamin L.",Male,0.4012491250181066,0.2101941742743143,0,0,0,1,0,0,0,engineering
+"Paulsen, Henry J.",Male,0.0416125539368803,-0.0849674060451737,0,0,0,1,0,0,0,engineering
+"Peterson, George",Male,0.3091715981315069,0.1346241390411048,0,0,0,1,0,0,0,engineering
+"Platts, Charles A. E.",Male,0.1231910458117825,-0.0180141579105776,1,0,0,0,0,0,0,agriculture
+"Porterfield, Ray S.",Male,0.1357035618642806,-0.0077448629923081,0,0,0,0,0,0,1,veterinary
+"Pusch, George W.",Male,0.05734340233404,-0.0720567555551175,0,0,0,1,0,0,0,engineering
+"Quaife, Elvin L.",Male,0.1444066135413631,-0.0006020786005904,1,0,0,0,0,0,0,agriculture
+"Quinn, Allen A.",Male,0.3356678264302363,0.1563701716919182,1,0,0,0,0,0,0,agriculture
+"Quint, Annie L.",Female,0.2930231141131125,0.1213707258848639,0,0,1,0,0,0,0,science
+"Raash, Fred A.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Rector, John U.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Reynoldson, Le Roy A.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Ricketts, Robert A.",Male,0.0720838983891585,-0.0599589088393581,0,0,0,0,0,0,1,veterinary
+"Reis, Sabin",Male,0.1414269307457251,-0.0030475692807156,0,0,0,0,0,0,1,veterinary
+"Robinson, Frank A.",Male,0.1444066135413631,-0.0006020786005904,0,0,0,1,0,0,0,engineering
+"Rogers, Harold C.",Male,0.1131487158747238,-0.0262561171901929,0,0,0,1,0,0,0,engineering
+"Ohwer, Alfred C.",Male,0.061885221148037,-0.0683291857625522,0,0,0,1,0,0,0,engineering
+"Root, Walter H.",Male,0.1224384670181408,-0.0186318157460374,0,0,0,1,0,0,0,engineering
+"Rudnick, Arthur W.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Rush, Gladys",Female,0.6324775899167465,0.3999684202836757,0,0,1,0,0,0,0,science
+"Russell, Leta",Female,0.3209943713205055,0.144327346942716,0,0,1,0,0,0,0,science
+"Schaefer, Charles W.",Male,0.1310648485884811,-0.0115519561836864,0,0,0,1,0,0,0,engineering
+"Schmitt, Walter W.",Male,0.1501822251472324,0.0041380918547521,1,0,0,0,0,0,0,agriculture
+"School, Fred S.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Shohenberger, J. Guy",Male,0.1093900702410649,-0.0293409196666383,0,0,0,0,0,0,1,veterinary
+"Schregardus, Dirk",Male,0.1552172686708703,0.0082704619275352,0,0,0,1,0,0,0,engineering
+"Scott, Floyd A.",Male,0.1006361998222257,-0.0365254121084624,0,0,0,0,0,0,1,veterinary
+"Searle, Mary A.",Female,0.1484143277149331,0.002687139860656,0,1,0,0,0,0,0,home economics
+"Sharp, E. P.",Male,0.1568626416841695,0.0096208554577603,0,0,0,1,0,0,0,engineering
+"Shields, Fred W.",Male,0.0011973678891484,-0.1181370309998628,1,0,0,0,0,0,0,agriculture
+"Shiffer, James A.",Male,0.3370610745227831,0.1575136407989027,0,0,0,1,0,0,0,engineering
+"Simmons, Paul M.",Male,0.1335003059477133,-0.0095531231929521,0,0,0,1,0,0,0,engineering
+"Simms, William H.",Male,0.0816031071889303,-0.0521462864904002,1,0,0,0,0,0,0,agriculture
+"Smith, Percy T.",Male,0.0931757959427399,-0.0426483283410091,1,0,0,0,0,0,0,agriculture
+"Smith, W. Armstrong",Male,0.1357035618642806,-0.0077448629923081,0,0,0,1,0,0,0,engineering
+"Smith, Warren T.",Male,0.3840314912156148,0.1960632865639042,0,0,0,1,0,0,0,engineering
+"Squyer, Albert R.",Male,0.2103177128149728,0.0534925986000755,0,0,0,1,0,0,0,engineering
+"Tafford, Ray R.",Male,0.2869063773415189,0.116350586563454,0,0,0,1,0,0,0,engineering
+"Steigleder, Charles J.",Male,0.0448308862815419,-0.082326050473387,0,0,0,1,0,0,0,engineering
+"Stephens, Marie",Female,0.2964514000435571,0.1241843949452013,0,1,0,0,0,0,0,home economics
+"Stewart, Benjamin James",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Stewart, James E.",Male,0.0633114381423464,-0.0671586583585864,0,0,0,1,0,0,0,engineering
+"Stoddard, Irving W.",Male,0.1602083999379402,0.0123667922532895,0,0,0,1,0,0,0,engineering
+"Stookey, D. D.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Storm, Shirley Snow",Female,0.2081011978098105,0.0516734563761391,0,1,0,0,0,0,0,home economics
+"Stoulil, William G.",Male,0.05734340233404,-0.0720567555551175,0,0,0,1,0,0,0,engineering
+"Tellier, Emma L.",Female,0.1513093953602471,0.0050631850408045,0,1,0,0,0,0,0,home economics
+"Tolstrup, Mogens R.",Male,-0.0470196099496887,-0.1577097566944545,1,0,0,0,0,0,0,agriculture
+"Tompkin, Will I.",Male,0.0764816594802148,-0.0563495703630147,0,0,0,1,0,0,0,engineering
+"Trimele, Charles S.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Tudor, J. M.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Yail, Howard O.",Male,0.1988471371757459,0.044078446911693,1,0,0,0,0,0,0,agriculture
+"Van Auken, Ellsworth W.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Yarella, Joseph B.",Male,0.0583910412921252,-0.0711969354051727,0,0,0,1,0,0,0,engineering
+"Yaughn, Howard",Male,0.0753993617785066,-0.0572378357000239,1,0,0,0,0,0,0,agriculture
+"Yelif, Carlton E.",Male,0.1039175885372004,-0.0338323047978165,0,0,0,1,0,0,0,engineering
+"Walker, Boyd A.",Male,0.1457806205575465,0.000525598935227,0,0,0,1,0,0,0,engineering
+"Walters, Ralph E.",Male,0.2448576991258884,0.0818403189475725,0,0,0,1,0,0,0,engineering
+"Waterman, Charles R.",Male,0.1174151848431233,-0.0227545330234023,0,0,0,1,0,0,0,engineering
+"Watson, Wallace S.",Male,-0.0062462999155297,-0.1242462115706726,0,0,0,1,0,0,0,engineering
+"Weiss, Albert",Male,0.1043143004825499,-0.0335067146489367,1,0,0,0,0,0,0,agriculture
+"Welden, Ernest",Male,0.1444066135413631,-0.0006020786005904,0,0,0,1,0,0,0,engineering
+"Whitham, J. Campbell",Male,0.1401682886968668,-0.0040805642708543,1,0,0,0,0,0,0,agriculture
+"Wichmann, George",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Wilbur, William E.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Willey, Louis E.",Male,0.1043143004825499,-0.0335067146489367,0,0,0,0,0,0,1,veterinary
+"Woodman, Arthur",Male,0.1415055149075708,-0.0029830735445652,0,0,0,1,0,0,0,engineering
+"Woody, Clyde C.",Male,0.05734340233404,-0.0720567555551175,0,0,0,1,0,0,0,engineering
+"Wright, Charles E.",Male,0.1422793862191863,-0.0023479404750511,0,0,0,1,0,0,0,engineering
+"Wylie, Paul E.",Male,0.0466892563906007,-0.080800845579571,0,0,0,1,0,0,0,engineering
+"Zentmire, Zelma",Female,0.3504434801301931,0.1684968730538543,0,0,1,0,0,0,0,science
+"Zimmerman, Arthur G.",Male,0.0928098232417753,-0.0429486901213634,1,0,0,0,0,0,0,agriculture
+"Halverson, H. A.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Lake, Charles C.",Male,0.1898592075813737,0.0367018569978824,1,0,0,0,0,0,0,agriculture
+"McRoberts, Hilton L.",Male,0.0458785252396271,-0.0814662303234422,0,0,0,0,0,0,1,veterinary
+"Adams, D. E.",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Alexander, P. V.",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Anderson, John W.",Male,0.1809913587104848,0.0294238199537165,0,0,0,1,0,0,0,engineering
+"Anderson, A. G.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Amesbury, E. G.",Male,0.0806632798902418,-0.0529176232592785,0,0,0,1,0,0,0,engineering
+"Arthur, Joseph N.",Male,0.0662410716789694,-0.0647542441972933,0,0,0,1,0,0,0,engineering
+"Baker, Jason",Male,0.1357035618642806,-0.0077448629923081,0,0,0,1,0,0,0,engineering
+"Banks, C. H.",Male,0.1451402099776044,0.0,0,0,0,0,0,0,1,veterinary
+"Barret, Ruth",Female,0.2251194117960571,0.0656406758924804,0,0,1,0,0,0,0,science
+"Bass, Elmer A.",Male,0.1043143004825499,-0.0335067146489367,1,0,0,0,0,0,0,agriculture
+"Bass, Howard L.",Male,0.5047601087678466,0.2951478970065267,1,0,0,0,0,0,0,agriculture
+"Baughman, J. T.",Male,0.1451402099776044,0.0,0,0,0,0,0,0,1,veterinary
+"Beaty, Floyd A.",Male,0.1156094799388597,-0.0242365144346107,0,0,0,1,0,0,0,engineering
+"Beckman, H. C.",Male,0.0879118778310047,-0.0469685407817545,0,0,0,1,0,0,0,engineering
+"Bell, Ray A.",Male,0.1453384597757589,0.0001627079346946,1,0,0,0,0,0,0,agriculture
+"Bell, Edward M.",Male,0.3285408086820853,0.1505208727310676,1,0,0,0,0,0,0,agriculture
+"Benton, Eldridge M. A. H.",Male,0.3823798168333033,0.1947077213626495,1,0,0,0,0,0,0,agriculture
+"Biller, Minerva",Female,0.176897973009924,0.0260642890011153,0,1,0,0,0,0,0,home economics
+"Bird, Byron",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Bissell, Elsie K.",Female,0.634371786179819,0.401523028483734,0,1,0,0,0,0,0,home economics
+"Blinn, Ray E.",Male,0.0816031071889303,-0.0521462864904002,0,0,0,1,0,0,0,engineering
+"Boden, Frank Otto",Male,0.0229221130611602,-0.1003070586538054,0,0,0,1,0,0,0,engineering
+"Bosman, Gideon J.",Male,0.2216349617196644,0.0627809116921923,1,0,0,0,0,0,0,agriculture
+"Brady, Electrical Engineering",Male,0.1451402099776044,0.0,0,0,0,0,0,0,1,veterinary
+"Brant, W. O.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Brooks, Ernest C.",Male,0.4744957822928606,0.2703093039713256,0,0,0,1,0,0,0,engineering
+"Brouhard, O. J.",Male,0.1014058133828566,-0.0358937734680755,1,0,0,0,0,0,0,agriculture
+"Brown, Roy G.",Male,0.4968929331005706,0.2886911342929267,0,0,0,0,0,0,1,veterinary
+"Brown, Carrie Leona",Female,0.4117708601022736,0.2188295918176661,0,1,0,0,0,0,0,home economics
+"Buckman, A. W.",Male,0.1451402099776044,0.0,0,0,1,0,0,0,0,science
+"Bysom, Leslie L.",Male,0.1281219959913578,-0.0139672195163412,0,0,0,1,0,0,0,engineering
+"Caldwell, Florence",Female,0.1659857395037321,0.0171083808830408,0,1,0,0,0,0,0,home economics
+"Campbell, A. L.",Male,0.705380452235726,0.4598013899596768,0,0,0,1,0,0,0,engineering
+"Cathcart, C. S.",Male,0.0100837329331225,-0.1108437973284661,0,0,0,1,0,0,0,engineering
+"Chambers, Arnette B.",Male,0.1935038747629829,0.039693114871986,0,0,0,1,0,0,0,engineering
+"Chappel, A. R.",Male,0.1919341552809654,0.0384048118454678,1,0,0,0,0,0,0,agriculture
+"Clark, Hal B.",Male,0.1326276939251063,-0.0102692949182694,1,0,0,0,0,0,0,agriculture
+"Clarkson, L. John",Male,0.134899622176359,-0.0084046738342786,0,0,0,1,0,0,0,engineering
+"Clayton, Pearl",Female,0.4481571459384188,0.2486926104674785,0,0,1,0,0,0,0,science
+"Clemmer, Harold F.",Male,0.1552172686708703,0.0082704619275352,0,0,0,1,0,0,0,engineering
+"Clyde, Flora H.",Female,0.1607170729832243,0.0127842713196165,0,1,0,0,0,0,0,home economics
+"Collins, James V.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Compton, D. Wroe",Male,0.4135270178342808,0.2202709087835997,1,0,0,0,0,0,0,agriculture
+"Cool, C. A.",Male,0.1074193969505086,-0.0309582942317034,0,0,0,1,0,0,0,engineering
+"Cooper, Morton O.",Male,0.1247080520974343,-0.0167691177543959,1,0,0,0,0,0,0,agriculture
+"Corray, Lawrence E.",Male,0.1389661666815891,-0.0050671720362978,0,0,0,1,0,0,0,engineering
+"Craft, Ira C.",Male,0.0583910412921252,-0.0711969354051727,0,0,0,1,0,0,0,engineering
+"Cressler, Merritt W.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Crittenden, Florence",Female,0.3137110343076849,0.1383497533508284,0,1,0,0,0,0,0,home economics
+"Cronin, L. J.",Male,0.157850975828257,0.0104320028529641,1,0,0,0,0,0,0,agriculture
+"Cronin, Maurice J.",Male,0.1178814081901124,-0.0223718933506198,1,0,0,0,0,0,0,agriculture
+"Culp, Opal Adrian",Female,0.3550244303500635,0.1722565588449761,0,1,0,0,0,0,0,home economics
+"Cutler, E. C.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Day, R. M.",Male,0.1818289231894994,0.0301112273953517,1,0,0,0,0,0,0,agriculture
+"Dean, Caroline Mary",Female,0.1326276939251063,-0.0102692949182694,0,1,0,0,0,0,0,home economics
+"De Vault, G. G.",Male,0.246516130207407,0.0832014295192819,0,0,0,1,0,0,0,engineering
+"Doty, Hiram S.",Male,0.1552556887197364,0.0083019940998756,0,0,1,0,0,0,0,science
+"Drake, Charles P.",Male,0.0987341988663548,-0.0380864257901806,0,0,0,1,0,0,0,engineering
+"Drew, L. Paul",Male,0.20976933462685,0.0530425326567471,0,0,0,1,0,0,0,engineering
+"Dunn, Russell",Male,0.1156094799388597,-0.0242365144346107,1,0,0,0,0,0,0,agriculture
+"Dunlop, Alex. N.",Male,0.0138870311367464,-0.1077223475136351,1,0,0,0,0,0,0,agriculture
+"Dunlop, George",Male,0.1672983990714111,0.0181857092294122,1,0,0,0,0,0,0,agriculture
+"Dyer, W. K.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Egloff, J. M.",Male,0.0213235263483969,-0.1016190536464124,1,0,0,0,0,0,0,agriculture
+"Ellis, Guy",Male,0.0115992275582066,-0.1095999978250933,1,0,0,0,0,0,0,agriculture
+"Emerson, J. Gordon",Male,0.1451402099776044,0.0,0,0,1,0,0,0,0,science
+"Fain, Olive Ernestine",Female,0.1451402099776044,0.0,0,1,0,0,0,0,0,home economics
+"Farquhar, Fred",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Feddersen, P. C.",Male,0.1243647743403671,-0.0170508532991429,0,0,0,1,0,0,0,engineering
+"Ferrand, W. S.",Male,-0.0051460614965489,-0.123343221895573,0,0,0,0,0,0,1,veterinary
+"Ferriols, Vincente",Male,0.0562494058694773,-0.0729546223220413,0,0,0,0,0,0,1,veterinary
+"Fischer, Edward L.",Male,0.1086669239979141,-0.0299344215657605,0,0,0,1,0,0,0,engineering
+"Flint, Victor",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Folkins, G. H.",Male,-0.0164511344527239,-0.1326215419210914,0,0,0,0,0,0,1,veterinary
+"Fowler, A. E.",Male,0.1043143004825499,-0.0335067146489367,0,0,0,1,0,0,0,engineering
+"Francis, Leslie L.",Male,0.0749668329482903,-0.0575928215477551,0,0,0,1,0,0,0,engineering
+"Friedman, Victor N.",Male,0.0879118778310047,-0.0469685407817545,0,0,0,1,0,0,0,engineering
+"Frommelt, Horace A.",Male,0.2488657569219532,0.0851298194272975,0,0,0,1,0,0,0,engineering
+"Fuchs, Iva B.",Female,0.810710884772203,0.5462483740073031,0,1,0,0,0,0,0,home economics
+"Furman, Russel A.",Male,0.0466991810767499,-0.0807927001731148,0,0,0,1,0,0,0,engineering
+"Gaden, Henry",Male,0.035394238168218,-0.0900709134656952,0,0,0,1,0,0,0,engineering
+"Gaston, Mildred",Female,0.1385957297334127,-0.0053711977217383,0,1,0,0,0,0,0,home economics
+"Garabrandt, Howard",Male,0.0816031071889303,-0.0521462864904002,1,0,0,0,0,0,0,agriculture
+"Gaylord, Ralph Welles",Male,0.2459962116514008,0.0827747210169546,0,0,0,1,0,0,0,engineering
+"Gibson, Andrew D.",Male,0.4244114419147871,0.2292039930992772,0,0,0,1,0,0,0,engineering
+"Gillis, Dewitt C.",Male,0.1043143004825499,-0.0335067146489367,0,0,0,0,0,0,1,veterinary
+"Gillmor, I. F.",Male,0.0690905911364322,-0.0624155814086697,1,0,0,0,0,0,0,agriculture
+"Gjellefald, Olaf N.",Male,0.1223871061238609,-0.018673968752548,0,0,0,1,0,0,0,engineering
+"Good, Harry F.",Male,0.2564619588759219,0.0913641881023702,0,0,0,1,0,0,0,engineering
+"Gray, Margaret",Female,0.6052825554906149,0.3776488621977797,0,1,0,0,0,0,0,home economics
+"Gregg, Ralph W.",Male,0.2731135595233963,0.1050305200529311,1,0,0,0,0,0,0,agriculture
+"Group, Jesse C.",Male,0.1453384597757589,0.0001627079346946,0,0,0,1,0,0,0,engineering
+"Hadley, Murray B.",Male,0.3139092841058394,0.1385124612855231,0,0,0,1,0,0,0,engineering
+"Hale, Virgil",Male,0.2681091463006294,0.1009232889363548,0,0,0,1,0,0,0,engineering
+"Hamilton, Sherman",Male,0.0816031071889303,-0.0521462864904002,0,0,0,1,0,0,0,engineering
+"Hanson, Clara W.",Female,0.177375457764677,0.0264561711569474,0,1,0,0,0,0,0,home economics
+"Hanson, Irvin W.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Harris, Rosalie",Female,0.1326276939251063,-0.0102692949182694,0,1,0,0,0,0,0,home economics
+"Hartnell, F. E.",Male,0.1071181419898122,-0.0312055407506291,1,0,0,0,0,0,0,agriculture
+"Haw, Arthur B.",Male,0.1451402099776044,0.0,0,0,1,0,0,0,0,science
+"Helm, F.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Enninger, Frank E.",Male,0.0458785252396271,-0.0814662303234422,0,0,0,1,0,0,0,engineering
+"Hill, F. A.",Male,0.1130457174127478,-0.0263406502751234,0,0,0,1,0,0,0,engineering
+"Hill, T. John",Male,0.0278126722952953,-0.0962932699897283,0,0,1,0,0,0,0,science
+"Hitchings, Charles C",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Horn, W. L.",Male,0.0022450068472336,-0.1172772108499179,1,0,0,0,0,0,0,agriculture
+"Howe, Alice",Female,0.2012514785100362,0.0460517423018781,0,1,0,0,0,0,0,home economics
+"Hunter, Carrie",Female,0.0448308862815419,-0.082326050473387,0,1,0,0,0,0,0,home economics
+"Hurst, R. L.",Male,0.0940520927233007,-0.0419291324544461,0,0,0,1,0,0,0,engineering
+"Hutchison, Claron B.",Male,0.1006361998222257,-0.0365254121084624,0,0,0,1,0,0,0,engineering
+"Hyzer, Albert L.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Jay, D. A.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Johnson, Frank B.",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Jones, William E.",Male,0.1381990546846237,-0.005696757588806,0,0,0,1,0,0,0,engineering
+"Jones, John J.",Male,0.2746304550222104,0.1062754692839379,0,0,0,1,0,0,0,engineering
+"Keeney, Will E.",Male,0.1749990423973691,0.0245057952171443,0,0,0,1,0,0,0,engineering
+"Keipp, Harry M.",Male,0.1774876514690262,0.0265482509779123,1,0,0,0,0,0,0,agriculture
+"Keith, Roger",Male,0.4079990178420141,0.21573395858185,0,0,0,1,0,0,0,engineering
+"Kelleher, John J.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Kennedy, Carl N.",Male,0.1326276939251063,-0.0102692949182694,1,0,0,0,0,0,0,agriculture
+"Kerrigan, John C.",Male,0.1196306580423103,-0.0209362458323597,0,0,0,1,0,0,0,engineering
+"King, Jessie Bernice",Female,0.8140569680593663,0.5489945775648292,0,1,0,0,0,0,0,home economics
+"Knight, Everett F.",Male,0.1071181419898122,-0.0312055407506291,0,0,0,1,0,0,0,engineering
+"Knutz, Will H.",Male,0.0375505753693155,-0.0883011604784944,0,0,0,1,0,0,0,engineering
+"Koolish, Philip H.",Male,0.3356678264302363,0.1563701716919182,0,0,0,1,0,0,0,engineering
+"Krause, F. E.",Male,0.1156094799388597,-0.0242365144346107,1,0,0,0,0,0,0,agriculture
+"Kuempel, Reuben ",Male,0.0583910412921252,-0.0711969354051727,0,0,0,1,0,0,0,engineering
+"Jacey, Sumner E.",Male,0.0132220659890404,-0.1082680989183497,0,0,0,1,0,0,0,engineering
+"Jake, Carrie",Female,0.2555966302481313,0.0906539940180853,0,1,0,0,0,0,0,home economics
+"Jayman, Claude C.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Jessel, L. R.",Male,0.0753993617785066,-0.0572378357000239,1,0,0,0,0,0,0,agriculture
+"Jemmon, Geo. R.",Male,0.1711559105826242,0.0213516530885897,0,0,0,1,0,0,0,engineering
+"Lieser, Harold A.",Male,0.1281219959913578,-0.0139672195163412,0,0,0,1,0,0,0,engineering
+"Little, Roy L.",Male,0.3796583546224336,0.192474157950216,1,0,0,0,0,0,0,agriculture
+"Lindaman, H. W.",Male,0.1571173793920157,0.0098299242523737,0,0,0,1,0,0,0,engineering
+"Logan, C. C.",Male,0.1281219959913578,-0.0139672195163412,0,0,0,0,0,0,1,veterinary
+"Longnecker, Albert C.",Male,0.1011451575530552,-0.0361076993944972,0,0,0,1,0,0,0,engineering
+"Loomis, George A.",Male,0.2129857813327039,0.055682340643624,0,0,0,1,0,0,0,engineering
+"Louck, Rex C.",Male,0.0583910412921252,-0.0711969354051727,0,0,0,0,0,0,1,veterinary
+"Luithley, W. E.",Male,0.1451402099776044,0.0,0,0,0,0,0,0,1,veterinary
+"Lynde, Alice",Female,0.1451402099776044,0.0,0,1,0,0,0,0,0,home economics
+"Mellor, Bessie",Female,0.5364754244502008,0.3211773485414231,0,1,0,0,0,0,0,home economics
+"Maney, T. J.",Male,0.1443959554444868,-0.0006108259332316,1,0,0,0,0,0,0,agriculture
+"Mayne, Earl W.",Male,0.1451402099776044,0.0,0,0,0,0,0,0,1,veterinary
+"McCown, W. Verne",Male,0.2921533841452604,0.1206569195247636,0,0,0,1,0,0,0,engineering
+"McDonough, Dan G.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"McDermott, Guy I.",Male,0.1903794252019711,0.0371288109490446,0,0,0,1,0,0,0,engineering
+"McElroy, Harold W.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"McGrew, E. M.",Male,-0.0106464452221474,-0.1278575068247454,1,0,0,0,0,0,0,agriculture
+"McKelvy, I. P.",Male,0.0360483496490944,-0.0895340699021494,1,0,0,0,0,0,0,agriculture
+"McMillan, L. E.",Male,0.0690905911364322,-0.0624155814086697,1,0,0,0,0,0,0,agriculture
+"Meade, R. S.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Mercer, Clyde",Male,0.2321469332752359,0.0714083160946083,0,0,0,1,0,0,0,engineering
+"Miller, Claude C.",Male,0.1204458436141709,-0.0202672052480814,0,0,0,1,0,0,0,engineering
+"Miller, W. J.",Male,0.1567198962690036,0.0095037011811608,0,0,0,0,0,0,1,veterinary
+"Miner, Leland R.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Molsberry, H. C.",Male,0.1552172686708703,0.0082704619275352,0,0,0,1,0,0,0,engineering
+"Montillon, Geo. H.",Male,0.1539394467982232,0.0072217256375538,0,0,0,1,0,0,0,engineering
+"Moore, C. G.",Male,0.1451402099776044,0.0,0,0,0,0,0,0,1,veterinary
+"Moore, Lela",Female,0.2689744749284199,0.1016334830206396,0,1,0,0,0,0,0,home economics
+"Moorehead, Helen",Female,0.1451402099776044,0.0,0,1,0,0,0,0,0,home economics
+"Moriarty, Clarence",Male,0.1615210126711459,0.0134440821615869,0,0,0,1,0,0,0,engineering
+"Mosbo, Edward",Male,0.1185785046376215,-0.0217997710871267,0,0,0,1,0,0,0,engineering
+"Mould, Henry E.",Male,0.1453384597757589,0.0001627079346946,0,0,0,1,0,0,0,engineering
+"Murray, Chas. A.",Male,0.1451402099776044,0.0,0,0,0,0,0,0,1,veterinary
+"Meyers, C. H.",Male,0.1515292407220103,0.0052436169257178,0,0,0,1,0,0,0,engineering
+"Naiden, James H.",Male,0.3510838907101351,0.1690224719890813,0,0,0,1,0,0,0,engineering
+"Dason, Everett P.",Male,0.1142382847574315,-0.025361884236297,0,0,0,1,0,0,0,engineering
+"Negaard, Clark Oscar",Male,0.2663359333383951,0.0994679743708685,0,0,0,1,0,0,0,engineering
+"Nemmers, W. P.",Male,0.1681830478059919,0.0189117597468595,0,0,0,1,0,0,0,engineering
+"Newburger, Morton B.",Male,0.2272081128797501,0.0673549184424645,1,0,0,0,0,0,0,agriculture
+"Newell, Thomas R.",Male,0.05734340233404,-0.0720567555551175,0,0,0,1,0,0,0,engineering
+"Newsome, F. W.",Male,0.1423655969991266,-0.0022771854070355,1,0,0,0,0,0,0,agriculture
+"O'Banion, A. C.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"O'Neil, Clem J.",Male,0.134899622176359,-0.0084046738342786,1,0,0,0,0,0,0,agriculture
+"Olmstead, Harry H.",Male,0.1131487158747238,-0.0262561171901929,0,0,0,0,0,0,1,veterinary
+"Olmstead, R. A.",Male,0.1584451447319717,0.0109196502356256,1,0,0,0,0,0,0,agriculture
+"Olsen, Gustave C.",Male,0.1686098304865617,0.0192620296042081,0,0,0,1,0,0,0,engineering
+"Olson, William A.",Male,0.125369806051151,-0.0162260018466493,0,0,0,1,0,0,0,engineering
+"Olson, DeWitt P.",Male,0.0967996234996185,-0.039674174001594,0,0,0,1,0,0,0,engineering
+"Olson, Carl E.",Male,0.2446594493277339,0.0816776110128778,0,0,0,1,0,0,0,engineering
+"Osborn, Lynn W.",Male,0.0879921379333361,-0.0469026695646824,1,0,0,0,0,0,0,agriculture
+"Packman, Chloe Grace",Female,0.571593874205359,0.3499998264583363,0,0,1,0,0,0,0,science
+"Paine, H. W.",Male,0.0784851544038301,-0.0547052583676063,0,0,0,1,0,0,0,engineering
+"Parker, Robert H.",Male,0.0040049767864873,-0.1158327651223237,0,0,0,1,0,0,0,engineering
+"Parmenter, Glee",Male,0.1451402099776044,0.0,0,0,0,0,0,0,1,veterinary
+"Patterson, John",Male,0.1988471371757459,0.044078446911693,0,0,0,0,0,0,1,veterinary
+"Paulsen, John August",Male,0.131894097488865,-0.0108713735188599,0,0,0,1,0,0,0,engineering
+"Peck, Louise",Female,0.05734340233404,-0.0720567555551175,0,1,0,0,0,0,0,home economics
+"Pollock, R. C.",Male,0.1451402099776044,0.0,0,0,1,0,0,0,0,science
+"Pomeroy, S. L.",Male,0.1231910458117825,-0.0180141579105776,0,0,0,1,0,0,0,engineering
+"Porter, D. G.",Male,0.132068866794247,-0.0107279365368733,0,0,0,1,0,0,0,engineering
+"Ramey, Ethel",Female,0.3207978737470482,0.1441660770970598,0,0,0,0,1,0,0,music
+"Richmond, Chas. A.",Male,0.2536548914966482,0.0890603666605219,0,0,0,1,0,0,0,engineering
+"Richmond, Howard H.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Reed, Clark",Male,0.0753993617785066,-0.0572378357000239,1,0,0,0,0,0,0,agriculture
+"Roberts, Lucia L.",Male,0.0911995517089018,-0.0442702751007705,0,0,0,0,0,0,1,veterinary
+"Robinson, Clara A.",Female,0.4664721645218172,0.263724145809961,0,1,0,0,0,0,0,home economics
+"Rogers, Glenn E. A. H.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Rosecrans, Merle",Male,0.1124151194384825,-0.0268581957907833,0,0,0,1,0,0,0,engineering
+"Rowat, T. W.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Rounds, A. D.",Male,0.2012514785100362,0.0460517423018781,0,0,0,1,0,0,0,engineering
+"Sanborn, G. Clifford",Male,0.3672490282699077,0.1822895530700728,0,0,0,1,0,0,0,engineering
+"Scott, David R.",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Schnaidt, H. A.",Male,0.0448308862815419,-0.082326050473387,1,0,0,0,0,0,0,agriculture
+"Schumacher, C.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Sheehan, Wm. M.",Male,0.1584451447319717,0.0109196502356256,0,0,0,1,0,0,0,engineering
+"Shupe, Milton W.",Male,0.2654415323768104,0.0987339199879482,0,0,0,1,0,0,0,engineering
+"Shields, Robert W.",Male,0.1357035618642806,-0.0077448629923081,0,0,0,1,0,0,0,engineering
+"Shearer, P. S.",Male,0.1326276939251063,-0.0102692949182694,1,0,0,0,0,0,0,agriculture
+"Silver, Frank F.",Male,0.1929450476321236,0.0392344732533821,1,0,0,0,0,0,0,agriculture
+"Simmons, G. P.",Male,0.1702240643482284,0.0205868665533046,0,0,0,0,0,0,1,veterinary
+"Skinner, S. P.",Male,0.1584451447319717,0.0109196502356256,1,0,0,0,0,0,0,agriculture
+"Smith, Wm. A.",Male,0.1071181419898122,-0.0312055407506291,1,0,0,0,0,0,0,agriculture
+"Smith, Fae E.",Male,0.1453384597757589,0.0001627079346946,0,0,0,1,0,0,0,engineering
+"Smith, Grace E.",Female,0.1640417567745084,0.0155129118439872,0,1,0,0,0,0,0,home economics
+"Smith, Howard E.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Smullin, George W.",Male,0.1211794400504122,-0.019665126647491,0,0,0,1,0,0,0,engineering
+"Sosa, Hermas A.",Male,0.2043273464492104,0.0485761742278395,1,0,0,0,0,0,0,agriculture
+"Sperry, Don C.",Male,0.1381990546846237,-0.005696757588806,0,0,0,0,0,0,1,veterinary
+"Stang, L. C.",Male,0.3465236953918822,0.1652798201985407,0,0,0,1,0,0,0,engineering
+"Stearns, Harvey P.",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Stephenson, J. L.",Male,0.1709576607844697,0.0211889451538951,0,0,0,1,0,0,0,engineering
+"Stewart, Carl A.",Male,0.1974788263934522,0.0429554443993072,0,0,0,1,0,0,0,engineering
+"Taylor, Ben L.",Male,0.1043143004825499,-0.0335067146489367,0,0,0,1,0,0,0,engineering
+"Taylor, Lee",Male,0.1214292075522799,-0.0194601370093625,0,0,0,1,0,0,0,engineering
+"Thompson, D. C.",Male,0.1231910458117825,-0.0180141579105776,0,0,0,1,0,0,0,engineering
+"Thornburg, Earl R.",Male,0.5925103379069798,0.3671664245668229,0,0,0,1,0,0,0,engineering
+Thomas W. Lynk,Male,0.1919551915081011,0.0384220767360396,0,0,0,1,0,0,0,engineering
+"Tong, Edna",Female,0.3022194875089088,0.128918390174262,0,1,0,0,0,0,0,home economics
+"Tompkins, J. Lester",Male,0.119086078761411,-0.0213831939296464,1,0,0,0,0,0,0,agriculture
+"Truax, T. R.",Male,0.0558273099522973,-0.0733010456504216,0,0,1,0,0,0,0,science
+"Tyson, Harry B.",Male,0.4584505957142856,0.2571406692776541,0,0,0,1,0,0,0,engineering
+"Un, Chung C.",Male,0.4387450164270032,0.2409678704266953,1,0,0,0,0,0,0,agriculture
+"Van Deventer, James R.",Male,0.1658580838530837,0.0170036111054044,1,0,0,0,0,0,0,agriculture
+"Van Meerten, Elbert J.",Male,0.4544624895166128,0.253867543510027,0,0,0,1,0,0,0,engineering
+"Worse, Charles",Male,0.1593177567545786,0.0116358219609429,0,0,0,1,0,0,0,engineering
+"Wagner, Kenneth",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Walkey, Fred L.",Male,0.0862372686032958,-0.0483429291110118,0,0,0,0,0,0,1,veterinary
+"Walker, Robt K.",Male,0.3251053218826423,0.1477012937604369,1,0,0,0,0,0,0,agriculture
+"Walker, Marion",Female,0.1071181419898122,-0.0312055407506291,0,1,0,0,0,0,0,home economics
+"Wall, Joe F.",Male,0.05734340233404,-0.0720567555551175,0,0,0,0,0,0,1,veterinary
+"Walraven, John W.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Walton, Sam F.",Male,0.1607170729832243,0.0127842713196165,0,0,0,1,0,0,0,engineering
+"Weaver, Ethel",Female,0.1326276939251063,-0.0102692949182694,0,1,0,0,0,0,0,home economics
+"Webster, Hugh",Male,0.1840723814295006,0.0319524825199591,1,0,0,0,0,0,0,agriculture
+"Wells, Clark J.",Male,0.2934312060179075,0.121705655814745,0,0,0,1,0,0,0,engineering
+"Wendt, Wm.",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Whentch, Margaret",Female,0.1762381005328635,0.0255227172623099,0,0,1,0,0,0,0,science
+"Whentzel, Claude E.",Male,0.2446594493277339,0.0816776110128778,1,0,0,0,0,0,0,agriculture
+"White, Warren G.",Male,0.2369829808255393,0.0753773658304467,0,0,0,1,0,0,0,engineering
+"Whitehead, Herbert H.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Whitaker, W. S.",Male,0.1018788431233177,-0.0355055476396709,1,0,0,0,0,0,0,agriculture
+"White, Helen",Female,0.1451402099776044,0.0,0,1,0,0,0,0,0,home economics
+"Wilcox, Herbert",Male,0.1584451447319717,0.0109196502356256,1,0,0,0,0,0,0,agriculture
+"Wilkinson, H. Arthur",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Williams, Ruth",Female,0.561439479982249,0.3416658935741767,0,1,0,0,0,0,0,home economics
+"Williams, H. L.",Male,0.1196306580423103,-0.0209362458323597,1,0,0,0,0,0,0,agriculture
+"Williams, C. M.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Wilson, Osee Jane",Female,0.5243632453580442,0.3112366189009268,0,1,0,0,0,0,0,home economics
+"Wilson, B. B.",Male,0.0816031071889303,-0.0521462864904002,1,0,0,0,0,0,0,agriculture
+"Wilson, Maude E.",Female,0.2681091463006294,0.1009232889363548,0,0,1,0,0,0,0,science
+"Witwer, Polly",Female,0.3838589540752377,0.1959216815684378,0,1,0,0,0,0,0,home economics
+"Wormley, Don S.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Wolfe, John H.",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Wright, Harry F.",Male,0.1090676585736868,-0.0296055299563278,0,0,0,1,0,0,0,engineering
+"Zentmire, D.",Male,0.1281219959913578,-0.0139672195163412,1,0,0,0,0,0,0,agriculture
+"Te Veltrup, Edward",Male,0.1685222034252375,0.0191901121631608,0,0,0,1,0,0,0,engineering
+"Mann, Wm. G.",Male,0.3413147308884404,0.1610047093830815,0,0,0,1,0,0,0,engineering
+"Gericke, Wm. F.",Male,0.0816031071889303,-0.0521462864904002,1,0,0,0,0,0,0,agriculture
+"Bergen, Hansen",Male,0.1231910458117825,-0.0180141579105776,0,0,1,0,0,0,0,science
+"Stivers, Ernest D.",Male,0.05734340233404,-0.0720567555551175,1,0,1,0,0,0,0,agriculture
+"Abram, William",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Adams, Neil",Male,0.0520723771501856,-0.0763828009250109,0,0,0,1,0,0,0,engineering
+"Aldrich, Sperry W.",Male,0.1423655969991266,-0.0022771854070355,0,0,0,1,0,0,0,engineering
+"Allender, Merwyn M.",Male,0.1326276939251063,-0.0102692949182694,1,0,0,0,0,0,0,agriculture
+"Allstrand, Harry P.",Male,0.1043143004825499,-0.0335067146489367,0,0,0,1,0,0,0,engineering
+"Arentson, James A.",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Armour, Harvey B.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Arthur, Edna",Female,0.118685347878034,-0.0217120825086493,0,1,0,0,0,0,0,home economics
+"Ashby, William W.",Male,0.057642337261738,-0.0718114131378912,0,0,0,1,0,0,0,engineering
+"Bacon, Frank R.",Male,0.0816031071889303,-0.0521462864904002,1,0,0,0,0,0,0,agriculture
+"Bancroft, John S.",Male,0.0547563462220916,-0.074180008949738,1,0,0,0,0,0,0,agriculture
+"Barker, Howard C.",Male,0.1328745770278396,-0.0100666725694414,1,0,0,0,0,0,0,agriculture
+"Barker, W. Earl",Male,0.0721664590756064,-0.0598911494827083,0,0,0,1,0,0,0,engineering
+"Barney, Fayette",Male,0.1357035618642806,-0.0077448629923081,1,0,0,0,0,0,0,agriculture
+"Batchelder, D. T.",Male,0.1863346211232479,0.0338091519934235,1,0,0,0,0,0,0,agriculture
+"Baxter, L. J.",Male,0.1295787470896022,-0.0127716321070929,1,0,1,0,0,0,0,agriculture
+"Bell, Lucile",Female,0.3854556847724776,0.1972321532886109,0,1,0,0,0,0,0,home economics
+"Bird, Catherine",Female,0.2947919257352853,0.1228224281745348,0,1,0,0,0,0,0,home economics
+"Bird, Paul",Male,0.1281219959913578,-0.0139672195163412,1,0,0,0,0,0,0,agriculture
+"Bisbee, Earl",Male,0.1326276939251063,-0.0102692949182694,1,0,0,0,0,0,0,agriculture
+"Bliss, Callie May",Female,0.1326276939251063,-0.0102692949182694,0,1,0,0,0,0,0,home economics
+"Bone, Joe",Male,0.0609907923844451,-0.0690632629631864,1,0,0,0,0,0,0,agriculture
+"Bonner, Gladys K.",Female,0.5665280386535942,0.3458421846962592,0,1,0,0,0,0,0,home economics
+"Bonsteel, Myron M.",Male,0.1156094799388597,-0.0242365144346107,0,0,0,1,0,0,0,engineering
+"Bouton, E. M.",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Boyts, Harry J.",Male,0.3894702054018498,0.2005269579566352,1,0,0,0,0,0,0,agriculture
+"Bradford, Bernice",Female,0.2071277203218943,0.0508745021627927,0,0,1,0,0,0,0,science
+"Brasted, Orin R.",Male,0.0458785252396271,-0.0814662303234422,1,0,0,0,0,0,0,agriculture
+"Brown, David K.",Male,0.2020112139742313,0.046675273773003,1,0,0,0,0,0,0,agriculture
+"Brumhall, J. H.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Burge, Charles A.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Burlingham, C. Lloyd",Male,0.2451963310182462,0.0821182415297904,1,0,0,0,0,0,0,agriculture
+"Burnett, Lloyd C.",Male,0.1254629740630352,-0.0161495368265867,1,0,0,0,0,0,0,agriculture
+"Butler, Lyle A.",Male,0.121503950581949,-0.019398793774194,0,0,0,1,0,0,0,engineering
+"Cairy, Forest W.",Male,0.1584451447319717,0.0109196502356256,0,0,0,0,0,0,1,veterinary
+"Campbell, Clyde B.",Male,0.3934195577071011,0.2037682775592323,1,0,0,0,0,0,0,agriculture
+"Chamberlain, Mark O.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Chatburn, Guy",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Chatterjee, Brahma N.",Male,0.1223871061238609,-0.018673968752548,1,0,0,0,0,0,0,agriculture
+"Clapp, Paul",Male,0.1988471371757459,0.044078446911693,0,0,0,1,0,0,0,engineering
+"Clark, Clifford K.",Male,0.0448308862815419,-0.082326050473387,0,0,0,1,0,0,0,engineering
+"Clutter, J. A.",Male,0.1709576607844697,0.0211889451538951,1,0,0,0,0,0,0,agriculture
+"Cochran, Clyde F.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Cochran, Morris C.",Male,0.1801388374007257,0.028724137114766,1,0,0,0,0,0,0,agriculture
+"Cochrane, William F.",Male,0.1988471371757459,0.044078446911693,0,0,0,1,0,0,0,engineering
+"Coe, Howard S.",Male,0.1453384597757589,0.0001627079346946,0,0,1,0,0,0,0,science
+"Conlee, Glenn L.",Male,0.1281219959913578,-0.0139672195163412,0,0,0,1,0,0,0,engineering
+"Conlee, Harold E.",Male,0.2137639945625343,0.0563210372201476,0,0,0,1,0,0,0,engineering
+"Costigan, George L.",Male,0.1043143004825499,-0.0335067146489367,0,0,0,1,0,0,0,engineering
+"Coverdale, Roy E.",Male,0.1326276939251063,-0.0102692949182694,1,0,0,0,0,0,0,agriculture
+"Crawford, A. Jesse",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Crawford, Arch R.",Male,0.1685222034252375,0.0191901121631608,0,0,0,1,0,0,0,engineering
+"Crocker, Thomas F.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Crowley, Orville W.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Daly, Claude C.",Male,0.0879118778310047,-0.0469685407817545,0,0,0,1,0,0,0,engineering
+"D'Antremont, Frank J.",Male,0.0866087422778122,-0.0480380525616449,0,0,0,1,0,0,0,engineering
+"Darbyshire, Glen",Male,0.1451402099776044,0.0,1,0,0,0,0,0,1,agriculture
+"Dickinson, Sherman",Male,0.1515292407220103,0.0052436169257178,1,0,0,0,0,0,0,agriculture
+"Dibine, E. R.",Male,0.1415055149075708,-0.0029830735445652,1,0,0,0,0,0,0,agriculture
+"Dolcini, Valente",Male,0.1289741202993349,-0.0132678625054149,1,0,0,0,0,0,0,agriculture
+"Dorchester, Charles S.",Male,0.1326276939251063,-0.0102692949182694,1,0,0,0,0,0,0,agriculture
+"Doty, Lewis J.",Male,0.1357035618642806,-0.0077448629923081,0,0,0,0,0,0,1,veterinary
+"Doyle, Bernard L.",Male,0.0118622589898324,-0.1093841221904242,0,0,0,0,0,0,1,veterinary
+"Egert, Benjamin J.",Male,0.1281219959913578,-0.0139672195163412,0,0,0,1,0,0,0,engineering
+"Ellis, Percy L.",Male,0.1326276939251063,-0.0102692949182694,0,0,0,0,0,0,1,veterinary
+"Evans, R. M.",Male,0.0790681475060517,-0.0542267832090601,0,0,0,1,0,0,0,engineering
+"Fensler, H. M.",Male,0.0754092864646559,-0.0572296902935677,0,0,0,1,0,0,0,engineering
+"Fenton, Faith",Female,0.3071504376884841,0.1329653285684983,0,1,0,0,0,0,0,home economics
+"Ferguson, Howard C.",Male,0.1326276939251063,-0.0102692949182694,1,0,0,0,0,0,0,agriculture
+"Fick, Adolph",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Finley, Edson L.",Male,0.1231910458117825,-0.0180141579105776,0,0,0,0,0,0,1,veterinary
+"Fisher, Charles M.",Male,0.1926513534532238,0.0389934320330355,0,0,0,1,0,0,0,engineering
+"Frazier, Everett H.",Male,0.1286555633308874,-0.0135293091595915,0,0,0,1,0,0,0,engineering
+"Gage, Helen",Female,0.5312812743768291,0.3169143962519389,0,1,0,0,0,0,0,home economics
+"Gates, Levi S.",Male,0.0448308862815419,-0.082326050473387,0,0,0,1,0,0,0,engineering
+"Gatewood, Ray",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Gilchrist, Clifford M.",Male,0.1326276939251063,-0.0102692949182694,0,0,0,0,0,0,1,veterinary
+"Gillette, Chester S.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Girton, Earl S.",Male,0.0448308862815419,-0.082326050473387,1,0,0,0,0,0,0,agriculture
+"Glaze, Clifford H.",Male,-0.0419182824039373,-0.1535229858785598,0,0,0,1,0,0,0,engineering
+"Graham, D. W.",Male,0.05734340233404,-0.0720567555551175,1,0,0,0,0,0,0,agriculture
+"Gratiot, Joseph B.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Hackett, Shirley M.",Male,0.0753993617785066,-0.0572378357000239,0,0,0,0,0,1,0,education
+"Hamm, J. R.",Male,0.1281219959913578,-0.0139672195163412,0,0,0,1,0,0,0,engineering
+"Hall, Harry W.",Male,0.0879118778310047,-0.0469685407817545,0,0,0,0,0,0,1,veterinary
+"Hall, Oro W.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Hanson, Marie",Female,0.1043143004825499,-0.0335067146489367,0,1,0,0,0,0,0,home economics
+"Harmon, Guy C.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Hassell, Willard C.",Male,0.0927192107708824,-0.0430230577531785,1,0,0,0,0,0,0,agriculture
+"Harpel, Gates",Male,0.1259914196844664,-0.0157158299756243,0,0,0,1,0,0,0,engineering
+"Harte, Edwin C.",Male,0.2456410824791069,0.0824832587571608,1,0,0,0,0,0,0,agriculture
+"Hartung, Arthur C.",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Hartung, Mary E.",Female,0.3696690509826508,0.1842757185096854,0,1,0,0,0,0,0,home economics
+"Hawks, Georgena",Female,0.1451402099776044,0.0,0,1,0,0,0,0,0,home economics
+"Helm, Ralph L.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Helsel, Frank V.",Male,0.1709576607844697,0.0211889451538951,0,0,0,0,0,0,1,veterinary
+"Hensel, R. H.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Hess, Arthur W.",Male,0.1935038747629829,0.039693114871986,0,0,0,1,0,0,0,engineering
+"Hicken, R. H.",Male,0.0747835704438052,-0.0577432290835474,1,0,0,0,0,0,0,agriculture
+"Hill, Carlos V.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Hoff, Carl R.",Male,0.1552172686708703,0.0082704619275352,0,0,0,1,0,0,0,engineering
+"Hoot, Denver W.",Male,0.2294368043119802,0.0691840541257568,0,0,0,1,0,0,0,engineering
+"Hopkins, A. L.",Male,0.1539394467982232,0.0072217256375538,0,0,0,1,0,0,0,engineering
+"Hopkins, Blanche",Female,0.4745702813413875,0.2703704469658475,0,1,0,0,0,0,0,home economics
+"Hopkins, Ruby",Female,0.2434143036954028,0.0806556928262433,0,0,1,0,0,0,0,science
+"Horton, Floyd V.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Horton, Guy",Male,0.0956698881151181,-0.0406013724798507,0,0,0,1,0,0,0,engineering
+"House, Harry M.",Male,0.2258696284534245,0.0662563950711635,0,0,0,1,0,0,0,engineering
+"House, Wilbur M.",Male,0.1432663211372711,-0.0015379414551556,0,0,0,1,0,0,0,engineering
+"Howland, Paul R.",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Hudson, William J.",Male,0.3821815670351488,0.1945450134279548,0,0,0,1,0,0,0,engineering
+"Huebsch, Leila H.",Female,0.3922586257284147,0.2028154753554901,0,1,0,0,0,0,0,home economics
+"Hunt, Donald A.",Male,0.1227975183345737,-0.0183371344969767,1,0,0,0,0,0,0,agriculture
+"Hunter, Clyde H.",Male,0.0544825785756219,-0.0744046960301687,0,0,0,1,0,0,0,engineering
+"Illeman, John A.",Male,0.2432417086569387,0.0805140403125537,0,0,0,1,0,0,0,engineering
+"Johnson, Earl H.",Male,0.2376319278485552,0.0759099708107498,1,0,0,0,0,0,0,agriculture
+"Johnson, Howard C.",Male,0.0175651317970707,-0.1047036500541094,0,0,0,0,0,0,1,veterinary
+"Johnson, J. B.",Male,0.1071181419898122,-0.0312055407506291,1,0,0,0,0,0,0,agriculture
+"Johnson, Paul",Male,0.1281219959913578,-0.0139672195163412,1,0,0,0,0,0,0,agriculture
+"Johnston, Harold E.",Male,0.0690905911364322,-0.0624155814086697,0,0,0,0,0,0,1,veterinary
+"Johnston, J. R.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Jonker, Herman H.",Male,0.1231910458117825,-0.0180141579105776,0,0,0,0,0,0,1,veterinary
+"Jordan, Hugo G.",Male,0.1326276939251063,-0.0102692949182694,1,0,0,0,0,0,0,agriculture
+"Joy, O. H.",Male,0.1326276939251063,-0.0102692949182694,1,0,0,0,0,0,0,agriculture
+"Juhl, Chris",Male,0.2943847593915843,0.1224882578728373,0,0,0,0,0,0,1,veterinary
+"Kerr, Harry A.",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Kilby, Don H.",Male,0.1935038747629829,0.039693114871986,0,0,0,1,0,0,0,engineering
+"Kriethe, Paul F.",Male,0.1679480963547075,0.0187189299646964,1,0,0,0,0,0,0,agriculture
+"Laird, Ralph J.",Male,0.1043143004825499,-0.0335067146489367,0,0,0,0,0,0,1,veterinary
+"Lawton, J. A.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Leedham, Tom W.",Male,0.0690905911364322,-0.0624155814086697,0,0,0,1,0,0,0,engineering
+"Lebsen, Paul C.",Male,0.1326276939251063,-0.0102692949182694,1,0,0,0,0,0,0,agriculture
+"List, Theodore S.",Male,0.1281219959913578,-0.0139672195163412,0,0,0,0,0,0,1,veterinary
+"Lissenden, Clyde H.",Male,0.0816031071889303,-0.0521462864904002,0,0,1,0,0,0,0,science
+"Lynch, Ruby",Female,0.4019827214543479,0.2107962528749047,0,0,1,0,0,0,0,science
+"McBride, F. W.",Male,0.0879118778310047,-0.0469685407817545,1,0,0,0,0,0,0,agriculture
+"McChord, Robert C.",Male,0.1539394467982232,0.0072217256375538,1,0,0,0,0,0,0,agriculture
+"McClintock, Ruth",Female,0.3344439601661511,0.1553657179470694,0,1,0,0,0,0,0,home economics
+"McDonald, John R.",Male,0.1451402099776044,0.0,0,0,0,0,0,0,1,veterinary
+"McDonald, Myrtle",Female,0.1281219959913578,-0.0139672195163412,0,0,1,0,0,0,0,science
+"McDonald, Roy",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"McKim, Elizabeth",Female,0.5829891650551134,0.3593521902774599,0,0,1,0,0,0,0,science
+"McKitterick, Robert N.",Male,0.1640417567745084,0.0155129118439872,0,0,0,1,0,0,0,engineering
+"McMicheal, Harry A.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"McMillan, Ralph O.",Male,0.1254223239367112,-0.016182899272152,1,0,0,0,0,0,0,agriculture
+"Macklin, William E.",Male,0.1043143004825499,-0.0335067146489367,0,0,0,0,0,0,1,veterinary
+"Martin, Edgar E.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Melberg, Amos",Male,0.1281219959913578,-0.0139672195163412,0,0,0,1,0,0,0,engineering
+"Meltzer, William",Male,0.1357035618642806,-0.0077448629923081,1,0,0,0,0,0,0,agriculture
+"Miller, George J.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Miller, Herbert",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Miller, Virgil C.",Male,0.1067844785319571,-0.0314793856302511,1,0,0,0,0,0,0,agriculture
+"Milligan, Harry W.",Male,0.1988471371757459,0.044078446911693,1,0,0,0,0,0,0,agriculture
+"Mitchell, Jennie",Female,0.3479644445751065,0.1664622744870075,0,1,0,0,0,0,0,home economics
+"Moore, Robert G.",Male,0.1607170729832243,0.0127842713196165,0,0,0,0,0,0,1,veterinary
+"Mosher, Frank A.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Mott, Claude H.",Male,0.0376734459312557,-0.0882003179275603,0,0,0,1,0,0,0,engineering
+"Myers, Bernard F.",Male,0.1315985948139091,-0.0111138990113769,1,0,0,0,0,0,0,agriculture
+"Nagle, Clarence F.",Male,0.2346982859086263,0.0735022668654095,0,0,0,1,0,0,0,engineering
+"Neis, Carl F.",Male,0.4979023771935748,0.2895196070837764,0,0,0,0,0,0,1,veterinary
+"Nelson, S. O.",Male,0.1156094799388597,-0.0242365144346107,0,0,0,1,0,0,0,engineering
+"Newburger, Lessing B.",Male,0.1281219959913578,-0.0139672195163412,1,0,0,0,0,0,0,agriculture
+"Nordstrom, Royal F.",Male,0.1326276939251063,-0.0102692949182694,0,0,0,0,0,0,1,veterinary
+"Nordstrom, Harry M.",Male,0.1639731447242383,0.0154566004373753,1,0,0,0,0,0,0,agriculture
+"Nutty, Nathaniel S.",Male,0.1251703204124269,-0.0163897240626626,0,0,0,0,0,0,1,veterinary
+"Odendahl, Irve E.",Male,0.1281219959913578,-0.0139672195163412,0,0,0,1,0,0,0,engineering
+"Olsen, James C.",Male,0.1281219959913578,-0.0139672195163412,0,0,0,1,0,0,0,engineering
+"Olsen, Edward S.",Male,0.1974788263934522,0.0429554443993072,1,0,0,0,0,0,0,agriculture
+"Paine, Harry C.",Male,0.1451402099776044,0.0,0,0,0,0,0,0,1,veterinary
+"Patterson, Nellie R.",Female,0.1552172686708703,0.0082704619275352,0,1,0,0,0,0,0,home economics
+"Perry, Thomas R.",Male,0.1087921145928526,-0.0298316749131269,0,0,0,1,0,0,0,engineering
+"Peshak, Leona",Female,0.2021024339579222,0.0467501400038259,0,1,0,0,0,0,0,home economics
+"Peters, Mabel",Female,0.1709576607844697,0.0211889451538951,0,1,0,0,0,0,0,home economics
+"Pfeffer, C. J.",Male,0.2728235027467551,0.1047924641279778,0,0,0,1,0,0,0,engineering
+"Pfund, Hans C.",Male,0.0448308862815419,-0.082326050473387,0,0,0,1,0,0,0,engineering
+"Pickus, Joseph",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Pitts, Ilma",Female,0.1451402099776044,0.0,0,1,0,0,0,0,0,home economics
+"Preston, Perry J.",Male,0.1276557726443687,-0.0143498591891237,0,0,0,1,0,0,0,engineering
+"Prine, Edna",Female,0.3974531124680545,0.2070787039543258,0,1,0,0,0,0,0,home economics
+"Quint, Bryce A.",Male,0.2960742582256415,0.1238748664268812,1,0,0,0,0,0,0,agriculture
+"Reese, Joseph M.",Male,0.0740089243757635,-0.0583789980125639,1,0,0,0,0,0,0,agriculture
+"Reis, Raymond B.",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Rice, Charles D.",Male,0.1451402099776044,0.0,0,0,0,0,0,0,1,veterinary
+"Richardson, Willa",Female,0.1882451548861085,0.0353771687360042,0,1,0,0,0,0,0,home economics
+"Ringheim, Horace J.",Male,0.0560935552536362,-0.0730825323227599,1,0,0,0,0,0,0,agriculture
+"Roberson, Frank",Male,0.1863346211232479,0.0338091519934235,0,0,0,1,0,0,0,engineering
+"Rogers, Raymond R.",Male,0.151776595520798,0.005446626405789,0,0,0,1,0,0,0,engineering
+"Ross, Roy G.",Male,0.0974333262770637,-0.0391540803062247,0,0,0,0,0,0,1,veterinary
+"Rush, Fern",Female,0.5665280386535942,0.3458421846962592,0,1,0,0,0,0,0,home economics
+"Sar, Martin E.",Male,0.1326276939251063,-0.0102692949182694,1,0,0,0,0,0,0,agriculture
+"Sarvis, Fred",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Sauerberg, Julia",Female,0.3085867742781396,0.1341441613451506,0,1,0,0,0,0,0,home economics
+"Schmidt, Ferdinand C.",Male,0.134899622176359,-0.0084046738342786,0,0,0,1,0,0,0,engineering
+"Schreck, Robert G.",Male,0.1552172686708703,0.0082704619275352,1,0,0,0,0,0,0,agriculture
+"Schwab, John W.",Male,0.0776712900297593,-0.0553732146160331,1,0,0,0,0,0,0,agriculture
+"Schwertley, John H.",Male,0.1640417567745084,0.0155129118439872,1,0,0,0,0,0,0,agriculture
+"Floyd, Scott A.",Male,0.2555966302481313,0.0906539940180853,0,0,0,0,0,1,0,education
+"Seba, J. Henry",Male,0.1026124440560637,-0.0349034653487009,1,0,0,0,0,0,0,agriculture
+"Secor, Manly",Male,0.1903794252019711,0.0371288109490446,1,0,0,0,0,0,0,agriculture
+"Shaffer, Lloyd P.",Male,0.1453384597757589,0.0001627079346946,1,0,0,0,0,0,0,agriculture
+"Shallenberger, James K.",Male,0.0592267351446973,-0.0705110632274715,0,0,0,1,0,0,0,engineering
+"Shaw, George C.",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Shearer, Arthur B.",Male,0.1453384597757589,0.0001627079346946,0,0,0,0,0,0,1,veterinary
+"Shoemaker, Joseph J.",Male,0.05734340233404,-0.0720567555551175,0,0,0,1,0,0,0,engineering
+"Simpson, Arthur R.",Male,0.1863346211232479,0.0338091519934235,1,0,0,0,0,0,0,agriculture
+"Smith, Milton O.",Male,0.2140718934341055,0.056573736541683,1,0,0,0,0,0,0,agriculture
+"Snyder, L. D.",Male,0.1223871061238609,-0.018673968752548,0,0,0,1,0,0,0,engineering
+"Steffen, Edwin H.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Sterrett, J. C.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Stookey, Carl W.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Stork, V. H.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Strickler, Omar M.",Male,0.0690905911364322,-0.0624155814086697,1,0,0,0,0,0,0,agriculture
+"Sullivan, J. Butler",Male,0.0962795985403545,-0.0401009698313964,0,0,0,1,0,0,0,engineering
+"Summers, Walter G.",Male,0.0889941755327129,-0.0460802754447452,0,0,0,1,0,0,0,engineering
+"Swanson, Arthur C.",Male,0.1061728318255359,-0.0319813774269188,0,0,0,0,0,0,1,veterinary
+"Taff, Paul C.",Male,0.0879118778310047,-0.0469685407817545,1,0,0,0,0,0,0,agriculture
+"Terrall, A. Jay",Male,-0.0102675092052644,-0.1275465057681874,1,0,0,0,0,0,0,agriculture
+"Thompson, Lena",Female,0.1709576607844697,0.0211889451538951,0,1,0,0,0,0,0,home economics
+"Tong, Boyd H.",Male,0.0645848932026837,-0.0661135060067415,0,0,0,1,0,0,0,engineering
+"Torres, Ambrosio O.",Male,0.0970081821480887,-0.03950300536853,0,0,0,1,0,0,0,engineering
+"Triggs, Fred E.",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Trottnow, Ivan C.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Tuttle, Louise E.",Female,0.1908401588164028,0.037506945078544,0,1,0,0,0,0,0,home economics
+"Tuttle, Randall M.",Male,0.3231553103777382,0.1461008767736487,1,0,0,0,0,0,0,agriculture
+"Tydeman, Will",Male,0.1211794400504122,-0.019665126647491,0,0,1,0,0,0,0,science
+"Tyler, Merle C.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Ufford, Orville C.",Male,0.1156094799388597,-0.0242365144346107,1,0,0,0,0,0,0,agriculture
+"Vader, Leo C.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Vale, Bruce R.",Male,0.119086078761411,-0.0213831939296464,1,0,0,0,0,0,0,agriculture
+"Van Keuren, Ralph H.",Male,0.05734340233404,-0.0720567555551175,1,0,0,0,0,0,0,agriculture
+"Vaughn, Edward",Male,0.1552172686708703,0.0082704619275352,1,0,0,0,0,0,0,agriculture
+"Vincent, Clarice",Female,0.2075558850867181,0.0512259063268424,1,0,0,0,0,0,0,agriculture
+"Vincent, Ralph T.",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Vondracek, Lumir J.",Male,0.3050107775144018,0.1312092627812228,1,0,0,0,0,0,0,agriculture
+"Voss, Lilla",Female,0.2839926235597362,0.1139592052634176,0,1,0,0,0,0,0,home economics
+"Walker, Ben H.",Male,0.1326276939251063,-0.0102692949182694,1,0,0,0,0,0,0,agriculture
+"Wallace, Adelbert C.",Male,0.0872960864963033,-0.0474739341652779,0,0,0,1,0,0,0,engineering
+"Walls, Mildred",Female,0.4789426579609813,0.2739589518526316,0,0,1,0,0,0,0,science
+"Walton, Joseph N.",Male,0.1423655969991266,-0.0022771854070355,0,0,0,1,0,0,0,engineering
+"Ward, Harry E.",Male,0.1903794252019711,0.0371288109490446,1,0,0,0,0,0,0,agriculture
+"Warner, Jerub H.",Male,0.1326276939251063,-0.0102692949182694,1,0,0,0,0,0,0,agriculture
+"Warren, Elgin S.",Male,0.1794216392284673,0.0281355169271983,1,0,0,0,0,0,0,agriculture
+"Warsaw, Wesley W.",Male,0.1086669239979141,-0.0299344215657605,0,0,0,1,0,0,0,engineering
+"Watson, James G.",Male,0.1974788263934522,0.0429554443993072,1,0,0,0,0,0,0,agriculture
+"Watts, Everett",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Watts, Lyle F.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Weirick, Laura",Female,0.8238419584365528,0.5570253326531069,0,1,0,0,0,0,0,home economics
+"Weller, Curtis D.",Male,0.1043143004825499,-0.0335067146489367,0,0,0,1,0,0,0,engineering
+"Welles, Edward S.",Male,0.1451402099776044,0.0,0,0,1,0,0,0,0,science
+"Welle, Leon J.",Male,0.0583910412921252,-0.0711969354051727,0,0,0,1,0,0,0,engineering
+"Westbrook, Edwin M.",Male,0.1057162466536784,-0.0323561068390883,0,0,0,1,0,0,0,engineering
+"Weyrauch, Edward A.",Male,0.4787791288530018,0.2738247399458882,1,0,0,0,0,0,0,agriculture
+"Wheatley, Charles E.",Male,0.0816031071889303,-0.0521462864904002,1,0,0,0,0,0,0,agriculture
+"Wheatley, Ray A.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Whitaker, D. G.",Male,0.1849663103409541,0.0326861494810377,1,0,0,0,0,0,0,agriculture
+"White, H. X.",Male,0.3455405441441753,0.1644729265194751,0,0,0,1,0,0,0,engineering
+"Whiting, Fred T.",Male,0.1209877898952152,-0.0198224181112216,0,0,0,1,0,0,0,engineering
+"Wilder, Morris B.",Male,0.1201313238464481,-0.0205253384835409,0,0,0,1,0,0,0,engineering
+"Wills, Miriam H.",Female,0.1231910458117825,-0.0180141579105776,0,1,0,0,0,0,0,home economics
+"Wilson, Charles P.",Male,0.1301317512894152,-0.0123177694950415,0,0,0,0,0,0,1,veterinary
+"Wilson, David B.",Male,0.1326276939251063,-0.0102692949182694,0,0,0,0,0,0,1,veterinary
+"Wilson, Foster W.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Wilson, Wayne",Male,0.2913388550466967,0.1199884177224429,0,0,0,1,0,0,0,engineering
+"Wise, Leslie O.",Male,0.2583909630947759,0.0929473639511671,1,0,0,0,0,0,0,agriculture
+"Wolfe, Anna M.",Female,0.1490084966186478,0.0031747872433174,0,0,1,0,0,0,0,science
+"Woody, Ethel",Female,0.1451402099776044,0.0,0,1,0,0,0,0,0,home economics
+"Worley, Floyd E.",Male,0.1809913587104848,0.0294238199537165,0,0,0,1,0,0,0,engineering
+"Wormley, Burton H.",Male,0.1511082457859108,0.004898097196531,1,0,0,0,0,0,0,agriculture
+"Wray, G. Edward",Male,0.1287171953407362,-0.0134787264244416,0,0,0,1,0,0,0,engineering
+"Wright, Thomas H.",Male,0.0918017844300518,-0.0437760095672061,1,0,0,0,0,0,0,agriculture
+"Wygle, Lila",Female,0.2479709439967241,0.084395426936826,0,1,0,0,0,0,0,home economics
+"Zentmire, Zelma",Female,0.3821815670351488,0.1945450134279548,0,1,0,0,0,0,0,home economics
+"Aldrich, Leon E.",Male,0.1281219959913578,-0.0139672195163412,1,0,0,0,0,0,0,agriculture
+"Allen, Ami L.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Almquist, Elmer",Male,0.131894097488865,-0.0108713735188599,0,0,0,1,0,0,0,engineering
+"Aulmann, Theodore",Male,0.1672983990714111,0.0181857092294122,0,0,0,1,0,0,0,engineering
+"Anthony, Fred H.",Male,0.1178814081901124,-0.0223718933506198,0,0,0,1,0,0,0,engineering
+"Baker, G. W.",Male,0.1281219959913578,-0.0139672195163412,0,0,1,0,0,0,0,science
+"Barry, Donald S.",Male,0.1086669239979141,-0.0299344215657605,0,0,0,1,0,0,0,engineering
+"Bashford, L. G.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Bauder, Ernest",Male,0.0918017844300518,-0.0437760095672061,0,0,0,1,0,0,0,engineering
+"Beardshear, James H.",Male,0.0645848932026837,-0.0661135060067415,0,0,0,1,0,0,0,engineering
+"Beese, Charles W.",Male,0.0816031071889303,-0.0521462864904002,0,0,0,1,0,0,0,engineering
+"Bennet, Louis K.",Male,0.1451402099776044,0.0,0,0,0,0,0,1,0,education
+"Bradley, Paul",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Bragg, E. F.",Male,0.1385322048392143,-0.0054233339883724,0,0,0,1,0,0,0,engineering
+"Brand, William",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Brennan, William M.",Male,0.1137392533240193,-0.0257714502214031,1,0,0,0,0,0,0,agriculture
+"Borg, Elmer H.",Male,0.1809913587104848,0.0294238199537165,0,0,0,1,0,0,0,engineering
+"Buland, Raymond F.",Male,0.2408263814031009,0.0785317285385088,0,0,0,1,0,0,0,engineering
+"Burgess, J. A.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Burnham, Dwelle L.",Male,0.0201844457506715,-0.1025539219450538,0,0,0,1,0,0,0,engineering
+"Calderwood, Errett B.",Male,0.134899622176359,-0.0084046738342786,1,0,0,0,0,0,0,agriculture
+"Campbell, Jessie",Female,0.5218226916594417,0.3091515310515138,0,1,0,0,0,0,0,home economics
+"Campbell, Maude",Female,0.7385433178620219,0.4870188773157375,0,1,0,0,0,0,0,home economics
+"Campbell, Robert C.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Camburn, H. H.",Male,0.1121806453829881,-0.0270506337638058,1,0,0,0,0,0,0,agriculture
+"Capel, Earl C.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Carl, Leslie M.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Carlson, Arthur F.",Male,0.0448308862815419,-0.082326050473387,1,0,0,0,0,0,0,agriculture
+"Cave, Harry W.",Male,0.1451402099776044,0.0,0,0,1,0,0,0,0,science
+"Cessna, Ruth",Female,0.1658580838530837,0.0170036111054044,0,1,0,0,0,0,0,home economics
+"Church, L. D.",Male,0.1482559178250061,0.0025571294078576,1,0,0,0,0,0,0,agriculture
+"Clark, Charles W.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Clark, George",Male,0.0201913672613666,-0.102548241310215,1,0,0,0,0,0,0,agriculture
+"Clark, Ross L.",Male,0.1182287627061765,-0.0220868119208188,1,0,0,0,0,0,0,agriculture
+"Cole, Harold F.",Male,0.4483450570385067,0.2488468332071035,1,0,0,0,0,0,0,agriculture
+"Conlon, Grace Marie",Female,0.1451402099776044,0.0,0,1,0,0,0,0,0,home economics
+"Connolly, A. H.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Corlette, Dean H.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Cort, Joseph C.",Male,0.1399301396398944,-0.0042760183977698,1,0,0,0,0,0,0,agriculture
+"Corwin, Elsie M.",Female,0.5665280386535942,0.3458421846962592,0,1,0,0,0,0,0,home economics
+"Cowan, Lynn H.",Male,0.05734340233404,-0.0720567555551175,1,0,0,0,0,0,0,agriculture
+"Crider, Clayton L.",Male,0.1259914196844664,-0.0157158299756243,0,0,0,0,0,0,1,veterinary
+"Davis, Harry E.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Davis, Harry K.",Male,0.1254223239367112,-0.016182899272152,0,0,0,1,0,0,0,engineering
+"Day, Grace",Female,0.8284111736040293,0.5607753872306975,0,0,1,0,0,0,0,science
+"De Butts, W. H.",Male,0.1422793862191863,-0.0023479404750511,0,0,0,1,0,0,0,engineering
+"Dominguez, Ezequiel E.",Male,0.0645848932026837,-0.0661135060067415,1,0,0,0,0,0,0,agriculture
+"Donahue, Maude",Female,0.1451402099776044,0.0,0,0,1,0,0,0,0,science
+"Downing, Wayne W.",Male,0.0448308862815419,-0.082326050473387,1,0,0,0,0,0,0,agriculture
+"Dysart, Rowan W.",Male,0.1060659885851234,-0.0320690660053962,1,0,0,0,0,0,0,agriculture
+"Eastman, Eric E.",Male,0.1037612962827369,-0.033960577260988,1,0,0,0,0,0,0,agriculture
+"Albrecht, Elijah Earl",Male,0.0916801658821961,-0.043875824562865,1,0,0,0,0,0,0,agriculture
+"Elliot, Madge H.",Female,0.5359649118369222,0.320758359701508,0,1,0,0,0,0,0,home economics
+"Ellis, Glen A.",Male,0.0753993617785066,-0.0572378357000239,1,0,0,0,0,0,0,agriculture
+"Espe, Knute",Male,0.0596539430231083,-0.0701604444009778,1,0,0,0,0,0,0,agriculture
+"Essig, Thearl",Male,0.0684680999853911,-0.0629264734776375,0,0,0,1,0,0,0,engineering
+"Evans, Marguerita",Female,0.6376625443554454,0.4042238255151566,0,1,0,0,0,0,0,home economics
+"Fahey, W. L.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Farnum, Annie",Female,0.5487762282311064,0.3312728865793275,0,0,1,0,0,0,0,science
+"Farr, Frank V.",Male,0.1552172686708703,0.0082704619275352,1,0,0,0,0,0,0,agriculture
+"Farquharson, R. J.",Male,0.1067547060775037,-0.0315038205331867,0,0,0,1,0,0,0,engineering
+"Fenton, Fred C.",Male,0.3504434801301931,0.1684968730538543,0,0,0,1,0,0,0,engineering
+"Flint, Helen",Female,0.5128336146366271,0.3017739994181463,0,1,0,0,0,0,0,home economics
+"Fogleman, Lura Mae",Female,0.5125227070169227,0.3015188307513741,0,1,0,0,0,0,0,home economics
+"Forbes, Field B.",Male,0.1301317512894152,-0.0123177694950415,0,0,0,1,0,0,0,engineering
+"French, Fred L.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Freund, H. E.",Male,0.2125470163537879,0.0553222366525968,0,0,0,1,0,0,0,engineering
+"Frink, Helen",Female,0.1677682047722345,0.0185712890181451,0,1,0,0,0,0,0,home economics
+"Frudden, William E.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Gallivan, Dorothy",Female,0.1542162807582234,0.0074489293083989,0,1,0,0,0,0,0,home economics
+"Gamrath, Harry",Male,0.1039175885372004,-0.0338323047978165,0,0,0,0,0,0,1,veterinary
+"Garvin, Edna",Female,0.080869510752689,-0.0527483650909906,0,1,0,0,0,0,0,home economics
+"Garza, Policarpo",Male,0.0649713762361007,-0.0657963109490557,1,0,0,0,0,0,0,agriculture
+"George, Frances",Female,0.2794723423035135,0.1102493118144171,0,0,1,0,0,0,0,science
+"Gilchrist, David H.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Glassburner, Fred R.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Gonzalez, Luis",Male,0.0679662050977981,-0.0633383895620636,1,0,0,0,0,0,0,agriculture
+"Goodbarn, J. A.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Gould, John M.",Male,0.1988471371757459,0.044078446911693,0,0,0,0,0,0,1,veterinary
+"Graham, H. O.",Male,0.1007842837551556,-0.03640387639386,0,0,0,1,0,0,0,engineering
+"Grand Pre, Lionel L.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Grass, J. Fernand",Male,0.05734340233404,-0.0720567555551175,1,0,0,0,0,0,0,agriculture
+"Gridley, Ross M.",Male,0.1824975071676415,0.0306599488531596,1,0,0,0,0,0,0,agriculture
+"Griffin, J. P.",Male,0.1475055721066867,0.0019413043060353,0,0,0,1,0,0,0,engineering
+"Griffith, Clyde A. E.",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Haggard, Charles H.",Male,0.1988471371757459,0.044078446911693,0,0,0,0,0,0,1,veterinary
+"Hagglund, Irene",Female,0.1709576607844697,0.0211889451538951,0,0,1,0,0,0,0,science
+"Hall, Margaret",Female,0.1451402099776044,0.0,0,0,0,0,1,0,0,music
+"Hallock, Eleanor",Female,0.5172804091059724,0.3054235806578458,0,1,0,0,0,0,0,home economics
+"Hammans, C. Wayne",Male,0.1709576607844697,0.0211889451538951,1,0,0,0,0,0,0,agriculture
+"Hancock, Guy E.",Male,0.1640417567745084,0.0155129118439872,0,0,0,1,0,0,0,engineering
+"Hanscom, Roger L.",Male,0.1281219959913578,-0.0139672195163412,1,0,0,0,0,0,0,agriculture
+"Hansel, Harry",Male,0.4928048209760295,0.2853359314792221,1,0,0,0,0,0,0,agriculture
+"Hanson, Peter",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Hartnell, Charles H.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Haseltine, Earl S.",Male,0.0583910412921252,-0.0711969354051727,1,0,0,0,0,0,0,agriculture
+"Hathaway, A. N.",Male,0.1143913591758158,-0.0252362527214014,1,0,0,0,0,0,0,agriculture
+"Hawthorne, H. B.",Male,0.1451402099776044,0.0,0,0,0,0,0,1,0,education
+"Hayes, Ralph W.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Hemlick, Ben C.",Male,0.1357035618642806,-0.0077448629923081,1,0,0,0,0,0,0,agriculture
+"Herm, O. G.",Male,0.0328814893568311,-0.0921331812375324,0,0,0,1,0,0,0,engineering
+"Hicks, Lowell E.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Hill, E. W.",Male,0.1043143004825499,-0.0335067146489367,0,0,0,1,0,0,0,engineering
+"Hodson, Floyd G.",Male,0.1709576607844697,0.0211889451538951,0,0,0,1,0,0,0,engineering
+"Hoffman, M. H.",Male,0.2107204805771273,0.053823158889931,0,0,0,1,0,0,0,engineering
+"Hoskins, Glenn G.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Hostetter, Hugh C.",Male,0.0488376564385237,-0.0790376067871507,1,0,0,0,0,0,0,agriculture
+"Howard, Alva L.",Male,0.0368360656019257,-0.0888875742335317,0,0,0,0,0,0,1,veterinary
+"Hull, Edwin J.",Male,0.1451402099776044,0.0,0,0,1,0,0,0,0,science
+"Hulse, L. Everett",Male,0.0816031071889303,-0.0521462864904002,0,0,0,1,0,0,0,engineering
+"Hutchinson, Charles N.",Male,0.1672983990714111,0.0181857092294122,0,0,0,1,0,0,0,engineering
+"Ide, Charles",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Iverson, George",Male,0.1211794400504122,-0.019665126647491,0,0,0,1,0,0,0,engineering
+"Jensen, Florence",Female,0.606841065784745,0.3789279655992403,0,1,0,0,0,0,0,home economics
+"Johnson, Harlan W.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Johnson, Robert S.",Male,0.1385039357369644,-0.0054465350573548,0,0,0,1,0,0,0,engineering
+"Johnson, Robert T.",Male,0.1338902059010648,-0.0092331237945268,0,0,0,1,0,0,0,engineering
+"Johnson, Virgil P.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Jones, Laura L.",Female,0.2350391001894695,0.073781980581472,0,1,0,0,0,0,0,home economics
+"Kaiser, William G.",Male,0.1709576607844697,0.0211889451538951,0,0,0,1,0,0,0,engineering
+"Karr, Arthur R.",Male,0.1326276939251063,-0.0102692949182694,1,0,0,0,0,0,0,agriculture
+"Kerr, Kate",Female,0.3370610745227831,0.1575136407989027,0,1,0,0,0,0,0,home economics
+"Kimball, Lucy",Female,0.1552172686708703,0.0082704619275352,0,1,0,0,0,0,0,home economics
+"Kingsbury, Mabel",Female,0.6198407667675065,0.3895971038190185,0,1,0,0,0,0,0,home economics
+"Kirkpatrick, Ellis L.",Male,0.3051218985025145,0.1313004622005683,1,0,0,0,0,0,0,agriculture
+"Kirkpatrick, Mayme",Female,0.2479709439967241,0.084395426936826,0,1,0,0,0,0,0,home economics
+"Knapp, Hermine",Female,0.685513243200635,0.4434959380483064,0,1,0,0,0,0,0,home economics
+"Kratoska, Emil",Male,0.3085867742781396,0.1341441613451506,0,0,0,1,0,0,0,engineering
+"Kriechbaum, C. V.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Kube, Llewellyn W.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Laffer, Frances",Female,0.1326276939251063,-0.0102692949182694,0,1,0,0,0,0,0,home economics
+"Larson, Melvin C.",Male,0.134899622176359,-0.0084046738342786,1,0,0,0,0,0,0,agriculture
+"Lafrentz, George S.",Male,0.134899622176359,-0.0084046738342786,0,0,0,1,0,0,0,engineering
+"Lawrence, Vernon S.",Male,0.0915806635585498,-0.0439574882907907,0,0,0,1,0,0,0,engineering
+"Lee, Willoughby A.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Keigley, Claire",Male,0.0879118778310047,-0.0469685407817545,0,0,0,1,0,0,0,engineering
+"Leith, Thomas S.",Male,0.1326276939251063,-0.0102692949182694,0,0,0,0,0,0,1,veterinary
+"Lenning, O. B.",Male,0.1252611722329397,-0.0163151599913924,0,0,0,1,0,0,0,engineering
+"Linn, Hugh M.",Male,0.1593177567545786,0.0116358219609429,1,0,0,0,0,0,0,agriculture
+"Longer, Fred J.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Loveland, Irving E.",Male,0.1332271334038861,-0.0097773218596603,0,0,0,1,0,0,0,engineering
+"Luithly, John",Male,0.05734340233404,-0.0720567555551175,1,0,0,0,0,0,0,agriculture
+"Madison, Walter G.",Male,0.1677682047722345,0.0185712890181451,0,0,0,1,0,0,0,engineering
+"Manning, Merrill M.",Male,0.1709576607844697,0.0211889451538951,0,0,1,0,0,0,0,science
+"Marchant, Lloyd R.",Male,0.0918017844300518,-0.0437760095672061,1,0,0,0,0,0,0,agriculture
+"Martfield, Grace",Female,0.1778452634655004,0.0268417509456804,0,1,0,0,0,0,0,home economics
+"Mighell, Halbert",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Miles, Earl S.",Male,0.0914050724847023,-0.044101599716086,1,0,0,0,0,0,0,agriculture
+"Miller, Arthur",Male,0.05734340233404,-0.0720567555551175,0,0,1,0,0,0,0,science
+"Millar, F. Drew",Male,0.1540180309600689,0.0072862213737042,1,0,0,0,0,0,0,agriculture
+"Miller, Paul V.",Male,0.1182287627061765,-0.0220868119208188,0,0,0,1,0,0,0,engineering
+"Milner, Robert H.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"McBride, Clarence R.",Male,0.4992480252268271,0.2906240097835755,1,0,0,0,0,0,0,agriculture
+"McClenahan, Thos. D.",Male,0.1326276939251063,-0.0102692949182694,1,0,0,0,0,0,0,agriculture
+"McClure, Alice",Female,0.1451402099776044,0.0,0,0,0,0,1,0,0,music
+"McIntosh, Marjorie",Female,0.2210594967252961,0.0623086150160071,0,1,0,0,0,0,0,home economics
+"McKee, Ryle S.",Male,0.3356678264302363,0.1563701716919182,1,0,0,0,0,0,0,agriculture
+"McKee, T. Bonar",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"McLean, Paul F.",Male,0.1401682886968668,-0.0040805642708543,1,0,0,0,0,0,0,agriculture
+"Moad, Byron G.",Male,0.2321469332752359,0.0714083160946083,1,0,0,0,0,0,0,agriculture
+"Moore, Ora B.",Male,0.1935038747629829,0.039693114871986,1,0,0,0,0,0,0,agriculture
+"Mullen, Bert R.",Male,0.1211794400504122,-0.019665126647491,0,0,0,1,0,0,0,engineering
+"Mullinix, Merrill",Male,0.1214857217507179,-0.0194137545736961,0,0,0,1,0,0,0,engineering
+"Murray, Roy J.",Male,0.2129689999477351,0.0556685677948493,1,0,0,0,0,0,0,agriculture
+"Nagle, William M.",Male,0.098258873140999,-0.0384765359834814,1,0,0,0,0,0,0,agriculture
+"Nichols, Earl G.",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Nicholson, Lisle H.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Niles, Margaret",Female,0.1985006221342377,0.0437940544569753,0,1,0,0,0,0,0,home economics
+"Noel, Henry M.",Male,0.1043143004825499,-0.0335067146489367,0,0,0,1,0,0,0,engineering
+"Nordstrom, Mary",Female,0.3922586257284147,0.2028154753554901,0,1,0,0,0,0,0,home economics
+"Norman, Charles A.",Male,0.2137639945625343,0.0563210372201476,0,0,0,1,0,0,0,engineering
+"Norton, J. Edgar",Male,0.2689744749284199,0.1016334830206396,1,0,0,0,0,0,0,agriculture
+"Olson, Marion E.",Male,0.2321469332752359,0.0714083160946083,1,0,0,0,0,0,0,agriculture
+"Osler, Helen",Female,0.5125227070169227,0.3015188307513741,0,0,1,0,0,0,0,science
+"Packman, Lee S.",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Palda, Lidmil L.",Male,0.1584451447319717,0.0109196502356256,0,0,1,0,0,0,0,science
+"Parsons, Mabel",Female,0.1640417567745084,0.0155129118439872,0,1,0,0,0,0,0,home economics
+"Patterson, J. B.",Male,0.0583910412921252,-0.0711969354051727,0,0,0,1,0,0,0,engineering
+"Paxton, Harry W.",Male,0.0495086146240736,-0.0784869367655236,0,0,0,0,0,0,1,veterinary
+"Pearce, F. D.",Male,0.157850975828257,0.0104320028529641,0,0,0,1,0,0,0,engineering
+"Peterson, Elmer M.",Male,0.0318293359521423,-0.0929967064922995,1,0,0,0,0,0,0,agriculture
+"Pittman, Don W.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Poage, Blythe",Female,0.4554780459663943,0.2547010328454412,0,0,1,0,0,0,0,science
+"Porter, Harry",Male,0.5227103839074358,0.3098800794468218,0,0,0,1,0,0,0,engineering
+"Pritchett, George P.",Male,0.2446594493277339,0.0816776110128778,0,0,0,1,0,0,0,engineering
+"Pryor, Elizabeth",Female,0.4819619232728006,0.2764369287673852,0,1,0,0,0,0,0,home economics
+"Rait, Donald D.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Reeves, W. A.",Male,0.1709576607844697,0.0211889451538951,0,0,0,1,0,0,0,engineering
+"Reid, Harold W.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Reis, Paul B.",Male,0.1672983990714111,0.0181857092294122,0,0,0,1,0,0,0,engineering
+"Renkin, Harry J.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Reno, Emma",Female,0.1698493865360964,0.0202793602982898,0,1,0,0,0,0,0,home economics
+"Reynolds, Mildred V.",Female,0.1281219959913578,-0.0139672195163412,0,1,0,0,0,0,0,home economics
+"Reynolds, Wallace W.",Male,0.1259914196844664,-0.0157158299756243,1,0,0,0,0,0,0,agriculture
+"Richmond, Ernest E.",Male,0.1281219959913578,-0.0139672195163412,0,0,0,1,0,0,0,engineering
+"Rider, Ola E.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Ritter, Harry E.",Male,0.1709576607844697,0.0211889451538951,1,0,0,0,0,0,0,agriculture
+"Robilliard, Harold S.",Male,0.1196306580423103,-0.0209362458323597,1,0,0,0,0,0,0,agriculture
+"Rodger, Frank S.",Male,0.1709576607844697,0.0211889451538951,0,0,0,1,0,0,0,engineering
+"Roller, Vernon H.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Ross, Crittenden",Male,0.0496116130860496,-0.0784024036805931,0,0,0,0,0,0,1,veterinary
+"Rudolph, Ernest G.",Male,0.1231910458117825,-0.0180141579105776,1,0,0,0,0,0,0,agriculture
+"Sage, Harley H.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Scandrett, M. E.",Male,0.1451402099776044,0.0,0,0,0,0,0,1,0,education
+"Schaeffer, Roscoe",Male,0.0816031071889303,-0.0521462864904002,0,0,0,1,0,0,0,engineering
+"Schalk, Karl W.",Male,0.1568626416841695,0.0096208554577603,0,0,0,0,0,0,1,veterinary
+"Schultz, Arthur",Male,0.1057162466536784,-0.0323561068390883,0,0,0,1,0,0,0,engineering
+"Schreiber, Raymond A.",Male,0.0607256692587335,-0.0692808552968276,0,0,0,1,0,0,0,engineering
+"Seidell, Fred M.",Male,0.643984730619956,0.4094125817178333,1,0,0,0,0,0,0,agriculture
+"Selindh, Herbert",Male,0.0879118778310047,-0.0469685407817545,0,0,0,1,0,0,0,engineering
+"Sewell, Luman P.",Male,0.1494486287109911,0.0035360132541617,1,0,0,0,0,0,0,agriculture
+"Shima, E. J.",Male,0.1130457174127478,-0.0263406502751234,1,0,0,0,0,0,0,agriculture
+"Shinkle, Clara",Female,0.4019827214543479,0.2107962528749047,0,1,0,0,0,0,0,home economics
+"Shinn, Fred W.",Male,0.0022450068472336,-0.1172772108499179,0,0,0,0,0,0,1,veterinary
+"Shoemaker, Leroy L.",Male,0.1707507709092394,0.0210191461194379,1,0,0,0,0,0,0,agriculture
+"Skegg, Ellen",Female,0.5125227070169227,0.3015188307513741,0,1,0,0,0,0,0,home economics
+"Smith, A. Lee",Male,0.0816031071889303,-0.0521462864904002,1,0,0,0,0,0,0,agriculture
+"Smith, Edward E.",Male,0.1084041099504646,-0.0301501187884932,1,0,0,0,0,0,0,agriculture
+"Smith, Russell A.",Male,0.087921802517154,-0.0469603953752982,0,0,0,1,0,0,0,engineering
+"Snyder, S. Drew",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Speaker, Mark",Male,0.0550414018489474,-0.073946057577527,0,0,0,0,0,0,1,veterinary
+"Spencer, Robert N.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Stafford, Clay W.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Statler, May B.",Female,0.1326276939251063,-0.0102692949182694,0,1,0,0,0,0,0,home economics
+"Steen, Herman",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Stephenson, Maisie",Female,0.5383401578237881,0.3227077759052693,0,1,0,0,0,0,0,home economics
+"Stevens, Charles C.",Male,0.0583910412921252,-0.0711969354051727,0,0,0,1,0,0,0,engineering
+"Studebaker, M.D.",Male,0.0437368898169792,-0.0832239172403108,0,0,0,0,0,0,1,veterinary
+"Stone, Harold E.",Male,0.0879118778310047,-0.0469685407817545,1,0,0,0,0,0,0,agriculture
+"Sunderlin, Ralph J.",Male,0.0831608531409053,-0.0508678104012224,1,0,0,0,0,0,0,agriculture
+"Swanson, Lloyd G.",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Swift, Aubrey J.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Tellier, John K.",Male,0.0889941755327129,-0.0460802754447452,1,0,0,0,0,0,0,agriculture
+"Thomas, Rollin M.",Male,0.1326276939251063,-0.0102692949182694,0,0,0,0,0,0,1,veterinary
+"Thompson, George L.",Male,0.1326276939251063,-0.0102692949182694,1,0,0,0,0,0,0,agriculture
+"Thompson, Elmer J.",Male,0.0448308862815419,-0.082326050473387,0,0,0,1,0,0,0,engineering
+"Thompson, Lora K.",Female,0.2833541473246417,0.1134351938872098,0,1,0,0,0,0,0,home economics
+"Thompson, Vail E.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Thornburg, Theron A.",Male,0.1515292407220103,0.0052436169257178,1,0,0,0,0,0,0,agriculture
+"Tracy, H. E.",Male,0.0645848932026837,-0.0661135060067415,0,0,0,1,0,0,0,engineering
+"Ufford, Gladys",Female,0.3462557068691402,0.1650598761710403,0,0,0,0,1,0,0,music
+"Van Boskirk, Serrin S.",Male,0.4372263026825492,0.239721428921822,1,0,0,0,0,0,0,agriculture
+"Vaughn, Mary E.",Female,0.5665280386535942,0.3458421846962592,0,1,0,0,0,0,0,home economics
+"Venning, Harry J.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Vincent, Ruth",Female,0.4297742072257172,0.2336053315930177,0,1,0,0,0,0,0,home economics
+"Walker, Harley",Male,0.2376319278485552,0.0759099708107498,1,0,0,0,0,0,0,agriculture
+"Wambeam, C. Floyd",Male,0.1451402099776044,0.0,0,0,1,0,0,0,0,science
+"Warburton, John H.",Male,0.1224384670181408,-0.0186318157460374,1,0,0,0,0,0,0,agriculture
+"Wasser, Verne E.",Male,0.2816753270067117,0.1120573494243318,0,0,1,0,0,0,0,science
+"Watsabaugh, E. Harry",Male,0.1281219959913578,-0.0139672195163412,1,0,0,0,0,0,0,agriculture
+"Webb, Russell",Male,0.0999534221277411,-0.0370857826589464,1,0,0,0,0,0,0,agriculture
+"Webster, Claire H.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Welch, Earl G.",Male,0.118685347878034,-0.0217120825086493,0,0,0,1,0,0,0,engineering
+"Wentworth, Helen",Female,0.1863346211232479,0.0338091519934235,0,1,0,0,0,0,0,home economics
+"Wetherbee, Edwin C.",Male,0.05734340233404,-0.0720567555551175,1,0,0,0,0,0,0,agriculture
+"Weston, William B.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"White, Calvin J.",Male,0.2551125096553155,0.0902566656851766,0,0,0,1,0,0,0,engineering
+"White, Logan A.",Male,0.1451402099776044,0.0,0,0,0,0,0,0,1,veterinary
+"White, Ross P.",Male,0.0980372587245585,-0.038658419770165,0,0,0,0,0,1,0,education
+"Wilcox, A. C.",Male,0.05734340233404,-0.0720567555551175,0,0,0,0,0,1,0,education
+"Wilson, Irl D.",Male,0.1326276939251063,-0.0102692949182694,0,0,0,0,0,0,1,veterinary
+"Witmer, Jessie",Female,0.2699924791112867,0.1024689812640008,0,1,0,0,0,0,0,home economics
+"Wolfe, Ernest T.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Wolven, Ray",Male,0.1086669239979141,-0.0299344215657605,1,0,0,0,0,0,0,agriculture
+"Wonderlich, Nina May",Female,0.1451402099776044,0.0,0,1,0,0,0,0,0,home economics
+"Woodbury, Brown C.",Male,0.157850975828257,0.0104320028529641,1,0,0,0,0,0,0,agriculture
+"Wright, George T.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Ackerman, Norman W.",Male,0.0425288857964493,-0.0842153524957965,0,0,0,0,0,0,1,veterinary
+"Albrook, Frank P.",Male,0.0345902984802965,-0.0907307243076656,0,0,0,1,0,0,0,engineering
+"Alden, Harold B.",Male,0.1357035618642806,-0.0077448629923081,0,0,0,1,0,0,0,engineering
+"Allen, Grace L.",Female,0.1919341552809654,0.0384048118454678,0,1,0,0,0,0,0,home economics
+"Allen, N. R.",Male,0.1451402099776044,0.0,0,0,0,0,0,0,1,veterinary
+"Allison, J. H.",Male,0.3019505000374997,0.1286976262877958,1,0,0,0,0,0,0,agriculture
+"Althaus, Robert",Male,0.1281219959913578,-0.0139672195163412,0,0,0,1,0,0,0,engineering
+"Anderson, Earl G.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Armour, Chas. R.",Male,0.128263347935719,-0.0138512088916335,0,0,0,1,0,0,0,engineering
+"Aull, R. H.",Male,0.1401682886968668,-0.0040805642708543,0,0,0,0,0,0,1,veterinary
+"Avery, Geo. W.",Male,0.1552172686708703,0.0082704619275352,1,0,0,0,0,0,0,agriculture
+"Avery, Ruth",Female,0.1552172686708703,0.0082704619275352,0,1,0,0,0,0,0,home economics
+"Bangham, Bayard C.",Male,0.0215932625975005,-0.1013976752217559,0,0,0,1,0,0,0,engineering
+"Barnhart, Etta",Female,0.1633081603382671,0.0149108332433968,0,1,0,0,0,0,0,home economics
+"Barnum, Edwin F.",Male,0.0815611966288064,-0.0521806834014847,0,0,0,1,0,0,0,engineering
+"Beach, Frank H.",Male,0.1211794400504122,-0.019665126647491,1,0,0,0,0,0,0,agriculture
+"Beardshear, Constance",Female,0.7414838690240113,0.4894322518103661,0,1,0,0,0,0,0,home economics
+"Beck, Geo. E.",Male,0.3129360667303796,0.1377137205521448,0,0,0,1,0,0,0,engineering
+"Bittman, E. S.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Black, Paul M.",Male,0.0440972898453006,-0.0829281290739774,0,0,0,1,0,0,0,engineering
+"Blake, James E.",Male,0.0816031071889303,-0.0521462864904002,0,0,0,1,0,0,0,engineering
+"Bliss, Edith C.",Female,0.2217934880513732,0.0629110177113014,0,1,0,0,0,0,0,home economics
+"Bliss, Frank H.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Blythe, George",Male,0.1231910458117825,-0.0180141579105776,1,0,0,0,0,0,0,agriculture
+"Bode, Irwin T.",Male,0.0510432780389883,-0.0772274050181184,1,0,0,0,0,0,0,agriculture
+"Bohning, Harry J.",Male,0.3812072858171106,0.1937453995757618,0,0,0,1,0,0,0,engineering
+"Bolles, D. C.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Bonnewell, Chester A.",Male,0.131894097488865,-0.0108713735188599,1,0,0,0,0,0,0,agriculture
+"Borman, A. P.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Breakenridge, Will J.",Male,0.1677682047722345,0.0185712890181451,1,0,0,0,0,0,0,agriculture
+"Brimmer, Clifford",Male,0.1326276939251063,-0.0102692949182694,1,0,0,0,0,0,0,agriculture
+"Brown, Thomas M.",Male,0.1451402099776044,0.0,0,0,0,0,0,1,0,education
+"Brown, W. E.",Male,0.1702240643482284,0.0205868665533046,1,0,0,0,0,0,0,agriculture
+"Brownell, Edith",Female,0.1451402099776044,0.0,0,1,0,0,0,0,0,home economics
+"Buchanan, Louise",Female,0.561439479982249,0.3416658935741767,0,1,0,0,0,0,0,home economics
+"Buffington, Beula",Female,0.1552172686708703,0.0082704619275352,0,1,0,0,0,0,0,home economics
+"Burke, Edmund",Male,0.0583971313648806,-0.0711919371495911,0,0,0,0,0,0,1,veterinary
+"Burnstedt, H. C.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Bushnell, J. A.",Male,0.1453384597757589,0.0001627079346946,0,0,0,1,0,0,0,engineering
+"Butcher, Charles A.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Camburn, O. M.",Male,0.1709576607844697,0.0211889451538951,1,0,0,0,0,0,0,agriculture
+"Campbell, Glenn H.",Male,0.1130457174127478,-0.0263406502751234,1,0,0,0,0,0,0,agriculture
+"Campbell, Neal",Male,0.1156094799388597,-0.0242365144346107,1,0,0,0,0,0,0,agriculture
+"Canady, Elizabeth B.",Female,0.5125227070169227,0.3015188307513741,0,0,1,0,0,0,0,science
+"Carter, Dean G.",Male,0.1156094799388597,-0.0242365144346107,0,0,0,1,0,0,0,engineering
+"Cessna, Gladys",Female,0.1281219959913578,-0.0139672195163412,0,1,0,0,0,0,0,home economics
+"Cessna, Hazel Rebecca",Female,0.1451402099776044,0.0,0,1,0,0,0,0,0,home economics
+"Chaves, David",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Clark, H. M.",Male,0.1326276939251063,-0.0102692949182694,1,0,0,0,0,0,0,agriculture
+"Clark, Lucy",Female,0.2038335398326794,0.0481708963639411,0,1,0,0,0,0,0,home economics
+"Clark, Robert M.",Male,0.1281219959913578,-0.0139672195163412,1,0,0,0,0,0,0,agriculture
+"Clyde, A. W.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Cole, Edith F.",Female,0.2446594493277339,0.0816776110128778,0,1,0,0,0,0,0,home economics
+"Coles, Jessie V.",Female,0.2137639945625343,0.0563210372201476,0,1,0,0,0,0,0,home economics
+"Colquhoun, Ezra",Male,0.2446594493277339,0.0816776110128778,0,0,0,0,0,1,0,education
+"Combs, Roy",Male,0.1326276939251063,-0.0102692949182694,0,0,0,0,0,1,0,education
+"Conrad, Ruth",Female,0.1863346211232479,0.0338091519934235,0,1,0,0,0,0,0,home economics
+"Cool, W. O.",Male,0.0458785252396271,-0.0814662303234422,0,0,0,1,0,0,0,engineering
+"Cordiner, W. S.",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Corson, Geo. E.",Male,0.1326276939251063,-0.0102692949182694,1,0,0,0,0,0,0,agriculture
+"Cretsinger, Elsie M.",Female,0.337930964077695,0.1582275781355848,0,1,0,0,0,0,0,home economics
+"Cunningham, C. W.",Male,0.1273883995551165,-0.0145692981169316,0,0,0,1,0,0,0,engineering
+"Davidson, O. D.",Male,0.0816031071889303,-0.0521462864904002,0,0,0,1,0,0,0,engineering
+"Deacon, Anna May",Female,0.2509368626029225,0.0868296210463755,0,1,0,0,0,0,0,home economics
+"Deischer, Margaret",Female,0.337930964077695,0.1582275781355848,0,1,0,0,0,0,0,home economics
+"Dew, Martha",Female,0.1326276939251063,-0.0102692949182694,0,1,0,0,0,0,0,home economics
+"Dickinson, R. L.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Diedrich, Jacob",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Diserens, Albert J.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Dixon, O. H.",Male,0.1058009213478578,-0.0322866124701705,0,0,0,0,0,0,1,veterinary
+"Dobbin, Henry F.",Male,0.1729380850674798,0.0228143225712109,1,0,0,0,0,0,0,agriculture
+"Dowell, A. A.",Male,0.1677682047722345,0.0185712890181451,1,0,0,0,0,0,0,agriculture
+"Dowell, J. M.",Male,0.1223871061238609,-0.018673968752548,1,0,0,0,0,0,0,agriculture
+"Dudley, Albert E.",Male,0.0816031071889303,-0.0521462864904002,0,0,0,1,0,0,0,engineering
+"Duncan, Henry R.",Male,0.2011065900439,0.045932829176591,1,0,0,0,0,0,0,agriculture
+"Dyer, Isabel",Female,0.2314862973500071,0.0708661177772344,0,1,0,0,0,0,0,home economics
+"Edwards, Earl",Male,0.0915806635585498,-0.0439574882907907,1,0,0,0,0,0,0,agriculture
+"Edwards, R. M.",Male,0.1281219959913578,-0.0139672195163412,1,0,0,0,0,0,0,agriculture
+"Edwards, R. T.",Male,0.2411423754441501,0.0787910717422525,0,0,0,1,0,0,0,engineering
+"Ellis, P. W.",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Eldredge, John C.",Male,0.2321469332752359,0.0714083160946083,1,0,0,0,0,0,0,agriculture
+"Ellis, J. V.",Male,0.1451402099776044,0.0,0,0,0,0,0,1,0,education
+"Enslow, V. W.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Farmer, W. H.",Male,0.0471028145327946,-0.0804614293893961,1,0,0,0,0,0,0,agriculture
+"Fidlar, John B.",Male,0.0508542563871416,-0.0773825392118017,0,0,0,1,0,0,0,engineering
+"Field, Mable",Female,0.527038776336877,0.313432485549115,0,0,1,0,0,0,0,science
+"Field, Sarah",Female,0.1043143004825499,-0.0335067146489367,0,1,0,0,0,0,0,home economics
+"Fletcher, L. J.",Male,0.2321469332752359,0.0714083160946083,0,0,0,1,0,0,0,engineering
+"Flint, Allan T.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Fox, Elmer",Male,0.2519562609421734,0.0876662635042984,1,0,0,0,0,0,0,agriculture
+"Frevert, A. A.",Male,0.134899622176359,-0.0084046738342786,1,0,0,0,0,0,0,agriculture
+"Frink, Gale K.",Male,0.3085867742781396,0.1341441613451506,1,0,0,0,0,0,0,agriculture
+"Fry, Edna B.",Female,0.5655167176855005,0.3450121715130744,0,1,0,0,0,0,0,home economics
+"Furry, Genevieve",Female,0.3370610745227831,0.1575136407989027,0,1,0,0,0,0,0,home economics
+"Garretson, O. A.",Male,0.134899622176359,-0.0084046738342786,1,0,0,0,0,0,0,agriculture
+"Garst, M. C.",Male,0.1919341552809654,0.0384048118454678,1,0,0,0,0,0,0,agriculture
+"Garton, Gladys",Female,0.293310075510768,0.1216062413647497,0,0,0,0,1,0,0,music
+"Gaylord, Sidney W.",Male,0.1357035618642806,-0.0077448629923081,0,0,0,1,0,0,0,engineering
+"Gholson, H. E.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Gifford, Gladys",Female,0.0877724199170089,-0.047082996934418,1,0,0,0,0,0,0,agriculture
+"Gilbert, C. A.",Male,0.1935038747629829,0.039693114871986,1,0,0,0,0,0,0,agriculture
+"Gilbert, Winifred",Female,0.1554155184690248,0.0084331698622298,0,1,0,0,0,0,0,home economics
+"Giles, Frank A.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Goldenstar, Arthur",Male,0.0533318181618369,-0.0753491502086765,0,0,0,1,0,0,0,engineering
+"Goldschmidt, Adlai",Male,0.1615210126711459,0.0134440821615869,1,0,0,0,0,0,0,agriculture
+"Gonzalez, Raul",Male,0.1709576607844697,0.0211889451538951,1,0,0,0,0,0,0,agriculture
+"Gordon, D. V.",Male,0.0879118778310047,-0.0469685407817545,0,0,0,1,0,0,0,engineering
+"Goss, G. A.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Goss, E. F.",Male,0.134899622176359,-0.0084046738342786,1,0,0,0,0,0,0,agriculture
+"Greer, Chloe",Female,0.3442694368341777,0.1634297010175564,0,1,0,0,0,0,0,home economics
+"Gregg, Paul F.",Male,0.0816031071889303,-0.0521462864904002,0,0,0,1,0,0,0,engineering
+"Griggs, Muriel K.",Female,0.3061370963914916,0.1321336572573074,0,0,1,0,0,0,0,science
+"Grover, Chas. B.",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Gunsaulus, A. C.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Guthrie, Maude Lilian",Female,0.1502801850851645,0.0042184897130709,0,1,0,0,0,0,0,home economics
+"Hanson, Sigurd",Male,0.1054202530318942,-0.0325990352623786,1,0,0,0,0,0,0,agriculture
+"Hargrove, M. R.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Harley, Wm.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Harpel, Gates",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Harrison, Roscoe F.",Male,0.0816031071889303,-0.0521462864904002,1,0,0,0,0,0,0,agriculture
+"Hawkins, J. R.",Male,-0.0294057663514392,-0.1432536909602903,1,0,0,0,0,0,0,agriculture
+"Helmick, Jas. D.",Male,0.0816031071889303,-0.0521462864904002,1,0,0,0,0,0,0,agriculture
+"Helmick, Mabel J.",Female,0.629210751334871,0.3972872545847143,0,1,0,0,0,0,0,home economics
+"Helmick, Valona F.",Female,0.1451402099776044,0.0,0,1,0,0,0,0,0,home economics
+"Henderson, Blanche",Female,0.1453384597757589,0.0001627079346946,0,1,0,0,0,0,0,home economics
+"Henss, A. D.",Male,0.2689744749284199,0.1016334830206396,1,0,0,0,0,0,0,agriculture
+"Hewitt, Henry M.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Hinkson, Nellie",Female,0.1451402099776044,0.0,0,1,0,0,0,0,0,home economics
+"Holm, Florence",Female,0.9641673188695749,0.672193417533323,0,1,0,0,0,0,0,home economics
+"Hood, Clarence K.",Male,0.0816031071889303,-0.0521462864904002,0,0,0,1,0,0,0,engineering
+"Hopkins, Karl H.",Male,0.0259325209943055,-0.0978363511829769,1,0,0,0,0,0,0,agriculture
+"Hopkins, R. M.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Horne, R. J.",Male,0.0889941755327129,-0.0460802754447452,0,0,0,1,0,0,0,engineering
+"Hoyt, T. V.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Hoyt, R. S.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Hubbard, Reuben",Male,0.1281219959913578,-0.0139672195163412,1,0,0,0,0,0,0,agriculture
+"Hudson, W. F.",Male,0.1602083999379402,0.0123667922532895,0,0,0,1,0,0,0,engineering
+"Hunefeld, F. H.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Hunter, J. Marshall",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Irvine, Mae",Female,0.4527219907096517,0.2524390781655201,0,1,0,0,0,0,0,home economics
+"Isch, D. H.",Male,0.0624122505818598,-0.0678966412076579,1,0,0,0,0,0,0,agriculture
+"Iverson, Jennie",Female,0.2839926235597362,0.1139592052634176,0,1,0,0,0,0,0,home economics
+"Jansen, Peter C.",Male,0.1281219959913578,-0.0139672195163412,0,0,0,1,0,0,0,engineering
+"Jenson, J. C.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Johnson, C. G.",Male,0.0129445566915406,-0.1084958568534149,1,0,0,0,0,0,0,agriculture
+"Johnson, Glenn W.",Male,0.1832632869617375,0.0312884410377074,0,0,0,1,0,0,0,engineering
+"Johnson, Merle E.",Male,0.0780711521110145,-0.0550450390818868,0,0,0,1,0,0,0,engineering
+"Jones, Glenn",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Joy, A. W.",Male,0.0831608531409053,-0.0508678104012224,1,0,0,0,0,0,0,agriculture
+"Kaiser, Elmer L.",Male,0.0816031071889303,-0.0521462864904002,0,0,0,1,0,0,0,engineering
+"Kelly, Mary C.",Female,0.1539120872931732,0.0071992710948386,0,1,0,0,0,0,0,home economics
+"Kenneally, Marion H.",Male,0.0816031071889303,-0.0521462864904002,0,0,0,1,0,0,0,engineering
+"Kerwin, F. N.",Male,0.1071181419898122,-0.0312055407506291,0,0,0,1,0,0,0,engineering
+"Ketchum, Marjorie",Female,0.1451402099776044,0.0,0,1,0,0,0,0,0,home economics
+"Key, Florence",Female,0.1655406908885445,0.0167431197746311,0,0,0,0,1,0,0,music
+"King, R. C.",Male,0.1043143004825499,-0.0335067146489367,1,0,0,0,0,0,0,agriculture
+"King, Leone C.",Female,0.1451402099776044,0.0,0,1,0,0,0,0,0,home economics
+"Kirk, R. H.",Male,0.2945236469201859,0.1226022458977633,0,0,0,1,0,0,0,engineering
+"Koenig, Fred",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Lackie, H. M.",Male,0.2317057273308262,0.0710462087499443,0,0,0,0,0,1,0,education
+"Laird, Daisy",Female,0.1451402099776044,0.0,0,1,0,0,0,0,0,home economics
+"Lake, Sebastian",Male,0.0816031071889303,-0.0521462864904002,1,0,0,0,0,0,0,agriculture
+"Lamson, Bertha",Female,0.5000101909644247,0.2912495358331047,0,1,0,0,0,0,0,home economics
+"Lemley, Mary E.",Female,0.7040083795643902,0.4586752999828786,0,1,0,0,0,0,0,home economics
+"Lewis, Flossie May",Female,0.1451402099776044,0.0,0,1,0,0,0,0,0,home economics
+"Lewis, George",Male,0.1444066135413631,-0.0006020786005904,1,0,0,0,0,0,0,agriculture
+"Lewis, Maude E.",Female,0.1451402099776044,0.0,0,1,0,0,0,0,0,home economics
+"Likely, C. W.",Male,0.1451402099776044,0.0,0,0,0,0,0,0,1,veterinary
+"Lindauer, John W.",Male,0.1794744391632922,0.0281788509856808,0,0,0,1,0,0,0,engineering
+"Ingle, Thomas",Male,0.0470859683359501,-0.0804752554306912,1,0,0,0,0,0,0,agriculture
+"Linse, Vivian",Female,0.4891709665335612,0.2823535478560403,0,1,0,0,0,0,0,home economics
+"Little, Mary Ruth",Female,0.5257021291585398,0.3123354700473225,0,1,0,0,0,0,0,home economics
+"Lloyd, J. M.",Male,0.0918017844300518,-0.0437760095672061,0,0,0,0,0,0,1,veterinary
+"McClary, J.",Male,0.1326276939251063,-0.0102692949182694,1,0,0,0,0,0,0,agriculture
+"McDonald, Chas. B.",Male,0.126453650629091,-0.0153364669545673,1,0,0,0,0,0,0,agriculture
+"McGovern, S. A.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"McGhee, J. D.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"McHose, Winifred",Female,0.5452565978859492,0.3283842491649128,0,1,0,0,0,0,0,home economics
+"McKinsey, Shirley N.",Male,0.1451402099776044,0.0,0,0,0,0,0,1,0,education
+"McLaughlin, M. L.",Male,0.1451402099776044,0.0,0,0,0,0,0,0,1,veterinary
+"McMahon, G. D.",Male,0.1043143004825499,-0.0335067146489367,0,0,0,1,0,0,0,engineering
+"McMahon, W. S.",Male,0.3594798240756852,0.1759131976819175,1,0,0,0,0,0,0,agriculture
+"McMillan, H. L.",Male,0.6585442559209745,0.421361901787342,0,0,0,0,0,0,1,veterinary
+"McWhorter, Ray S.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"MacGibbon, W. M.",Male,0.1036302565164919,-0.034068124456128,0,0,0,1,0,0,0,engineering
+"Mack, Fay",Female,0.4968929331005706,0.2886911342929267,0,1,0,0,0,0,0,home economics
+"Macvicar, John",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Madson, Luella E.",Female,0.3051758604578313,0.1313447499546211,0,1,0,0,0,0,0,home economics
+"Mattison, H. H.",Male,0.0816031071889303,-0.0521462864904002,1,0,0,0,0,0,0,agriculture
+"Meiggs, L. W.",Male,0.0659627136651827,-0.0649826986923321,1,0,0,0,0,0,0,agriculture
+"Meltzer, Chas.",Male,0.1919341552809654,0.0384048118454678,1,0,0,0,0,0,0,agriculture
+"Merritt, Worth",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Middleton, Amy L.",Female,0.118685347878034,-0.0217120825086493,0,1,0,0,0,0,0,home economics
+"Miller, Harold",Male,0.2612628122848596,0.0953043532385354,1,0,0,0,0,0,0,agriculture
+"Miller, M. P.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Miller, Robert J.",Male,0.021576416400656,-0.1014115012630509,1,0,0,0,0,0,0,agriculture
+"Minges, George A.",Male,0.2376319278485552,0.0759099708107498,0,0,1,0,0,0,0,science
+"Minnis, C. Floyd",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Montgomery, Mary E.",Female,0.1584451447319717,0.0109196502356256,0,1,0,0,0,0,0,home economics
+"Moore, Susie B.",Female,0.3611504226407873,0.17728429437287,0,1,0,0,0,0,0,home economics
+"Murphy, Mabel",Female,0.7064831817588475,0.4607064241382948,0,1,0,0,0,0,0,home economics
+"Nielson, W. R.",Male,0.1185785046376215,-0.0217997710871267,1,0,0,0,0,0,0,agriculture
+"Niles, Laura",Female,0.1451402099776044,0.0,0,0,1,0,0,0,0,science
+"Noble, Nellie",Female,0.2193213255698483,0.0608820600258811,0,0,1,0,0,0,0,science
+"O'Connor, Mildred",Female,0.3821815670351488,0.1945450134279548,0,0,1,0,0,0,0,science
+"Ogilvie, Victor A.",Male,0.1552172686708703,0.0082704619275352,0,0,0,1,0,0,0,engineering
+"Olson, Norman E.",Male,0.2108357020778694,0.0539177236894551,1,0,0,0,0,0,0,agriculture
+"O'Rourke, John B.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Pammel, Doris",Female,0.5755296188575834,0.3532299779632069,0,1,0,0,0,0,0,home economics
+"Parle, Harry V.",Male,0.0816031071889303,-0.0521462864904002,0,0,0,1,0,0,0,engineering
+"Paxon, P. B.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Pearce, G. T.",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Peaslee, O. M.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Penick, Margaret",Female,0.1655406908885445,0.0167431197746311,0,1,0,0,0,0,0,home economics
+"Perdue, H. S.",Male,0.1326276939251063,-0.0102692949182694,0,0,0,0,0,0,1,veterinary
+"Perry, Winifred",Female,0.1513095227056831,0.0050632895559822,0,0,1,0,0,0,0,science
+"Peters, J. H.",Male,0.1043143004825499,-0.0335067146489367,0,0,1,0,0,0,0,science
+"Peters, Eunice",Female,0.4019827214543479,0.2107962528749047,0,1,0,0,0,0,0,home economics
+"Peterson, Ward",Male,0.2833541473246417,0.1134351938872098,0,0,0,1,0,0,0,engineering
+"Peterson, Van D.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Phillips, Wilma A.",Female,0.561439479982249,0.3416658935741767,0,1,0,0,0,0,0,home economics
+"Pickford, A. H.",Male,0.2038335398326794,0.0481708963639411,1,0,0,0,0,0,0,agriculture
+"Pierce, Jessie",Female,0.2677608647830851,0.1006374466962139,0,1,0,0,0,0,0,home economics
+"Pittman, P. W.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Porterfield, J. S.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Portlock, Kineta",Female,0.2669744095734896,0.0999919857470763,0,1,0,0,0,0,0,home economics
+"Potter, E. G.",Male,0.05734340233404,-0.0720567555551175,1,0,0,0,0,0,0,agriculture
+"Potter, L. D.",Male,0.0566098058977987,-0.072658834155708,0,0,0,0,0,0,1,veterinary
+"Potter, L. P.",Male,0.2932213639112669,0.1215334338195585,0,0,0,0,0,0,1,veterinary
+"Powell, Lester D.",Male,0.1357035618642806,-0.0077448629923081,1,0,0,0,0,0,0,agriculture
+"Rackliffe, Arthur",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Raeder, J. M.",Male,0.1211794400504122,-0.019665126647491,1,0,0,0,0,0,0,agriculture
+"Ramirez, Hipolito",Male,0.1211794400504122,-0.019665126647491,1,0,0,0,0,0,0,agriculture
+"Rath, R. A.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Reep, R. W.",Male,0.1326276939251063,-0.0102692949182694,1,0,0,0,0,0,0,agriculture
+"Reese, Vincent M.",Male,0.1178814081901124,-0.0223718933506198,0,0,0,1,0,0,0,engineering
+"Reeve, Lew",Male,0.05734340233404,-0.0720567555551175,1,0,0,0,0,0,0,agriculture
+"Reeve, Myra R.",Female,0.131894097488865,-0.0108713735188599,0,1,0,0,0,0,0,home economics
+"Renne, Lysle W.",Male,0.0583910412921252,-0.0711969354051727,1,0,0,0,0,0,0,agriculture
+"Reynard, Chas R.",Male,0.1057070671194185,-0.0323636406831315,0,0,0,0,0,0,1,veterinary
+"Rickey, Lacey F.",Male,0.0583910412921252,-0.0711969354051727,1,0,0,0,0,0,0,agriculture
+"Ringheim, Irene",Female,0.1451402099776044,0.0,0,1,0,0,0,0,0,home economics
+"Rogers, W. L.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Rudnick, Marie",Female,0.1451402099776044,0.0,0,0,0,0,1,0,0,music
+"Russell, Willard E.",Male,0.0721664590756064,-0.0598911494827083,0,0,0,1,0,0,0,engineering
+"Ryan, Ada Claire",Female,0.1415055149075708,-0.0029830735445652,0,1,0,0,0,0,0,home economics
+"Scarborough, Hugh",Male,0.1423481457185214,-0.0022915080537745,0,0,0,1,0,0,0,engineering
+"Schloeman, Henry O.",Male,0.1043143004825499,-0.0335067146489367,1,0,0,0,0,0,0,agriculture
+"Schultz, Orville C.",Male,0.1451402099776044,0.0,0,0,1,0,0,0,0,science
+"Seeds, Edward",Male,0.1401682886968668,-0.0040805642708543,0,0,0,1,0,0,0,engineering
+"Seiler, Elmer",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Ernstrom, Carl Y.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Seymour, J. H.",Male,0.1326276939251063,-0.0102692949182694,0,0,0,0,0,1,0,education
+"Shumway, Abigail",Female,0.3356678264302363,0.1563701716919182,0,1,0,0,0,0,0,home economics
+"Simpson, Chas. O.",Male,0.1552172686708703,0.0082704619275352,0,0,0,1,0,0,0,engineering
+"Sims, Marjorie",Female,0.1211794400504122,-0.019665126647491,0,1,0,0,0,0,0,home economics
+"Smith, Allan M.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Smith, Cecil",Male,0.1326276939251063,-0.0102692949182694,1,0,0,0,0,0,0,agriculture
+"Smith, F. R.",Male,0.0118622589898324,-0.1093841221904242,0,0,0,1,0,0,0,engineering
+"Snyder, Lloyd B.",Male,0.1381990546846237,-0.005696757588806,1,0,0,0,0,0,0,agriculture
+"Spencer, Harold",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Stacy, B. F.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Steen, Clara",Female,0.4278001722612132,0.2319851980287998,0,1,0,0,0,0,0,home economics
+"Storey, Katie Marie",Female,0.1985908691956964,0.0438681221892953,0,1,0,0,0,0,0,home economics
+"Strandberg, Fred W.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Stuckenbruck, Harold C.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Summers, Glenn H.",Male,0.118685347878034,-0.0217120825086493,1,0,0,0,0,0,0,agriculture
+"Summers, R. J.",Male,0.0879118778310047,-0.0469685407817545,0,0,0,1,0,0,0,engineering
+"Sunderland, H. H.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Sunderlin, Howard L.",Male,0.1451402099776044,0.0,0,0,1,0,0,0,0,science
+"Swan, J. H.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Swaney, Gilmore D.",Male,0.1757326388336104,0.0251078738177347,0,0,0,0,0,1,0,education
+"Swift, Harvey M.",Male,0.1451402099776044,0.0,0,0,0,0,0,1,0,education
+"Taff, Lillian C.",Female,0.0877722925715729,-0.0470831014495957,0,1,0,0,0,0,0,home economics
+"Thomas, J. Fred",Male,0.0690905911364322,-0.0624155814086697,1,0,0,0,0,0,0,agriculture
+"Thompson, Stephen C.",Male,0.2057797104061529,0.0497681610145041,1,0,0,0,0,0,0,agriculture
+"Thorson, Theo.",Male,0.0458785252396271,-0.0814662303234422,1,0,0,0,0,0,0,agriculture
+"Thurman, A. G.",Male,0.067490959872912,-0.0637284336868726,1,0,0,0,0,0,0,agriculture
+"Foenies, T. A.",Male,0.3113135120687647,0.1363820545409902,0,0,0,1,0,0,0,engineering
+"Tomlinson, Paul",Male,0.1401682886968668,-0.0040805642708543,1,0,0,0,0,0,0,agriculture
+"Truax, Earl R.",Male,0.1451402099776044,0.0,0,0,0,0,0,0,1,veterinary
+"Stephenson, A. R.",Male,0.1715980713644118,0.0217145440891221,1,0,0,0,0,0,0,agriculture
+"Stevenson, R. S.",Male,0.05734340233404,-0.0720567555551175,1,0,0,0,0,0,0,agriculture
+"Stewart, F. Lee",Male,0.4843804170480725,0.2784218393746572,1,0,0,0,0,0,0,agriculture
+"True, R. H.",Male,0.0816031071889303,-0.0521462864904002,1,0,0,0,0,0,0,agriculture
+"Valdez, J.",Male,0.1677682047722345,0.0185712890181451,0,0,0,1,0,0,0,engineering
+"Van Anda, John L.",Male,0.1357035618642806,-0.0077448629923081,1,0,0,0,0,0,0,agriculture
+"Vickerstaff, S. G.",Male,0.1074205579957956,-0.0309573413365051,1,0,0,0,0,0,0,agriculture
+"Walker, Van B.",Male,0.1281219959913578,-0.0139672195163412,0,0,0,1,0,0,0,engineering
+"Ward, Lottie E.",Female,0.2137639945625343,0.0563210372201476,0,1,0,0,0,0,0,home economics
+"Warden, Robt. P.",Male,0.1454481088491756,0.0002526993215354,1,0,0,0,0,0,0,agriculture
+"Watson, Besse",Female,0.1451402099776044,0.0,0,1,0,0,0,0,0,home economics
+"Wenger, Joe",Male,0.2321469332752359,0.0714083160946083,1,0,0,0,0,0,0,agriculture
+"Wentworth, Marion",Female,0.4766584504810631,0.2720842529377708,0,1,0,0,0,0,0,home economics
+"Westley, Roy O.",Male,0.1935038747629829,0.039693114871986,1,0,0,0,0,0,0,agriculture
+"White, Mary",Female,0.5125227070169227,0.3015188307513741,0,1,0,0,0,0,0,home economics
+"Whitney, O. R.",Male,0.1017049413833654,-0.035648272591781,0,0,0,0,0,0,1,veterinary
+"Willey, Florence",Female,0.05734340233404,-0.0720567555551175,0,0,1,0,0,0,0,science
+"Wilson, Edwin J.",Male,0.2833541473246417,0.1134351938872098,0,0,0,1,0,0,0,engineering
+"Wilson, Emma Lou",Female,0.1584451447319717,0.0109196502356256,0,1,0,0,0,0,0,home economics
+"Wilson, Annie Faye",Female,0.1809913587104848,0.0294238199537165,0,1,0,0,0,0,0,home economics
+"Wilson, Harrison B.",Male,0.1043143004825499,-0.0335067146489367,1,0,0,0,0,0,0,agriculture
+"Wind, Hortense E.",Female,0.1326276939251063,-0.0102692949182694,0,1,0,0,0,0,0,home economics
+"Winter, Leon A.",Male,0.0372970761700842,-0.0885092128020662,0,0,0,1,0,0,0,engineering
+"Wood, P. E.",Male,0.1281219959913578,-0.0139672195163412,1,0,0,0,0,0,0,agriculture
+"Woodroffe, H. B.",Male,0.133015989607668,-0.0099506121798828,1,0,0,0,0,0,0,agriculture
+"Yockey, Rex",Male,0.1385039357369644,-0.0054465350573548,1,0,0,0,0,0,0,agriculture
+"York, Ethel",Female,0.6788319824837572,0.4380124816084029,0,1,0,0,0,0,0,home economics
+"Zimmer, Leah R.",Female,0.3900695318935908,0.2010188382843165,0,1,0,0,0,0,0,home economics
+"Ahrens, Ida",Female,0.5093101756069437,0.2988822361332444,0,1,0,0,0,0,0,home economics
+"Anderson, J. L.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Anderson, J. P.",Male,0.0788284942104524,-0.0544234718974358,0,0,0,1,0,0,0,engineering
+"Anderson, Lancelot S.",Male,0.0237589837076291,-0.0996202206556782,0,0,0,1,0,0,0,engineering
+"Anderson, Walter L.",Male,0.0638512967664424,-0.0667155846073319,0,0,0,1,0,0,0,engineering
+"Arthur, Ira W.",Male,0.1005332013602497,-0.0366099451933929,1,0,0,0,0,0,0,agriculture
+"Atwood, Guy H.",Male,0.1357035618642806,-0.0077448629923081,1,0,0,0,0,0,0,agriculture
+"Axthelm, Edward E.",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Aydlette, H. P.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Baie, Emma A.",Female,0.1326276939251063,-0.0102692949182694,0,1,0,0,0,0,0,home economics
+"Bakewell, Adela",Female,0.1451402099776044,0.0,0,1,0,0,0,0,0,home economics
+"Barker, Frank F.",Male,0.0448308862815419,-0.082326050473387,1,0,0,0,0,0,0,agriculture
+"Barker, Leland H.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Barnhart, Sadie",Female,0.1156094799388597,-0.0242365144346107,0,1,0,0,0,0,0,home economics
+"Bass, Helen",Female,0.4866018746782733,0.2802450381187994,0,1,0,0,0,0,0,home economics
+"Baustian, Alfred A.",Male,0.0448308862815419,-0.082326050473387,0,0,0,1,0,0,0,engineering
+"Baxter, Howard A.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Bean, Ward",Male,0.0816031071889303,-0.0521462864904002,0,0,1,0,0,0,0,science
+"Beach, Walker C.",Male,0.1281219959913578,-0.0139672195163412,1,0,0,0,0,0,0,agriculture
+"Becker, Joseph Philip",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Becker, Raymond B.",Male,0.1326276939251063,-0.0102692949182694,1,0,0,0,0,0,0,agriculture
+"Benson, Donald J.",Male,0.0471028145327946,-0.0804614293893961,0,0,0,1,0,0,0,engineering
+"Bentley, Russell",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Bilderback, Charles M.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Birlingmair, Robert H.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Bird, Albert R.",Male,0.1340407979490959,-0.0091095296151396,1,0,0,0,0,0,0,agriculture
+"Blakeslee, Ralph O.",Male,0.0816031071889303,-0.0521462864904002,0,0,0,1,0,0,0,engineering
+"Bliss, Fred G.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Boileau, Harl",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Booker, George F.",Male,0.1539394467982232,0.0072217256375538,1,0,0,0,0,0,0,agriculture
+"Bourland, C. Curtice",Male,0.1451402099776044,0.0,0,0,0,0,0,0,1,veterinary
+"Boltz, Joe",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Brady, R. A.",Male,0.1281219959913578,-0.0139672195163412,0,0,0,1,0,0,0,engineering
+"Brasted, Dea J.",Male,0.1156094799388597,-0.0242365144346107,1,0,0,0,0,0,0,agriculture
+"Brekke, Julia E.",Female,0.1451402099776044,0.0,0,1,0,0,0,0,0,home economics
+"Brown, Andrew J.",Male,0.1281219959913578,-0.0139672195163412,1,0,0,0,0,0,0,agriculture
+"Brown, Eugenia",Female,0.1451402099776044,0.0,0,1,0,0,0,0,0,home economics
+"Brownell, Fred",Male,0.1552172686708703,0.0082704619275352,1,0,0,0,0,0,0,agriculture
+"Bruner, D. L.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Buehler, Charles L.",Male,0.1130457174127478,-0.0263406502751234,0,0,0,1,0,0,0,engineering
+"Buffington, Estella",Female,0.2028919412544692,0.0473981058673141,0,1,0,0,0,0,0,home economics
+"Burhans, N. C.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Burnquist, Eleanor E.",Female,0.1223871061238609,-0.018673968752548,0,1,0,0,0,0,0,home economics
+"Burrus, Norman",Male,0.1196306580423103,-0.0209362458323597,1,0,0,0,0,0,0,agriculture
+"Burrill, Percy",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Bussey, Ella L.",Female,0.1935038747629829,0.039693114871986,0,1,0,0,0,0,0,home economics
+"Butler, A. I.",Male,0.1223871061238609,-0.018673968752548,0,0,0,1,0,0,0,engineering
+"Cameron, Ada E.",Female,0.0816031071889303,-0.0521462864904002,0,1,0,0,0,0,0,home economics
+"Cambre, Robert G.",Male,0.1224384670181408,-0.0186318157460374,1,0,0,0,0,0,0,agriculture
+"Capper, Howard M.",Male,0.1919341552809654,0.0384048118454678,0,0,0,1,0,0,0,engineering
+"Carson, Gladys S.",Female,0.2177516060878307,0.0595937569993629,0,1,0,0,0,0,0,home economics
+"Carhart, A. H.",Male,0.0816031071889303,-0.0521462864904002,1,0,0,0,0,0,0,agriculture
+"Cash, H. W.",Male,0.1281219959913578,-0.0139672195163412,0,0,0,1,0,0,0,engineering
+"Cassidy, Hugh O.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Clark, Fred",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Clarke, Ruth Harriet",Female,0.4079990178420141,0.21573395858185,0,1,0,0,0,0,0,home economics
+"Clayton, J. W.",Male,0.3504434801301931,0.1684968730538543,1,0,0,0,0,0,0,agriculture
+"Collins, Chauncey M.",Male,0.1451402099776044,0.0,0,0,0,0,0,0,1,veterinary
+"Collins, D. R.",Male,0.1451402099776044,0.0,0,0,0,0,0,0,1,veterinary
+"Conrad, Harold N.",Male,0.1584451447319717,0.0109196502356256,0,0,0,1,0,0,0,engineering
+"Cook, J. Neel",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Cordiner, R. P.",Male,0.1552172686708703,0.0082704619275352,0,0,0,1,0,0,0,engineering
+"Cornell, Harvey H.",Male,0.1326276939251063,-0.0102692949182694,1,0,0,0,0,0,0,agriculture
+"Covey, Ellis",Male,0.1243647743403671,-0.0170508532991429,0,0,0,1,0,0,0,engineering
+"Cox, Eva",Female,0.1326276939251063,-0.0102692949182694,0,1,0,0,0,0,0,home economics
+"Cramer, Earnest Faville",Male,0.0956698881151181,-0.0406013724798507,0,0,0,0,0,1,0,education
+"Crane, Harlan B.",Male,0.0370990970335515,-0.0886716985988626,0,0,0,1,0,0,0,engineering
+"Crittenden, Cecile",Female,0.134899622176359,-0.0084046738342786,0,1,0,0,0,0,0,home economics
+"Crouse, Floyd L.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Curtiss, Ruth",Female,0.1849663103409541,0.0326861494810377,0,1,0,0,0,0,0,home economics
+"Davis, Bernice",Female,0.1476958838854421,0.0020974973350201,0,1,0,0,0,0,0,home economics
+"Davis, Clarence J.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Davis, Willis H.",Male,0.1231910458117825,-0.0180141579105776,1,0,0,0,0,0,0,agriculture
+"Dean, James W. M.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"De Bar, Harold J.",Male,0.1276557726443687,-0.0143498591891237,0,0,0,1,0,0,0,engineering
+"Delaney, F. J.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Devine, Mary Helen",Female,0.3356678264302363,0.1563701716919182,0,1,0,0,0,0,0,home economics
+"Dexter, Willis E.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"De Wet, Louis R.",Male,0.349986102481596,0.1681214932387346,1,0,0,0,0,0,0,agriculture
+"Dewey, Grace",Female,0.3085867742781396,0.1341441613451506,0,1,0,0,0,0,0,home economics
+"Diehl, Grace V.",Female,0.497091182898725,0.2888538422276214,0,0,1,0,0,0,0,science
+"Dool, Lawrence E.",Male,0.1326276939251063,-0.0102692949182694,1,0,0,0,0,0,0,agriculture
+"Drake, Wilbur",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Drain, Harry E.",Male,0.1385039357369644,-0.0054465350573548,0,0,0,1,0,0,0,engineering
+"Dunlap, Howard P.",Male,0.2439258528914926,0.0810755324122874,1,0,0,0,0,0,0,agriculture
+"Eales, Howard C.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Earl, Lorne T.",Male,0.1552172686708703,0.0082704619275352,1,0,0,0,0,0,0,agriculture
+"Eddy, Lilian R.",Female,0.4968929331005706,0.2886911342929267,0,1,0,0,0,0,0,home economics
+"Edgar, Mary T.",Female,0.0690905911364322,-0.0624155814086697,0,0,1,0,0,0,0,science
+"Edwards, Lois A.",Female,0.3787727713387404,0.1917473404279224,0,1,0,0,0,0,0,home economics
+"Ekstrand, Walter L.",Male,0.2605579398658952,0.0947258490656154,1,0,0,0,0,0,0,agriculture
+"Eldridge, Joe M.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Engberg, Russell",Male,0.0816031071889303,-0.0521462864904002,1,0,0,0,0,0,0,agriculture
+"Englar, Daniel S.",Male,0.1470235427882618,0.001545692327646,0,0,0,1,0,0,0,engineering
+"English, Ruth G.",Female,0.1451402099776044,0.0,0,1,0,0,0,0,0,home economics
+"Englund, Carl V.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Ender, L. R.",Male,0.3141859138107835,0.1387394973197872,1,0,0,0,0,0,0,agriculture
+"Evans, Valney L.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Fahnestock, Ludlow S.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Fitch, Ernest L.",Male,0.1451402099776044,0.0,0,0,0,0,0,0,1,veterinary
+"Flint, Pauline A.",Female,0.1502268917738601,0.0041747507297474,0,0,1,0,0,0,0,science
+"Forman, Mary M.",Female,0.1326276939251063,-0.0102692949182694,0,1,0,0,0,0,0,home economics
+"Forest, Ida Gertrude",Female,0.1451402099776044,0.0,0,1,0,0,0,0,0,home economics
+"Fox, Lloyd W.",Male,0.3413556575400943,0.1610382987790182,0,0,0,0,0,0,1,veterinary
+"Freshour, Ralph J.",Male,0.1502801850851645,0.0042184897130709,0,0,0,1,0,0,0,engineering
+"Galloway, J. Carleton",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Gaylord, Bennie E.",Male,0.3410068320168692,0.1607520100615461,0,0,0,1,0,0,0,engineering
+"Geasey, Sylvester",Male,0.2137639945625343,0.0563210372201476,1,0,0,0,0,0,0,agriculture
+"Geisler, Max",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Gibbs, R. C.",Male,0.3354519285226084,0.156192979568738,1,0,0,0,0,0,0,agriculture
+"Gibson, Vernon C.",Male,0.1451402099776044,0.0,0,0,0,0,0,1,0,education
+"Glidden, Warren C.",Male,0.1919341552809654,0.0384048118454678,1,0,0,0,0,0,0,agriculture
+"Gordon, William A.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Goede, M. H.",Male,0.1156094799388597,-0.0242365144346107,0,0,0,1,0,0,0,engineering
+"Graham, Lorraine",Female,0.1281219959913578,-0.0139672195163412,0,1,0,0,0,0,0,home economics
+"Gray, Lulu",Female,0.1988471371757459,0.044078446911693,0,1,0,0,0,0,0,home economics
+"Gregg, W. S.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Griffith, Ora M.",Female,0.4866018746782733,0.2802450381187994,0,1,0,0,0,0,0,home economics
+"Grimes, Hazel A.",Female,0.1326276939251063,-0.0102692949182694,0,1,0,0,0,0,0,home economics
+"Gude, A. J.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Hamilton, Riley A.",Male,0.0916801658821961,-0.043875824562865,0,0,1,0,0,0,0,science
+"Hamlin, Herbert M.",Male,0.1326276939251063,-0.0102692949182694,0,0,0,0,0,1,0,education
+"Handy, Harry Carlton",Male,0.0690905911364322,-0.0624155814086697,1,0,0,0,0,0,0,agriculture
+"Hardy, Gladys N.",Female,0.1584451447319717,0.0109196502356256,0,1,0,0,0,0,0,home economics
+"Harrington, Mary Elizabeth",Female,0.2210053262695526,0.0622641561411051,0,1,0,0,0,0,0,home economics
+"Harris, Margaret B.",Female,0.6525234409831319,0.4164204876076827,0,1,0,0,0,0,0,home economics
+"Harris, Nell",Female,0.1451402099776044,0.0,0,1,0,0,0,0,0,home economics
+"Harvey, Nelle",Female,0.0816031071889303,-0.0521462864904002,0,1,0,0,0,0,0,home economics
+"Hawk, Lura Alice",Female,0.1357035618642806,-0.0077448629923081,0,1,0,0,0,0,0,home economics
+"Hawks, Joseph W.",Male,0.3085867742781396,0.1341441613451506,0,0,1,0,0,0,0,science
+"Hawthorne, Fred W.",Male,0.1454481088491756,0.0002526993215354,0,0,0,1,0,0,0,engineering
+"Hayward, E. G.",Male,0.1231910458117825,-0.0180141579105776,1,0,0,0,0,0,0,agriculture
+"Heise, Linda",Female,0.1451402099776044,0.0,0,1,0,0,0,0,0,home economics
+"Heise, R. W.",Male,0.1451402099776044,0.0,0,0,0,0,0,0,1,veterinary
+"Hendriks, John Albert",Male,0.1326276939251063,-0.0102692949182694,1,0,0,0,0,0,0,agriculture
+"Henderson, Divida H.",Female,0.1281219959913578,-0.0139672195163412,0,1,0,0,0,0,0,home economics
+"Herner, Eleonora",Female,0.1299667719743088,-0.0124531716184141,0,1,0,0,0,0,0,home economics
+"Hewitt, Leland H.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Hilleary, Harry",Male,0.1515292407220103,0.0052436169257178,0,0,0,1,0,0,0,engineering
+"Hibben, Robert C.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Hodgson, J. O.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Hoffman, O. A.",Male,0.0583910412921252,-0.0711969354051727,0,0,0,1,0,0,0,engineering
+"Holbrook, Russell Merten",Male,0.1677682047722345,0.0185712890181451,1,0,0,0,0,0,0,agriculture
+"Hollister, E. H.",Male,0.1882451548861085,0.0353771687360042,0,0,0,1,0,0,0,engineering
+"Hopkins, P. F.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Hoover, Bert E.",Male,0.1156094799388597,-0.0242365144346107,0,0,0,1,0,0,0,engineering
+"Houghton, Earle",Male,0.1451402099776044,0.0,0,0,1,0,0,0,0,science
+"Hoyt, Harold A.",Male,0.1281219959913578,-0.0139672195163412,0,0,0,1,0,0,0,engineering
+"Hultz, Fred S.",Male,0.1599426611780847,0.0121486946552748,1,0,0,0,0,0,0,agriculture
+"Hutton, Ethel M.",Female,0.1451402099776044,0.0,0,1,0,0,0,0,0,home economics
+"Huxtable, G. S.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Hall, Harry",Male,0.1444066135413631,-0.0006020786005904,0,0,0,1,0,0,0,engineering
+"Ineck, C. H.",Male,0.235458427944226,0.0741261320185565,1,0,0,0,0,0,0,agriculture
+"Jackson, Millard F.",Male,0.05734340233404,-0.0720567555551175,1,0,0,0,0,0,0,agriculture
+"Jensen, Lucile M.",Female,0.1451402099776044,0.0,0,1,0,0,0,0,0,home economics
+"Johnson, Ava L.",Female,0.1903794252019711,0.0371288109490446,0,1,0,0,0,0,0,home economics
+"John, Edward T.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Johnson, Cora B.",Female,0.1196306580423103,-0.0209362458323597,0,1,0,0,0,0,0,home economics
+"Johnson, W. DeWeese",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Johnson, J. Clarke",Male,0.2020496340230974,0.0467068059453435,1,0,0,0,0,0,0,agriculture
+"Johnston, J. Carl",Male,-0.0113151481633496,-0.1284063259181322,1,0,0,0,0,0,0,agriculture
+"Jones, B. B.",Male,0.1326276939251063,-0.0102692949182694,1,0,0,0,0,0,0,agriculture
+"Jones, Edward P.",Male,0.0637324330784459,-0.0668131386293997,1,0,0,0,0,0,0,agriculture
+"Josselyn, H. E.",Male,0.2479709439967241,0.084395426936826,0,0,0,1,0,0,0,engineering
+"Juzek, Harry J.",Male,0.1451402099776044,0.0,0,0,0,0,0,0,1,veterinary
+"Karr, Arthur I.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Kelly, Raymond C.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Kellogg, Lee A.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Kerrigan, Frank R.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Keating, Zoa M.",Female,0.1326276939251063,-0.0102692949182694,0,1,0,0,0,0,0,home economics
+"Kimball, Earl H.",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Kintzley, Harriet May",Female,0.1451402099776044,0.0,0,0,1,0,0,0,0,science
+"Kirk, Ivan M.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Kirk, Ralph H.",Male,0.1057162466536784,-0.0323561068390883,0,0,0,1,0,0,0,engineering
+"Kivell, Wayne Allen",Male,0.1423655969991266,-0.0022771854070355,0,0,0,1,0,0,0,engineering
+"Knupp, Rachel",Female,0.7133303050368873,0.4663260076008791,0,1,0,0,0,0,0,home economics
+"Krantz, Earl B.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Kriege, Caroline C.",Female,0.1451402099776044,0.0,0,1,0,0,0,0,0,home economics
+"La Crosse, Howard C.",Male,0.0627403690643012,-0.0676273472103366,1,0,0,0,0,0,0,agriculture
+"Lamson, Charles S.",Male,0.1071181419898122,-0.0312055407506291,1,0,0,0,0,0,0,agriculture
+"Landman, S. J.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Langdon, Edgar",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Laubenfels, C. R.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Leffler, Robert W.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Lemen, Beth",Female,0.1451402099776044,0.0,0,1,0,0,0,0,0,home economics
+"Levi, Alexander James",Male,0.1935038747629829,0.039693114871986,1,0,0,0,0,0,0,agriculture
+"Lewison, Edward K.",Male,0.2012514785100362,0.0460517423018781,0,0,0,1,0,0,0,engineering
+"Li, Young Bing",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Lilliard, J. Myrl",Female,0.3356678264302363,0.1563701716919182,0,1,0,0,0,0,0,home economics
+"Lovelace, O. H.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Tregilgus, Chester V.",Male,0.1451402099776044,0.0,0,0,0,0,0,0,1,veterinary
+"Longworth, Harral A.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Lyford, Reid B.",Male,0.087921802517154,-0.0469603953752982,1,0,0,0,0,0,0,agriculture
+"Maakestad, W. T.",Male,0.1552172686708703,0.0082704619275352,1,0,0,0,0,0,0,agriculture
+"Manhardt, Clara",Female,0.1185785046376215,-0.0217997710871267,0,1,0,0,0,0,0,home economics
+"Mason, Clair G.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Matson, T. F.",Male,0.1251703204124269,-0.0163897240626626,0,0,0,1,0,0,0,engineering
+"McCarthy, Carrell C.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"McCausland, Robert J.",Male,0.1385039357369644,-0.0054465350573548,1,0,0,0,0,0,0,agriculture
+"McClung, V. W.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"McCoy, Marjorie",Female,0.0879118778310047,-0.0469685407817545,0,1,0,0,0,0,0,home economics
+"McCrae, Floyd E.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"McCurdy, R. E.",Male,0.0458785252396271,-0.0814662303234422,0,0,0,1,0,0,0,engineering
+"McDonald, C. E.",Male,0.1326276939251063,-0.0102692949182694,1,0,0,0,0,0,0,agriculture
+"McElroy, R. C.",Male,0.1196306580423103,-0.0209362458323597,0,0,0,1,0,0,0,engineering
+"McKinley, Harold L.",Male,0.1326276939251063,-0.0102692949182694,1,0,0,0,0,0,0,agriculture
+"McNee, Lawrence",Male,0.1810347194777356,0.0294594070814303,0,0,0,1,0,0,0,engineering
+"McNutt, Phil",Male,0.1919341552809654,0.0384048118454678,1,0,0,0,0,0,0,agriculture
+"McTavish, H. G.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Meeker, Homer C.",Male,0.05734340233404,-0.0720567555551175,0,0,0,1,0,0,0,engineering
+"Merrick, C. I.",Male,0.0918017844300518,-0.0437760095672061,0,0,0,1,0,0,0,engineering
+"Merten, E. L.",Male,0.1677682047722345,0.0185712890181451,0,0,0,1,0,0,0,engineering
+"Meeteer, Ellwood J.",Male,0.258483071624442,0.0930229594310578,1,0,0,0,0,0,0,agriculture
+"Middleton, H. E.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Mildensten, E. J.",Male,0.2450496714894654,0.0819978748547504,1,0,0,0,0,0,0,agriculture
+"Miller, Richard C.",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Minteer, C. C.",Male,0.2960742582256415,0.1238748664268812,0,0,0,0,0,1,0,education
+"Moffat, Alex R.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Moore, Eugene Ralph",Male,0.1453384597757589,0.0001627079346946,1,0,0,0,0,0,0,agriculture
+"Moore, George G.",Male,0.1281219959913578,-0.0139672195163412,1,0,0,0,0,0,0,agriculture
+"Moore, Glen.",Male,0.259618207589064,0.0939545902832485,0,0,0,1,0,0,0,engineering
+"Morris, R. D.",Male,0.1335003059477133,-0.0095531231929521,1,0,0,0,0,0,0,agriculture
+"Moyer, Ralph H.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Mueller, Paul M.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"McMullin, R. S.",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Mulky, Mina M.",Female,0.1451402099776044,0.0,0,1,0,0,0,0,0,home economics
+"Munger, George H.",Male,0.1451402099776044,0.0,0,0,0,0,0,1,0,education
+"Noble, Mont C.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Nye, Maurine",Female,0.1451402099776044,0.0,0,1,0,0,0,0,0,home economics
+"Obye, Charles H.",Male,0.1451402099776044,0.0,0,0,0,0,0,1,0,education
+"Okey, M. Robert",Male,0.0749668329482903,-0.0575928215477551,1,0,0,0,0,0,0,agriculture
+"Parks, Laura",Female,0.5444212659960024,0.3276986740578354,0,1,0,0,0,0,0,home economics
+"Parsons, Leslie L.",Male,0.157850975828257,0.0104320028529641,1,0,0,0,0,0,0,agriculture
+"Patterson, C. C.",Male,0.1453384597757589,0.0001627079346946,1,0,0,0,0,0,0,agriculture
+"Patterson, Ralph E.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Patty, Ralph L.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Pearson, Arthur R.",Male,0.115937336374618,-0.0239674355047194,1,0,0,0,0,0,0,agriculture
+"Peek, Alice Marion",Female,0.1451402099776044,0.0,0,1,0,0,0,0,0,home economics
+"Penningroth, Edward W.",Male,0.1709576607844697,0.0211889451538951,1,0,0,0,0,0,0,agriculture
+"Perkins, Juanita",Female,0.3504434801301931,0.1684968730538543,0,1,0,0,0,0,0,home economics
+"Pervier, Norville C.",Male,0.1552556887197364,0.0083019940998756,0,0,1,0,0,0,0,science
+"Petersen, R. W.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Plagge, Homer H.",Male,0.1988471371757459,0.044078446911693,1,0,0,0,0,0,0,agriculture
+"Plagge, Newton O.",Male,0.1185785046376215,-0.0217997710871267,1,0,0,0,0,0,0,agriculture
+"Pownall, Paul C.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Rath, H. Earl",Male,0.0916801658821961,-0.043875824562865,1,0,0,0,0,0,0,agriculture
+"Rath, Lois Myrtle",Female,0.1326276939251063,-0.0102692949182694,0,1,0,0,0,0,0,home economics
+"Rawlings, J. B.",Male,0.1552172686708703,0.0082704619275352,0,0,0,1,0,0,0,engineering
+"Reed, Merle K.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Reynolds, A. W.",Male,0.1552172686708703,0.0082704619275352,1,0,0,0,0,0,0,agriculture
+"Riedesel, P. Wayne",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Riemenschneider, Alma",Female,0.1451402099776044,0.0,0,1,0,0,0,0,0,home economics
+"Richardson, H. R.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Richardson, Lewis E.",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Roberts, Harold P.",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Roberts, T. H.",Male,0.1326276939251063,-0.0102692949182694,1,0,0,0,0,0,0,agriculture
+"Rodgers, Helen",Female,0.157850975828257,0.0104320028529641,0,1,0,0,0,0,0,home economics
+"Rogers, Bruce A.",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Ross, Merle",Female,0.4363933057156885,0.2390377701370639,0,1,0,0,0,0,0,home economics
+"Rossing, Tedmar M.",Male,0.6120419463670523,0.3831964417642521,0,0,0,0,0,0,1,veterinary
+"Rue, Nelson B.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Ruesink, Edward",Male,0.1281219959913578,-0.0139672195163412,1,0,0,0,0,0,0,agriculture
+"Rush, I. L.",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Rumbaugh, W. R.",Male,0.05734340233404,-0.0720567555551175,1,0,0,0,0,0,0,agriculture
+"Ryan, Madge Clair",Female,0.4534331060256872,0.2530227060202719,0,1,0,0,0,0,0,home economics
+"Scott, C. C.",Male,0.1326276939251063,-0.0102692949182694,0,0,0,0,0,1,0,education
+"Scott, Milton H.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Searle, Wellington",Male,0.3186496124439897,0.1424029521755769,0,0,0,1,0,0,0,engineering
+"Seder, Merlin L.",Male,0.1451402099776044,0.0,0,0,0,0,0,1,0,education
+"Shideler, Charles J.",Male,0.1552172686708703,0.0082704619275352,0,0,0,1,0,0,0,engineering
+"Skott, Hans E.",Male,0.1530281748360464,0.0064738248563616,1,0,0,0,0,0,0,agriculture
+"Slingerland, Don E.",Male,0.1071181419898122,-0.0312055407506291,1,0,0,0,0,0,0,agriculture
+"Smillie, E. W.",Male,0.2708302261271781,0.1031565385176334,0,0,0,0,0,0,1,veterinary
+"Smith, Andrew N.",Male,0.2214092386567411,0.0625956558496992,1,0,0,0,0,1,0,agriculture
+"Smith, Earl W.",Male,0.1470235427882618,0.001545692327646,0,0,0,1,0,0,0,engineering
+"Smith, Fred Dean",Male,0.4968929331005706,0.2886911342929267,0,0,0,1,0,0,0,engineering
+"Smith, Glenn M.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Smith, John B.",Male,0.2479709439967241,0.084395426936826,1,0,0,0,0,0,0,agriculture
+"Squire, E. G.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Steigerwalt, Frank",Male,0.0585892910902797,-0.0710342274704781,0,0,0,1,0,0,0,engineering
+"Stewart, Margaret B.",Female,0.5616377297804034,0.3418286015088713,0,1,0,0,0,0,0,home economics
+"Stewart, Olive Mae",Female,0.1863346211232479,0.0338091519934235,0,1,0,0,0,0,0,home economics
+"Stoddard, Erling",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Stokes, R. R.",Male,0.1326276939251063,-0.0102692949182694,1,0,0,0,0,0,0,agriculture
+"Stover, Fern H.",Female,0.1326276939251063,-0.0102692949182694,0,1,0,0,0,0,0,home economics
+"Stuewe, Erich F.",Male,0.1185785046376215,-0.0217997710871267,1,0,0,0,0,0,0,agriculture
+"Surring, R. E.",Male,0.1451402099776044,0.0,0,0,0,0,0,0,1,veterinary
+"Susong, Homer D.",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Swiney, John D.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Symonds, Harold H.",Male,0.1882451548861085,0.0353771687360042,0,0,0,1,0,0,0,engineering
+"Syverud, A. O.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Taintor, Elmer J.",Male,0.1451402099776044,0.0,0,0,0,0,0,1,0,education
+"Talcott, James P.",Male,0.0690905911364322,-0.0624155814086697,1,0,0,0,0,0,0,agriculture
+"Tallman, J. Glen",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Taylor, Ferne",Female,0.1451402099776044,0.0,0,1,0,0,0,0,0,home economics
+"Temple, William M.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Thiel, William L.",Male,0.1182287627061765,-0.0220868119208188,0,0,0,1,0,0,0,engineering
+"Thomas, Merton G.",Male,0.1326276939251063,-0.0102692949182694,1,0,0,0,0,0,0,agriculture
+"Thornburg, Herbert W.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Tillie, Robert S.",Male,0.1451402099776044,0.0,0,0,0,0,0,0,1,veterinary
+"Tippie, John M.",Male,0.1281219959913578,-0.0139672195163412,0,0,0,1,0,0,0,engineering
+"Tonsfeldt, Alma",Female,0.7301655937984066,0.480143096394284,0,1,0,0,0,0,0,home economics
+"Torblaa, Erling M.",Male,0.1385039357369644,-0.0054465350573548,1,0,0,0,0,0,0,agriculture
+"Turpin, H. W.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Tuttle, Otis H.",Male,0.1453384597757589,0.0001627079346946,1,0,0,0,0,0,0,agriculture
+"Tucker, Fred Raymond",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Ufford, Glen R.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Uhl, Edwin J.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Van Anda, Carmi Housten",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Van Fossen, John R.",Male,0.0507071280934,-0.0775032906124724,1,0,0,0,0,0,0,agriculture
+"Van Vlack, Claud H.",Male,0.1764856607767363,0.0257258953556447,0,0,0,1,0,0,0,engineering
+"Veach, Claude",Male,0.1953749397335913,0.0412287387156481,1,0,0,0,0,0,0,agriculture
+"Vorhes, C. A.",Male,0.0829498812364163,-0.0510409596461525,1,0,0,0,0,0,0,agriculture
+"Walker, Dessie",Female,0.1919341552809654,0.0384048118454678,0,1,0,0,0,0,0,home economics
+"Walter, Elmer V.",Male,0.1185785046376215,-0.0217997710871267,1,0,0,0,0,0,0,agriculture
+"Warden, A. W.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Wallace, James J.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Watson, M. R.",Male,0.3231553103777382,0.1461008767736487,0,0,0,1,0,0,0,engineering
+"Watkins, Florence",Female,0.1741188154677743,0.0237833737715225,0,1,0,0,0,0,0,home economics
+"Wenholz, Alfred M.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Whitney, Verne E.",Male,0.1451402099776044,0.0,0,0,1,0,0,0,0,science
+"Whitson, Jay",Male,0.1196306580423103,-0.0209362458323597,1,0,0,0,0,0,0,agriculture
+"Whittemore, Osgood J.",Male,0.2020112139742313,0.046675273773003,0,0,0,1,0,0,0,engineering
+"Winchester, Harry B.",Male,0.1326276939251063,-0.0102692949182694,1,0,0,0,0,0,0,agriculture
+"Wingerson, Vera",Female,0.6682510419737304,0.4293284728803233,0,1,0,0,0,0,0,home economics
+"Wilcox, Fred A.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Wilkinson, H. E.",Male,0.1326276939251063,-0.0102692949182694,1,0,0,0,0,0,0,agriculture
+"Williams, Harold J.",Male,0.077752595142567,-0.0553064857360634,1,0,0,0,0,0,0,agriculture
+"Wilson, Ellanor",Female,0.6510913176512295,0.4152451127435919,0,1,0,0,0,0,0,home economics
+"Wilson, Eva Rose",Female,0.1584451447319717,0.0109196502356256,0,1,0,0,0,0,0,home economics
+"Wilson, Helen",Female,0.1168560450638325,-0.0232134312393952,0,1,0,0,0,0,0,home economics
+"Wilson, Ray S.",Male,0.1552172686708703,0.0082704619275352,0,0,0,1,0,0,0,engineering
+"Woodroffe, Clara",Female,0.7617183516435186,0.506039133165522,0,1,0,0,0,0,0,home economics
+"Woodworth, Robert M.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Woolley, John C.",Male,0.1211794400504122,-0.019665126647491,0,0,0,1,0,0,0,engineering
+"Wolf, Paul M.",Male,0.1602083999379402,0.0123667922532895,1,0,0,0,0,0,0,agriculture
+"Workman, Nora E.",Female,0.1451402099776044,0.0,0,1,0,0,0,0,0,home economics
+"Wyckoff, Marjorie May",Female,0.0583910412921252,-0.0711969354051727,0,1,0,0,0,0,0,home economics
+"Weise, Raymond J.",Male,0.0583910412921252,-0.0711969354051727,1,0,0,0,0,0,0,agriculture
+"Yungclas, James A.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Young, Ellsworth",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Young, Marie D.",Female,0.2733600043157289,0.1052327826708504,0,1,0,0,0,0,0,home economics
+"Benge, Berenice",Female,0.2028919412544692,0.0473981058673141,0,0,1,0,0,0,0,science
+"Dawson, Richard Ancil",Male,0.1281219959913578,-0.0139672195163412,0,0,0,1,0,0,0,engineering
+"Dunnigan, Lenora",Female,0.1451402099776044,0.0,0,1,0,0,0,0,0,home economics
+"Lovelace, H. Houston",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Myers, Bert",Male,0.1126578043599288,-0.0266590189809321,0,0,0,1,0,0,0,engineering
+"Nichols, Harry E.",Male,0.0269801599523907,-0.0969765310330321,1,0,0,0,0,0,0,agriculture
+"Pearson, Earnest E.",Male,0.1326276939251063,-0.0102692949182694,1,0,0,0,0,0,0,agriculture
+"Scurlock, Clarence P.",Male,0.0690905911364322,-0.0624155814086697,1,0,0,0,0,0,0,agriculture
+"Shivers, E. D.",Male,0.1156094799388597,-0.0242365144346107,1,0,0,0,0,0,0,agriculture
+"Stewart, Minnie H.",Female,0.3137110343076849,0.1383497533508284,0,1,0,0,0,0,0,home economics
+"Taake, Margaret",Female,0.0879118778310047,-0.0469685407817545,0,1,0,0,0,0,0,home economics
+"Waggoner, Charles J.",Male,0.0713625193876849,-0.0605509603246788,1,0,0,0,0,0,0,agriculture
+"Walker, Scott Allan",Male,0.1552172686708703,0.0082704619275352,1,0,0,0,0,0,0,agriculture
+"Zimmerman, John C.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Agne, Glen L.",Male,0.1281219959913578,-0.0139672195163412,1,0,0,0,0,0,0,agriculture
+"Amesbury, Henry Clyde",Male,0.101539687504072,-0.0357839000559722,0,0,0,1,0,0,0,engineering
+"Anderson, Arthur Lyman",Male,0.093677000735955,-0.0422369786320951,1,0,0,0,0,0,0,agriculture
+"Allen, Shirley Walter",Male,0.0816031071889303,-0.0521462864904002,1,0,0,0,0,0,0,agriculture
+"Archer, Dorothy Anna",Female,0.2850168176701132,0.1147997837153362,0,1,1,0,0,0,0,home economics
+"Baker, H. Ream",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Bakke, Arthur Laurence",Male,0.134899622176359,-0.0084046738342786,0,0,1,0,0,0,0,science
+"Beard, Vivian Dangerfield",Male,0.216476147771135,0.0585469605313182,0,0,0,1,0,0,0,engineering
+"Beaty, John",Male,0.1357035618642806,-0.0077448629923081,1,0,0,0,0,0,0,agriculture
+"Bek, Hugh E.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Belles, B. B.",Male,0.1043143004825499,-0.0335067146489367,0,0,0,1,0,0,0,engineering
+"Bernick, Fritz",Male,0.0918017844300518,-0.0437760095672061,0,0,0,1,0,0,0,engineering
+"Billedo, Mariano",Male,0.0331839365490985,-0.0918849562281446,1,0,0,0,0,0,0,agriculture
+"Black, Elmer E.",Male,0.2564619588759219,0.0913641881023702,0,0,0,0,0,0,1,veterinary
+"Boardman, Lois Knight",Female,0.1451402099776044,0.0,0,0,1,0,0,0,0,science
+"Bodwell, Ross Edward",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Booth, James Francis",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Boyd, Lee Robinson",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Broadie, Ray Wesley",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Burkhart, Roy F.",Male,0.2238410532558002,0.0645914991476828,0,0,0,1,0,0,0,engineering
+"Burris, John Arthur",Male,0.0871775479840364,-0.0475712213085299,0,0,0,1,0,0,0,engineering
+"Bush, Charles Randall",Male,0.1298530809466285,-0.012546480325305,1,0,0,0,0,0,0,agriculture
+"Bielenburg, Carl Frederick",Male,0.3129667797745673,0.1377389274175967,0,0,0,1,0,0,0,engineering
+"Campbell, Paul Caldwell",Male,0.1440462135130418,-0.0008978667669237,0,0,0,1,0,0,0,engineering
+"Carlisle, Campbell",Male,0.1968060183535007,0.0424032561618131,1,0,0,0,0,0,0,agriculture
+"Campbell, John Roy",Male,0.2756646335664118,0.1071242421785334,1,0,0,0,0,0,0,agriculture
+"Carlson, Walter Roy",Male,0.1709576607844697,0.0211889451538951,0,0,0,1,0,0,0,engineering
+"Carr, Elza B.",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Case, Harold Mortimer",Male,0.0234479027965977,-0.0998755315464233,1,0,0,0,0,0,0,agriculture
+"Chappel, Milford Edward",Male,0.1422793862191863,-0.0023479404750511,0,0,0,1,0,0,0,engineering
+"Clarke, Perry Benjamin",Male,0.1196306580423103,-0.0209362458323597,0,0,0,1,0,0,0,engineering
+"Clayton, Daniel W.",Male,0.1863196510721458,0.0337968657458723,0,0,0,1,0,0,0,engineering
+"Cockfield, Joseph Henry",Male,0.0560935552536362,-0.0730825323227599,0,0,0,1,0,0,0,engineering
+"Collins, Edgar V.",Male,0.1919341552809654,0.0384048118454678,1,0,0,0,0,0,0,agriculture
+"Cooper, Clifford William",Male,0.1259914196844664,-0.0157158299756243,0,0,0,1,0,0,0,engineering
+"Cowan, Lynn Freeman",Male,0.1444066135413631,-0.0006020786005904,0,0,0,1,0,0,0,engineering
+"Cox, Paul Ira Franklin",Male,0.0734361153211687,-0.0588491149010305,1,0,0,0,0,0,0,agriculture
+"Craig, Dan S.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Crawford, Mathew Oliver",Male,0.1709576607844697,0.0211889451538951,0,0,0,1,0,0,0,engineering
+"Crawford, Nate N.",Male,0.1451402099776044,0.0,0,0,0,0,0,0,1,veterinary
+"Crouse, Ralph Clinton",Male,0.1297668701666882,-0.0126172353933206,0,0,0,1,0,0,0,engineering
+"Cunningham, Albert Henry",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Darling, Eugene",Male,0.3740623892540571,0.1878814270814466,1,0,0,0,0,0,0,agriculture
+"Davis, Joseph Walter",Male,0.0318338503987459,-0.0929930013874772,1,0,0,0,0,0,0,agriculture
+"Davis, Harry Kimball",Male,0.1458190406064126,0.0005571311075675,0,0,0,1,0,0,0,engineering
+"Davis, Grace",Female,0.1451402099776044,0.0,0,0,1,0,0,0,0,science
+"Day, Georgia Elmira",Female,0.3504434801301931,0.1684968730538543,0,0,1,0,0,0,0,science
+"Dengler, Harold D.",Male,0.1798354817669342,0.0284751665275993,0,0,0,1,0,0,0,engineering
+"Dorman, Bertram Levere",Male,0.1415055149075708,-0.0029830735445652,0,0,0,1,0,0,0,engineering
+"Dyer, Ruth",Female,0.1453384597757589,0.0001627079346946,0,0,1,0,0,0,0,science
+"Dragoun, Frank",Male,0.1510796506961875,0.0048746285825168,0,0,0,1,0,0,0,engineering
+"Eby, Valentine Vincent",Male,0.1314875979051761,-0.0112049965960684,0,0,0,1,0,0,0,engineering
+"Edwards, Lyman Oscar",Male,0.0134137410763654,-0.1081107869922776,0,0,0,1,0,0,0,engineering
+"Ellis, W. V.",Male,0.1817725004596536,0.0300649200299546,0,0,0,0,0,0,1,veterinary
+"Ewers, Ruth Bradley May",Female,0.2813055508033479,0.1117538660265749,0,1,1,0,0,0,0,home economics
+"Farmer, George Eddy",Male,0.1335003059477133,-0.0095531231929521,0,0,1,0,0,0,0,science
+"Farnsworth, Fordyce Barker",Male,0.1094604134927452,-0.0292831874252582,0,0,0,1,0,0,0,engineering
+"Farnum, Eugenia Fae",Female,0.3091715981315069,0.1346241390411048,0,0,1,0,0,0,0,science
+"Forman, I. F. W.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"French, Franklin F.",Female,0.1882451548861085,0.0353771687360042,0,1,1,0,0,0,0,home economics
+"French, Leslie Roy",Male,0.1635851198395317,0.0151381399486965,0,0,0,1,0,0,0,engineering
+"Fuchs, Osboe C.",Male,0.1326276939251063,-0.0102692949182694,1,0,0,0,0,0,0,agriculture
+"Gamrath, Carl",Male,0.0629119191605514,-0.0674865523035201,0,0,0,0,0,0,1,veterinary
+"Garner, Della May",Female,0.0645848932026837,-0.0661135060067415,0,0,1,0,0,0,0,science
+"Gillette, Millie",Female,0.2737520357584908,0.1055545314291389,0,0,1,0,0,0,0,science
+"Gilmore, William Jones",Male,0.0650334056055206,-0.0657454020922362,0,0,0,1,0,0,0,engineering
+"Godfrey, George W.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Gordon, Bert Earl",Male,0.1440462135130418,-0.0008978667669237,0,0,0,1,0,0,0,engineering
+"Marshall, Louis Graham",Male,0.1453384597757589,0.0001627079346946,0,0,0,1,0,0,0,engineering
+"Gray, Roy B.",Male,0.1298530809466285,-0.012546480325305,0,0,0,1,0,0,0,engineering
+"Green, William M.",Male,0.1039175885372004,-0.0338323047978165,0,0,0,1,0,0,0,engineering
+"Gregory, Clifford Verne",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Griswold, Donald Thomas",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Hanssen, Daniel Webster",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Hall, Herman",Male,0.0879118778310047,-0.0469685407817545,0,0,0,1,0,0,0,engineering
+"Harris, Carl Elmore",Male,0.1143263784505612,-0.025289583820346,0,0,0,1,0,0,0,engineering
+"Haskin, Walter A.",Male,0.2898665130968669,0.1187800345611422,1,0,0,0,0,0,0,agriculture
+"Hauser, Bonner B.",Male,0.0318338503987459,-0.0929930013874772,0,0,0,1,0,0,0,engineering
+"Hawk, Fred Derward",Male,0.1490084966186478,0.0031747872433174,1,0,0,0,0,0,0,agriculture
+"Hazen, Hervey H.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Heath, Royce",Male,0.111852258287869,-0.0273201482174124,0,0,0,1,0,0,0,engineering
+"Heaton, Edward Bamford",Male,0.1856010246870066,0.033207073392833,1,0,0,0,0,0,0,agriculture
+"Hewitt, Cecil Melmott",Male,0.0724793845889765,-0.059634324686579,0,0,0,1,0,0,0,engineering
+"Hitchcock, Rex Brenner",Male,0.1540180309600689,0.0072862213737042,0,0,0,1,0,0,0,engineering
+"Hites, Lisle V.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Hopkins, Ella R.",Female,0.219247618086686,0.0608215666863241,0,1,1,0,0,0,0,home economics
+"Hopkins, Mary Francis",Female,0.4936761462127228,0.2860510471112655,0,1,0,0,0,0,0,home economics
+"Horton, Maud",Female,0.1196306580423103,-0.0209362458323597,0,1,1,0,0,0,0,home economics
+"Hubbard, Homer Colcord",Male,0.1415055149075708,-0.0029830735445652,0,0,0,1,0,0,0,engineering
+"Huffman, Oscar Lee",Male,0.0816031071889303,-0.0521462864904002,0,0,0,1,0,0,0,engineering
+"Humphrey, Mark T.",Male,0.1385322048392143,-0.0054233339883724,0,0,0,1,0,0,0,engineering
+"Hutchinson, L. Shelley",Male,0.05734340233404,-0.0720567555551175,0,0,0,1,0,0,0,engineering
+"Hutchison, Bryce",Male,0.171158719643728,0.0213539585463248,0,0,0,1,0,0,0,engineering
+"Hugg, John",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Ineson, Maurice Wood",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Iverson, Wood Cornelius",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Jepson, Magnus Soren",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Johnson, Oscar W.",Male,0.1656593776347922,0.0168405285767452,1,0,0,0,0,0,0,agriculture
+"Jones, Floyd Duren",Male,0.0831608531409053,-0.0508678104012224,0,0,0,1,0,0,0,engineering
+"Jones, Ralph Henry",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Jones, Gertrude",Female,0.4019827214543479,0.2107962528749047,0,1,0,0,0,0,0,home economics
+"Jongewaard, Neal",Male,0.030084600546548,-0.0944286489057374,0,0,0,0,0,0,1,veterinary
+"Kadel, Orpha Estella",Female,0.2892224516261127,0.1182514392601717,0,0,1,0,0,0,0,science
+"Kalb, Harry N.",Male,0.0665352970246325,-0.0645127670367951,0,0,0,1,0,0,0,engineering
+"Kelley, Earl Foster",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Keerr, Francis Lambert",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"King, Joe E.",Male,0.287764394236238,0.1170547797488821,0,0,0,1,0,0,0,engineering
+"King, Harry W.",Male,0.1709576607844697,0.0211889451538951,0,0,0,1,0,0,0,engineering
+"Kirkpatrick, John G.",Male,0.087921802517154,-0.0469603953752982,0,0,0,1,0,0,0,engineering
+"Kirkpatrick, Kemper Austin",Male,0.1423655969991266,-0.0022771854070355,1,0,0,0,0,0,0,agriculture
+"Knapp, Seaman A.",Male,0.0328982955325269,-0.0921193880424672,0,0,0,1,0,0,0,engineering
+"Knowles, Frank C.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Alexander, B. Knox",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Allen, I. Kulp",Male,0.1243647743403671,-0.0170508532991429,0,0,0,0,0,0,1,veterinary
+"Lambert, Guy Merton",Male,0.1582959687851015,0.0107972182813573,1,0,0,0,0,0,0,agriculture
+"Lambert, Everett Wesley",Male,0.0398589650008043,-0.0864066147442413,0,0,0,1,0,0,0,engineering
+"Lane, Eduardo F.",Male,0.1546458761672367,0.0078015076333482,0,0,0,0,0,0,1,veterinary
+"Lane, Wilfred G.",Male,0.2321469332752359,0.0714083160946083,0,0,0,1,0,0,0,engineering
+"Larson, Frank Walter",Male,0.1451402099776044,0.0,0,0,0,0,0,0,1,veterinary
+"Law, Frederick W.",Male,0.1043143004825499,-0.0335067146489367,0,0,0,0,0,0,1,veterinary
+"Leckliter, Walter Harlan",Male,0.0470958930220994,-0.0804671100242349,0,0,0,1,0,0,0,engineering
+"Lister, James A.",Male,0.1668204645013101,0.0177934579003101,0,0,0,1,0,0,0,engineering
+"Lockwood, Ray L.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Leibrock, Laroy I.",Male,0.1259671869189698,-0.0157357183349699,0,0,0,1,0,0,0,engineering
+"Lidvall, Edward R.",Male,0.1540180309600689,0.0072862213737042,0,0,0,1,0,0,0,engineering
+"Luick, Harold Frederick",Male,0.1423655969991266,-0.0022771854070355,1,0,0,0,0,0,0,agriculture
+"McCain, George Leverett",Male,0.0690905911364322,-0.0624155814086697,0,0,0,1,0,0,0,engineering
+"McCulla, Alma Bessie",Female,0.3085867742781396,0.1341441613451506,0,1,1,0,0,0,0,home economics
+"Thomas, E. Mccullough",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Ralph, Max Mcelhinney",Male,0.0816031071889303,-0.0521462864904002,1,0,0,0,0,0,0,agriculture
+"Harley, Boone Mcelyea",Male,0.1039175885372004,-0.0338323047978165,0,0,0,1,0,0,0,engineering
+"Jesse, M. Mckeene",Male,0.0938898383254604,-0.0420622981787671,0,0,1,0,0,0,0,science
+"Maine, Kenneth",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Manson, Frank Rodney",Male,0.1231500747106202,-0.0180477837871955,0,0,0,1,0,0,0,engineering
+"Martin, Helen",Female,0.2663359333383951,0.0994679743708685,0,1,1,0,0,0,0,home economics
+"Martin, Charles W.",Male,0.1809913587104848,0.0294238199537165,1,0,0,0,0,0,0,agriculture
+"Matter, Otto E.",Male,0.0115455715582478,-0.1096440344749085,0,0,0,1,0,0,0,engineering
+"Mason, Ralph Jay",Male,0.0690905911364322,-0.0624155814086697,1,0,0,0,0,0,0,agriculture
+"Maxwell, Mildred May",Female,0.4059689070589833,0.2140678023699232,0,1,1,0,0,0,0,home economics
+"Merrill, Jesse W.",Male,0.0979045451423142,-0.0387673407026144,1,0,0,0,0,0,0,agriculture
+"Miller, Robert Ballantine",Male,0.0724115922943757,-0.0596899633018279,0,0,0,1,0,0,0,engineering
+"Mills, George Arthur",Male,0.1584451447319717,0.0109196502356256,0,0,0,1,0,0,0,engineering
+"Milton, Ivan Leslie",Male,0.0466991810767499,-0.0807927001731148,0,0,0,1,0,0,0,engineering
+"Miner, Ward R.",Male,0.177290708582844,0.0263866156543871,1,0,0,0,0,0,0,agriculture
+"Minert, Jessie",Female,0.2731135595233963,0.1050305200529311,0,1,1,0,0,0,0,home economics
+"Mondonedo, Mariano Martinez",Male,0.0526056697803158,-0.0759451160282588,1,0,0,0,0,0,0,agriculture
+"Murphy, William Buckingham",Male,0.0918017844300518,-0.0437760095672061,1,0,0,0,0,0,0,agriculture
+"Naiden, Fred Sauks",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Nazarene, Elton G.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Nelson, Lawrence A.",Male,0.1141241865391217,-0.0254555271334215,1,0,0,0,0,0,0,agriculture
+"Nichols, Charles S.",Male,0.1043143004825499,-0.0335067146489367,0,0,0,1,0,0,0,engineering
+"Okey, Charles William",Male,0.1709576607844697,0.0211889451538951,0,0,0,1,0,0,0,engineering
+"Orcutt, Louis E.",Male,0.1248334681397377,-0.0166661860721914,0,0,0,1,0,0,0,engineering
+"Orr, Harry O.",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Paine, Frank D.",Male,0.0318293359521423,-0.0929967064922995,0,0,0,1,0,0,0,engineering
+"Patterson, George William",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Patterson, Howard Fraser",Male,0.11372932863787,-0.0257795956278594,1,0,0,0,0,0,0,agriculture
+"Paulsen, Fred",Male,0.0254570727440387,-0.0982265619351454,0,0,0,1,0,0,0,engineering
+"Pechstein, John Henry",Male,0.1068134246279087,-0.0314556289377672,0,0,0,1,0,0,0,engineering
+"Platt, Seymour Guy",Male,0.323708097224523,0.1465545609993277,1,0,0,0,0,0,0,agriculture
+"Quaife, Arthur Edward",Male,0.1143913591758158,-0.0252362527214014,1,0,0,0,0,0,0,agriculture
+"Reppert, Philip L.",Male,-0.049606666061637,-0.1598330100890749,0,0,0,1,0,0,0,engineering
+"Rhine, Ernest Burr",Male,0.1332425953228316,-0.0097646319254386,0,0,0,1,0,0,0,engineering
+"Rhoades, William Julius",Male,0.1116167461973379,-0.027513438128437,1,0,0,0,0,0,0,agriculture
+"Riedesel, R. C.",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Rightmire, John",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Rowat, J. Frederick",Male,0.1935038747629829,0.039693114871986,0,0,0,1,0,0,0,engineering
+"Ruppel, Albert Cleland",Male,0.2834337964288768,0.1135005636448137,1,0,0,0,0,0,0,agriculture
+"Russell, Harry Monroe",Male,0.1388106377006386,-0.0051948180642443,1,0,0,0,0,0,0,agriculture
+"Rutledge, Irving Coffin",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Sanders, Gilbert",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Schaeffer, Lloyd Lawrence",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Schenk, Ernest Eugene",Male,0.1709576607844697,0.0211889451538951,0,0,0,1,0,0,0,engineering
+"Schjedahl, Theodore",Male,0.1297668701666882,-0.0126172353933206,0,0,0,1,0,0,0,engineering
+"Schlick, William Jophia",Male,0.1313162880006053,-0.0113455943723331,0,0,0,1,0,0,0,engineering
+"Schmidt, Will",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Schreiber, Fred",Male,0.1656593776347922,0.0168405285767452,0,0,0,1,0,0,0,engineering
+"Schulte, Louise",Female,0.386695592423372,0.1982497725495997,0,1,1,0,0,0,0,home economics
+"Schworm, Fred G.",Male,0.2536548914966482,0.0890603666605219,0,0,0,1,0,0,0,engineering
+"Sexauer, Theodore",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Sexsmith, Perle A.",Male,0.0470859683359501,-0.0804752554306912,0,0,0,1,0,0,0,engineering
+"Shannon, J. Lionel",Male,0.2346982859086263,0.0735022668654095,0,0,0,0,0,0,1,veterinary
+"Shannon, Cecil Wesley",Male,0.0633833454595306,-0.067099642454523,0,0,0,1,0,0,0,engineering
+"Shoales, Johnston William",Male,0.178931171327277,0.0277329792198231,1,0,0,0,0,0,0,agriculture
+"Leslie, E. Smith",Male,0.1451402099776044,0.0,0,0,0,0,0,0,1,veterinary
+"Wilbur, Smith",Male,0.1326276939251063,-0.0102692949182694,0,0,0,0,0,0,1,veterinary
+"Roy, Eugene Smith",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Harold, Chester Smith",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Smith, Roy R.",Male,0.0354190396358894,-0.0900505583600669,0,0,0,1,0,0,0,engineering
+"Snyder, Carl J.",Male,0.2281453395613541,0.0681241208281623,0,0,0,1,0,0,0,engineering
+"Sonner, Gussie",Female,0.1043143004825499,-0.0335067146489367,0,0,1,0,0,0,0,science
+"Stafford, Harris Adelbert",Male,0.1326276939251063,-0.0102692949182694,1,0,0,0,0,0,0,agriculture
+"Stewart, Everett L.",Male,0.1281219959913578,-0.0139672195163412,1,0,0,0,0,0,0,agriculture
+"Stong, Grover C.",Male,-0.028726760811904,-0.1426964162996729,0,0,0,0,0,0,1,veterinary
+"Street, Alfred B.",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Strother, Ralph Rollen",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Summers, John F.",Male,0.2238840136904966,0.0646267577137349,1,0,0,0,0,0,0,agriculture
+"Troutner, Edith",Female,0.1357035618642806,-0.0077448629923081,0,0,1,0,0,0,0,science
+"Tusant, W. Edgar",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Underwood, Jean R.",Male,0.1231910458117825,-0.0180141579105776,0,0,0,0,0,0,1,veterinary
+"Upton, Louisa",Female,0.1196306580423103,-0.0209362458323597,0,0,1,0,0,0,0,science
+"Van De Waa, Henry John",Male,-0.015630348567958,-0.1319479050378259,0,0,0,0,0,0,1,veterinary
+"Van Duzer, Pearl",Female,0.2636858817218694,0.0972930191912261,0,1,1,0,0,0,0,home economics
+"Van De Steeg, Gerritt J.",Male,0.1297077167355762,-0.0126657839048244,0,0,0,1,0,0,0,engineering
+"Velander, Verner R.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Vincent, Frank C.",Male,0.2689744749284199,0.1016334830206396,0,0,0,1,0,0,0,engineering
+"Wagner, Herbert W.",Male,0.1427047526183722,-0.0019988329907342,0,0,0,1,0,0,0,engineering
+"Wambeam, Harry I.",Male,0.1043143004825499,-0.0335067146489367,0,0,0,1,0,0,0,engineering
+"Ware, Stephen H.",Male,0.1156094799388597,-0.0242365144346107,0,0,0,1,0,0,0,engineering
+"Warsaw, Charles E.",Male,0.1298530809466285,-0.012546480325305,0,0,0,1,0,0,0,engineering
+"Watts, Ruth Rachel",Female,0.1903794252019711,0.0371288109490446,0,1,1,0,0,0,0,home economics
+"Waugh, Erick Nicoli",Male,0.1026124440560637,-0.0349034653487009,1,0,0,0,0,0,0,agriculture
+"Wells, Walter T.",Male,0.1423655969991266,-0.0022771854070355,0,0,0,1,0,0,0,engineering
+"Weirick, Ray Floyd",Male,0.1312564987436781,-0.0113946647199558,0,0,0,1,0,0,0,engineering
+"Whalen, William T.",Male,0.1673229657144362,0.0182058716093298,0,0,0,1,0,0,0,engineering
+"White, Raymond E.",Male,0.5314242538138267,0.3170317425953614,0,0,0,1,0,0,0,engineering
+"White, Paul Homer",Male,0.3975227345443526,0.2071358443113354,0,0,0,1,0,0,0,engineering
+"Williams, Chester M.",Male,0.0976814938764884,-0.0389504037429373,0,0,0,1,0,0,0,engineering
+"Williams, Lawrence A.",Male,0.0523714810533024,-0.0761373198259718,0,0,0,1,0,0,0,engineering
+"Willets, Thomas K.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Winslow, L. Melvin",Male,0.0900999280035656,-0.0451727602669704,1,0,0,0,0,0,0,agriculture
+"Witmer, Stewart",Male,0.0507547540634953,-0.0774642029397274,0,0,0,1,0,0,0,engineering
+"Young, Clifton Richard",Male,0.0788284942104524,-0.0544234718974358,1,0,0,0,0,0,0,agriculture
+"Zornig, Heman H.",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Bacchus, James Edward",Male,0.0393472011852416,-0.0868266304731692,1,0,0,0,0,0,0,agriculture
+"Earle, P. Brintnall",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Buckman, Harry O.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Foster, Campbell",Male,0.0573520486810628,-0.0720496593094727,1,0,0,0,0,0,0,agriculture
+"Roy Albert, Cave",Male,0.1812815889448587,0.0296620182392155,1,0,0,0,0,0,0,agriculture
+"Chalupnik, John Charles",Male,0.1326276939251063,-0.0102692949182694,1,0,0,0,0,0,0,agriculture
+"Crossley, Bruce William",Male,0.153473223451234,0.0068390859647713,1,0,0,0,0,0,0,agriculture
+"Crouse, Ralph Waldo",Male,0.1223871061238609,-0.018673968752548,1,0,0,0,0,0,0,agriculture
+"Cutler, Francis Gage",Male,0.6208713135165997,0.3904428960201314,1,0,0,0,0,0,0,agriculture
+"Eastman, William Raymond",Male,0.1607170729832243,0.0127842713196165,1,0,0,0,0,0,0,agriculture
+"Farnum, Roswell Abner",Male,0.1385039357369644,-0.0054465350573548,1,0,0,0,0,0,0,agriculture
+"Fish, Don Ellsworth",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Samuel, A. Fry",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Heisey, Charles Jesse",Male,0.1043143004825499,-0.0335067146489367,1,0,0,0,0,0,0,agriculture
+"Humbert, Eugene Peter",Male,0.1326276939251063,-0.0102692949182694,1,0,0,0,0,0,0,agriculture
+"Hutchins, Irving W.",Male,0.0888685808963312,-0.0461833537030063,1,0,0,0,0,0,0,agriculture
+"Ingels, James Frederick",Male,0.1437774431588235,-0.0011184524605743,1,0,0,0,0,0,0,agriculture
+"Jeffs, Royal Edgar",Male,0.0543566084413495,-0.0745080824677412,1,0,0,0,0,0,0,agriculture
+"Carl, Jenkins",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Lewis, Eldon Kelsey",Male,0.2833541473246417,0.1134351938872098,1,0,0,0,0,0,0,agriculture
+"Kohler, Alfred R.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Clark, Wilson Lawrence",Male,0.0755628431399191,-0.0571036629799298,1,0,0,0,0,0,0,agriculture
+"Lundeen, Leonard Henry",Male,0.0790681475060517,-0.0542267832090601,1,0,0,0,0,0,0,agriculture
+"Madson, Ben Adolph",Male,0.1156094799388597,-0.0242365144346107,1,0,0,0,0,0,0,agriculture
+"Frank, Meiser",Male,0.0583910412921252,-0.0711969354051727,1,0,0,0,0,0,0,agriculture
+"Norman, Alvah J.",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Pechstein, Paul Theodore",Male,0.1422793862191863,-0.0023479404750511,1,0,0,0,0,0,0,agriculture
+"Powell, Archie Lee",Male,0.1319472642096517,-0.0108277384311361,1,0,0,0,0,0,0,agriculture
+"Rieke, Fred C.",Male,0.1540180309600689,0.0072862213737042,1,0,0,0,0,0,0,agriculture
+"Roberts, George Arthur",Male,0.098258873140999,-0.0384765359834814,1,0,0,0,0,0,0,agriculture
+"Schiele, Arthur Fred",Male,0.0764816594802148,-0.0563495703630147,1,0,0,0,0,0,0,agriculture
+"Smith, William Howard",Male,0.1326276939251063,-0.0102692949182694,1,0,0,0,0,0,0,agriculture
+"Leroy, Stuart",Male,0.1640417567745084,0.0155129118439872,1,0,0,0,0,0,0,agriculture
+"Thompson, Theodore",Male,0.1451402099776044,0.0,1,0,0,0,0,0,0,agriculture
+"Troeger, Leslie E.",Male,0.0813400757573045,-0.0523621621250693,1,0,0,0,0,0,0,agriculture
+"Trostel, George William",Male,0.4120597801476138,0.21906671480244,1,0,0,0,0,0,0,agriculture
+"Anderson, John L.",Male,0.1281219959913578,-0.0139672195163412,0,0,0,1,0,0,0,engineering
+"Austin, Harry Chester",Male,0.1276557726443687,-0.0143498591891237,0,0,0,1,0,0,0,engineering
+"Babbitt, Henry Keepers",Male,0.1281219959913578,-0.0139672195163412,0,0,0,1,0,0,0,engineering
+"Baker, Ralph Lee",Male,0.194046108521641,0.0401381379479956,0,0,0,1,0,0,0,engineering
+"Bechtleheimer, Albert Elvin",Male,0.1584451447319717,0.0109196502356256,0,0,0,1,0,0,0,engineering
+"Beisell, William Dee",Male,0.0718230959723437,-0.0601729550729399,0,0,0,1,0,0,0,engineering
+"Boyd, George Ray",Male,-0.0198306025457663,-0.1353951451171812,0,0,0,1,0,0,0,engineering
+"Bridges, Earl Franklin",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Brown, Frank Ferdinand Emil",Male,0.0988663224535465,-0.0379779890795431,0,0,0,1,0,0,0,engineering
+"Campbell, Guy Randolph",Male,0.3356678264302363,0.1563701716919182,0,0,0,1,0,0,0,engineering
+"Chiles, George Scott",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Clements, Carl William",Male,0.1043143004825499,-0.0335067146489367,0,0,0,1,0,0,0,engineering
+"Coates, E.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Cogswell, Don Harry",Male,0.1043143004825499,-0.0335067146489367,0,0,0,1,0,0,0,engineering
+Walter Belt Cole,Male,0.087921802517154,-0.0469603953752982,0,0,0,1,0,0,0,engineering
+"Cotton, Harry Edmond",Male,0.3821815670351488,0.1945450134279548,0,0,0,1,0,0,0,engineering
+"William, Drennan Elwood",Male,0.2137639945625343,0.0563210372201476,0,0,0,1,0,0,0,engineering
+"Morris, Irwin Evinger",Male,0.1666554851862037,0.0176580557769375,0,0,0,1,0,0,0,engineering
+"Ford, Clarence Henry",Male,0.1919341552809654,0.0384048118454678,0,0,0,1,0,0,0,engineering
+"Foster, Walter Louis",Male,0.1223871061238609,-0.018673968752548,0,0,0,1,0,0,0,engineering
+"Fulton, Wilbur Leigh",Male,0.1043143004825499,-0.0335067146489367,0,0,0,1,0,0,0,engineering
+"Furrow, Harry Leslie",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Furrow, Ray Archie",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Gould, Harley Joseph",Male,0.0435810392011381,-0.0833518272410294,0,0,0,1,0,0,0,engineering
+"Goulden, Robert Sheridan",Male,0.1005046539858342,-0.0366333746464129,0,0,0,1,0,0,0,engineering
+"Gray, Harry Woy",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Guibert, Oscar Eugene",Male,0.3213078279163126,0.1445846076097884,0,0,0,1,0,0,0,engineering
+"Hansen, Harry B.",Male,0.1919341552809654,0.0384048118454678,0,0,0,1,0,0,0,engineering
+"Henry, M. Hanssen",Male,0.1198289078404648,-0.020773537897665,0,0,0,1,0,0,0,engineering
+"Harris, Ernest Nye",Male,0.1281219959913578,-0.0139672195163412,0,0,0,1,0,0,0,engineering
+"Heberling, Clyde Andrew",Male,0.0690905911364322,-0.0624155814086697,0,0,0,1,0,0,0,engineering
+"Hidinger, Leroy Lemayne",Male,0.2028919412544692,0.0473981058673141,0,0,0,1,0,0,0,engineering
+"Lynn, S. Ickis",Male,0.4435545075530179,0.2449151247257205,0,0,0,1,0,0,0,engineering
+"Johnston, John William",Male,0.1564032800657541,0.0092438473553251,0,0,0,1,0,0,0,engineering
+Frank Arthur Johnson,Male,0.202747564668183,0.0472796128529879,0,0,0,1,0,0,0,engineering
+"Jory, Edwin Nicholas",Male,0.1101618617242377,-0.0287074935577042,0,0,0,1,0,0,0,engineering
+"Guy, R. Kenny",Male,0.1640417567745084,0.0155129118439872,0,0,0,1,0,0,0,engineering
+"Kimball, George W.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"King, Matthew Leander",Male,0.133941723604778,-0.009190842091093,0,0,0,1,0,0,0,engineering
+"Knox, Walter Henry",Male,0.1185785046376215,-0.0217997710871267,0,0,0,1,0,0,0,engineering
+"Le Fever, Orlando Leslie",Male,0.1584451447319717,0.0109196502356256,0,0,0,1,0,0,0,engineering
+"Lathrop, Herbert Austin",Male,0.0342386212097359,-0.0910193535163944,0,0,0,1,0,0,0,engineering
+"Lungren, Oscar Edwin",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Lyman, Ray A.",Male,0.147381756719429,0.0018396863163493,0,0,0,1,0,0,0,engineering
+"Mabie, Ira Peter",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"Marsden, William Archie",Male,0.1043143004825499,-0.0335067146489367,0,0,0,1,0,0,0,engineering
+"Dickson, Wayne Maxwell",Male,0.3310701341328355,0.152596745312494,0,0,0,1,0,0,0,engineering
+"McConnell, Earl Knox",Male,0.0652400790900689,-0.0655757806543329,0,0,0,1,0,0,0,engineering
+"McCormick, Charles Mechlin",Male,0.1326276939251063,-0.0102692949182694,0,0,0,1,0,0,0,engineering
+"McCune, Herbert Austin",Male,0.0816031071889303,-0.0521462864904002,0,0,0,1,0,0,0,engineering
+"McEwen, George Francis",Male,0.1130748773635988,-0.0263167180672576,0,0,0,1,0,0,0,engineering
+"McGregor, Andrew H.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"McPherson, Robert W.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Miller, Harry Maynard",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Miller, Paul Bertolet",Male,0.2862839173767619,0.11583972008975,0,0,0,1,0,0,0,engineering
+"McHenry, Mosier",Male,0.0978762760400644,-0.0387905417715969,0,0,0,1,0,0,0,engineering
+"Fredrick, Bixby Money",Male,0.3696690509826508,0.1842757185096854,0,0,0,1,0,0,0,engineering
+"Moore, Harry Irvin",Male,0.1615210126711459,0.0134440821615869,0,0,0,1,0,0,0,engineering
+"Nelson, Maximilian",Male,0.1345110267357637,-0.0087236025906234,0,0,0,1,0,0,0,engineering
+"Nye, Henry Vinton",Male,0.1810347194777356,0.0294594070814303,0,0,0,1,0,0,0,engineering
+"Ogden, Karl Randall",Male,0.1126578043599288,-0.0266590189809321,0,0,0,1,0,0,0,engineering
+"Palmer, Ray R.",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Patch, James William",Male,0.1129098078842131,-0.0264521941904215,0,0,0,1,0,0,0,engineering
+"Peterson, Carl August",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Albert, Max",Male,0.1006361998222257,-0.0365254121084624,0,0,0,1,0,0,0,engineering
+"Plitt, John Henry",Male,0.1281219959913578,-0.0139672195163412,0,0,0,1,0,0,0,engineering
+"Reuling, Walter Edward",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Rowat, Frank Thomas",Male,0.3504434801301931,0.1684968730538543,0,0,0,1,0,0,0,engineering
+"Rubel, Walter Guy",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Agnew, Edward Sayre",Male,0.5717098434885288,0.3500950049792137,0,0,0,1,0,0,0,engineering
+"Secor, Ernest Louis",Male,0.2073045284834694,0.05101961247854,0,0,0,1,0,0,0,engineering
+"Sloane, Fred M.",Male,0.1281219959913578,-0.0139672195163412,0,0,0,1,0,0,0,engineering
+"Stewart, George Harold",Male,0.1196306580423103,-0.0209362458323597,0,0,0,1,0,0,0,engineering
+"Throckmorton, Charley Gross",Male,0.1947697387792868,0.0407320370883739,0,0,0,1,0,0,0,engineering
+"Tinsley, George Warren",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Tracy, Paul Britten",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Carroll, Ingraham Warren",Male,0.0736532620622144,-0.0586708978330177,0,0,0,1,0,0,0,engineering
+"Way, Leo Carl",Male,0.1719642657157879,0.0220150877828051,0,0,0,1,0,0,0,engineering
+"Weise, Alfred Miles",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Wichmann, John",Male,0.0603846392248753,-0.0695607460860968,0,0,0,1,0,0,0,engineering
+"Wilkinson, Laurence John",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Williams, Thomas Rice",Male,0.1552172686708703,0.0082704619275352,0,0,0,1,0,0,0,engineering
+"Wilson, Lawrence Wayne",Male,0.1451402099776044,0.0,0,0,0,1,0,0,0,engineering
+"Wright, Lucian George",Male,0.1315985948139091,-0.0111138990113769,0,0,0,1,0,0,0,engineering
+"Wyman, Arthur Hatch",Male,0.1281219959913578,-0.0139672195163412,0,0,0,1,0,0,0,engineering
+"Fedson, Jennie Christene",Female,0.7050789517792664,0.459553941957022,0,1,1,0,0,0,0,home economics
+"Flynn, Melissa Genevieve",Female,0.8536035788290853,0.5814513438385617,0,0,1,0,0,0,0,science
+"Fraseur, Edith Alberta",Female,0.4307340084228992,0.2343930613761737,0,1,1,0,0,0,0,home economics
+"George, Mary Edith",Female,0.1227975183345737,-0.0183371344969767,0,1,1,0,0,0,0,home economics
+"Floy, Ethel Greer",Female,0.1974788263934522,0.0429554443993072,0,1,1,0,0,0,0,home economics
+"Guthrie, George Boardman",Male,0.1061709813622229,-0.0319828961425326,0,0,1,0,0,0,0,science
+"Jackson, Mae Lydia",Female,0.2203006305749866,0.0616857970097546,0,0,1,0,0,0,0,science
+"Johnson, Olla Victoria",Female,0.4159876490960759,0.2222904025454033,0,1,1,0,0,0,0,home economics
+"Melhus, Irving Ener",Male,0.1451402099776044,0.0,0,0,1,0,0,0,0,science
+"Shaw, Genevieve Welch",Female,0.1451402099776044,0.0,0,1,1,0,0,0,0,home economics
+"Shaw, Winifred Anna",Female,0.3840314912156148,0.1960632865639042,0,1,1,0,0,0,0,home economics
+"Walker, Ruth",Female,1.125496775653594,0.8046000225493095,0,1,0,0,0,0,0,home economics
+"Williams, Loretta Florence",Female,0.3823348188926148,0.1946707905709761,0,1,1,0,0,0,0,home economics
+"Wilson, Mary Mitchell",Female,0.1043143004825499,-0.0335067146489367,0,0,1,0,0,0,0,science
+"Cole, Clarence G.",Male,0.122924455584699,-0.0182329543263234,0,0,0,0,0,0,1,veterinary
+"Collison, Frederick Paul",Male,0.1326276939251063,-0.0102692949182694,0,0,0,0,0,0,1,veterinary
+"Johnson, James Peter",Male,0.0889941755327129,-0.0460802754447452,0,0,0,0,0,0,1,veterinary
+"Ray, Jolls",Male,0.077934456862762,-0.0551572278544998,0,0,0,0,0,0,1,veterinary
+"Washburn, Leo",Male,0.1026124440560637,-0.0349034653487009,0,0,0,0,0,0,1,veterinary
