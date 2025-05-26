@@ -21,9 +21,9 @@ CUSTOM_CATEGORIES = []
 
 for key, value in framework.items():
     CUSTOM_CATEGORIES.extend(value)
-father = 'Appearance'  # 选择的父类
+father = 'Activities_Engagement'  # 选择的父类
 CUSTOM_CATEGORIES = dimension_all[0][father]
-SAVE_PATH = 'output_/output_dpsk/deepseek_final.csv'
+SAVE_PATH = 'output_/output_sentiment_tfidf/tfidf.csv'
 
 df = pd.read_csv(SAVE_PATH, index_col=0)
 
@@ -42,7 +42,7 @@ def plot_bar(df_grouped, title):
     plt.ylabel('TF-IDF Weighted Sum')
     plt.xticks(rotation=0)
     plt.tight_layout()
-    plt.savefig(f'output_/output_dpsk/{father}_dpsk.png', dpi=300, bbox_inches='tight')
+    plt.savefig(f'output_/output_sentiment_tfidf/{father}_tfidf.png', dpi=300, bbox_inches='tight')
 
 plot_bar(gender_summary, father)
 
