@@ -60,13 +60,14 @@ output_df = pd.DataFrame({
 
 
 median_pred = np.median(y_pred)
+bar_pred = np.quantile(y_pred, 0.169)
 range_pred = np.max(y_pred) - np.min(y_pred)
 
 # 避免除以0的情况
 if range_pred == 0:
     standardized_pred = np.zeros_like(y_pred)
 else:
-    standardized_pred = (y_pred - median_pred) / range_pred
+    standardized_pred = (y_pred - bar_pred) / range_pred
 
 # 更新输出 DataFrame
 output_df['standardized_pred'] = standardized_pred
@@ -130,27 +131,18 @@ male_vals = pivot_df.loc[sorted_majors, 'Male']
 male_se = pivot_se.loc[sorted_majors, 'Male']
 male_n = pivot_count.loc[sorted_majors, 'Male']
 
-bars2 = ax.bar(x+0.5, -male_vals, width=width, color='skyblue', label='Male',
+bars2 = ax.bar(x+0.2, -male_vals, width=width, color='skyblue', label='Male',
                yerr=male_se, capsize=5)
 
-# 添加样本数标注
-for i in range(len(x)):
-    # 女生柱子上方
-    ax.text(x[i]+0.2, female_vals[i], f"n={int(female_n[i])}",
-            ha='center', va='bottom', fontsize=8)
-    
-    # 男生柱子下方
-    ax.text(x[i]+0.2, -male_vals[i], f"n={int(male_n[i])}",
-            ha='center', va='top', fontsize=8)
 
 # 图表样式
 ax.axhline(0, color='black', linewidth=0.8)
 ax.set_xticks(x)
 ax.set_xticklabels(sorted_majors, rotation=45, ha='right')
-ax.set_ylabel("Standardized Prediction (z-score)")
+ax.set_ylabel("Standardized Prediction")
 ax.set_title("Standardized Lasso Gender Prediction by Major and Gender")
 ax.legend()
 plt.tight_layout()
-plt.savefig("output_/output_bleemer/genderness in majors-median.png")
+plt.savefig("output_/output_bleemer/genderness in majors-quantile-huh.png")
 plt.show()
-output_df.to_csv("output_/output_bleemer/genderness_in_majors-median.csv", index=False)
+output_df.to_csv("output_/output_bleemer/genderness_in_majors-quantile-huh.csv", index=False)

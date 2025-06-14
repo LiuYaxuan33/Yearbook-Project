@@ -1,13 +1,7 @@
 
-from empath import Empath
 import pandas as pd
 import json
-import numpy as np
 import matplotlib.pyplot as plt
-from sklearn.feature_extraction.text import TfidfVectorizer
-import os
-import statsmodels.api as sm
-import statsmodels.formula.api as smf
 
 # —— 可切换：是否使用所有 Empath 类别 ——
 USE_ALL_CATEGORIES = False  # True: 全量类别, False: 自定义子集
@@ -21,9 +15,9 @@ CUSTOM_CATEGORIES = []
 
 for key, value in framework.items():
     CUSTOM_CATEGORIES.extend(value)
-father = 'Activities_Engagement'  # 选择的父类
+father = 'Ability_and_Competence'  # 选择的父类
 CUSTOM_CATEGORIES = dimension_all[0][father]
-SAVE_PATH = 'output_/output_sentiment_tfidf/tfidf.csv'
+SAVE_PATH = 'output_/output_dpsk/deepseek_final.csv'
 
 df = pd.read_csv(SAVE_PATH, index_col=0)
 
@@ -38,11 +32,11 @@ def plot_bar(df_grouped, title):
         kind='bar', figsize=(12,6),
         title=title, fontsize=12
     )
-    plt.legend(fontsize=18)
+    plt.legend(fontsize=12)
     plt.ylabel('TF-IDF Weighted Sum')
     plt.xticks(rotation=0)
     plt.tight_layout()
-    plt.savefig(f'output_/output_sentiment_tfidf/{father}_tfidf.png', dpi=300, bbox_inches='tight')
+    plt.savefig(f'output_/output_dpsk/{father}_dpsk.png', dpi=300, bbox_inches='tight')
 
 plot_bar(gender_summary, father)
 
